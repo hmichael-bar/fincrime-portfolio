@@ -1,0 +1,45 @@
+Screened 40 customers against 41,396 names (threshold 85)
+
+ID     Customer                           Disposition                  Score  Best match
+C001   Moammar Abu Minyar El-Gaddafi      True Match                     100  QADHAFI, Muammar
+C002   Usama bin Muhammad bin Laden       True Match                      95  BIN LADIN, Usama bin Muhammad bin Awad
+C003   Bashar Hafez al-Assad              True Match                     100  AL-ASSAD, Bashar
+C004   Sayyed Hassan Nasrullah            True Match                     100  NASRALLAH, Hasan
+C005   Qassem Suleimani                   True Match                      97  SOLEIMANI, Qasem
+C006   Saif el-Islam Gadhafi              True Match                     100  QADHAFI, Saif al-Islam
+C007   Rami Makhlouf                      True Match                     100  MAKHLUF, Rami
+C008   Ali Abdallah Salih                 True Match                     100  SALEH, Ali Abdullah
+C009   Mousa Mohamed Abu Marzouk          True Match                      97  ABU MARZOOK, Mousa Mohammed
+C010   معمر القذافي                       True Match                     100  QADHAFI, Muammar
+C011   أسامة بن لادن                      Potential Match - escalate     100  BIN LADIN, Usama bin Muhammad bin Awad
+C012   Bank Melli Iran                    True Match                     100  BANK MELLI IRAN
+C013   Al-Qard Al-Hasan Association       True Match                     100  AL-QARD AL-HASSAN ASSOCIATION
+C014   Oleg V. Deripaska                  True Match                      95  DERIPASKA, Oleg Vladimirovich
+C015   Levant Horizon Trading FZE         Potential Match - escalate       -  
+C016   Mahan Air Co                       True Match                     100  MAHAN AIR
+C017   Sheikh Mohamed Ali Hassan          False Positive                  96  AL-WARDIAN, Hassan
+C018   Ahmed Hussein                      Potential Match - escalate      95  AL-KHODAIR, Ahmad Hussein
+C019   Ali Hassan                         False Positive                 100  FADHIL, Mustafa Mohamed
+C020   Youssef Ibrahim                    False Positive                  97  EBRAHIMI, Yousef
+C021   Fatima al-Assad                    No Match                         -  
+C022   Omar Abdel Rahman                  False Positive                 100  AL RAHMAN, Shaykh Umar Abd
+C023   Khalid Mahmoud                     Potential Match - escalate     100  KHAN, Mustafa Hajji Muhammad
+C024   Youssef Nasrallah                  No Match                         -  
+C025   Sara Soleimani                     No Match                         -  
+C026   Hassan Ali Khan                    False Positive                  95  FADHIL, Mustafa Mohamed
+C027   Abdullah Yasin                     No Match                         -  
+C028   Ibrahim Awad                       Potential Match - escalate      92  AL-FAY, Ibrahim Ali 'Awad
+C029   Muhammad Qasim                     False Positive                 100  QASIM, Mohammed
+C030   Hannibal Gaddafi Restaurant LLC    Potential Match - escalate      95  GADDAFI, Hannibal
+C031   Emily Carter                       No Match                         -  
+C032   Daniel Okafor                      No Match                         -  
+C033   Priya Raman                        No Match                         -  
+C034   Lucas Moreau                       No Match                         -  
+C035   Layla Mansour                      No Match                         -  
+C036   Tariq Benali                       No Match                         -  
+C037   Hana Kobayashi                     No Match                         -  
+C038   Grace Mensah                       No Match                         -  
+C039   Blue Harbor Coffee Roasters LLC    No Match                         -  
+C040   Nile Valley Imports Inc            No Match                         -  
+
+Wrote output/screening_results.csv, output/screening_results.json, output/screening_report.md

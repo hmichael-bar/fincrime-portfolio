@@ -1,0 +1,41 @@
+customer_id,name,type,dob,nationality,owners,expected,scenario
+C001,Moammar Abu Minyar El-Gaddafi,individual,1942,Libya,,sdn,Listed person - spelling variant (Gaddafi vs QADHAFI) plus extra name parts
+C002,Usama bin Muhammad bin Laden,individual,1957-07-30,Saudi Arabia,,sdn,Listed person - Laden vs LADIN and bin particles
+C003,Bashar Hafez al-Assad,individual,1965-09-11,Syria,,sdn,Listed person - extra patronymic not on list
+C004,Sayyed Hassan Nasrullah,individual,1960-08-31,Lebanon,,sdn,Listed person - honorific + Hassan/Hasan + Nasrullah/Nasrallah
+C005,Qassem Suleimani,individual,1957-03-11,Iran,,sdn,Listed person - Qassem/Qasem and Suleimani/Soleimani
+C006,Saif el-Islam Gadhafi,individual,1972-06-25,Libya,,sdn,Listed person - compound first name + el- article
+C007,Rami Makhlouf,individual,1969-07-10,Syria,,sdn,Listed person - Makhlouf vs MAKHLUF
+C008,Ali Abdallah Salih,individual,1945-03-21,Yemen,,sdn,Listed person - Abdallah/Abdullah and Salih/Saleh
+C009,Mousa Mohamed Abu Marzouk,individual,1951-02-09,,,sdn,Listed person - four transliteration differences
+C010,معمر القذافي,individual,1942,Libya,,sdn,Listed person - name supplied in Arabic script
+C011,أسامة بن لادن,individual,,,,sdn,Listed person - Arabic script and no DOB on file
+C012,Bank Melli Iran,entity,,Iran,,sdn,Listed entity - exact name
+C013,Al-Qard Al-Hasan Association,entity,,Lebanon,,sdn,Listed entity - Hasan vs HASSAN
+C014,Oleg V. Deripaska,individual,1968-01-02,Russia,,sdn,Listed person - middle initial only
+C015,Levant Horizon Trading FZE,entity,,United Arab Emirates,Rami Makhluf|35;Iyad Makhlouf|20;Karim Haddad|45,sdn,Unlisted company 55% owned by SDNs - blocked under the 50% Rule
+C016,Mahan Air Co,entity,,Iran,,sdn,Listed entity - alias with legal form
+C017,Sheikh Mohamed Ali Hassan,individual,1990-04-12,Egypt,,near_miss,Very common name shared with several SDN aliases; DOB differs
+C018,Ahmed Hussein,individual,1985-06-01,Iraq,,near_miss,Common two-part name
+C019,Ali Hassan,individual,1979-11-03,Jordan,,near_miss,Common two-part name - matches SDN alias 'ALI Hassan'
+C020,Youssef Ibrahim,individual,1993-02-14,Morocco,,near_miss,Common name
+C021,Fatima al-Assad,individual,1998-08-20,Syria,,near_miss,Shares surname with listed family; different first name
+C022,Omar Abdel Rahman,individual,1988-05-09,United States,,near_miss,Same name as a listed (deceased) individual; DOB differs by decades
+C023,Khalid Mahmoud,individual,1975-12-30,Egypt,,near_miss,Common name
+C024,Youssef Nasrallah,individual,1992-10-07,Lebanon,,near_miss,Shares surname with listed person
+C025,Sara Soleimani,individual,1995-01-19,Canada,,near_miss,Shares surname with several listed persons
+C026,Hassan Ali Khan,individual,1982-07-22,Pakistan,,near_miss,Common South Asian name overlap
+C027,Abdullah Yasin,individual,1987-03-03,United States,,near_miss,Shares tokens with listed 'YASIN Abdul Rahman'
+C028,Ibrahim Awad,individual,1980-09-09,Iraq,,near_miss,Subset of a listed person's long name
+C029,Muhammad Qasim,individual,2001-04-04,Pakistan,,near_miss,Very common name
+C030,Hannibal Gaddafi Restaurant LLC,entity,,Malta,,near_miss,Company name containing a listed individual's name
+C031,Emily Carter,individual,1990-02-02,United States,,clean,No relation
+C032,Daniel Okafor,individual,1986-06-16,Nigeria,,clean,No relation
+C033,Priya Raman,individual,1994-09-27,India,,clean,No relation
+C034,Lucas Moreau,individual,1979-03-15,France,,clean,No relation
+C035,Layla Mansour,individual,1997-12-01,Jordan,,clean,Arabic name with no listed counterpart
+C036,Tariq Benali,individual,1983-05-05,Morocco,,clean,Arabic name with no listed counterpart
+C037,Hana Kobayashi,individual,1991-07-07,Japan,,clean,No relation
+C038,Grace Mensah,individual,1988-10-10,Ghana,,clean,No relation
+C039,Blue Harbor Coffee Roasters LLC,entity,,United States,,clean,No relation
+C040,Nile Valley Imports Inc,entity,,Egypt,,clean,No relation

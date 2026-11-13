@@ -1,0 +1,26 @@
+# Python environments and caches (recreate with: python3 -m venv .venv && .venv/bin/pip install -r requirements.txt)
+.venv/
+__pycache__/
+*.pyc
+*.pkl
+.DS_Store
+
+# Large public source data (re-download with the commands in each README)
+02-shell-network-map/data/raw/
+02-shell-network-map/data/processed/
+
+# Withheld for privacy: raw name-screening hits that list private individuals
+# from the leak data next to sanctioned names (mostly unreviewed or false positives).
+02-shell-network-map/outputs/screening_results_reviewed.csv
+02-shell-network-map/data/analyst_review.csv
+02-shell-network-map/data/reviewed_public_figures.csv
+
+# The website lives in its own repository (hmichael-bar.github.io)
+site/
+
+# Personal study notes
+PYTHON_WALKTHROUGH.md
+PYTHON_WALKTHROUGH.pdf
+
+# Local run logs
+fincrime-job-digest/

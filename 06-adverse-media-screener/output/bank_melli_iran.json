@@ -1,0 +1,2371 @@
+{
+  "subject": {
+    "name": "Bank Melli Iran",
+    "aliases": [
+      "Melli Bank"
+    ],
+    "arabic_names": [
+      "بنك ملي إيران",
+      "بانک ملی ایران"
+    ],
+    "kind": "entity"
+  },
+  "run_at": "2026-11-13T06:21:56.326934+00:00",
+  "days": 365,
+  "rating": "HIGH",
+  "rating_reason": "Credible, serious adverse media naming the subject (conviction/penalty/designation-level or repeated).",
+  "raw_articles": 201,
+  "unique_stories": 113,
+  "adverse_stories": 30,
+  "searches": [
+    {
+      "source": "Google News (en)",
+      "query": "\"Bank Melli Iran\" when:365d",
+      "status": "ok",
+      "n_results": 45
+    },
+    {
+      "source": "Google News (en)",
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d",
+      "status": "ok",
+      "n_results": 33
+    },
+    {
+      "source": "Google News (en)",
+      "query": "\"Melli Bank\" when:365d",
+      "status": "ok",
+      "n_results": 17
+    },
+    {
+      "source": "Google News (en)",
+      "query": "\"Melli Bank\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d",
+      "status": "ok",
+      "n_results": 10
+    },
+    {
+      "source": "Google News (ar)",
+      "query": "\"بنك ملي إيران\" when:365d",
+      "status": "ok",
+      "n_results": 31
+    },
+    {
+      "source": "Google News (ar)",
+      "query": "\"بنك ملي إيران\" (عقوبات OR غسيل OR فساد OR رشوة OR احتيال OR إرهاب OR تهريب OR اتهام) when:365d",
+      "status": "ok",
+      "n_results": 29
+    },
+    {
+      "source": "Google News (ar)",
+      "query": "\"بانک ملی ایران\" when:365d",
+      "status": "ok",
+      "n_results": 0
+    },
+    {
+      "source": "Google News (ar)",
+      "query": "\"بانک ملی ایران\" (عقوبات OR غسيل OR فساد OR رشوة OR احتيال OR إرهاب OR تهريب OR اتهام) when:365d",
+      "status": "ok",
+      "n_results": 0
+    },
+    {
+      "source": "GDELT",
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "status": "ok",
+      "n_results": 36
+    },
+    {
+      "source": "GDELT",
+      "query": "\"Bank Melli Iran\" sourcelang:arabic",
+      "status": "ok",
+      "n_results": 0
+    }
+  ],
+  "findings": [
+    {
+      "title": "CBUAE imposes sanctions on Bank Melli Iran, bans financial transactions with Iran",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOTXhxOUt3bmd4YXJaWEFUSThWTkRJdGx0SGlTRXVneEJTc2hBT3FhWExWeVRJcS1WdGZrSWEyQm0yZHFNOXdvRnByUHRlZFlnaC1BY3Bnb0hFUngxSG1yMi1YZWc2RUx1STcwOXkwQlAwU2FMc0l4ZTUzRUMzS1J2RVY5S1F4akVmZnVfclV6TVNtd2ZDcEk3WVZJbVbSAaQBQVVfeXFMUDR5SEpHMG1iQjA4c1pyU0dlLU11SVR4bHc0X3I2YjNWZUpfaXNCNUI4ak05U2lrSmZzM3ZyaXpRUHgwYjh6NG9McXc3RERFdmJXRDRQUGpveGUwXzhEWnRkdnFHNFRRaXRFSHhnN2g5bEF2LWFPcXR0YS1YVUxQX003bF9tZjNxVk5pbVRYQXo2WnRYUm9DZ0JOYkVKQ0VCbTllSXc?oc=5",
+      "source": "Khaleej Times",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "title",
+      "stage": "conviction_or_penalty",
+      "severity": 90,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Azerbaijan rules out new restrictions on Bank Melli Iran despite sanctions",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBKb3ctTkxmejNDbzJHRjFQMnlLdGJOaG5ELTVrQnBQU2kza3diRWpuaW5hR1c1cE1uVTJrQVJrMDZoN2RrS0plRUYyb2tPTDd3M3A3eS11UQ?oc=5",
+      "source": "AzerNews",
+      "published": "2026-10-29T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 68,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "UAE sanctions Bank Melli Iran; airline suspensions add to economic pressure on Iran",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU2J4bHpVc2hjd2lFRGNRYUU1T0tkcjFuMHhKWldETGU5UTNZQzdPRWlnaExDM2x2T2F4ajNENUZvVVlDcnNJckhZSHp3M19rdDNjeFpzSTF6QTBNSUVfcmtPam9sYUExbl9fbVJ5ZEZFaWlaWkI5Y0hqSThCRkk4TGNGTnF0SmljWUVFVm5PUHdUendmSnZOdnZJTTViOE1zTnh0ZVJTeDVfdmVP?oc=5",
+      "source": "News On AIR",
+      "published": "2026-09-24T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 68,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "الإمارات تحظر أنشطة بنك ملي إيران | سياسة | وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "url": "https://news.google.com/rss/articles/CBMivAJBVV95cUxOanRfYzRHeFVHWVBISkdxZUluYmZ1SXU2bGI1M0dnMzA3VEsxZzlvaXRCZFNEMmNSOW82TUEwSUltTlQ1Vzl3dFc5Wm4zTktYaTBCZjdnaEdOTFFwWVptYVVkbXFKMWVIT0dkeDJaS3ZGR0l5RTNUa3JNdFgxMWNKT1JGVXlCV1M4SHBGWXFZcHludHJ5M2NRcW50MkVOY0NKNXI5ZHlTekRIYnJBYlJvS1EzY1YxS3NfX09RQTlsMndSbjNtNU5XVkFNeUVIQ242SE4yMG1CcDlfOXF5ZUx6aVhjc0g5a1BGWHVIYUMyOTB0c3VpdlVRNXdwNFRkZW5ibDdCTmw3X3ZRU01WdjZ3MVJJbmM0eHVHblFFVDYwZ3RveHhPQWQ5TUltU0liZ01aSE5fN1hDNHp3YU5i?oc=5",
+      "source": "وكالة أنباء سرايا الإخبارية - حرية سقفها السماء",
+      "published": "2026-09-24T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 68,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "حظر"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "UAE central bank imposes strict sanctions on Bank Melli Iran branches",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOTENNY1JXX1BjM3pwVXBKR1NUSWFCWTk2UDNsbU9jNkVwRHlkWHNYNGFZVUpEdGlNLWdzVUJOdlFkT1d2c2dJNDYyVDEySENiaUVSOFZSdGNJSERlMHRLT2tIdWkxdzhiTkF1STJ6c0xJSHdMRHByMXk2NTBCSzhLMmV6cjhQYlhURUdMTEhfbGlnSTVSU1hudmFtM1ZYeWpPa3dzWm5mUThpU19sT0NRb19ibEYwcThheC1oU2owa2RtV04wOUc2dXQ0TWYtd3JLa3FCYmp3?oc=5",
+      "source": "TradingView",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT",
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 68,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": [
+        "The Times of Israel",
+        "www.wam.ae",
+        "برق الإمارات",
+        "orlandoecho.com",
+        "birminghamstar.com",
+        "ohiostandard.com",
+        "nigeriasun.com",
+        "neworleanssun.com",
+        "newyorktelegraph.com",
+        "middleeaststar.com",
+        "hongkongherald.com",
+        "trinidadtimes.com",
+        "texasguardian.com",
+        "coloradostar.com",
+        "cincinnatisun.com",
+        "israelherald.com",
+        "The Economic Times"
+      ]
+    },
+    {
+      "title": "UAE Central Bank sanctions Bank Melli Iran over compliance violations",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPSFdBeFZTNW9Nb3E1bEFjUWRxVHlvcGdPcExYSzNaZ0lIQVVBS3o2dW9BbTlveG45SmwwenlqaFkyZHJTZXVXWmtYVFo0OHlzUy1mMFdtbmloZzVUWVVNaVltd0VueEVIUDREXy1STVBNdGo5X2JKMTk5aVVyaGt0ck1SYXE4V3oxNmRtQXppT25TSjZYaUdUWTZTdVY4WUFlNGJMOVJUMEczQWItNGNxX0h4N3lOb1ZSeUVr0gHOAUFVX3lxTE9TVmctVTdUV1lJaFhTNHJReWRnRC1iejJ6N3dsd0NIX05fUzlfb3VBaTJKQnNzMUw0b1oyR044SGVOVzhKaWQ4UXZPQlR6WTJYZm1JSG55WVRJV2xfRmR4a25zTnA2MEZlWHU0MVdqZGl1TENUelNWWjdLLVhWaG14YU1kX1hCX0JzdExmVWhJN0o4eWZtZlBqQWdSemFucGVVRmtKTnRWendRdVhRZVYyNTI1VHdTS21MeTF6R2x6Q1VKNjJvTDlSeko5YmR3?oc=5",
+      "source": "Gulf News",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 68,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": [
+        "ARN News Centre"
+      ]
+    },
+    {
+      "title": "الإمارات تحظر معاملات فروع «بنك ملي إيران» مع طهران",
+      "url": "https://news.google.com/rss/articles/CBMipANBVV95cUxQZTBuWDRRVEd3aVZiMTJmZFpFVksxX2ZTY1VhNUI4X2ZJT19SSnQtNjU4ZjR1cWVTTUhadjYtN1pOZ3ZOaDVBZ0RoWDhkRVRNd25oeThrZ1ZKeE9ySm00N1FMcTEwc2JsZk9kOHZReVh1NktGekhGWEVTQ1RydzlXU3REb1ZIWWxUNmlTU0ZmS3ZTSEI1VjRjOU1BY1k4NFYtY2ZNR1Q1T0U3N0ZEeWFCY1ZuX1dLM2pQT2FfMGpMYmxEMVhnZDdtX1FRSnh3S0lvZS1PMHN3OE45enRzVE1tRlhwbzhCNjhMbHczUzdJU0QwRlBFS3RWamZNOERUSGxnTjdzeUdYQUwzcFVHNGZmc3J1c1l5Zlg3Mk1EOUliTzhkcVJDTGU1WHV0OGVQa0hrOV9kT0UxX2tqM2V6ZHByMlYxQUxacWswb2IzT0JqR0xDWF8ydnB3UG8zY0RGdmh6Y25jenZSSUFrbzBfTmNqTlZ3QVdQS082c1FXVW5ROG54NXF5UVR0ZGNqcTJzSWhRWkxHR01vc0hQaXdDNjNzdGVCRnk?oc=5",
+      "source": "معلومات مباشر",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 68,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "حظر"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": [
+        "السياسة"
+      ]
+    },
+    {
+      "title": "المركزي الإماراتي يفرض حظرًا على فروع بنك ملي إيران بشأن المعاملات مع إيران",
+      "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxQQXVwcTJFOTlVLWt6STJQRUFWVTVIUDJLUEdBSHFDRWlzQkZYajhlWlFWMXdEaExEVmoyc0duRk5YZGdQdnB3ZHF2SXZpX2ljaDJyZmRST3JwdjByOGxPU3dnUWRhYXdhLUJTS0NQdUM3QlFoUGdjdDA5bmZjdWhSTWJib20wQlNFemNPUHcyWUY5WDh5LTlLY1RYRFNkbWJmUXJRYXJfelVWaWF2WUozN3hqREFYMlpPbzd3Zkc2ZmRYU0k2cDZDb3JoRVlaSzJlTVAzdkVWSmttcFFhaFM4WEcwaFhuVzJrbXZLWFd5R0N6ejhaSEJPd1FSOUNocHhqeWYtWmplTkViRWw3SWVBSEdhRFN4Z01xY2Q1V05fTWp6VVBEaXZmdS1ObmtGUzVfNGtlTmtXYW9udk9tSTNGS1ctLUcwUm4zbFNxcTBzcFJyN1Bza21BNWlqN3M3cVVQd3RyMg?oc=5",
+      "source": "صوت الإمارات",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 68,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "حظر"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": [
+        "ايكونومي بلس"
+      ]
+    },
+    {
+      "title": "المركزي الإماراتي يحظر تعامل فروع بنك ملي إيران مع طهران",
+      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQUUM5dkhOMUJta3Y0bWlQa2JUV0hSTXJqVXRVeE9pVDAtZnRqcFFsYlNGUFZWSWVzNERmUVNsaGVxUGdNbGJNb1g0SVplNUd6Nkl0ZTNNbmk5YWx2YkZnNGZXYl9vSnZvMS1ZV1ZZRDBDbWxnMnM3enNVbmVKUFVkSGVNZ3lqUGpDSFFlOHZfN1BhSnRMWXBJOGpYOHlfbzlHT1FpclFYY2JUSDVnNzFxdzFpQXBxdjE0ZXctaHJPV3N0NjdNYWROeDVkU19JUmdrWHZtNFJSU2owR0ZQVmItT2w1TVRhdlIwQ1NPcy1Ra3hOcEdRM25ncHNhZTVUUW03LWJhLU8tdDFRN0xxY0hncTIzTHVXdjF4NjM0eHVBR19GWUZHTDBTbEwzaGVXVVFWNDRUcnVGaktJU3o1ZlJ2dGk0R2Jwczk2UFItZ2tQbU1TOVhUcVRwVnQyQ2dPbzF2MVlDZWxyNnF1X2k3QU92Y0M3WHI?oc=5",
+      "source": "أريبيان بزنس",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 68,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "حظر"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": [
+        "سودان اندبندنت"
+      ]
+    },
+    {
+      "title": "UAE sanctions local branches of Iran's Bank Melli over claims of money laundering, terrorism",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1vSDd1V0dubUoxTVhIVVBMYTZlb0tEUTJRMzRaalp1LXhoeXA4NnM5MFRmNFkzYzBEblZPejlpTjIyLUdPX2dVUU1iVzhPRFhucEZPT21TOUlaM0pqLS1hZ3FBM3hYWXdBY0dVS0c4OWNqdmhoU29WNlJTVS1aWEk?oc=5",
+      "source": "The New Arab",
+      "published": "2026-09-24T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "partial",
+      "stage": "allegation",
+      "severity": 49,
+      "categories": {
+        "Terrorism financing": [
+          "terrorism"
+        ],
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ],
+        "Money laundering": [
+          "laundering",
+          "money laundering"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": [
+        "The Times of Israel",
+        "Roya News"
+      ]
+    },
+    {
+      "title": "U.S. Recovers Over 300 Million Dollars for Victims of Iran-Sponsored Terrorism",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcnlfNENjSm5zeldMaEpPc3YtMlI0cndQVktzZ000Zk1XRFR5VllHOXNkN2JFTXI1d0tmOXd3TXdWb3RDb1g4ZkxDNl9XcktBalVjUUdtSWZETzdtTnljNWIzVDZ6NUVSVmdkdGlvRXBzYTd0NENWYmNUQ3lRY3o1WThDd2ZZaVBtN3ZJUkcwckN4aXhuVkxnVXRNVWlqRFFtb2c2WjBoYUJFQ3FiYUJLN05ybFFCX1ZmY0VvXzlSZlhFV0QzOG9BdHdHUDc1NVo2d0hwUU5B?oc=5",
+      "source": "Homeland Security Today",
+      "published": "2026-03-24T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 45,
+      "categories": {
+        "Terrorism financing": [
+          "terrorism"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "US pays $129 million to victims of Iran-linked terrorism in New York case",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9fbnRDal90cFBySC0wa01NblJkQ2tmNkdJeTZPT05xTWhobXh4bHhnV0RCMFBYMjMxLVZlNFdraEdVdnNuNEVzN20tY0tFQ0FxRmc?oc=5",
+      "source": "Iran International",
+      "published": "2026-03-24T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 45,
+      "categories": {
+        "Terrorism financing": [
+          "terrorism"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "US imposes Iran - related sanctions on Iraq Development Bank",
+      "url": "https://www.thenationalnews.com/news/us/2026/10/15/us-imposes-iran-related-sanctions-on-iraq-development-bank/",
+      "source": "thenationalnews.com",
+      "published": "2026-10-16T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 40,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "خنق مالي وجوي متسارع: واشنطن تصعّد «الضغط الأقصى» على إيران والدول الإقليمية تستجيب للعقوبات",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxQREhWTTZpd1RuZ3dleXRXa1JyRDdtTHNWcmY1WGhPa2M5ZVZaMWN3aFlEX2FrdWpYZ296RWJaX0MyQ184bWI1OFNaVHpYendxeWhvcXoyc1NMc0Zmc0phYkV4RHM5MVdxTTcwV1FhR2wzcEVzbUZWYWR1RVFndzYtcDBMemkycTF1OFRrZzJwZDVVU1U2TU1TNmFjNGg0SkE2dEY2emM3d29yUDVZU19MWFJQTktRa2pYTnJoakZPNkF0WkFCTi04LWN3czFFOVdQMXdjQ3VyYWpvWFIzSGRHMWVieVZKQzhFWUliMjZRamNkNU1wNnRqYzdhc0pnaDMwVDNmV3lLVzFSWi0zeXBlZ2R5bmFiTTJ4ZWZZUFhLcy0zYVoyYTdwczZMZDVIUlVnSUgwQ291QmNkaVNBOW1PMWF4RjZVemJC?oc=5",
+      "source": "جنوبية",
+      "published": "2026-09-26T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 40,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "عقوبات"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "UAE Sanctions Target Iran Bank ; Economic Pressure Mounts – Chennaionline",
+      "url": "https://www.chennaionline.com/news/uae-sanctions-target-irans-bank-economic-pressure-mounts/",
+      "source": "chennaionline.com",
+      "published": "2026-09-24T07:30:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 40,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "UAE sanctions Iran's Bank Melli as part of Washington's economic warfare campaign",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQSTVkX3Zjd2c0cDNqREJTQmFwRG9FMjhVNVd4RHk0UjJtUEhqRGNLdk9wT3lRdWtsNUs2SGFpTGw1b1B0YW1WNGlVN1dvZUlGZzhERkgxSFh5TnBFMXVJMmE2ZTRYZUxQekNJSlRmWGR5VncxRUFyOVo4NWYwaFJvU2JKZ2U2WHdNMlVoeEZ5TDVKVS1HclQyVGgtMzVDc2xxOXIzWjA4MG9EMy1qUXc?oc=5",
+      "source": "thecradle.co",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 40,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "\"المركزي الإماراتي\" يحظر على فروع \"بنك ملي\" التعاملات المالية مع إيران",
+      "url": "https://news.google.com/rss/articles/CBMirgRBVV95cUxNUkRweVFPN0hGM2ZXYkNfREVPU1J4QV9zeGdWeDhHNDhSajZYY3NrS1g4aGpIdWhlNjFNMk5tWmNpd2s2eGh6OTBBazZjS01aNVRnOHBFaVE2OWZuVEt0anB0cnk3SVV1dWtwSmtpd202UkZmZ09yUVVwY3NXcHh1dktnbm9FdjFrLTFZMEh1M3hkaE4xNFhQVmt6eHFaTDZDeU5BX1JkMERYTWl5clRPTWVKcjRNQmpGLVB2SkZKaGYzTU82NmFHS0JrcUtXb1NqWjJyWFZ0UmFxZUJ5ZUpFQUZBUkxoOTk3UDZya0ZUMjdtdTM2bEhMcUNZcHd2WHB4RzFkSnZpTldBQXhoYUswUUM0NC1xZ2tuRExwWERCLV9pUll4WnJEbW5SVmVqNUE1UWt1NWtKWmUwdWRlYTduX2RfSVF0ckVmYl9BLV9hY09ZUi1WOXJKdzF1S3paZ2JQZWVNcHl1a1ZBeU03MXlINlhySzVVZ0JsZl9JOEU3ZE1idUJkQWxkaXJkMmhMVkN5WnlpQlNGb2xnUmpLUHI4TldjdURDaFFZQzBBNnFFZXFBdDlkOGk5ZkJRcU13ZUxhMklYSmpvSEJtN3JQLWl1NTFtZFZVWGZ6NGpZaEd1WlNSMUlRX2tuXy1RcGxVZVp2M1NUUXo0dWQtM0JHdENqZEdjTmtrRWFCeHFDazFCMjFVWXBmM2Z6YnFpbkJYOWNCYWxYOHRaMHdQNkF3YXfSAbMEQVVfeXFMTjcxclVEQklpVUJDWlpQeFdiS0xNODd3OGs0bFFQc3BsTDRHQkhLV3BFeVZ2ekU1VWk4cFhOalRGWUVRSkxfNGZDaXM5WXdweDF3UXZUYkVzYlV1V1pLeHNmbDNpN3drWHVTQVpzeVpGM3pDblB4MnFVUTBLMWJQdEczTmJEV3VSa1pPOUNvY2lkV2pzdGJDOUdNMnJmY3FLZUllejJsQkl6ajd1WGFUTmhTcEFwREthdFJtZ2JCNHBmMW9GVU1Md2xEQ0pJRk1FTlp2SnZVSjhuRUQwVDhOTk5hNC1WX3FPazZ2ZGFjLUF2OVpXQmVMQll6cmNrclIwWC0zYkRIZUtLZC1JNGYxMWNYSm8zY2FWYUtPVURnSW5wUi0yd3VYbGFIMTREVXJGNVJndEdOQjNEa2w4bmE4SWNzc3pKejJBbmJHUnpBYmRGVVRSaWYtblpiUU9WU2hIdlR0Q1FQVjJRaXJFNWtpcFJXN1B5Nnp6Tjc5NUZNTlc2VUtGVWRUSWtNUlZ2Z3RvSHBSVzh2TlVveHNTcVBRNGdyLVlYWXVtUFdoNmJWZmd2dzZIUXgxWDU2NlM3UXUyeXppMDVYY1dtTUhRMlVCeGkxUk1QcGtTWTJfRGk1bFRBQ0V4R1h6UktmcmozSnc2RDFpbGFIZm9pczlCcmxoREtQNFZrUDk5a1lLZUtERjhUdUtKS01mSnVoRHBhMFRXcjltLWxRWGdyT3hzdEdrUGhkTkk?oc=5",
+      "source": "العربية",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 40,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "حظر"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "عقوبات إيران تحاصر البنوك وتشل الطيران وتخنق شرايين التمويل",
+      "url": "https://news.google.com/rss/articles/CBMi5gNBVV95cUxPZmM5akJhdVh0QWFJUHlYbDFNVm8zQkk3VHlhdFJFUTkySHdkcnVFTGZoUWJYVkwtTGRmd3RNUUhPcExuNUFRWFd4VkNGQ2tpZDdzOGJVMVNYdVp1ZXlzbnRLMTAwX3NCY2tHWjFtS01kZGlGYTJyU0JsMGFJODZ6eFdtNmlwWWxlMG41T2Jnb0NHbVdVVk1nbHBCUnZRU0Q0Qmh4eTBkOXZQYU5HNmI4WTdkZFJMckd5NjVYOEdkSmhJLVNhUFJKNzdvUXhKVWhQeURubjVPaFBCYS1zekpTXzM1TV9ZMjItMEphVDJvcGJhcFdsczZ4NV9FMXhfQUdLWjFLTWFQcTdXZWRfTV9oOFpmZ1g3cmpQN251eHladjhfMnBNcUpyZkFTMG81TmJLQTFLVUlvTnk0YklwNnJNZkdJaE5XMEhvU0FFUUNoUjNkby1Uc0RZTW5Dd2tlRkhZZFhETWMyQXhlN3RvRW8tTmJ6dG5PaVZ5R3BETHVyQW5LZkQ1V0MteGNNaV84YWotTThUZ09BQnNvSFpvczVyUmFfeUV3N0E0OWo3SGdPTkc2RkE5ZHF1dzV5RHhLQ0JhbmFjR1c2V2RFRGlOTE81V2l6LWVCZkpJdHZPelo2ZC1xcTgta2c?oc=5",
+      "source": "موقع 24",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 40,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "عقوبات"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "الإمارات تحظر التعاملات المالية مع إيران عبر بنك \"ملّي\"",
+      "url": "https://news.google.com/rss/articles/CBMi0ANBVV95cUxPLXhuRmI3dkxXelRUU1J3UUhvRURBTUZBY2ZfS2Fmbjlja0lLbDNJbmpHVV9PZlVXT240MWIyWWp2UU5NNlktUm1aUHp3V3pTZ1hrMDQwSFVPcmhsenN4NzNnRk9KQ19JZnBXYzJWa1NhZ2xvVC1SSlRIWHd1M19ZRWJvTnlLemcwRFpwVDFWV0pPY3UwX2FkY19KMlg4bU1iS2xHNlhqclMwWXMxZFpKcDVydHRBa1NFRHZaRDhpWHNKMXZJZE5FUnFZTkJaY0xsbHM1clFQSEtkaEkxT0V5Y3BSbFlLQl85NTZaaTVnem1PZ0NfV3NlUDdYbWotaGpMdWZTa1I5WHpQRVhLNWtnSC00eWMyc0lnTmJUS3haTDFNMTBjWkc5WmxvaXJPVXVqSF9pTWRXc2VpSjZ3alJOZWFlWXpmQmY5VmFhcW8xR1BTcVNOWTRPTERFY294cFhCMElqME9OZjdVbWlUNVhSN0gzcWRFX0s5YWQ0djR4cTl2TGpTbmdrZ3dVbUVWTmpNS3R4OU5qbFotVGRpaUJTZE5aQ3pjbnlUNVV2Q0tpX0Y3ZmEzOGVFREJBa25JSklUemFKeVpxVFhNTDRKMXpUQg?oc=5",
+      "source": "شفق نيوز",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 40,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "حظر"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "US sanctions Turkish bank as Iran financial crackdown widens",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE40MV9GZHZhY1YtZU42OWxPYUpqWTllV2dHUzU5ZF80ZGpZa1NEbXh4cUhhd0N5UjJJMWVmWWFlWHY5R3BHVlBOcUN0N19rOWVTNUE?oc=5",
+      "source": "Iran International",
+      "published": "2026-09-04T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Melli Bank\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 40,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "U.A.E. to Review Egyptian Bank as Part of U.S. Sanctions on Iran",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQREZxa3JwYmZBSFp1V0xhbV9xdTZ5TGRXTm40T2RBRkoxSFZkWFpUd200Umd3dVpJajVwdmthQkNGc1loZmFHMUdoZW1HWUVTbzhwZkhxQ3pnd2lUYk1COVNyYWRVMGVqMTJUQXJuUUdrbGRHbEFzSVdKWVhpdnVFWmt4OFpZRDlKTlItb3hISQ?oc=5",
+      "source": "The New York Times",
+      "published": "2026-08-30T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 40,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Iran vows diplomacy , defence against US sanctions",
+      "url": "https://ibcworldnews.com/2026/08/29/iran-vows-diplomacy-defence-against-us-sanctions/",
+      "source": "ibcworldnews.com",
+      "published": "2026-08-29T18:45:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 40,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "US Imposes New Sanctions on Iran-Linked Bank on 6th Month of War",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1mU2J4Q1NPR2p6eDFPa19yMmRycjJZOG83cmJTak1mbDU4Z0ZRQnJ6MDVwSUR5Y0h3emVNa2J5QzJZVVhuek1UX0hSZDZUQmloTVkwVEZSX3o1b09zUU9IMTIyWFRERU5UX2RiX19B?oc=5",
+      "source": "news.sbs.co.kr",
+      "published": "2026-08-29T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 40,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "US sanctions Bank Melli Dubai manager under Iran pressure campaign",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBfb3ZlU1ZCNU4tVnI2TThaejhrQnUwUndfZmFHN1hiMklyWmVkWHZLNTJwb0c5aXNOQWxJUHBNdmJRM1VYQU1wSXdZMHRyczVjSHc?oc=5",
+      "source": "Iran International",
+      "published": "2026-08-28T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 40,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Iran's Bank Melli remains open in Germany despite sanctions",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1WM2doTHhVUHhfU01OUk1uaVFKX3JXNFI2cVhSZ2RqZGllN1hXaERla0tib1NndGNhVTR4RDVpX25LLV9BUndvQ2F5WUtLckR2Y1E?oc=5",
+      "source": "Iran International",
+      "published": "2026-08-27T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 40,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Trump turns up heat on Iran’s biggest bank: Bank Melli faces fresh sanctions and pressure to close...",
+      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxNbGxGRWlWeWNyTWh4SXppTnZkMXJycWRXOXVwaWxLcmgxaGpMeFBiR3lDR0JmbmhMVlFxeGhpbkRDeG5rXzBGQTZBb3Q5eFBmZGQ2LVF2aW5aOHpIUDBfcWNsVklGV1BZM1lGOTU0c09xMnpMR1JBbnhvejNKakU0Y3J3S2pPbTh5R0NDaUp5al83MUlKeWd3QzBOSEs4cVlnWHpjM1ZFSU9iTk1VZEIxcXcyS0g1X2dJLXJSb3ZtUkdTX1MzNzNpUG5vZU4tSmctNjJyeEtIWVBFX29UUktZT0Y1dWllUHNHcGRORFlKSG56RXg0Vk9KTEFLNmpLR1FNYnfSAYcCQVVfeXFMTzJTREh6NUFRbWc4M0kwWHFnanBHQWdSQTZNbXNQQktRYVA3cUthSUxha2xsZkNXMEVtUXFlaTdkNjNlMVBXUjVLcHdLM1J2VVVUaC12UFdBMmtsMjE5Q2hmWkNBRnVVYXRvYWktZVlJZGRkMDJmcW9NaEJ2aWVwa0sxVVFTS2RPTWxOVTRIZUNDcjRfbkZWeVdCVGQzWWJNOVl5cFJWTVN2X0wxenJrSlFQQmlWdlpfZDc4VThzVi00WG1rRnBYSEJxU1pYRFN4bjdNMVVOVFpzZjhmMGgwWlRCV2N6QkctTGo0UjlTeTBpVUhnMU9fOFJ5SkJZV0pLWVAzNU1QZjA?oc=5",
+      "source": "Moneycontrol.com",
+      "published": "2026-08-26T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT",
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 40,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": [
+        "moneycontrol.com"
+      ]
+    },
+    {
+      "title": "China Dismisses U . S . Sanctions Against Iran",
+      "url": "https://www.wmal.com/2026/08/25/china-dismisses-u-s-sanctions-against-iran/",
+      "source": "wmal.com",
+      "published": "2026-08-25T18:45:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 40,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Bessent Unveils Iran Sanctions Regime He Admits Could “Blow Up” Global Economy",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQaXNIaVZwNjZMRmhfMmpCanhRa1Z0Vk1lQXRvTU9YZkc0eDRCQ0RjZnlFSTNIQ0U3VVpraFM0Sm1QVmtud0ozU1VWWGwySEpsZHJFMWZEWmZMTnlrVVFhaVVSOFBpbURGY1RfdHJnNERQYVdEQmZlazluNWxYbEM5MWZrQ3ZxT2xqSzI3VUZfamU4Zks2RUNiZGdwSUZTYTJFbXNmLWUxSkpJd3M?oc=5",
+      "source": "Truthout",
+      "published": "2026-08-24T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT",
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 40,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": [
+        "truthout.org"
+      ]
+    },
+    {
+      "title": "Trump Needs China’s Help to Effectively Sanction Iran",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxORHcyQmRIdEVnTC1xdVdTekpmMGNKemRqNkxiYmw5bEU4cjNGUUtWS3N5dFJLNmhpRjdERnphS2ZCYnZxeFlWaG9fa0ZRZjVGMDRJU3phRGNhZ3dNSzY1VnJVV3BtdnBXY2JrLVF0dGxzMXM0bXBVTmc5UHdwSUdmQmtXNmlrdw?oc=5",
+      "source": "Foreign Policy",
+      "published": "2026-08-21T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 40,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanction"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Despite sanctions, Iran funnels billions through US banks",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWTNoSlZEbU95SVVIek1DX2ctNlFicEl6V0ZQdXpwWXR4Zmp2RDl1NGhOSldRR0lWMGEtS3NXenNUSTlGVEtGOUJlWVJDd0g4Y2I5STE3bDR1NDI4Y0w2d2ltTzZ6VUdiWk5FRk5tN250WUJBaDZKY3I4bUZLSUlCZjVHWS1KdHpsOHZvX3pfNF9wZzlPem8xMHo2Y3Q?oc=5",
+      "source": "www.israelhayom.com",
+      "published": "2026-06-09T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 40,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "المركزي الإماراتي يفرض عقوبات على بنك «ملي» الإيراني",
+      "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxPeXd3Y2NVbWRPM2RkRUl1S2NLLVRDQ3NiZ2lsdXhmRllITVU1WlNvR3F6WmNSOFlnNEtPWW0ycEVsOW9mdERvSlJDNVVyRjJEc1ZzZnJfRDdveGt6a0RrUXZ0TXBDT2xmOVMtby0wcTV4eXdFcTlGcDZjSHE2emlfSzJyT1BjRWM3MnVjejIzRHA5ZFdCM3RZWENtd2ppQkRPSE1DdmV2clJjUE1YcXdGblZFWXotZDJtQjFIUGE3Z3RNX29ibHVuRHFBYkV6VXZiYm15S20xQUQ3bU5fR3dkeXlpWlJSQ1lGOWZZM2xqSG5WQ2lDeFFmRXpTMlJHMEZQcXVwNzVUU1N0NjZKMUxjQUhTSTRFMV9MSkdVYXVzYjhoNlRSdnZ5Z3pyYWw1bjdpeFpvaXVkcEZ1TTd4b0JVbndvam04UG9MbGJGNms1UEtUUE4zbDduZFpzNXlhWWp2amhxOVVkYkY2eHl2dWFqZUdodFRlMkhBdjNNajBSMFRRajdLVkE4VVZTN2pvekJtc1YzdUF0TXZZT0JVUnZ2ck85b0s1X043S0JQXzRuc09wN0Y0dXBBSmlBZi1PbDA0eUJ3Ykd1U0FBclM3dGJCUUIwX3BwZ2lackFzdE1CaXM0cFFFNlFMbG5TOXg?oc=5",
+      "source": "قناة الغد",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "none",
+      "stage": "conviction_or_penalty",
+      "severity": 31,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "عقوبات",
+          "فرض عقوبات"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": [
+        "عاجل"
+      ]
+    },
+    {
+      "title": "مصرف الإمارات المركزي يفرض عقوبات على فروع بنك ملي الإيراني العاملة في الدولة",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE9SUTVZR28wamxKd0FWUXpxWHpoR3RQbXVoYko2UlRpdlJHUG16MDhIdnM2d3BZLUVuSVNxdkN5ZW9NZnF2OEE?oc=5",
+      "source": "بنكي",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "none",
+      "stage": "conviction_or_penalty",
+      "severity": 31,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "عقوبات",
+          "فرض عقوبات"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Emirates vetoes an Iranian bank for violating the regulations against the financing of terrorism",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNeVc4TGdOVDFEMVBEV2F4dmRzQ2JuR1RFamFnMk9SRGlkQzlXbUNRV3pIeGh1V3l6VndQQ2kwSkN6aWxyOXRaVUpLa21pWTJDSG9heVNrTHBvRlpuZy10UzJmdmpFbVJkZmxOTWN4TVd0R2JGLVJ6aTFJcUszbHdDZVhtNFBPR1VPUXptd0dCZTdtZHJkWUpHcmkzV2lrYnljTDFWcWRKTjd4LUFDbFV5XzdVWFl1UzZrWkpCQ3JuOGc5c0ZsdFVLbG81VmY1eGVsZDZXUjB30gHbAUFVX3lxTFB3blBFNlVUTk5EU29icjlFTlQ4TXVfLXBBYWVOWXVPLXdFWmdDVVJ4OVNWZHRlUWZobzROUGF0amRKWDJqNmE5eVY1RlhKcEhRbU5rNlFHWUIxcTRGRGZpYlpBTGpLcFJjdUhyckdsQWJQOXJoM21yS2xtck1jRnZ4UzQtTVZBUW5DUV90MWVTdDVaMHlNeUpBbG1WNUdUdjc2LWM3UjMwdUFYSVJFT2lOMWRSN3NyOEhIZVQ1T3BrMDdCanc1ZXNDVzBKTlQ3SDFNMEJKMHEzYXdCaw?oc=5",
+      "source": "Demócrata",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 26,
+      "categories": {
+        "Terrorism financing": [
+          "financing of terrorism",
+          "terrorism"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "كندا تعيد فرض العقوبات على 11 كيانًا إيرانيًا سبق رفعها بموجب الاتفاق النووي",
+      "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE8weXg0QkJ3elM4b1lYVnFUTkVUMWhuM2FsU2tHZ2MxajB5anRjdk1FQk5jbndiMWNpaDcxbU9xWWl3MjRh?oc=5",
+      "source": "جريدة الدستور",
+      "published": "2026-11-10T13:33:25+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" (عقوبات OR غسيل OR فساد OR رشوة OR احتيال OR إرهاب OR تهريب OR اتهام) when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 24,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "العقوبات",
+          "عقوبات"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Canada restores sanctions on 11 Iranian entities, reversing 2016 nuclear deal-era relief",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOdnU0MVN2c2d3QUdUZHJsQ2F4VXZ6MEo2WkJYWXZJczJTRVpZSWpsNjBxMTlqc29KOE96cjIxYkNBd0I4cDJyaGQ3NHQybXotTE14elVuNHlscWVPZ1BXSi1jaEVMNlpBdVJUVE55TW8zNkM4Vk9qN0FUMURPa1NhY21UZklNR0dma1dIUENTRmVHVE10ZFZBYTkwS0lVRWxtSjh3dzZJRDh5a2lnRHJZVmZuVUpsTmxzY04yMHk0UkotQWo3RG44Y3ZKRmFReVVBVUlmT2U2SHZUdw?oc=5",
+      "source": "Business Upturn",
+      "published": "2026-11-10T09:39:47+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 24,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "واشنطن تطلب من 50 دولة وقف ترخيص بنك إيراني في إطار تشديد العقوبات",
+      "url": "https://news.google.com/rss/articles/CBMiiwRBVV95cUxPLS1JNDFTX3JuM1NNRHZXZ3duUk95cmxtMmJOYUVaTUl6SWJOVVVyb3JHRkFMMFBNVUFjcTYtQnpRQjlXTHVxeHUwb2pRZHktM3VadW9qbGpSQUFZdmJZT2pESVdtYkdPSE1Oem8yZl9aeGFwelhXdzJQUkpEUWZ4b1haS09BTTRxSzlNSHE1SmVSY19nNDhUa2pMakNrSUFjUEdOZ2tzOUh6MENpUDAwQjdoSjRFZ2p5VXNYVUhuU0NYZ3h1YWlseGdKSjhSVG1lTmx5TFc2czBKODAtdlk3Skw5dnRGbnh3a1c4SWZvWTdUck9sQUQ2YWQyY01UMEc5VUpsbFNDejMzWWVia240cHlNMmhYR2lkYTRpX0EwVTFkNW5oSjVqaTRna1IyMW5fZ1BucFhHSEhyODE2bU5sandzNWFVMjJLTUJPNmhZZVlvRmNwMXlIcUI2TnhzSzRRNHFBV05pVHl3WnBSRDl0YllNUDJ3eVAxN2lfYTVhZUtqWUFoS1dsU242NDdNVUk5SjlSSnlTSkVhR3EwWkUwV0RyRkJHdGx1ZWZDcl8wYUdsWDVZT0JTbEhaQkxhb1lzZ09kZHJIZS1na2RodVRWNHRDeUFNWUJXUU10RGc1MGZ2NDM2d1R6SDNGTHBRMHpjVjIybEV1NTYzbHk4aTNaenhHN1RxSUdaaUEw?oc=5",
+      "source": "CNBC عربية",
+      "published": "2026-09-26T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 24,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "العقوبات",
+          "عقوبات"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "UK Tightens Sanctions on Iranian Banks in US Pressure Campaign",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPRmtJSnlwWGh0ZGJuWlZzVm5icWZUOU9neU16MUFrQndPNTJSbFVqMHE5WUpTVzFjY1A4eUdfWWo4bFVJQm9IS0VkSmlkSDVMblNHaXg5ekpYWlB2dEVNYWlwZlJYM2xqakJHMGRVV2xVWHZwNWJHekdETjJVbjE4WVNIX29XSTlMR1JfMjRXTEdoUGZxdUYxV25TMEF0czJZZE12cW1vVm5aYVpia2M0WElBdw?oc=5",
+      "source": "Bloomberg.com",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Melli Bank\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 24,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "الإمارات تحظر على بنك \"ملي\" الإيراني العمل في البلاد",
+      "url": "https://news.google.com/rss/articles/CBMirgNBVV95cUxQY3hsOFh2T0dxNXA4TzVYY3Z2RkhFUXJYbWY3REZqeGtGbFVnSkxGTVlqbDJ4cWZwOHBtSHRhcVdtRjNBOEtDR1hKWXRFY1pxOS1tQXhWU3ZzQXNlTTFmUkFwbGwwdjE2X2F1MFhrTHNYam40M2VtQnV6YllIWVFzN2tuNU55M1VNUTZtWUozU2hpZTVoS3F3ejJ1dkVkRlhRTTM1VUVFT3lNSXBrT1VwX3RkYnE5d192UjMyTU9JWUZJM0ZLVVVWNlZ6akowbk9yeVRrUmpNeWNxODZIVTFrYzJzZlRKM29ZdlY0RVcyYk1tVEw4N2lwWHBWREtYRVJhZEJ4TmpxQUdCSVJYSVVJQlpVbC05bDNiblFLRXdDUFMwajkyMnZmOTd6UmpXcWpTMlBnWV9Pa2FpaTVtZll0Y3dMY1F2clg4SG1pUkZqUWE1R0YtaDRvdmM4UXNTNWhheEw4TUk1NGx6eS1FUFMzRkREd0ZFblJrdVhDSVlwaTB0a1hTVW80NVFhZ2l4VlBTRE5HaWRpc0xEYWh4QXdoM0tyQ0R2dHNiY2VhWHFB?oc=5",
+      "source": "الشرق بلومبرغ",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 24,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "حظر"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": [
+        "CNBC عربية"
+      ]
+    },
+    {
+      "title": "الإمارات تحظر أنشطة بنك \"ملي إيران\" على أراضيها | CNN Arabic | CNN",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOVm9hSkowajJfOG13cV9pV1dFREoxc1RMOUcwdzhvbTlzamZjazdJUmNYMkk1ZUtReE9rcFRvT0t2OER5NDhTWEk3TncxZi1jUTNTSV9FWlFlT1EzVnJJSllXaDZoOGlxVE4zck42d1RCNTZHZnQ5Q3pIclZXZ0FpOExHSGVDVldJQkNTeG5zcDkzOFN6dmRoZmQ4SnIwWjAwdlVST0xfMmdDVzA4VDM2b1JWNVJKVFJYYVA1MTJ3?oc=5",
+      "source": "CNN Arabic",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 24,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "حظر"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "حظر نشاط بنك ملي الإيراني في الإمارات لمخالفات تنظيمية",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBDNUVNdWFRM3FVWHdZeXZUS2ViS29XQmJ1OWN6aE5fTmh6d2xtYzVLSVoyZkN1UEZSQXdxdENOSE5pWFJ0ejFjUU9weHRxSHh2SWpZQkVXWWpwdnN4RnJVdU5YU2tmQmpBMklYUnlxaGRqU0NZU05sbGpMZXA2UEE?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 24,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "حظر"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "الإمارات تعلن حظر التعاملات المالية لبنك \"ملّي\" الإيراني مع الجمهورية الإسلامية",
+      "url": "https://news.google.com/rss/articles/CBMi7AVBVV95cUxQNVRJdmNqSTRzZDZGNjFqdExGOUdwRXRqeHdya3J2cklfc3dlUWZQNzVaQWdPOWpTYUdzZ3VCZi1Ua2Vpc1V6Nmtpb0tpbGIxS0luQnNodktXN0tKN2xlR08xb3lISUktaWIzdEpETHF6aUNBcWFEc1p1QjlqYkRKVUZ4ckZQSW9CeVE2WWptNW4wdzd0V3otYTF6MnRUbTVKdkhRQkZ0cFZHR0VEeUtIRmZtUUpoc0o5RDNQWnVZcDkyX2FwTXhUaGtKclJ3Ty1EZWZWZ0JXQ1NJVXI5X3dpeWZ4dE4tWC1YUENIdUdnYVltWFpjSUVTMmRsNFNwaEthcTR1WjUzYjl2b0U0YS1OeE1scFlHdDBSVmZwZ0F3djdwYjBJNEV2OGZfX1dLUHF5QlZBeC15NW4waF80Z3oybWNlRDdSZXA4M0ZTa2pLNjhMQzR5RkJUSGI5MlFCVlFMZkw5QjV0cjV3MHl0QzRVa0RJSUdLbXlXbTlZVm9kYnpmc096eV9OV2hiV001UGNnR0J0OW1NQUFLSWJNWEUxdHlEMG4wNEgxaG9kRWlCZ1BiZ0xtUWpiY2J4aVNEUHgzamNJcGdFMEJzazZDaE5IVmlXYUtieHZWMngwRHlxNXBJdUQ0YUxUS19CZEpUWHJfQ1NuUjUxZ09uVWRMRUFTOTM5cHlTbmZSZGE4V1g4dHVfSU5FaGktd0FTQkFadDVSTDMtU2lTWHkzMXM0VzFJUldCMWVuVmNfMUNsU1ctLW1yZlRRemdYTGx0SC1IMGY1UW5uSDJydFEyTEdxTlU2UnpEYnI5dHZvbmZDT1ZUVVFDMkxGNll3b0l3TnVvZDdZb01JWGlwVWJSaFZqaUw1dGNqWFJNMFFnUk9rVFBQczQ3enlVZnVrRGczWEZwdGNYYzVjYWYtYjN2UDBteUN2MWFJS0J6Z25rY1dwVjdiaHQzZFQwdndaTVA5U2ctbXF6TzN5dTllVmNvSVlZ?oc=5",
+      "source": "France 24",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 24,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "حظر"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": [
+        "بوابة الوسط"
+      ]
+    },
+    {
+      "title": "المركزي الإماراتي يحظر معاملات بنك ملي الإيراني",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBCcmlYRUV5Qy0xUmxDSlBZS3h0OHp1V1RyUE1mc2tGVS1CaUs4ZHVrVF95RUdNMlVZd1dlMUltRGMydGlLd3VLWTNBcXV6bU40UEhfTGM2QW81LTBvQ0Q3RC13?oc=5",
+      "source": "إيلاف",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 24,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "حظر"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "الإمارات تحظر بنك ملي الإيراني: انتهاكات للمتطلبات التنظيمية",
+      "url": "https://news.google.com/rss/articles/CBMi7gNBVV95cUxPeERoVjA2dnp5alZRcE4zclRFdmNMSkhod2MtOExaRndicFhzbnpLcmlZc2pUdzJPU0xtS291aDhCLTdNR1RlUFFDaFdnZVZFTjVDZ3pNUjhMQ2phT2w3VlhJaHFCc3RVTHhoOTdrSngweW8tc0lfbmlEaGF6aUczejRzQ3NzYlUyeERVWm5maUVqLXAtTVhNbHBaV1lkQ1lXXzhLWWZNN3k1OG5iMTZzOHZzVGoxVDZUbWphMl9iQllsd29jdWxlUFRPYUdvbFUyRXBGcktHQ2JhRWcwa0pZdjJsUGoxeGVISldwcmg0WXRIVGl2aWRGTTdmWG4xUXc3UFFhVGJSOGVpdGVxaGQ2WGdtWEFKMVRmSVhzV2IzQ1NiMEQ3SW9DMkgxdVU1aWZ2SXRqRVM3VkExVXJqbXVHWTNQRjRqZjZHMW14Wjh4cWVTQmlVZktaZFpBNjl0VURHWk84REVleno4Ym44WFZPbEhabXZSRXpoS05hY2E4b05MUWs1MXF1eF9NV1NraTJLMFpISFJ2Z0pFVVF0dVBudlo5dlhiMGxaNDhzY0pXYllUc28wdzk0TENZbzRUNU54SFZWVjdyTl9NdGFKeFhhcW04X3daanRDb0drTDdsTUpaWll6bUYyRnN0TkQ4Zw?oc=5",
+      "source": "العربي الجديد",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 24,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "حظر"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "US sanctions all Iranian airlines in sweeping aviation crackdown",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1ySkYwS2dpTVp0bC1Yb0FkT1ViOVNVeTVURnFaM2hHR3l3UDFiSWxJck1yNmIydjh3alo5dlBmWklGVTVuMFg0QTJVMmJEQ2JVc0E?oc=5",
+      "source": "Iran International",
+      "published": "2026-09-08T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 24,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Barrack says Turkey bank sanctions target IRGC-Qods Force funding",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1lNzRKMjNpaHZXWkFiQzdQR2FEVHdfRl9vcl80Z3BOQ0hmTW02SW9vRmtlYW0zckZMVktSajNVd0dxcjl0V1RvblkwV0U0NEo2OVE?oc=5",
+      "source": "Iran International",
+      "published": "2026-09-05T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 24,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "After Waves of Sanctions, How Is This Iranian Bank Still Functioning?",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNXJheTNLckZ1UU1LSXVTc3hhVmRQVWlHU0RVR0oxSFpyVWc0ZjhwbFVXOUpQcHQ3NnM4dlpCTTFJdkFxc2pHUTc4MWtpY0d0ZHBSa0xSZ3BJd1BFVkk4MjVkeHB4VWNJMmZMUFU0YnQxWUQyT1lNVjhLanRRT1NPRXFGd1FqVV9D?oc=5",
+      "source": "The New York Times",
+      "published": "2026-08-26T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 24,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "European Court of Justice: An OFAC Listing Alone Does Not Justify Refusing a Bank Account",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPckdqblJGZEdpb1pmejZ4U3BHdWdhWXltTGJpU0ZIVWFLTGRrUUR2b0pQU196ZXFmVjdibi12ekR0Wmx4eW5NTHRIcUIzY3dFR2dHTk5aYm50NFhZMnJNM0xPdmEwTEVEX0pkSkhMZFpiN2p2SUVmdEhhaDVBUUdMOWVkODZWMVNMTEFmaDBuVTBZWUdWb2ZTb0RJRQ?oc=5",
+      "source": "Skadden, Arps, Slate, Meagher & Flom",
+      "published": "2026-06-22T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 24,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "ofac"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "واشنطن تعاقب مدير \"بنك ملي\" الإيراني في دبي وتصنف \"بنك مصر الإمارات\" مصدر قلق لغسل الأموال",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE1qZHZTeWtObzk4b183cGNObDRsSkpkS0FnWUZxbTRadGVvcnc1SnZyQk5IT3p5YnFzMUQzc18tNGdUZlJpQjRhc2hn?oc=5",
+      "source": "الامارات 71",
+      "published": "2026-08-28T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 22,
+      "categories": {
+        "Money laundering": [
+          "غسل الاموال"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "وزير الخارجية الإيراني: الحكومة الفرنسية تلوم الآخرين بدلاً من تحمل مسؤولية إخفاقاتها",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE1KTkJZR1FOUlV0TzJsT0hKNjhuUHV0ak96Q0dQYjdRSktRLTJvRUMxNnd6d0ZPX05EUkRiUkRUUHFVYWJkTVdWMVl6VGpmTWtEcWc?oc=5",
+      "source": "Iran International",
+      "published": "2026-11-10T18:08:50+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" (عقوبات OR غسيل OR فساد OR رشوة OR احتيال OR إرهاب OR تهريب OR اتهام) when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "\"المركزي الإماراتي\" يغرّم فرع بنك أجنبي 200 مليون درهم",
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPNGpmb1dtSWF6UklKeVJESmx0Tm9kYUFDaHJyMmUzbHdfamZGMHVOVzM2XzJpelNzencza2Q0LWNkQkd4clhNVzlFLVFzTndkc3FQdkt6TE1aZncxWjZmSUY1b0E3MlhSeTJ6VjcyZUtRX21mcjljV3RoYWJ2TG1mYVR3dmJDTUhackpBcUdKYXJlNF96NmNzZ3h4c0V1aGtBalNtRW9pN2xaTi1tZlQyV084RDg0MjRtSVFJbVpBTjlpVFM5Yk9yTVNwbUJCRTZpNURvTnFsZGowNHRCRGplRTB1OUNnd242OHVMXzVvdkc0bk8zOXE2UFRnYkdVS1k2MTdaYnJIXzdKZml3Ny0wcWdrSlptR2xKZHZoZWlwQ19Qb0UtUVhUcjl1WllNWmkxVkZLcTBNdDRpZEpORy00QzV2YTN6Y21ZUmNJM29pLThvejgwZnBkLVRfS1RWVFZtMDVXaGo5dDRXbjN6TFU5YzQ0ck9DZzBVT284MGJSMHF2WHpSbDgxelJnbzdZeXdadnV3SjFib0Q0X3BzQldnVktwdw?oc=5",
+      "source": "الشرق بلومبرغ",
+      "published": "2026-10-30T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" (عقوبات OR غسيل OR فساد OR رشوة OR احتيال OR إرهاب OR تهريب OR اتهام) when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Azerbaijan central bank plans no new restrictions on Bank Melli Iran",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNNjR2Q3owYnE2UlR3UFg3eldsVXNRNTd3UElYNDZDZWpBNUhqOE1JWnBkTF92WXZYOG5rNmVVbHVyOXZLbEVvaFpHQWxqdUxETVlzcDM5UEpVR3dQZUo5VEMzTjdxLVdhd1FIWTlFd1J1UXlSZFFZRlF1QngxYVdaajBxeUd0aDhuVnMwQUc5Q0hoR2NPQUt4QXB2SXJxUjczUUNsa0IxTnd6dw?oc=5",
+      "source": "Anews.az",
+      "published": "2026-10-29T11:00:07+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Azerbaijan's CBA governor rules out new restrictions on Bank Melli Iran",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5jcUNPdFZOamhDVVVQRk5Qc3JLRnIwREcySXUwM21DejV0Yk9aSHNMdkJheDZERzJhalRSV0pzT2tnQ2I5RUF0V2k0UVZQaGFZdmdVUFlBOA?oc=5",
+      "source": "Trend News Agency",
+      "published": "2026-10-29T09:22:11+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "CBA: No plans to impose new restrictions on Bank Melli Iran's operations",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQYjVsMW9MRU1UOUh2aWpRWDNvWFpWeGY5dmp1ZklTMnRCWnpiR29iQ0ZpbFQ0THdKLUotTjg1eXlwRTJiSS1QS1dUTzBCeGdiaDZNN3dsSlhTZkhEbzUxNDNhSkx3b0VFTTZjM2xJeGZuYUJZQjNaU2VHZEZBZk1vT21GLWV4LUljeGtrdUFEbkVDQmkzLVRpTndwdklnVjl2RGc?oc=5",
+      "source": "Report.az",
+      "published": "2026-10-29T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Exclusive : Iran , a Coiled Cobra Ready to Strike",
+      "url": "https://www.greanvillepost.com/exclusive-iran-a-coiled-cobra-ready-to-strike/",
+      "source": "greanvillepost.com",
+      "published": "2026-10-19T21:45:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Exclusive : China and Iran Influence Networks Join Forces Inside US",
+      "url": "https://www.newsweek.com/exclusive-china-and-irans-influence-networks-join-forces-inside-us-12579895",
+      "source": "newsweek.com",
+      "published": "2026-10-19T09:30:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Iranian Flights to Turkiye , East Asia Continue Despite U . S .- Led Air Restrictions , Tehran Says – NaturalNews . com",
+      "url": "https://www.naturalnews.com/2026-09-30-iranian-flights-turkiye-east-asia-continue-air-restrictions.html",
+      "source": "naturalnews.com",
+      "published": "2026-10-01T02:30:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "واشنطن توسّع حملتها ضد إيران.. قيود جديدة على الطيران والبنوك",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE45Y0d4TEVDanVqQ2xCZXB2MldzYzg0S1RyOFI2ckFza2hQTUFOYjVBMjk2TEhCenRlSG5RbWlzbEdZR3EwV0pLek85VW5MNUdx?oc=5",
+      "source": "عاجل",
+      "published": "2026-09-26T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "UAE suspends flights by Iranian airlines until further notice",
+      "url": "https://www.thenationalnews.com/news/uae/2026/09/24/uae-suspends-flights-by-iranian-airlines-until-further-notice-under-us-ban/",
+      "source": "thenationalnews.com",
+      "published": "2026-09-24T18:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Iran offers 60 - day ceasefire plan as Hormuz tensions remain high",
+      "url": "https://www.siasat.com/iran-offers-60-day-ceasefire-plan-as-hormuz-tensions-remain-high-3547352/",
+      "source": "siasat.com",
+      "published": "2026-09-24T10:45:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "UAE central bank cracks down on Bank Melli Iran, citing violations",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRm5SNmVZT3FkQ2VYcEs4b3lGZ09nQkdRb1FKNkpDSXd2cG9Sd29TS190QS1paDU4YnNCUXN1VmloOU9aTllGV0lRU2ZLSndnWDFXMFRUaGRkcXFYcEhpQjhmY2d3UlR0R2FnYmxYbU43QmJFX1NrSmpJRzdQZkp0cHU3Z0FBVE85Y3RtR0NXNTBjR3pQZFVVWTl5U2NQNWc?oc=5",
+      "source": "The Circuit",
+      "published": "2026-09-24T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "الإمارات تقيد معاملات بنك ملي مع إيران بعد مخالفات امتثال رقابية",
+      "url": "https://news.google.com/rss/articles/CBMijgRBVV95cUxOMUJERWxVM3dOV19NSEsyWnJ3RDlFa1pwNGw1R0hjdGlFYUsydDhWUVB3OGN1cDJaOGlBVjVTSGVqLWZvLWN3TzJzYk52T01hNG80SjFaUHV6V2YtUjR1c3VTREEySEw3aHVKTGpSRUFFbVJjYjQwNDV2WU4yMzRCQTFaVkZ5S2JoMlZkYkwyZ3pTR0ZoQW9NdjR2V01pWlpvVV9jNHp3OUZWUnVaMUVuYlFqMzdoSDlKOGlBN2tfQkQ1YTJWMmNrdXQzWXZNWU04a1kwaEtoUURJa3RQc19iUGM5NUZMVE9QdHF5c05FWkZhOUg0ZVEyYXdkdHZZVmtJck15ZnNIb1lmb0FMSjJ2NWx1RHFCYXdJYmJDYlNiTGlodFc1bjhTTktneGxGZmNqODNaMmtZM0xIYkQwcmFhRmE5aHdFQl9lTE1rYUZHcWJIQXhoNjdNbnRYWHhXSUpMM1RWVHdPUGpGdGRQZy1Cb3N4UFFKYkk4WG5DcndfeFBPb255Z1ViSDFwamdORVhmYl94WUdNMElqUnB6aXNOTVIweDVxNlZuZWJhUm11Q3JJX1pVVklVWXU5UXBoazZfX0JUVjhfbGllT3NxQXEyV1lsWWQyYXMxakNSVVdwTnkyRDZLb1J5ZHotdk9FNjRlcWZRUXQ5VFZUZGs2OFJfVzk3Z1pBWWZPN01TV3N3?oc=5",
+      "source": "annahar.com",
+      "published": "2026-09-24T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "قيود مالية صارمة من المصرف المركزي الاماراتي تجاه بنك ملي ايران",
+      "url": "https://news.google.com/rss/articles/CBMiS0FVX3lxTFBGRmlUNTNMdFVObTVrSXJuMG9CQm0ybXBkSnk2WTdYSmtWQnJ1S0V6elpzazVxbjMxT3lXSUVKc21yU2IyTi1zNFVRWQ?oc=5",
+      "source": "الوقائع الإخبارية",
+      "published": "2026-09-24T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "الإمارات تفرض إجراءات إنفاذ صارمة على فروع \"بنك ملي إيران\"",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE54cU15ckxBc0dNbWFIYWNQN0JiV1U4TUZGTmp5UkgwaThCTjgxZ0FTaXhmZkpOdzVSX010bGJ4Uk0xVE1vbUhFNFhwZldvYXJoQ2ZPSEdQOGZiaExpUE9oVGZZeXpjZUk2WEdBdUpaMjFzZw?oc=5",
+      "source": "جريدة البلاد",
+      "published": "2026-09-24T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" (عقوبات OR غسيل OR فساد OR رشوة OR احتيال OR إرهاب OR تهريب OR اتهام) when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Iran proposes ceasefire road map , $2 . 45 billion pledged for Gaza , and Syria tourism doubles",
+      "url": "https://www.thenationalnews.com/podcasts/trending-middle-east/2026/09/24/iran-proposes-ceasefire-road-map-245-billion-pledged-for-gaza-and-syria-tourism-doubles/",
+      "source": "thenationalnews.com",
+      "published": "2026-09-24T06:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Tesla supervised self - driving system often misreads speed limits , Belgian safety group finds",
+      "url": "https://economictimes.indiatimes.com/news/international/business/teslas-supervised-self-driving-system-often-misreads-speed-limits-belgian-safety-group-finds/articleshow/134451384.cms",
+      "source": "economictimes.indiatimes.com",
+      "published": "2026-09-24T05:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Middle East war updates : U . S . and Iran hold first talks since June after Trump threatens regime with annihilation – Ya Libnan",
+      "url": "https://yalibnan.com/2026/09/24/middle-east-war-updates-u-s-and-iran-hold-first-talks-since-june-after-trump-threatens-regime-with-annihilation/",
+      "source": "yalibnan.com",
+      "published": "2026-09-24T01:30:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "UAE bans Bank Melli branches from conducting transactions to and from Iran",
+      "url": "https://tradearabia.com:443/News/486757/UAE-bans-Bank-Melli-branches-from-conducting-transactions-to-and-from-Iran",
+      "source": "tradearabia.com",
+      "published": "2026-09-23T15:30:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Iran's Bank Melli shut out of UAE for regulatory breaches",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMS1kUGNJbExEU0FTbXR2bHVqa3hRSVlxRUlYU2tMQjFTd2txUHE2MUg0VGJ2WENkZUc2QW1yVWlhRFh3Rnk1MU1UZEhfYkpQSXF5eDN1ajRaR20ydEZCOEhqSjlQTFh0N3dndlprS1FQeTJaemxiWGtHMmc1RFFaa3R2SXZlYXFnUTBodG53Mk9PVHpRVkFvbXVwbUZSdw?oc=5",
+      "source": "Reuters",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "UAE Central Bank bars Bank Melli Iran from conducting transactions",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRmdoVGFFUDZydC1mLXYyQ0ExSGtjQ0RYMHRzb0tzUlFWSDJWM2V6TEY5UzRmVFFqR0FHTUMtYUVROFQ5WHVNNXp4ME95bW5qLXFxNURDY3lwNXZZb1M0LXl1bTd6TjJVY1lWeUp4dl93Z3lGbE1DWGYwemxqSW5QTzJXUGwzTkVweDZ5dWVKYmZnelhQbURZdnk0N2dQRFBXVkw2MElMTG85bTNwUGhkVFAzQi1GNTI3cV9J?oc=5",
+      "source": "The National",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT",
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": [
+        "thenationalnews.com"
+      ]
+    },
+    {
+      "title": "Shafaq News..UAE restricts Iranian Bank Melli branches",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB1YXRReFJWcG15Y21qY2NsNWdmSk03X2pObVBPWEVfcWFwQ3g1OEhCaWJDSDdUWHd6cENDd3JXamxPQmJPR0pYcjVnSDlvQnVhSmJlUF9XUVcwU3RkT1E1a2F4ZUJ2SjlZYlJEd2xGdzNlRE90WkMxRzFLNA?oc=5",
+      "source": "شفق نيوز",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "UAE Central Bank bans Bank Melli Iran branches from transactions with Iran",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZjhreE1NaU9keXZ2Q0N4U0ZRQ0g5SGVCZTRXSk5hV2c0TXJJUVppakhQRzlNNW1wMk5NN3llWE9zcmlrNHp4clE3ZzJqTldlaVJtSXZTVjRKSU1CYVZOM0VUalkzbTNCRFhfMk8zSUZEendrRmRVd19FR3kxa2ZBNFhaQUo3Z2c0Qm9lY19xcF81Y3RhSVFNZHBOc0R4bXI2M2d5MFc1bzBYMDFYTVdPWlBjRFF6S2tBLThwUTVaaw?oc=5",
+      "source": "Arabian Business",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": [
+        "Fincrime Central"
+      ]
+    },
+    {
+      "title": "UAE Central Bank slaps restrictions on Bank Melli Iran over AML compliance breaches - The Jordan News Agency",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYzdRdkZ1djlmUk4wTzBfMzBJYWVzYmk5UjVNTGMtZmExSGxEbVJXZWZ3d3NmNjhwZXFhNUVxTzJOLUE2UG9GX1JjWnhock1zem82ZnlQS0FBaWJ3MmZyWFBpNnhkZlNwUGlpYUtPWXFxM0ZyQUhqZ2xITG1fVjQxNTRnVTNkdXhtTkNjNUViVWFzOTFwQndZZHdHYjJTaVE2a2Vna2ptbTZKczJfNzNWaG9B?oc=5",
+      "source": "وكالة الانباء الاردنية",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "UAE central bank bars Bank Melli Iran from operating in country",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb2VLNkE3LUktdWp4OFJ1dURQc0VPOVlZU0lQa2l0MHVCLWVUa29CVjJpbmNCVFdUU3JORUFtS3ViRWtMQjBsZVRpdVFSMjAxb2pOSUJ6N3kzUkhVc21mOVdwbDVvRFZhVWk0SnhsaTNCX1RybnMwYUNvYWFJMkVnLTVvWnJFbHUtRHI1SmFfZnZpcDN5QWRZSElDMkVJZDAtY1FN?oc=5",
+      "source": "Arab Times Kuwait News",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "UAE Bars Iran’s Melli Bank Branches From Transfers to Iran",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa0ptMWoxX0FWRjlpb1ZURkFVeGVGRVFmYUgwQlI1NlZCMnp4YS1GU2I5RVk2d1FjQnBqSk92WkUzY0ZxM05oSWFXVEhyOUZ0djlsNkszQWtCbFI1Tkc4UXBCZFNpUFZZQ0dGendxYTloME9WNWZFVFRHNXBVdmdpaXhINA?oc=5",
+      "source": "WANA News Agency",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Melli Bank\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "\"المركزي\" يفرض جزاءات صارمة بحق فروع بنك ملي إيران في الإمارات",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9pMTQ3eFl1WDJ5TjdrN25WZzlUNTFMRDBxc29hTnRoRzZtX3BoRnVJbXZTdmdqMFJtZDU0YmJuYWJ2MmRlTEpfaHVRaUM5MGVHUVNSckFCZTE1WE0?oc=5",
+      "source": "Sharjah24",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": [
+        "الإمارات اليوم"
+      ]
+    },
+    {
+      "title": "إجراءات صارمة من مصرف الإمارات ضد فروع بنك ملي إيران",
+      "url": "https://news.google.com/rss/articles/CBMihgdBVV95cUxPNjh4d05EWll2eXVzZmpBVHlfU0FFOHNxZmJNTG45bzRYS3ltWGVoMGJXeG5VZWlfSFpYTzlOLVFDd2IzTXNuRVk3MkxSSlJ3Tmx2eXhabEc4ejdObkdHVnhoNkdpc0g3d3Zub2pmYkpEaE1ERTNFS1pCQzRBdHdha1QwSi05MEVwWVFtNXFQWjYtZVRiUElua0RYRDNlSEptbEo1RmdNMjhPMHFDMWdzU21CRzNxWFdTamw4N19yVEtNb09ubzh2ZFlib1FfaDlyYjFTMlA3SVhBdXJfQW9Mc3JtMGpwOEJmYk10bGdjV1VvekZmMEx4cGtLWmFJSFVCR3k4c1J0OWc2UlBaVnhLa180cGtxVzMyRGgyZkZYX1hlVU5qQzVkUVFvLUVYblVzUDVkR2RKWjZRdmhLU0lGS0FVLXM1TXpDaGNHdHo1dzkwZ1hjRkdRR1RKS0NSOHRmaC1YXy15Rm9kNEFidExxQ3hiV1BWN19QTWJxZ2xtRkVTaEw0Y18wcVpVZE9YV0VRWDc0SkV4R2NQejlfSmw1eEE4aVBLM05DZ3NmT2RtYjg4TVNoRFVudXFlenRqR3hSb3Q2MEdvTHQwNFFJWnRpVzFJYk9LTFBVV2dkWVFjcEZPdmRObHB5SGxlZ2dBZkRZaXdjODBDM0dweXhNMTJBNHl1QmNKY1ZwNWl1ZFJNWWFnbklKY2dQMndGMlNpZXpZNmlOR2JRZ2NFZDFaUHk4d1FlZ05mQ1FRVzBFYmF6ZW1KeW1BbDhXWVRNSjlnc3JRdkgtbDJwblhGVmxLX0pDbDN3TkhQUU1ZMnJkby1RUjVSSmFfNVI4SEd0a1VVWkRqWEcyTzMxUkozQXhlem12QTFmWGIxR1pHc2Z0Tl9RS3dQM291RkRJZEJIaWJnMTdfZzg3N1RtQTNmZERETEVjWFF6eDdSNlk0Q3hraExtTjBJenp6a1dlb1lsdDdVbm10dE1jMnBXcVN2Y2pwTGJtUnJGRXctWWJRcDVyNTl0YnVFSG1TVENVSXZiOEhIeXlmdTljMmtxeVZOZkhwa05GWm1pVkc2ZUY0bXdOSHJHN0tCV19ZMWNBREI5RHplTzQySElvUEgyZWhMekE3VkRLdExDRzRyMmh6WFNvQWJ1WjNnVE1QYW90aUg4VHdhVkIxSVI3Zy05cnVYSkQ5d3VzeHFHblJzdw?oc=5",
+      "source": "annahar.com",
+      "published": "2026-09-23T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "القناة 13 العبرية: الجيش يستعد لاحتمال شن الحوثيين هجمات صاروخية وبمسيّرات",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UazZwUVhDRHExWjFPbUdKaTlvQVpzS3ctbEx1MjRPdFJCTjZCczk1d1pvVHVZb0VTVU5JaEFXekRVVkxBZUczaUxHV1dyX0ZiWVE?oc=5",
+      "source": "Iran International",
+      "published": "2026-09-12T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" (عقوبات OR غسيل OR فساد OR رشوة OR احتيال OR إرهاب OR تهريب OR اتهام) when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "الرقابة المالية الألمانية تُدخل فرع بنك \"سبه\" الإيراني بفرانكفورت في إجراءات الإفلاس",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9iandjNHFGbHBkemREV0FIMnVqMElqVFRWNWFidnlWYVZJUzJyOXYyZlA1ZG5DdEVVTThkb052dmVNdUFrZ1pqeTJid2tPLUYwLUE?oc=5",
+      "source": "Iran International",
+      "published": "2026-09-12T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" (عقوبات OR غسيل OR فساد OR رشوة OR احتيال OR إرهاب OR تهريب OR اتهام) when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Iran is influencing American higher ed - here how",
+      "url": "https://www.thecollegefix.com/bulletin-board/iran-is-influencing-american-higher-ed-heres-how/",
+      "source": "thecollegefix.com",
+      "published": "2026-09-09T18:45:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Canadian court orders visa decision for former Bushehr nuclear plant manager",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnbEdqb29TOWh1MUJaaGpDYXhsMDMtZVA1bnVLZ2djYTVzVklPalgxYWRSMnBTb2E0bDlLeVNBcjB5aU8tWkpfdVhHa0FUMk82MGc?oc=5",
+      "source": "Iran International",
+      "published": "2026-09-08T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Trump promised  economic D - Day  for Iran . The result isnt what was expected",
+      "url": "https://edition.cnn.com/2026/09/04/politics/trump-economic-d-day-actions-skepticism",
+      "source": "edition.cnn.com",
+      "published": "2026-09-04T22:30:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Trump promised  economic D - Day  for Iran . So far , actions have come in drips",
+      "url": "https://us.cnn.com/2026/09/04/politics/trump-economic-d-day-actions-skepticism",
+      "source": "us.cnn.com",
+      "published": "2026-09-04T20:15:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "If Britain backs US plan, Iran's London bank shuts down on October 22",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5wa3ZUM01yZjBuUjc5RzJSMVMzSnhBVDVJalhRMWtuQTNjQm5iVEg2MVdFMnMyMVNXZHIzckMxem1vUGVyRHJaSXlxTGRFNVdqSmc?oc=5",
+      "source": "Iran International",
+      "published": "2026-09-04T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Iranian missiles intercepted over northern Jordan - Al Arabiya",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9NcGNSNl9xLThlWkVZWXl5dTF1SjRkcGRPS1M3eVZKeXVPcmUzaThLUHoxR3A3STlWQjlxbGwyNFY3R2hWTUdDYmlkb0wzLW8zU2c?oc=5",
+      "source": "Iran International",
+      "published": "2026-09-04T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Melli Bank\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Saudi fires up Gulf AI race with $15bn tech deals at LEAP",
+      "url": "https://fortune.com/2026/09/02/saudi-fires-up-gulf-ai-race-with-15-billion-tech-deals-at-leap/",
+      "source": "fortune.com",
+      "published": "2026-09-02T12:30:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "US crackdown leaves much of Iran’s shadow banking untouched",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5ac3NhcEcyT2MyLUUycC00WEtySlhsNTNFZGJ2eFZ1UU42d0FrdE1EVUQ5dnZyWlNnTEtmdDY2aHl5UUpFNGV2YmxzQURpeWdjU1E?oc=5",
+      "source": "Iran International",
+      "published": "2026-09-02T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "الولايات المتحدة تستهدف بنك مصر فرع الإمارات، ومعاملات إيران تصل إلى 1.8 مليار دولار أمريكي",
+      "url": "https://news.google.com/rss/articles/CBMitgVBVV95cUxQbU4ybEVkWGt3ZGdUQ2NXLUF2WEJUMmZrUlFoajBSQ3hHdHlXYjFPN2VQM2ozSENFQWk1cjFOTTVtQmsxR0tFQTdCUEJNZjRLZ1lnNERVdG16UXZUaExQa3p5SWN4MDkwUWtVRVVxOVpDSkFkT2NrRUV6eDZYdkRheUV4dV82SjNTRWZWbC1qdnF0THNrX1BSaVlJeHpaZEJMYVM5U2x5SE5tajlvZFU1WDdMZlRQTnNuN1NDSzVPdll6WElEazhveWxXUjBkdU9hUEV0SlFzRzJYWEY5TnNsWGtGYTg5c2RRTzlXTUd4akRMa1RSZWRIN1ZfSEpxWTl3aGs2X2htb1g5SjdsV09GOHM4bk5SODlobnluX200M3MyTXdxZnR6YU1BSlcyaVZiaEVFamFwcHJSZWtXb0kxc3p6X3Y5ZXQwZGZGdkdYN2RESnBfdzRjUG5PZmN6cm1NOXFlZ0VTZ1lMWkZGaDRxMDZYWkhybVB2NFl0ckdWelRoMW8zODhHbWtNVEpLSG1EcThXeVQwNDBDVW9JZTczdy1tV0xVMTF2ejkzRHdLNHVvLVpYMldBbVRWbXpKVVdkSWpvT1dGNWJmb0lyaTJWM0FCOGc5UTR3NThMTUsycWhCQy0zemNKSF9sdWhsbFpxa0poYlktUmZDd1NDZ0RCNklBQlBIcndzZVVKeEhCanUtNWY2dG5TTkJqTmZnRHdMU0dOcVVsX2FFd1VOTThydktDTXJTZlpFTWxHbE1KZWtoOVd1WFBuN3pWQjA0ZlZTT1I2RFNMazF6cHBoT2RsaVU0TDBuZHd4Sm1PeGwyY0NmNmM1VE9LX2hsTVZabEZaMWp5TzFNR0xpQnRpYzZVOHBVU2VDdlNidUlTTXNqWDQ0R3h4YUtVSHFaTE5ZcFg0NWZ4LXF3?oc=5",
+      "source": "IDNFinancials",
+      "published": "2026-08-29T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" (عقوبات OR غسيل OR فساد OR رشوة OR احتيال OR إرهاب OR تهريب OR اتهام) when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Iran or the dollar? US makes an example of Banque Misr",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE84ODRtbEppbVFBTHZ3VFlIOVA0Q2pnMlJOcDV3UVYtZm4yYUp3OFFBMDhRcjdyeXQwa1NSUHJEdkxyTXhic0Rta3Y3WUhpYmxSX2c?oc=5",
+      "source": "Iran International",
+      "published": "2026-08-28T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "US targets Egyptian bank in first strike of economic war against Iran",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFB1SWpwdUpyY1JxdTFzR3BnQVY0S3N3SEM1SHB5YlVuRW1Bb0dYdWJTajhBZEpydUppSjFybnNZMnlzdjdJT0FJVnlNRzk0Nkl5OWc?oc=5",
+      "source": "Iran International",
+      "published": "2026-08-28T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Iranian banks and businesses remain open in Dubai despite Trump’s D-Day - WSJ",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE8xZUNJQVE2VXZUcTBydWZKRUNMZURkSlNxX19NVUpCb0EtUkN2TUxnN25wRVY0VGFmaG9BSkQwUXRySl9JQTdUWi1KMllZQjhuNmc?oc=5",
+      "source": "Iran International",
+      "published": "2026-08-28T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "More than 170 terror victims , family members sue Iran , Syria over attacks",
+      "url": "https://www.jns.org/news/u-s-news/more-than-170-terror-victims-family-members-sue-iran-syria-over-attacks",
+      "source": "jns.org",
+      "published": "2026-08-27T16:45:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Operation Economic Outcast’s Success Depends on Aggressive, Sustained Enforcement",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORUk1cTYwZnpUOXBVb1NHcFItSTRRTU11dy1jS1RDckhaN1lRLWR2WlI4ZjdQckRuM3JSVldLcmtlczlKZVg0aXA0bUprRE5FSFpKdWFOQWE5MVFUOVRMZnRFT0NkMUNpSVpqNkFPTnlXUklsU3RySWphSjlTRmN0VUZoVkt2Tmp2NGJDdzJjclN3RmVvVFBnX0tKdEdqbkljWDYzeUJEZHNjRUVGUVE?oc=5",
+      "source": "Foundation for Defense of Democracies",
+      "published": "2026-08-27T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Treasury Department Launches Operation Economic Outcast",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZk1ZM3Y5cHk1VVplcEpxXy14TGpGOGQzMkxhOW5jcFVyMTlBQVBpU21lQjB4T1gzRElwSTBES0JaNGZKX1RaODRSVTVKRWt0c285NFliSlNkb0ZUMDBDS1g5NkFXWndRR1R6WGY5ak9ERVp4Y29PZEEycXl3S2ZMMFFrTWU1YU9DVzdkUEI2VWNNWEZtWjBaYmJUa2YyZ9IBoAFBVV95cUxOVE9EY0x6Sk5Zb2FETUNod0h1cGI5b2tXUi1SaXZ4N0RoYkVELW8tZlo0dDlBaVpyRko0ZXpiazZoWF9KckJmTzVQVlgtN3VpOUxVSWZaTGNSLW5ISXFXWWIzaEcwcmd4NERJVy1LMVlHRGVLUDllYm9RNWRscUZPdko5UVk0RDVNdnBaTlRmVUlXY2tQQzZrY0hQT2kza2V2?oc=5",
+      "source": "VOA - Voice of America English News",
+      "published": "2026-08-25T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "U . S . Initiates  Economic Outcast  Operation to Sever Iran Revenue Streams",
+      "url": "https://www.cubaheadlines.com/articles/338644",
+      "source": "cubaheadlines.com",
+      "published": "2026-08-24T22:45:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "US Unveils  Operation Economic Outcast",
+      "url": "https://www.newser.com/story/395198/us-unveils-operation-economic-outcast.html",
+      "source": "newser.com",
+      "published": "2026-08-24T20:45:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "GDELT"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Two-week banking disruption leaves Iranians struggling to access money",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9UdWZ2MWtuWURYaUJ4T0hieENZei1Kd0wxamVSMTJoUF95VkNPVXFjbGZGaEsta3A5dWlhQXdlaE5oekpIOUtrSkJ3VDUtOGF3a2c?oc=5",
+      "source": "Iran International",
+      "published": "2026-06-30T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Melli Bank\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Iran’s Biggest Bank to Suspend Card Services Again",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV1h6ZGg2dHhOM0ZwOWxLWnNfZ1hlVGpUY0w5aWRnRmhyQzNqalRlS3FZS1lIejhodXBjdWdLVmFjVXFJQk5XVWRwMFkxZG8wWUhJbXIyN0IxQnV5U2ZteGVGQmx2N1VNbGZKTTlQcWtNT1RNV3B4QmVzNnZaTWRJNnBPTHpYSVljdU5MLVRNT01TSWtnTnJZYkhnSjB4dmJMNG5rUmhQdw?oc=5",
+      "source": "IranWire",
+      "published": "2026-06-26T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Cyberattacks on Iranian banks suggest covert action is back on table",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWVpIRVV4bldVM2l2LVdMRExjS2JIaUZUa05wN2YxbjRSaGFEdFdFVHFNZjdCLVcxaUJIZXI3ZnV4Q18xMGJmVjZKekFHeEQ5U2J0b0pKMUJVWmNNbkNqNGtBVWtVS205ZklBLUZQMFJuTTFPREloVERhOWdVS0Y4REd4UkN4cV9DUGZtWXRKaTZsVVJVcFo1c1BkQ1RjZ2JaOXJibDdoLW8?oc=5",
+      "source": "Amwaj.media",
+      "published": "2026-06-24T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Melli Bank\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "إيران: هجوم سيبراني يضرب نظام البطاقات المصرفية ويعطل خدمات ثلاثة بنوك كبرى",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPUTBRUFg5dmRqdS01X1BzQ0xWaHhZVEtQRDlpLWhFVU1MUEdPb1F6R2E1c3BWcURpUUhqdEVrTElwenYtb2JpX0prUUk0VElWN3FOQlVTQ2RWV1VndGFBdGt2RU16MUR5NnRKVDJ6YWhqMDBQMUJaekNOMWZGUjFVYnd5NzBVOEtldmZnbDR2Yi1vdw?oc=5",
+      "source": "Euronews.com",
+      "published": "2026-06-24T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"بنك ملي إيران\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Iran says card-based banking hit by cyberattack on three lenders",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRHhTemlqM2FLbkZLRG9tYmpfMVBxREt3dGF3QUNuOE9xLWF5U1A4bXYyVmc1OW1VbmtvZld3d21VNG5wYkRXYzAtRVl5QkN3eDBuc3NDRE54RVpFNUlfRW5lWWYxTWhDRDYtMUtYR1FYYURuclhRZndvMlRlRkl3M0EzYXpjS1c3SVhrcHZaNzdqNjVvUktlUkFKV3d3czRTcWFuZ2VtLWQ0SV9OYUdMMmdMdnpVdw?oc=5",
+      "source": "Reuters",
+      "published": "2026-06-23T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Disruption at Four Major Iranian Banks Remains Unresolved",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeWZhZzdCZXA2V0VnN0NsamF3Zmw4S1hJdkVrTHlXUUthT1VtZVpkeVpIZ1JRcXlMbHdZdk9CNjR0NkNsRElPaXh0SjFfeTlHNTVtYno1d2JSTkNmTkVjakw1R1UxOUJDUmdwZ0hVc3ZhWHk0V3I0QlE3N2dYVG53ZlhzT3ZVNHE2WkRCYlBNdzZDdnZWdG1UX1Z3?oc=5",
+      "source": "IranWire",
+      "published": "2026-06-23T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Melli Bank\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Cyberattack hits Iran's card operations at 3 major banks, restoration underway",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUjg3TDlEWTVTanYwMjdCOTFHZFF1NWtWVWw2TGNxOHN4S2ZtNU5iakROa3o4SFpMSm9qbUU0UHQ3YzkwMmdlZ0pFTk9TaUpmaGc3cURpNzZSSzJ0dUh4el95Q3MtaWVLZktnWUdLdEc1N3Y0UU9IMTJFZ1J6Rm5IdkJnNG1YRkZzU0JNWXcyWHJ1NXhfM1h1TUV2TXNkdm1FWTBwMnhlYl92dU1xQW9UZXp5UVptcTRDbGNqR1k0NGHSAcYBQVVfeXFMTmFfdWFxMzB0eHVNOTIyemVrWkVfcG55NG5mdG93akk5QUlGcXJ5NzkwNGtvZExSOVl3QW0zVUpNYUFLWjVPREcwd1BHLXpVR3FJcEt2aGtDendOMEllQlFCMHBESHI3T3l3NmYyVk52UV9TaVVUZzlsVjl5ZmpXX3R2X0RxQnNial9BeFJYMnpqUWRiT2xhOC1Fby1udGREb0xBUUpVbVRpNlU5X3JvVHB6NGdmNnpxWkVKdnRwUGlVeWdGLXF3?oc=5",
+      "source": "India Today",
+      "published": "2026-06-23T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Melli Bank\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Iran says limited cyberattack disrupts services at four banks, state media says",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPekNlcHljbzkyU2huU1VqQnB1SFRyVHF0bHJKWVR3RXZETDJvQTBrSVVDN3FVRzNDdjhVc2txU2cxeU5Id1dWQlVXU0l6LVJwNWZrOTlsWUMxaHFMNm16anRrMWVIWHQ5NW5vMWpLY0pUY2lDemo1c3NEVlRlSnpBTmM5dnFhSmNrRjRlTlVZbWI5RzBrdW1LQmZiVGNhNzkxeDBEb01oRUotdlA2dkdGR3Q3bWQ5bERQcHFKVDZrVlpRVUNGbXY0ZA?oc=5",
+      "source": "Reuters",
+      "published": "2026-06-14T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Melli Bank\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Four Iranian Banks Hit by ‘Limited’ Cyberattack",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1Gb1MyX2lRRzZ3RmFLeFhXSVNqYWJJcXVBZXdORlh6RDFKWHFvMC16V1JVZFZxbTFQUTNrX3NaRWlhem1oSXBXM1FmUVNxWUxLbklSaGlLMXczNGtLd3VjSzItZUJld0xkTTU5TE53VTJCcG8?oc=5",
+      "source": "WANA News Agency",
+      "published": "2026-06-13T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Melli Bank\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Economic Crisis Deepens as Bank Melli Gets New Chief",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQV29hMlJKc2xGbU5ZWHZuVnFOWHFqYzluWlUzd0JkS1U4WnF0T2JwblpWbjFJd01ka083RDhYVFQwUHhHUWh4VmFuSHlSNnpScXRJMEtxQzdWY0NKeEl4S3RybktnaHBEbUpzQVBOWVRBMUR4U2I5WEROSzZ6RUtxR0FGLVMxY0VXTUxNVExqWUFJUHM?oc=5",
+      "source": "IranWire",
+      "published": "2026-04-30T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "The Persian Gulf is the First Test for ‘Operation Economic Fury’",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNWFlXbGVzVmNIaHNadVFJeHN4U2dBcmwtWHJJU0JHUXZsb0FZb0dvLWstSWdaWGRLVTBUaW0wVnlWcUpJUDJQdWxLb2xvSEMtTW9lM3NmcEIwa1BMY29jdDRuWE9SajdHQV9FaVZBMThkOXY4UjZJVUprZEtZSDV3eEJMMEJMN2ozVlMxUGVLSWttcjQwdEFYZ184SDRwekVIOF9ZOHFB?oc=5",
+      "source": "Foundation for Defense of Democracies",
+      "published": "2026-04-15T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "U.S. Redirects Tehran Regime’s Illicit Wealth to Its Victims",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOVEZYbHI5NWduSzA2N2s2QVN1TXVVa3NMRjh0RlRrRzB2bUJ3OXFMM3A0bkh5NjBHQmZKa0hXWEZJZFZkUUJWeGlKbXc4YmN0WnoybnhQME1jNDUwNmF6VW1nQ1NScV9KcUNFWUpHYjRyNzkxMVRVTjFmRERyNHEwbVhVdlVRVUMxNHZqbDhPMHZIUQ?oc=5",
+      "source": "Foundation for Defense of Democracies",
+      "published": "2026-03-26T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Oman Is Under Fire From an Iranian Regime It Sought To Befriend",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUjgzY084UV9UVkgtTDY5Mkc4OGl5dXlZMDNNMnFBcUFfeDZmV1o5WmhCUVdHM3RHNGdwUFJuMkdKVjl0Ui1iZmVCbWxja2tsUVRVaVVCRllDekJCTVZWX2E5MEtKU0Q0SzBJTnZiNzMtU2xYTU4wRy1VQnIyMmFLWVI4d044UEhudllxdEdTdW1iRHZoUmNiRg?oc=5",
+      "source": "Foundation for Defense of Democracies",
+      "published": "2026-03-13T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Missile hit Sepah Bank digital security center in Tehran",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBnVWNqclAxSkZqWnhtck5BbHU0NGJtVlp5c2llOTJEZ0tCVWZlSVpNR0VKOEFHeVJGemdlUHVrTHZnWVJsYjNsV0JSSlV6OHFBVGc?oc=5",
+      "source": "Iran International",
+      "published": "2026-03-11T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Melli Bank\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Iran's bank services disrupted amid internet shutdown",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE52dHkwMVl6d1VPNl9XbEVQZFVyMDhBMjFqNE1Idi1oN2FySmRjRl9jNnRFc29oNG9MTDJNazlOYk12MS00QldxSFBPdXREbFJYSExuZWxjU1dzM3BxRXV0Z3VpMzluTEpudEE?oc=5",
+      "source": "The Jerusalem Post",
+      "published": "2026-03-10T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Melli Bank\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Bank Melli Iran; From the Surge in Digital Transactions to Micro-Credit Engineering with Kalapay",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWVJRTlFQUzh4amVDNzJEQXRScTBZbzZDeGdjN0VvU1c1SWs5Z2V5U21sN01ZY0szYVdWWWJ1elNKS2Y4UkZTaWl4dkt6RlN5a3VIUEs4MmUyNzZyWTlfRjNFQ2picTVqeDFkYTdIMzFKRG5kS3hXaHhpOWZWenZBOGpuVEh1clF4R19YZ3hycTlvNjVMc19pd1lCc2VReGU4NFY0VEdzWElkazZWeWVTUVB0N3JtWU9HRTUxbg?oc=5",
+      "source": "تیتر صنعت",
+      "published": "2026-02-09T08:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Deepening the Sovereign Role of Bank Melli Iran in the Energy Ecosystem; A New Corporate Banking Strategy to Overcome Imbalances Through Digital Tools and Financial Diplomacy",
+      "url": "https://news.google.com/rss/articles/CBMipAJBVV95cUxQZFBvUW9tVjY5SWJ0c3REem53VlZBa3VxWkVZc0NJVTlHZS1OMlB2OTk5dDNNbjBuZDIxZnRWY1dSM2tXdkNMbU5wWWM2WjNHVlhGamtmbFo5dzNxRDBBN1NUQ1A2aHo5Yk5pOVMweFhNTkVjOWxCQ1liUEZkM1FxTGJuV2E3elZTNWE3MjBIeE5yTC12MUJhQzdCYk40Zk8tcENreHExT1RLUVJ4Rnc4N1k1c0I4TVRKdUEtZG5WTUhUUFRpb1FKRFlBajdhTTNiLWxlTGJYVWpVVHVLandPZzFHNkFPYWlGeFFuMzNaemExZmhubUxCWWpSaWRmclVNdS1pWndKT3BWdk5HOGZnTU8yakF2MTh3cUtXVHEwUFp0SnVV?oc=5",
+      "source": "تیتر صنعت",
+      "published": "2026-01-19T08:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Bank Melli Iran\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Israel designates Iran’s state-owned Bank Melli a terror organization",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRmRsS3pUNEVyZTFuZXBadVFfU0VOdENpN2M5ZW9NWlZWVzRHVzc5d184cGRqQnVfMF80MGRXLWtVMG1FdF9GNmhBOXNieWlVRGVHMmhPSS0ycTlqa0U3bEtHeFpuWUJaYTQyRE91OFI5ODMyNkRicUVUS3pmeURldFVDSDZXLWM2QnJQYU40NnlDRWpYRWlpQUFrbF83WmFub2RIWUNYU0tWQk9sRzBfQWpSeXg?oc=5",
+      "source": "The Times of Israel",
+      "published": "2026-01-15T08:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Melli Bank\" when:365d",
+      "relevance": "partial",
+      "stage": "conviction_or_penalty",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    }
+  ]
+}

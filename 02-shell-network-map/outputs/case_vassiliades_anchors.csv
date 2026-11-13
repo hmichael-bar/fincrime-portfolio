@@ -1,0 +1,157 @@
+node_id,node_type,display_name,country_codes,sourceID,screening_match
+55056649,entity,VASSILIADES & CO. (MALTA) LIMITED,MLT,Paradise Papers - Malta corporate registry,True
+12097832,officer,LEDRA SERVICES (NOMINEES) LIMITED,CYP,Panama Papers,True
+12098424,officer,LEDRA SERVICES (NOMINEES) LIMITED,CYP,Panama Papers,True
+12100069,officer,LEDRA SERVICE (NOMINEES) LIMITED,CYP,Panama Papers,True
+12105933,officer,LEDRA TRUSTEES LIMITED,CYP,Panama Papers,True
+12105934,officer,LEDRA NOMINEES LIMITED,CYP,Panama Papers,True
+24451,officer,LEDRA TRUSTEES LIMITED,CYP,Offshore Leaks,True
+24452,officer,LEDRA NOMINEES LIMITED,CYP,Offshore Leaks,True
+31817,officer,LEDRA TRUSTEES LIMITED,XXX,Offshore Leaks,True
+29816,officer,Christodoulos G. Vassiliades,CYP,Offshore Leaks,True
+40785,officer,Ledra Services (Nominees) Limited,CYP,Offshore Leaks,True
+80139508,officer,Vassiliades - Christodoulos G.,CYP,Paradise Papers - Appleby,True
+240105169,officer,LEDRA SERVICES (NOMINEES) LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240105172,officer,LEDRA SERVICES (NOMINEES) LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240105177,officer,LEDRA SERVICES (NOMINEES) LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240105178,officer,LEDRA SERVICES (NOMINEES) LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240105179,officer,LEDRA SERVICES (NOMINEES) LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240105181,officer,LEDRA NOMINEES LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240105182,officer,LEDRA SERVICES (NOMINEES) LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240105183,officer,LEDRA SERVICES (NOMINEES) LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240105197,officer,LEDRA NOMINEES LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240105206,officer,LEDRA SERVICES (NOMINEES) LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240105211,officer,LEDRA SERVICES (NOMINEES) LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240105418,officer,CHRISTODOULOS G VASSILIADES,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240101081,officer,CHRISTODOULOS G VASSILIADES,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240101351,officer,CHRISTODOULOS G VASSILIADES,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240104239,officer,CHRISTODOULOS VASSILIADES,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240104247,officer,CHRISTODOULOS VASSILIADES,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240104509,officer,LEDRA NOMINEES LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240104510,officer,LEDRA SERVICES (NOMINEES) LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056003,officer,CHRISTODOULOS G VASSILIADES,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056009,officer,CHRISTODOULOS G VASSILIADES,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240055577,officer,CHRISTODOULOS G VASSILIADES,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+56096375,officer,[individual - ICIJ node 56096375],GBR;CYP,Paradise Papers - Malta corporate registry,True
+56096651,officer,CHRISTODOULOS VASSILIADES,CYP,Paradise Papers - Malta corporate registry,True
+56089623,officer,CHRISTODOULOS G VASSILIADES,CYP,Paradise Papers - Malta corporate registry,True
+56096692,officer,[individual - ICIJ node 56096692],GBR;CYP,Paradise Papers - Malta corporate registry,True
+56085732,officer,VASSILIADES & CO. (MALTA) LIMITED,MLT,Paradise Papers - Malta corporate registry,True
+240040496,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240040497,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240040498,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240040499,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240040500,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056596,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056597,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056598,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056599,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056600,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056601,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056602,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056603,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056604,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056605,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056606,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056607,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056608,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056609,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056610,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056611,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056612,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056613,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056614,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056615,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056616,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056617,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056618,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056619,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056620,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056621,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056622,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056623,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056624,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056625,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056626,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056627,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056628,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056629,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056630,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056631,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056632,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056633,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056634,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056635,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056636,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056637,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056638,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056639,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056640,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056641,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056642,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056643,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056644,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056645,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056646,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056647,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056648,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056649,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056650,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056651,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056652,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056653,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056654,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056655,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056656,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056657,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056658,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056659,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056660,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056661,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056662,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056663,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056664,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056665,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056666,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056667,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056668,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056669,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056670,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056671,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056672,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056673,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056674,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056675,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056676,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056677,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056678,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056679,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056680,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056681,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056682,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056683,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056684,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056685,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056686,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240056687,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240041510,officer,[individual - ICIJ node 240041510],CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240041552,officer,CHRISTODOULOS G VASSILIADES,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240041581,officer,CHRISTODOULOS G VASSILIADES,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240057659,officer,LEDRA TRUSTEE SERVICES LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240057660,officer,LEDRA TRUSTEE SERVICES LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240057661,officer,LEDRA TRUSTEE SERVICES LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240057662,officer,LEDRA TRUSTEE SERVICES LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240057713,officer,LEDRA TRUSTEE SERVICES LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240057714,officer,LEDRA TRUSTEE SERVICES LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240057715,officer,LEDRA TRUSTEE SERVICES LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240057716,officer,LEDRA TRUSTEE SERVICES LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240057717,officer,LEDRA TRUSTEE SERVICES LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240057718,officer,LEDRA TRUSTEE SERVICES LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240057719,officer,LEDRA TRUSTEE SERVICES LIMITED,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240054211,officer,CHRISTODOULOS G VASSILIADES,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240054212,officer,CHRISTODOULOS G VASSILIADES,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240055991,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+240055992,officer,Christodoulus G. Vassiliades & Co. LLC,CYP,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",True
+11000989,intermediary,CHRISTODOULOS G. VASSILIADES & CO.,CYP,Panama Papers,True
+298340,intermediary,Christodoulos G. Vassiliades & Co. LLC,CYP,Offshore Leaks,True
+240090001,intermediary,CHRISTODOULOS VASSILIADES,,"Pandora Papers - Alemán, Cordero, Galindo & Lee (Alcogal)",False

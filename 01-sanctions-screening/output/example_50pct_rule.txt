@@ -1,0 +1,11 @@
+
+Query       : Levant Horizon Trading FZE
+Normalised  : levant horizon
+              - Ignored legal-form / generic words: trading, fze
+Threshold   : 85
+Result      : Potential Match - escalate
+Ownership   : 50% Rule: aggregate ownership by possible SDNs is 55% - if confirmed, the entity is itself
+              BLOCKED even though it is not named on the list. Owners flagged: Rami
+              Makhluf (35%) ~ MAKHLUF, Rami [PAARSSR-EO13894] score 100; Iyad Makhlouf
+              (20%) ~ MAKHLUF, Iyad [PAARSSR-EO13894] score 100
+

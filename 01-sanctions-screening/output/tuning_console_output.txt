@@ -1,0 +1,21 @@
+ Thr  Recall  Cust.alerted  Non-SDN alerted  Hits  Auto-cleared  For analyst  Precision
+  70    100%            32               16   271           225           46        50%
+  75    100%            28               12   197           158           39        57%
+  80    100%            27               11   146           113           33        59%
+  85    100%            26               10   138           105           33        62%
+  90    100%            26               10    89            63           26        62%
+  95    100%            25                9    55            33           22        64%
+ 100     75%            16                4    17             3           14        75%
+
+Baseline WITHOUT the Arabic-name module (same fuzzy scorer):
+ Thr  Recall  Cust.alerted  Hits
+  70     88%            32   165
+  75     88%            28   115
+  80     88%            25    88
+  85     75%            23    74
+  90     69%            20    55
+  95     56%            15    23
+ 100     38%             8     9
+
+Chart: output/threshold_tuning.png
+Table: output/threshold_tuning.csv

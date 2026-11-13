@@ -1,0 +1,11 @@
+customer,name,age,occupation,state,opened,device,total_in,total_out
+C0057,Leila Khan,31,Tutor,FL,2025-11-06,DEV-M00001,"$811,958.70","$739,407.38"
+C0106,Rosa Farouk,36,Rideshare Driver,NY,2025-11-10,DEV-M00002,"$921,749.40","$857,824.53"
+C0197,Hector Johnson,23,Student,NY,2026-01-31,DEV-M00003,"$584,991.14","$466,350.03"
+C0221,Olivia Moore,19,Tutor,TX,2026-01-09,DEV-M00001,"$516,032.37","$403,505.80"
+C0255,Rachel Sanchez,19,Unemployed,NJ,2025-11-20,DEV-M00002,"$423,450.95","$342,725.87"
+C0316,Andre Ortiz,20,Student,AZ,2026-02-05,DEV-M00003,"$412,097.86","$332,135.18"
+C0317,Carlos Reyes,20,Freelance Photographer,NY,2026-01-11,DEV-M00001,"$406,511.94","$333,461.22"
+C0416,Elena Miller,23,Student,NY,2025-10-24,DEV-M00002,"$477,282.25","$392,057.75"
+C0454,Ines Nguyen,24,Freelance Designer,NJ,2025-10-14,DEV-M00003,"$604,781.74","$466,450.42"
+C0484,Maria Scott,21,Student,NJ,2025-12-18,DEV-M00001,"$417,427.87","$370,738.53"

@@ -1,0 +1,501 @@
+customer_id,name,occupation,kyc_risk_rating,anomaly_score,anomaly_pct,is_anomaly,top_drivers,n_alerts,rules_hit,rule_points,risk_score
+C0106,Rosa Farouk,Rideshare Driver,Low,0.625302185296296,0.988,True,"# customers on same device, Peak month volume / KYC expected volume, High-risk-jurisdiction wire $ (log)",16,"R04,R08,R09,R10",23.624,99.0
+C0057,Leila Khan,Tutor,Low,0.652222034623186,0.998,True,"# customers on same device, Peak month volume / KYC expected volume, High-risk-jurisdiction wire $ (log)",15,"R04,R08,R09,R10",20.712,98.9
+C0265,David Martin,Unemployed,Low,0.5879123683406812,0.966,True,"# states where cash was deposited, Share of credits that are cash, Peak month volume / KYC expected volume",12,"R03,R09",22.8,97.8
+C0141,Yusuf Reyes,Freelance Designer,Low,0.5926401515205808,0.968,True,"# states where cash was deposited, Share of credits that are cash, Peak month volume / KYC expected volume",12,"R03,R09",22.563,97.5
+C0500,Lucia Taylor,Student,Medium,0.5580488878909815,0.958,True,"# states where cash was deposited, Share of credits that are cash, Peak month volume / KYC expected volume",12,"R03,R09",22.682,97.1
+C0092,Kwame Sanchez,Freelance Designer,Low,0.5629779935912593,0.96,True,"# states where cash was deposited, Share of credits that are cash, # distinct inbound counterparties",10,"R03,R09",19.187,96.9
+C0263,Julia Farouk,Retired,Low,0.5814624781986532,0.962,True,"Peak month volume / KYC expected volume, Share of volume in international wires, High-risk-jurisdiction wire $ (log)",13,"R02,R04,R07,R09",17.5575,96.7
+C0343,Pedro Silva,Pharmacist,Low,0.5504820927899632,0.948,True,"# states where cash was deposited, Share of credits that are cash, Peak month volume / KYC expected volume",12,"R03,R09",22.716,96.7
+C0114,Sofia Mensah,Registered Nurse,Low,0.542218277941453,0.942,True,"# states where cash was deposited, Share of credits that are cash, Peak month volume / KYC expected volume",12,"R03,R09",22.723,96.5
+C0484,Maria Scott,Student,Low,0.5977978529727574,0.974,True,"# customers on same device, # distinct inbound counterparties, Peak month volume / KYC expected volume",9,"R08,R09,R10",15.0,96.0
+C0252,Karim Ortiz,Delivery Courier,Low,0.5559102934844108,0.956,True,"# round-dollar wires >= $10K, Peak month volume / KYC expected volume, Share of credits leaving within 3 days",13,"R02,R04,R05,R09",16.0275,95.7
+C0221,Olivia Moore,Tutor,Low,0.6271252682041704,0.99,True,"# distinct inbound counterparties, # customers on same device, Peak month volume / KYC expected volume",9,"R08,R09,R10",13.185,95.6
+C0255,Rachel Sanchez,Unemployed,Low,0.610805516339303,0.984,True,"# distinct inbound counterparties, # customers on same device, Peak month volume / KYC expected volume",9,"R08,R09,R10",12.9,95.2
+C0440,Fatima Rodriguez,Delivery Courier,Low,0.5962687806480511,0.97,True,"# cash deposits $8,000-$9,999, Share of credits that are cash, # distinct inbound counterparties",8,"R01,R09",13.959,95.0
+C0447,Yasmin Ortiz,Police Officer,Low,0.5213793750869339,0.928,True,"# round-dollar wires >= $10K, High-risk-jurisdiction wire $ (log), Share of credits leaving within 3 days",15,"R02,R04,R05,R09",17.5385,94.9
+C0123,Eric Walker,Attorney,Low,0.5208581660106699,0.926,True,"# round-dollar wires >= $10K, High-risk-jurisdiction wire $ (log), Share of credits leaving within 3 days",13,"R02,R04,R05,R09",17.482,94.7
+C0206,Chen Imports LLC,Import/Export - Used Clothing,High,0.4865646058808246,0.896,False,"Share of volume in international wires, High-risk-jurisdiction wire $ (log), Total debits (log $)",13,"R02,R04,R07",24.2375,94.5
+C0237,Elena Rivera,Registered Nurse,Low,0.5519378791327956,0.95,True,"# cash deposits $8,000-$9,999, Share of credits that are cash, Peak month volume / KYC expected volume",8,"R01,R09",14.6,94.5
+C0113,Amira Nguyen,Registered Nurse,Low,0.5496047237471994,0.946,True,"Peak month volume / KYC expected volume, Share of volume in international wires, High-risk-jurisdiction wire $ (log)",11,"R02,R04,R09",14.7055,94.4
+C0479,Kwame Mansour,Retired,Low,0.6326891160432006,0.994,True,"Longest gap between transactions (days), Share of volume in international wires, Peak month volume / KYC expected volume",7,"R02,R04,R06,R09",9.76,94.2
+C0291,Arjun White,Retired,Medium,0.6493455995757433,0.996,True,"Longest gap between transactions (days), Peak month volume / KYC expected volume, Share of volume in international wires",7,"R02,R04,R06,R09",9.545,94.1
+C0317,Carlos Reyes,Freelance Photographer,Low,0.6094743601087765,0.982,True,"# customers on same device, # distinct inbound counterparties, Share of credits leaving within 3 days",7,"R08,R09,R10",10.2,93.8
+C0369,Hernandez Global LLC,Import/Export - Used Clothing,High,0.47756530175681156,0.878,False,"Share of volume in international wires, High-risk-jurisdiction wire $ (log), Total debits (log $)",16,"R02,R04,R07",27.36,93.8
+C0197,Hector Johnson,Student,Low,0.6053447038556206,0.978,True,"# distinct inbound counterparties, # customers on same device, Peak month volume / KYC expected volume",8,"R08,R09,R10",10.8,93.7
+C0218,Rosa Allen,Financial Analyst,Low,0.5195672211156689,0.924,True,"# round-dollar wires >= $10K, High-risk-jurisdiction wire $ (log), Total credits (log $)",12,"R02,R04,R05,R09",15.440999999999999,93.7
+C0480,Miguel Ali,Retired,Low,0.6119833770157781,0.986,True,"Longest gap between transactions (days), Share of volume in international wires, Peak month volume / KYC expected volume",7,"R02,R04,R06,R09",9.593,93.7
+C0416,Elena Miller,Student,Low,0.6082717768591768,0.98,True,"# distinct inbound counterparties, # customers on same device, Peak month volume / KYC expected volume",9,"R08,R09,R10",10.187,93.6
+C0307,David Wong,Registered Nurse,Low,0.5297581133747713,0.934,True,"Share of volume in international wires, Peak month volume / KYC expected volume, High-risk-jurisdiction wire $ (log)",12,"R02,R04,R09",14.5315,93.6
+C0227,White Trading LLC,Import/Export - Furniture,High,0.4666798474981765,0.858,False,"High-risk-jurisdiction wire $ (log), Share of volume in international wires, Total debits (log $)",16,"R02,R04,R07",29.0185,92.9
+C0454,Ines Nguyen,Freelance Designer,Low,0.6308057182515332,0.992,True,"# distinct inbound counterparties, # customers on same device, Peak month volume / KYC expected volume",7,"R08,R09,R10",7.8,92.9
+C0178,Thomas Convenience Store LLC,Convenience Store,High,0.5341243832402117,0.94,True,"# cash deposits $8,000-$9,999, Share of credits that are cash, Total credits (log $)",4,R01,11.4,92.8
+C0320,Hector Chen,Student,Medium,0.5145021934390843,0.92,True,"Share of volume in international wires, Peak month volume / KYC expected volume, High-risk-jurisdiction wire $ (log)",11,"R02,R04,R09",14.054499999999999,92.6
+C0471,Linh Flores,HVAC Technician,Low,0.5321848896203349,0.938,True,"Share of volume in international wires, Peak month volume / KYC expected volume, High-risk-jurisdiction wire $ (log)",8,"R02,R04,R09",11.334,92.6
+C0448,Harris Nail Salon LLC,Nail Salon,High,0.5544247728399785,0.954,True,"# cash deposits $8,000-$9,999, Share of credits that are cash, Total credits (log $)",5,"R01,R02",10.817499999999999,92.6
+C0345,Lucia Walker,Marketing Coordinator,Low,0.5011102363972678,0.908,True,"# round-dollar wires >= $10K, Account age (days), Share of credits leaving within 3 days",12,"R02,R05,R09",14.8215,92.6
+C0180,Flores International LLC,Import/Export - Textiles,High,0.48595465523794495,0.888,False,"Share of volume in international wires, High-risk-jurisdiction wire $ (log), Total debits (log $)",8,"R02,R04,R07",17.2075,92.6
+C0316,Andre Ortiz,Student,Low,0.5860767442813302,0.964,True,"# distinct inbound counterparties, # customers on same device, Peak month volume / KYC expected volume",7,"R08,R09,R10",9.4,92.4
+C0162,Fatima Brown,Teacher,Low,0.4737866317584639,0.87,False,"High-risk-jurisdiction wire $ (log), Share of volume in international wires, Peak month volume / KYC expected volume",14,"R02,R04,R09",18.576,92.2
+C0412,Olivia Ortiz,Retired,Low,0.6537844875664103,1.0,True,"Longest gap between transactions (days), Peak month volume / KYC expected volume, Share of debits sent to crypto",4,"R02,R04,R06,R09",5.8265,92.1
+C0402,Daniel Perez,Freelance Photographer,Low,0.5075887960858473,0.914,True,"High-risk-jurisdiction wire $ (log), Share of credits leaving within 3 days, Peak month volume / KYC expected volume",11,"R02,R04,R09",13.563,92.1
+C0120,Kwame Smith,Registered Nurse,Low,0.483666364373558,0.882,False,"High-risk-jurisdiction wire $ (log), Share of credits leaving within 3 days, Share of volume in international wires",12,"R02,R04,R09",15.4895,91.8
+C0298,Olivia Ali,Administrative Assistant,Low,0.5159602515508227,0.922,True,"# cash deposits $8,000-$9,999, Share of credits that are cash, # states where cash was deposited",6,"R01,R09",11.171,91.5
+C0436,Eric Ali,Student,Low,0.48230976684761373,0.88,False,"Peak month volume / KYC expected volume, High-risk-jurisdiction wire $ (log), Share of volume in international wires",13,"R02,R04,R09",15.373000000000001,91.4
+C0181,Tunde Williams,Personal Trainer,Low,0.5533374069577445,0.952,True,"# cash deposits $8,000-$9,999, Share of credits that are cash, # distinct inbound counterparties",5,"R01,R09",8.8,91.2
+C0208,Sarah Rodriguez,Attorney,Low,0.4845979208138196,0.884,False,"Share of volume in international wires, High-risk-jurisdiction wire $ (log), Share of credits leaving within 3 days",10,"R02,R04,R05,R09",14.4745,91.0
+C0142,Daniel Cohen,Electrician,Low,0.47258527247353144,0.868,False,"Peak month volume / KYC expected volume, High-risk-jurisdiction wire $ (log), Share of volume in international wires",13,"R02,R04,R09",15.4575,91.0
+C0220,Johnson Trading LLC,Import/Export - Furniture,High,0.4540951639581263,0.82,False,"High-risk-jurisdiction wire $ (log), Share of volume in international wires, Total debits (log $)",14,"R02,R04,R07",24.413,90.8
+C0084,Cruz Trading LLC,Import/Export - Used Clothing,High,0.4584398108343766,0.832,False,"Share of volume in international wires, High-risk-jurisdiction wire $ (log), Total debits (log $)",10,"R02,R04,R07",18.993,90.4
+C0060,Karim Gonzalez,Delivery Courier,Low,0.5270530041008653,0.932,True,"Share of volume in international wires, High-risk-jurisdiction wire $ (log), Share of credits leaving within 3 days",9,"R02,R04,R07,R09",8.596,90.0
+C0198,Tunde Lopez,Physician,Medium,0.4595635659084459,0.834,False,"High-risk-jurisdiction wire $ (log), Total debits (log $), Total credits (log $)",11,"R02,R04,R09",16.6495,89.8
+C0159,Ana Rivera,Registered Nurse,Low,0.5969017920613794,0.972,True,"Longest gap between transactions (days), Share of volume in international wires, High-risk-jurisdiction wire $ (log)",3,"R04,R06,R09",3.5860000000000003,88.8
+C0418,Farouk Food Truck LLC,Food Truck,High,0.5235323501945935,0.93,True,"# cash deposits $8,000-$9,999, Share of credits that are cash, High-risk-jurisdiction wire $ (log)",4,"R01,R02,R04",5.839,88.7
+C0424,Thomas Global LLC,Import/Export - Textiles,High,0.4647986450565626,0.848,False,"High-risk-jurisdiction wire $ (log), Total debits (log $), Share of volume in international wires",5,R02,11.33,88.0
+C0014,Miguel Martinez,Engineering Manager,Medium,0.49964238839373587,0.904,True,"# customers on same device, High-risk-jurisdiction wire $ (log), Account age (days)",5,"R02,R04,R05,R09",6.7385,87.9
+C0043,Wilson International LLC,Import/Export - Textiles,High,0.44319832250359714,0.79,False,"High-risk-jurisdiction wire $ (log), Total debits (log $), Share of volume in international wires",9,"R02,R07",16.5575,87.5
+C0332,Harris Barbershop LLC,Barbershop,High,0.49327113966173686,0.9,False,"# cash deposits $8,000-$9,999, Share of credits that are cash, Total credits (log $)",3,"R01,R02",5.715,87.0
+C0017,Sofia Silva,Engineering Manager,Low,0.47397961017599327,0.872,False,"# customers on same device, High-risk-jurisdiction wire $ (log), Total credits (log $)",4,"R02,R04,R09",5.85,85.9
+C0104,Cohen Deli LLC,Deli / Bodega,High,0.4915230259973981,0.898,False,"# cash deposits $8,000-$9,999, Share of credits that are cash, Total credits (log $)",2,"R01,R02",3.71,85.7
+C0299,Shah Laundromat LLC,Laundromat,High,0.5055064581095203,0.912,True,"# cash deposits $8,000-$9,999, Share of credits that are cash, Total credits (log $)",2,"R01,R02",3.4975,85.5
+C0457,Dalia Morales,Homemaker,Medium,0.6020416938944851,0.976,True,"Longest gap between transactions (days), Peak month volume / KYC expected volume, Share of volume in international wires",2,"R06,R09",2.64,85.3
+C0210,Jackson Property Management LLC,Property Management,High,0.47125579464325157,0.86,False,"# round-dollar wires >= $10K, Total debits (log $), Total credits (log $)",5,R05,5.475,84.9
+C0404,Shah International LLC,Import/Export - Textiles,High,0.43887418456445554,0.77,False,"High-risk-jurisdiction wire $ (log), Total debits (log $), Total credits (log $)",7,"R02,R07",13.3975,84.8
+C0076,Tariq Kim,Rideshare Driver,Low,0.49655439604797524,0.902,True,"# distinct inbound counterparties, High-risk-jurisdiction wire $ (log), Account age (days)",3,"R02,R04,R09",3.414,84.6
+C0256,Sanchez Convenience Store LLC,Convenience Store,High,0.5123105709278604,0.916,True,"Share of credits that are cash, High-risk-jurisdiction wire $ (log), Total credits (log $)",2,"R02,R04",3.0985,84.5
+C0466,King Imports LLC,Import/Export - Cosmetics,High,0.4321677549579285,0.724,False,"High-risk-jurisdiction wire $ (log), Total debits (log $), Total credits (log $)",9,"R02,R07",17.2075,84.4
+C0276,Aisha Taylor,Retired,Low,0.4742896353470877,0.874,False,"Peak month volume / KYC expected volume, High-risk-jurisdiction wire $ (log), Share of credits leaving within 3 days",3,"R02,R04,R09",3.7025,84.4
+C0022,Okafor Imports LLC,Import/Export - Auto Parts,High,0.43771935149857016,0.76,False,"Total debits (log $), Total credits (log $), Account age (days)",5,R02,11.2075,83.5
+C0145,Reyes Global LLC,Import/Export - Furniture,High,0.4381647726304711,0.762,False,"High-risk-jurisdiction wire $ (log), Total debits (log $), Total credits (log $)",5,R02,11.055,83.3
+C0011,Arjun Martin,Dental Hygienist,Low,0.4716117380094914,0.864,False,"# customers on same device, High-risk-jurisdiction wire $ (log), Peak month volume / KYC expected volume",3,"R02,R04,R09",3.575,83.3
+C0025,Shah International LLC,Import/Export - Mobile Phone Accessories,High,0.4500239527785945,0.81,False,"High-risk-jurisdiction wire $ (log), Total debits (log $), Total credits (log $)",3,R02,6.7775,83.3
+C0037,Ivan Moore,Unemployed,Medium,0.5298504967770291,0.936,True,"# customers on same device, Peak month volume / KYC expected volume, Total debits (log $)",2,"R09,R10",2.2,83.0
+C0356,Smith Trading LLC,Import/Export - Cosmetics,High,0.44405165089861326,0.792,False,"High-risk-jurisdiction wire $ (log), Total debits (log $), Share of volume in international wires",3,R02,6.795,82.6
+C0094,Thomas Global LLC,Import/Export - Textiles,High,0.43173423261762517,0.716,False,"High-risk-jurisdiction wire $ (log), Total credits (log $), Total debits (log $)",8,"R02,R07",14.4275,82.5
+C0139,Flores Property Management LLC,Property Management,Medium,0.45549608090830546,0.824,False,"# round-dollar wires >= $10K, Account age (days), Share of credits leaving within 3 days",4,R05,3.9,82.5
+C0408,Brown Global LLC,Import/Export - Textiles,High,0.4413284138748438,0.778,False,"High-risk-jurisdiction wire $ (log), Total debits (log $), Total credits (log $)",4,R02,8.7325,82.4
+C0377,Perez Global LLC,Import/Export - Used Clothing,High,0.43971248825726195,0.774,False,"Total debits (log $), Account age (days), Total credits (log $)",4,R02,8.95,82.4
+C0282,Smith International LLC,Import/Export - Furniture,High,0.42807346642857375,0.688,False,"High-risk-jurisdiction wire $ (log), Total debits (log $), Total credits (log $)",8,"R02,R07",15.782499999999999,82.2
+C0089,Farouk Global LLC,Import/Export - Auto Parts,High,0.4350671714282935,0.738,False,"Total debits (log $), Total credits (log $), Share of volume in international wires",5,R02,11.0775,82.2
+C0260,Hannah Hernandez,Financial Analyst,Low,0.46226731356714623,0.842,False,"Share of debits sent to crypto, High-risk-jurisdiction wire $ (log), Account age (days)",3,"R02,R04,R09",3.4419999999999997,81.8
+C0239,Lopez Car Wash LLC,Car Wash,High,0.48552107456560273,0.886,False,"Share of credits that are cash, High-risk-jurisdiction wire $ (log), Total credits (log $)",2,"R02,R04",2.8195,81.4
+C0280,Lucia Levi,Paralegal,Low,0.4496851013344543,0.808,False,"High-risk-jurisdiction wire $ (log), Peak month volume / KYC expected volume, Share of volume in international wires",3,"R02,R04,R09",3.7575,81.3
+C0003,Carlos Flores,Travel Nurse,Low,0.5460287255225347,0.944,True,"# states where cash was deposited, # customers on same device, Account age (days)",2,"R05,R09",1.366,81.3
+C0472,Williams Trading LLC,Import/Export - Textiles,High,0.4304588123410365,0.706,False,"High-risk-jurisdiction wire $ (log), Total debits (log $), Total credits (log $)",7,"R02,R07",12.8175,81.2
+C0467,Michael Sanchez,Engineering Manager,Low,0.46517854551322135,0.85,False,"Share of credits leaving within 3 days, # round-dollar wires >= $10K, Account age (days)",2,"R02,R09",3.096,81.1
+C0453,Miller Imports LLC,Import/Export - Food Products,High,0.4320759280142706,0.722,False,"High-risk-jurisdiction wire $ (log), Total debits (log $), Total credits (log $)",5,R02,10.8475,81.1
+C0313,Clark Global LLC,Import/Export - Food Products,High,0.4355423269012113,0.744,False,"High-risk-jurisdiction wire $ (log), Total debits (log $), Share of volume in international wires",4,R02,8.98,81.0
+C0427,Brian Haddad,Physician,Low,0.44234554722434977,0.782,False,"High-risk-jurisdiction wire $ (log), # round-dollar wires >= $10K, Share of credits leaving within 3 days",4,"R02,R04,R05,R09",4.865,80.9
+C0315,Brian Reyes,Student,Low,0.4520550581240574,0.812,False,"Share of credits leaving within 3 days, High-risk-jurisdiction wire $ (log), Share of volume in international wires",3,"R02,R04,R09",3.5925000000000002,80.9
+C0035,Camila Wong,Electrician,Medium,0.4863866056641488,0.894,False,"Share of credits that are cash, Account age (days), High-risk-jurisdiction wire $ (log)",3,R09,1.828,80.5
+C0156,Torres Property Management LLC,Property Management,Medium,0.4612920279431516,0.84,False,"# round-dollar wires >= $10K, Total debits (log $), Share of credits leaving within 3 days",3,R05,2.925,79.8
+C0432,Karim Clark,Rideshare Driver,Low,0.455998258339447,0.826,False,"# distinct inbound counterparties, Share of credits leaving within 3 days, Account age (days)",2,"R02,R09",3.0250000000000004,79.6
+C0386,Clark Global LLC,Import/Export - Textiles,High,0.43288228338067714,0.73,False,"High-risk-jurisdiction wire $ (log), Total debits (log $), Total credits (log $)",3,R02,6.567500000000001,78.9
+C0464,Brian Nguyen,Delivery Courier,Low,0.47583401400498737,0.876,False,"# distinct inbound counterparties, Share of credits that are cash, Account age (days)",1,R01,1.5,78.8
+C0185,Camila Okafor,Police Officer,Low,0.4367751107425999,0.754,False,"High-risk-jurisdiction wire $ (log), Peak month volume / KYC expected volume, Share of volume in international wires",3,"R02,R04,R09",3.7590000000000003,78.7
+C0020,Mei Garcia,Software Developer,Low,0.4611407769608621,0.838,False,"Share of debits sent to crypto, # customers on same device, Account age (days)",2,"R02,R09",2.6900000000000004,78.5
+C0212,Camila Brown,HVAC Technician,Low,0.4426225806039683,0.784,False,"High-risk-jurisdiction wire $ (log), Account age (days), Share of volume in international wires",3,"R02,R04,R09",3.2075,78.5
+C0140,Cohen Global LLC,Import/Export - Food Products,High,0.43062230368350596,0.708,False,"High-risk-jurisdiction wire $ (log), Total debits (log $), Total credits (log $)",3,R02,6.702500000000001,78.0
+C0334,Rahman Imports LLC,Import/Export - Used Clothing,High,0.41983611769835777,0.632,False,"Total debits (log $), Total credits (log $), Share of volume in international wires",6,R02,13.2675,77.8
+C0312,Ramirez International LLC,Import/Export - Food Products,High,0.4283687092529449,0.69,False,"High-risk-jurisdiction wire $ (log), Total debits (log $), Total credits (log $)",4,"R02,R07",7.4575,77.7
+C0403,Pedro Thomas,Retail Manager,Low,0.4352933713794419,0.742,False,"High-risk-jurisdiction wire $ (log), Peak month volume / KYC expected volume, Account age (days)",3,"R02,R04,R09",3.633,77.6
+C0026,Miguel Kim,Financial Analyst,Low,0.45719106726104586,0.828,False,"Share of debits sent to crypto, # customers on same device, Account age (days)",1,R02,2.13,77.5
+C0184,Nguyen Global LLC,Import/Export - Mobile Phone Accessories,High,0.4273138014528494,0.684,False,"High-risk-jurisdiction wire $ (log), Total debits (log $), Total credits (log $)",3,R02,6.795,77.2
+C0047,Ravi Martin,Sales Representative,Low,0.43824935105453244,0.764,False,"Share of debits sent to crypto, Share of credits leaving within 3 days, Peak month volume / KYC expected volume",2,"R02,R09",3.1015,77.1
+C0030,Diego Wilson,Police Officer,Low,0.4332271019144737,0.732,False,"High-risk-jurisdiction wire $ (log), Account age (days), Peak month volume / KYC expected volume",3,"R02,R04,R09",3.615,77.0
+C0445,Park Nail Salon LLC,Nail Salon,High,0.4601836166850705,0.836,False,"# cash deposits $8,000-$9,999, Share of credits that are cash, Total credits (log $)",1,R01,1.5,76.8
+C0079,Mensah Trading LLC,Import/Export - Mobile Phone Accessories,High,0.4300209132054823,0.702,False,"High-risk-jurisdiction wire $ (log), Total debits (log $), Total credits (log $)",2,R02,4.545,76.8
+C0064,Fatima Rivera,Bus Operator,Low,0.43188080480588426,0.718,False,"High-risk-jurisdiction wire $ (log), Peak month volume / KYC expected volume, Share of credits leaving within 3 days",3,"R02,R04,R09",3.6975000000000002,76.5
+C0039,Chen Global LLC,Import/Export - Textiles,High,0.42970873266346127,0.696,False,"High-risk-jurisdiction wire $ (log), Total debits (log $), Total credits (log $)",2,R02,4.512499999999999,76.4
+C0173,Scott Imports LLC,Import/Export - Auto Parts,High,0.4217440317079053,0.644,False,"Total debits (log $), Total credits (log $), Share of volume in international wires",4,R02,9.0425,76.2
+C0281,Johnson Laundromat LLC,Laundromat,High,0.4657311760266424,0.854,False,"Share of credits that are cash, # cash deposits $8,000-$9,999, Total credits (log $)",1,R05,0.9,76.0
+C0061,Sofia Cruz,Retired,Low,0.4431925657332776,0.788,False,"High-risk-jurisdiction wire $ (log), Share of volume in international wires, Share of credits leaving within 3 days",2,"R04,R09",1.832,75.3
+C0138,Jason Lopez,Student,Medium,0.4310073756564841,0.71,False,"High-risk-jurisdiction wire $ (log), Share of volume in international wires, Share of credits leaving within 3 days",3,"R02,R04,R09",3.437,75.1
+C0397,Torres International LLC,Import/Export - Used Clothing,High,0.41514743585055447,0.612,False,"Total credits (log $), Total debits (log $), Share of volume in international wires",4,R02,9.0125,74.5
+C0372,Camila Shah,Dental Hygienist,Low,0.4387452097252405,0.768,False,"Share of credits that are cash, Account age (days), Share of credits leaving within 3 days",2,"R01,R09",1.974,74.4
+C0381,Megan Davis,Unemployed,Low,0.4466758668724921,0.8,False,"Longest gap between transactions (days), Account age (days), Share of credits leaving within 3 days",1,R06,1.3659999999999999,74.0
+C0225,Martin Property Management LLC,Property Management,Medium,0.43561725867371165,0.746,False,"# round-dollar wires >= $10K, Share of credits leaving within 3 days, Total debits (log $)",2,R05,2.55,73.7
+C0478,Brown Global LLC,Import/Export - Used Clothing,High,0.4129517629397528,0.592,False,"Total credits (log $), Total debits (log $), Share of volume in international wires",4,R02,9.045,73.7
+C0036,Hannah Okafor,Teacher,Low,0.44290993468310724,0.786,False,"# customers on same device, Account age (days), Total credits (log $)",1,R10,1.4,73.6
+C0417,Kevin King,Tutor,Low,0.4530074235394018,0.818,False,"Account age (days), # distinct inbound counterparties, Peak month volume / KYC expected volume",1,R09,0.8,73.5
+C0413,Fatima Scott,Dental Hygienist,Low,0.4254186850189601,0.666,False,"High-risk-jurisdiction wire $ (log), Share of volume in international wires, Account age (days)",3,"R02,R04,R09",3.5345,73.3
+C0456,Ravi Harris,Student,Medium,0.4488286868552189,0.802,False,"Share of volume in international wires, High-risk-jurisdiction wire $ (log), Account age (days)",1,R04,0.8240000000000001,73.2
+C0314,Tariq Cohen,HVAC Technician,Low,0.4235389194057186,0.658,False,"High-risk-jurisdiction wire $ (log), Share of volume in international wires, Share of credits leaving within 3 days",3,"R02,R04,R09",3.4895,72.7
+C0364,Ines Morales,Software Developer,Medium,0.42527969741488797,0.664,False,"Share of debits sent to crypto, Account age (days), Share of credits leaving within 3 days",3,"R02,R09",3.288,72.6
+C0146,Brian White,Student,Low,0.4374873608678341,0.758,False,"Share of volume in international wires, High-risk-jurisdiction wire $ (log), Total credits (log $)",2,"R04,R09",1.46,72.5
+C0187,Julia Rahman,Marketing Coordinator,Low,0.44639669145731525,0.796,False,"Share of credits that are cash, # states where cash was deposited, Peak month volume / KYC expected volume",1,R09,0.8,72.4
+C0422,Jose Ibrahim,Attorney,Low,0.4244310191361037,0.662,False,"Share of credits leaving within 3 days, Account age (days), Total debits (log $)",2,"R02,R09",3.1465,72.3
+C0306,Miguel Flores,Part-time Cashier,Low,0.4441999535689758,0.794,False,"Peak month volume / KYC expected volume, Total debits (log $), Share of credits leaving within 3 days",1,R09,0.8,72.3
+C0302,Miguel Levi,Architect,Low,0.43034177019258496,0.704,False,"High-risk-jurisdiction wire $ (log), Account age (days), Total credits (log $)",2,"R02,R04",2.799,72.2
+C0268,Davis Property Management LLC,Property Management,Medium,0.43412179834020714,0.736,False,"# round-dollar wires >= $10K, Total debits (log $), Total credits (log $)",1,R05,1.5,71.8
+C0398,Leila Kim,Part-time Cashier,Low,0.43190086456558935,0.72,False,"Longest gap between transactions (days), Share of credits leaving within 3 days, Account age (days)",2,"R06,R09",1.766,71.7
+C0376,Lucia Martin,Unemployed,Low,0.4359418664798622,0.752,False,"Longest gap between transactions (days), Share of credits leaving within 3 days, Total debits (log $)",1,R06,1.318,71.5
+C0391,Wong Trading LLC,Import/Export - Used Clothing,High,0.41151175304160037,0.576,False,"Total debits (log $), Total credits (log $), Share of volume in international wires",3,R02,6.695,71.3
+C0342,Tunde Brown,Retired,Low,0.44164968114004755,0.78,False,"Share of volume in international wires, High-risk-jurisdiction wire $ (log), Total credits (log $)",1,R04,0.728,71.2
+C0190,Ramirez Global LLC,Import/Export - Auto Parts,High,0.40869533458309243,0.558,False,"Total debits (log $), Total credits (log $), Share of volume in international wires",3,R02,6.805,71.0
+C0368,Noah Lopez,Retired,Medium,0.43510366226059904,0.74,False,"Longest gap between transactions (days), Account age (days), Share of credits leaving within 3 days",1,R06,1.262,70.8
+C0127,Anderson Global LLC,Import/Export - Auto Parts,High,0.4030379929328422,0.51,False,"Total credits (log $), Total debits (log $), Share of volume in international wires",5,R02,10.9975,70.6
+C0038,Michael Scott,Teacher,Low,0.4322830806983749,0.726,False,"# customers on same device, Share of credits leaving within 3 days, # states where cash was deposited",1,R10,1.4,70.6
+C0385,Rachel Patel,Dentist,Low,0.4100694293670247,0.566,False,"# round-dollar wires >= $10K, Share of credits leaving within 3 days, Account age (days)",3,"R02,R05,R09",3.971,69.8
+C0495,Priya Morales,Student,Low,0.4218075023572473,0.646,False,"Account age (days), Peak month volume / KYC expected volume, Share of credits leaving within 3 days",2,"R02,R09",2.8724999999999996,69.7
+C0493,White Convenience Store LLC,Convenience Store,High,0.42878459276220565,0.692,False,"Share of credits that are cash, Total credits (log $), Account age (days)",1,R01,1.5,69.6
+C0131,Julia Silva,Retired,Medium,0.43268374929747166,0.728,False,"High-risk-jurisdiction wire $ (log), Share of credits leaving within 3 days, Total credits (log $)",1,R04,0.82,69.4
+C0132,Diego Lewis,Dentist,Medium,0.41431928769664034,0.606,False,"Share of credits leaving within 3 days, Total debits (log $), Total credits (log $)",2,"R02,R09",3.099,69.1
+C0199,Jose Moore,Personal Trainer,Medium,0.4230348352097673,0.654,False,"# distinct inbound counterparties, Peak month volume / KYC expected volume, Account age (days)",2,"R08,R09",2.3,69.0
+C0333,Andre Gonzalez,Retired,Low,0.42775035932011257,0.686,False,"Longest gap between transactions (days), Share of credits leaving within 3 days, Total debits (log $)",1,R06,1.236,68.0
+C0191,Noah Brown,Accountant,Low,0.42331231504580663,0.656,False,"Share of credits that are cash, Share of credits leaving within 3 days, # cash deposits $8,000-$9,999",1,R01,1.5,67.8
+C0148,Yusuf Allen,Tutor,Low,0.42989996284435783,0.7,False,"# distinct inbound counterparties, Peak month volume / KYC expected volume, Account age (days)",1,R09,0.8,67.6
+C0222,Fatima Martin,Student,Low,0.40979328832898326,0.564,False,"Share of credits leaving within 3 days, Peak month volume / KYC expected volume, Account age (days)",2,"R02,R09",3.1050000000000004,67.2
+C0157,Ahmed Moore,Bus Operator,Low,0.4197617630834726,0.63,False,"Account age (days), Peak month volume / KYC expected volume, Total credits (log $)",2,"R05,R09",1.7000000000000002,67.0
+C0086,Chloe Harris,Student,Low,0.41068417270708674,0.57,False,"Share of credits leaving within 3 days, Peak month volume / KYC expected volume, # states where cash was deposited",2,"R02,R09",2.9825,66.6
+C0166,Scott Property Management LLC,Property Management,Medium,0.4164917740805605,0.624,False,"# round-dollar wires >= $10K, Account age (days), Total debits (log $)",1,R05,1.5,66.2
+C0409,Ahmed Gomez,Attorney,Low,0.40509563026505035,0.528,False,"Share of credits leaving within 3 days, Total debits (log $), # round-dollar wires >= $10K",2,"R02,R09",3.1185,65.5
+C0167,Camila Jackson,Student,Low,0.4071768288766582,0.546,False,"Share of credits leaving within 3 days, Peak month volume / KYC expected volume, Account age (days)",2,"R02,R09",2.9050000000000002,64.8
+C0183,Zainab Chen,Dentist,Low,0.4056934833319556,0.532,False,"Share of credits leaving within 3 days, # round-dollar wires >= $10K, Total debits (log $)",2,"R02,R09",2.9615,64.6
+C0034,Carlos Gonzalez,Delivery Courier,Low,0.41168301954379355,0.58,False,"# distinct inbound counterparties, Total credits (log $), Account age (days)",1,R08,1.59,64.4
+C0093,Megan Silva,Attorney,Low,0.3978071506714565,0.464,False,"Account age (days), Total credits (log $), Total debits (log $)",3,"R02,R05,R09",3.8165,64.3
+C0068,Julia King,Retail Manager,Low,0.41442930604070083,0.608,False,"High-risk-jurisdiction wire $ (log), Account age (days), Share of credits leaving within 3 days",1,R04,0.82,63.4
+C0401,Yusuf Anderson,Dentist,Low,0.39486370700050766,0.434,False,"Account age (days), # round-dollar wires >= $10K, Total credits (log $)",3,"R02,R05,R09",3.892,62.9
+C0175,Sarah Silva,Dentist,Low,0.39363798285256885,0.426,False,"Total credits (log $), Total debits (log $), # round-dollar wires >= $10K",3,"R02,R05,R09",3.965,62.7
+C0499,Camila Lopez,Retired,Low,0.40355433934261925,0.516,False,"Peak month volume / KYC expected volume, Share of credits leaving within 3 days, Total credits (log $)",2,"R05,R09",1.7000000000000002,61.4
+C0339,Hector Silva,Architect,Low,0.3964367378734263,0.45,False,"Share of credits leaving within 3 days, Total debits (log $), Total credits (log $)",2,"R02,R09",2.948,60.4
+C0470,Amira Torres,Retired,Low,0.40350554345043804,0.514,False,"Account age (days), Share of credits leaving within 3 days, Total credits (log $)",2,"R05,R09",1.454,60.2
+C0192,Lucia Davis,Student,Low,0.4043758594575208,0.522,False,"Share of volume in international wires, Total credits (log $), Account age (days)",1,R09,0.507,57.8
+C0204,Luis Mensah,Attorney,Low,0.39129148645891176,0.404,False,"Account age (days), Total credits (log $), Share of credits leaving within 3 days",2,"R02,R09",2.8295000000000003,57.4
+C0168,Rosa Rahman,Retired,Low,0.38637277917240814,0.372,False,"Peak month volume / KYC expected volume, Share of credits leaving within 3 days, # states where cash was deposited",2,"R02,R09",3.0875000000000004,57.1
+C0400,Ines Mensah,Retired,Low,0.3877133945589159,0.382,False,"Peak month volume / KYC expected volume, Share of credits leaving within 3 days, # states where cash was deposited",2,"R02,R09",2.92,56.7
+C0088,Ivan Sanchez,Student,Low,0.4006351894915314,0.498,False,"Account age (days), Total credits (log $), Share of volume in international wires",1,R09,0.451,56.5
+C0477,Wei Nguyen,Attorney,Low,0.38240576847870256,0.356,False,"Total credits (log $), Total debits (log $), Share of credits leaving within 3 days",2,"R02,R09",3.0275000000000003,56.2
+C0428,Tunde Allen,HVAC Technician,Low,0.3963896388196773,0.448,False,"# round-dollar wires >= $10K, Share of credits leaving within 3 days, Total credits (log $)",1,R05,0.9,55.6
+C0490,Karim Khan,Student,Low,0.3857551090293497,0.37,False,"Share of volume in international wires, Peak month volume / KYC expected volume, # states where cash was deposited",2,"R02,R09",2.7945,55.4
+C0069,Daniel Martin,Physician,Low,0.3823803000371566,0.354,False,"Share of credits leaving within 3 days, Total debits (log $), Account age (days)",2,"R02,R09",2.8455,55.0
+C0147,Samuel White,Accountant,Low,0.37437073377168456,0.322,False,"Peak month volume / KYC expected volume, Account age (days), Share of credits leaving within 3 days",2,"R02,R09",3.0075000000000003,54.3
+C0189,Luis Gonzalez,Registered Nurse,Low,0.3893487597502564,0.388,False,"Peak month volume / KYC expected volume, # round-dollar wires >= $10K, Share of credits leaving within 3 days",2,"R05,R09",1.491,54.1
+C0160,Tariq Walker,Accountant,Low,0.37798083382033176,0.334,False,"Account age (days), Share of credits leaving within 3 days, Peak month volume / KYC expected volume",2,"R02,R09",2.7835,53.5
+C0126,Elena Gomez,Police Officer,Low,0.378303850138726,0.336,False,"Share of credits leaving within 3 days, Peak month volume / KYC expected volume, High-risk-jurisdiction wire $ (log)",2,"R02,R09",2.7245,53.5
+C0117,Chloe Ibrahim,Attorney,Low,0.39087596620183807,0.398,False,"Total credits (log $), # round-dollar wires >= $10K, Account age (days)",1,R05,0.975,53.4
+C0193,Chloe Thomas,Paralegal,Low,0.38694206481317417,0.376,False,"Account age (days), # round-dollar wires >= $10K, Peak month volume / KYC expected volume",2,"R05,R09",1.439,53.2
+C0431,Karim Allen,Paralegal,Low,0.3669330221587649,0.288,False,"Peak month volume / KYC expected volume, Share of volume in international wires, Share of credits leaving within 3 days",2,"R02,R09",2.9215,52.1
+C0203,Miguel Cruz,Retired,Low,0.38768126583801027,0.38,False,"Peak month volume / KYC expected volume, Total debits (log $), Share of credits leaving within 3 days",1,R09,0.8,51.6
+C0228,Samuel Rivera,Student,Low,0.3808160796557917,0.348,False,"Account age (days), Share of credits leaving within 3 days, Peak month volume / KYC expected volume",2,R09,1.127,51.0
+C0329,Morales Property Management LLC,Property Management,Medium,0.37694969316216087,0.33,False,"Share of credits leaving within 3 days, Total debits (log $), Total credits (log $)",1,R05,0.975,50.0
+C0497,Maria Park,Retail Manager,Low,0.3737276092404288,0.316,False,"Peak month volume / KYC expected volume, Share of credits leaving within 3 days, Total debits (log $)",1,R09,0.797,48.1
+C0279,Ivan Clark,Paralegal,Low,0.3684005214928826,0.298,False,"Account age (days), Share of credits leaving within 3 days, Total debits (log $)",1,R09,0.536,46.8
+C0108,Michael Williams,Police Officer,Low,0.36687221798386194,0.286,False,"Account age (days), Share of credits leaving within 3 days, Total debits (log $)",1,R09,0.514,46.1
+C0009,Olivia Martin,Unemployed,Low,0.5139710775128495,0.918,True,"Longest gap between transactions (days), # customers on same device, Total credits (log $)",0,,0.0,45.9
+C0018,Megan Scott,Tutor,Low,0.5019570561061126,0.91,True,"# customers on same device, # distinct inbound counterparties, Share of credits that are cash",0,,0.0,45.5
+C0195,Linh Diaz,Travel Nurse,Low,0.5005817002027574,0.906,True,"# states where cash was deposited, Account age (days), Share of credits that are cash",0,,0.0,45.3
+C0246,Amira Martin,Retail Manager,Low,0.36409500629085517,0.26,False,"Share of credits leaving within 3 days, Peak month volume / KYC expected volume, Total debits (log $)",1,R09,0.5589999999999999,45.0
+C0008,Lucia Diaz,Financial Analyst,Low,0.4863609226935458,0.892,False,"Share of debits sent to crypto, # customers on same device, Account age (days)",0,,0.0,44.6
+C0130,Wei Gonzalez,Truck Driver,Low,0.4859840499307157,0.89,False,"# states where cash was deposited, Share of credits that are cash, Account age (days)",0,,0.0,44.5
+C0437,Naomi Hernandez,Administrative Assistant,Low,0.36193942158732495,0.236,False,"Share of credits leaving within 3 days, Peak month volume / KYC expected volume, Total debits (log $)",1,R09,0.6559999999999999,43.9
+C0319,Eric Cohen,Unemployed,Low,0.47196305701663915,0.866,False,"Total debits (log $), Total credits (log $), Share of credits leaving within 3 days",0,,0.0,43.3
+C0251,Amira Farouk,Homemaker,Low,0.4713632783133454,0.862,False,"Longest gap between transactions (days), Total debits (log $), Total credits (log $)",0,,0.0,43.1
+C0096,James Nguyen,Part-time Cashier,Low,0.4663469701400473,0.856,False,"Total credits (log $), Total debits (log $), Account age (days)",0,,0.0,42.8
+C0067,Wei Chen,Truck Driver,Low,0.4654543061325888,0.852,False,"# states where cash was deposited, Share of credits that are cash, Account age (days)",0,,0.0,42.6
+C0283,Fatima Martinez,Homemaker,Low,0.4642186727391571,0.846,False,"Longest gap between transactions (days), Total debits (log $), Total credits (log $)",0,,0.0,42.3
+C0380,Sofia Martin,Data Analyst,Low,0.46333187854319174,0.844,False,"Share of debits sent to crypto, Account age (days), Share of credits that are cash",0,,0.0,42.2
+C0007,Omar Martinez,Data Analyst,Low,0.45805003220412943,0.83,False,"Share of debits sent to crypto, # customers on same device, Account age (days)",0,,0.0,41.5
+C0362,James Lopez,Student,Low,0.45503202492124384,0.822,False,"Share of volume in international wires, Share of credits leaving within 3 days, Share of credits that are cash",0,,0.0,41.1
+C0384,Jackson Restaurant LLC,Restaurant,High,0.4527252670416505,0.816,False,"Share of credits that are cash, # cash deposits $8,000-$9,999, Total credits (log $)",0,,0.0,40.8
+C0325,Yusuf Rodriguez,Pharmacist,Medium,0.45239387489578986,0.814,False,"High-risk-jurisdiction wire $ (log), Share of credits that are cash, Share of credits leaving within 3 days",0,,0.0,40.7
+C0042,Linh Walker,Financial Analyst,Low,0.4493588129344291,0.806,False,"Share of debits sent to crypto, Account age (days), Share of credits leaving within 3 days",0,,0.0,40.3
+C0411,Khan Car Wash LLC,Car Wash,High,0.4489100532532071,0.804,False,"Share of credits that are cash, # cash deposits $8,000-$9,999, Total credits (log $)",0,,0.0,40.2
+C0074,Zainab Cruz,Part-time Cashier,Low,0.44660202500216184,0.798,False,"Total debits (log $), Total credits (log $), Account age (days)",0,,0.0,39.9
+C0399,Elena Silva,Attorney,Low,0.44013833045842315,0.776,False,"Account age (days), # round-dollar wires >= $10K, High-risk-jurisdiction wire $ (log)",0,,0.0,38.8
+C0442,Emily Ramirez,Homemaker,Low,0.43943292461926486,0.772,False,"Total credits (log $), Total debits (log $), Account age (days)",0,,0.0,38.6
+C0249,Ines White,Student,Medium,0.43825704002763544,0.766,False,"Share of volume in international wires, High-risk-jurisdiction wire $ (log), Share of credits leaving within 3 days",0,,0.0,38.3
+C0209,Adeyemi Deli LLC,Deli / Bodega,High,0.4373917103413531,0.756,False,"Share of credits that are cash, Total credits (log $), Total debits (log $)",0,,0.0,37.8
+C0483,Rachel Park,Financial Analyst,Low,0.43568170296360653,0.75,False,"Share of debits sent to crypto, Account age (days), Peak month volume / KYC expected volume",0,,0.0,37.5
+C0010,Naomi Perez,Personal Trainer,Low,0.43562860697080347,0.748,False,"# customers on same device, # distinct inbound counterparties, Total credits (log $)",0,,0.0,37.4
+C0073,Amira Silva,Software Developer,Medium,0.4333951143343081,0.734,False,"Share of debits sent to crypto, Account age (days), Total credits (log $)",0,,0.0,36.7
+C0046,Megan Taylor,Sales Representative,Medium,0.4316116186436699,0.714,False,"Share of debits sent to crypto, Account age (days), Total credits (log $)",0,,0.0,35.7
+C0205,Sanchez Restaurant LLC,Restaurant,High,0.4312759744176637,0.712,False,"Share of credits that are cash, Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,35.6
+C0257,Wei Ramirez,Student,Medium,0.4298394027895829,0.698,False,"High-risk-jurisdiction wire $ (log), Share of volume in international wires, Account age (days)",0,,0.0,34.9
+C0455,Ivan Nguyen,Homemaker,Low,0.42905909792061636,0.694,False,"Total debits (log $), Total credits (log $), Share of credits leaving within 3 days",0,,0.0,34.7
+C0110,Ibrahim Laundromat LLC,Laundromat,High,0.42702147650040095,0.682,False,"Share of credits that are cash, Account age (days), Share of credits leaving within 3 days",0,,0.0,34.1
+C0387,Hector Smith,Sales Representative,Low,0.4269512649663227,0.68,False,"Share of debits sent to crypto, Account age (days), Total credits (log $)",0,,0.0,34.0
+C0341,Wei Garcia,Student,Low,0.426910231463066,0.678,False,"Share of volume in international wires, Account age (days), Share of credits leaving within 3 days",0,,0.0,33.9
+C0373,Lucia Brown,Student,Low,0.4267859424859602,0.676,False,"Share of volume in international wires, Account age (days), Share of credits leaving within 3 days",0,,0.0,33.8
+C0340,Hernandez Barbershop LLC,Barbershop,High,0.4267351656955331,0.674,False,"Share of credits that are cash, Account age (days), Share of credits leaving within 3 days",0,,0.0,33.7
+C0066,Ivan Ali,Sales Representative,Low,0.4266411682689611,0.672,False,"Share of debits sent to crypto, Account age (days), # states where cash was deposited",0,,0.0,33.6
+C0290,Ana Ibrahim,Travel Nurse,Low,0.4261251181901212,0.67,False,"# states where cash was deposited, Total debits (log $), Account age (days)",0,,0.0,33.5
+C0274,Gonzalez Barbershop LLC,Barbershop,High,0.4254975297123041,0.668,False,"Share of credits that are cash, Total credits (log $), Total debits (log $)",0,,0.0,33.4
+C0151,Michael Anderson,Student,Medium,0.4237071623418122,0.66,False,"High-risk-jurisdiction wire $ (log), Total credits (log $), Share of credits leaving within 3 days",0,,0.0,33.0
+C0118,Yusuf Perez,Administrative Assistant,Medium,0.42260005125462524,0.652,False,"High-risk-jurisdiction wire $ (log), Total credits (log $), Account age (days)",0,,0.0,32.6
+C0394,Eric Patel,Dentist,Low,0.4223155220355651,0.65,False,"High-risk-jurisdiction wire $ (log), # round-dollar wires >= $10K, Share of credits leaving within 3 days",0,,0.0,32.5
+C0207,Megan Lopez,Financial Analyst,Low,0.42194970437458473,0.648,False,"Share of debits sent to crypto, Account age (days), Share of volume in international wires",0,,0.0,32.4
+C0071,Nadia Gonzalez,Part-time Cashier,Low,0.4216732372816386,0.642,False,"Total credits (log $), Total debits (log $), Share of credits leaving within 3 days",0,,0.0,32.1
+C0331,Naomi Martin,Software Developer,Low,0.4203737646366464,0.64,False,"Share of debits sent to crypto, Account age (days), Share of volume in international wires",0,,0.0,32.0
+C0370,Brown Convenience Store LLC,Convenience Store,High,0.42029767277928176,0.638,False,"Share of credits that are cash, Account age (days), Total credits (log $)",0,,0.0,31.9
+C0469,Martinez Convenience Store LLC,Convenience Store,High,0.42019990009790875,0.636,False,"Share of credits that are cash, Account age (days), Share of credits leaving within 3 days",0,,0.0,31.8
+C0350,Miguel Rahman,Registered Nurse,Medium,0.41994288720779926,0.634,False,"High-risk-jurisdiction wire $ (log), Total credits (log $), Peak month volume / KYC expected volume",0,,0.0,31.7
+C0196,Cohen Food Truck LLC,Food Truck,High,0.4186793579822714,0.628,False,"Share of credits that are cash, Account age (days), Total credits (log $)",0,,0.0,31.4
+C0031,Amira Anderson,Electrician,Low,0.41849051654299657,0.626,False,"Share of credits that are cash, # states where cash was deposited, Share of volume in international wires",0,,0.0,31.3
+C0458,Zainab Mensah,Part-time Cashier,Low,0.4159127524504528,0.622,False,"Total debits (log $), Total credits (log $), Share of credits leaving within 3 days",0,,0.0,31.1
+C0165,Rosa Chen,Travel Nurse,Low,0.41571020650914553,0.62,False,"# states where cash was deposited, Account age (days), Share of credits leaving within 3 days",0,,0.0,31.0
+C0049,Jason Perez,Financial Analyst,Low,0.41561942257618,0.618,False,"Share of debits sent to crypto, Account age (days), Share of volume in international wires",0,,0.0,30.9
+C0152,Samuel Taylor,Personal Trainer,Low,0.41558925979723127,0.616,False,"# distinct inbound counterparties, Account age (days), Share of credits leaving within 3 days",0,,0.0,30.8
+C0349,David Thomas,Bus Operator,Medium,0.4151902014673596,0.614,False,"High-risk-jurisdiction wire $ (log), Peak month volume / KYC expected volume, Account age (days)",0,,0.0,30.7
+C0300,Brown Restaurant LLC,Restaurant,High,0.41487068855791076,0.61,False,"Share of credits that are cash, Share of credits leaving within 3 days, Account age (days)",0,,0.0,30.5
+C0155,Mei Scott,Freelance Designer,Low,0.4142167092375766,0.604,False,"# distinct inbound counterparties, Total credits (log $), Share of credits leaving within 3 days",0,,0.0,30.2
+C0001,Aisha Martinez,Dentist,Medium,0.414108775521914,0.602,False,"# customers on same device, Account age (days), Share of credits leaving within 3 days",0,,0.0,30.1
+C0229,Leila Shah,Freelance Photographer,Low,0.41403295460462947,0.6,False,"# distinct inbound counterparties, Total credits (log $), Share of credits leaving within 3 days",0,,0.0,30.0
+C0461,Pedro Moore,Software Developer,Low,0.41382557400340636,0.598,False,"Share of debits sent to crypto, Account age (days), # states where cash was deposited",0,,0.0,29.9
+C0254,Silva Deli LLC,Deli / Bodega,High,0.4133329712798823,0.596,False,"Share of credits that are cash, Total credits (log $), Total debits (log $)",0,,0.0,29.8
+C0446,Scott Food Truck LLC,Food Truck,High,0.4129586671613646,0.594,False,"Share of credits that are cash, Account age (days), Share of credits leaving within 3 days",0,,0.0,29.7
+C0462,Carlos Lewis,Police Officer,Medium,0.412777170256594,0.59,False,"High-risk-jurisdiction wire $ (log), Share of credits leaving within 3 days, Account age (days)",0,,0.0,29.5
+C0262,Morales Convenience Store LLC,Convenience Store,High,0.4126333630908467,0.588,False,"Share of credits that are cash, Total credits (log $), Share of credits leaving within 3 days",0,,0.0,29.4
+C0028,Elena Walker,Pharmacist,Medium,0.4123497659177906,0.586,False,"High-risk-jurisdiction wire $ (log), Share of credits leaving within 3 days, Total debits (log $)",0,,0.0,29.3
+C0059,Priya Ali,Paralegal,Medium,0.4123411165736527,0.584,False,"Account age (days), High-risk-jurisdiction wire $ (log), Share of credits leaving within 3 days",0,,0.0,29.2
+C0359,Park Restaurant LLC,Restaurant,High,0.41170751436779796,0.582,False,"Share of credits that are cash, Account age (days), Share of credits leaving within 3 days",0,,0.0,29.1
+C0379,Young Car Wash LLC,Car Wash,High,0.41158561001160904,0.578,False,"Share of credits that are cash, Total credits (log $), Share of credits leaving within 3 days",0,,0.0,28.9
+C0072,Hector Levi,Financial Analyst,Low,0.4109123510273374,0.574,False,"Share of debits sent to crypto, Account age (days), Peak month volume / KYC expected volume",0,,0.0,28.7
+C0102,Dalia Diaz,Truck Driver,Low,0.41075467620610656,0.572,False,"# states where cash was deposited, Account age (days), Share of credits leaving within 3 days",0,,0.0,28.6
+C0383,Kevin Moore,Marketing Coordinator,Low,0.41056475351646476,0.568,False,"Share of credits that are cash, Account age (days), Total debits (log $)",0,,0.0,28.4
+C0016,Olivia King,Pharmacist,Low,0.409134352686356,0.562,False,"# customers on same device, Total credits (log $), Account age (days)",0,,0.0,28.1
+C0421,Okafor Nail Salon LLC,Nail Salon,High,0.4089236228191516,0.56,False,"Share of credits that are cash, Total credits (log $), Share of credits leaving within 3 days",0,,0.0,28.0
+C0486,Cohen Deli LLC,Deli / Bodega,High,0.40869393278296556,0.556,False,"Share of credits that are cash, Account age (days), Share of credits leaving within 3 days",0,,0.0,27.8
+C0288,Adeyemi Laundromat LLC,Laundromat,High,0.40863253670304306,0.554,False,"Share of credits that are cash, Total credits (log $), Account age (days)",0,,0.0,27.7
+C0275,Yasmin Patel,Retail Manager,Low,0.4079229190959808,0.552,False,"Account age (days), Share of credits that are cash, Total debits (log $)",0,,0.0,27.6
+C0410,Ibrahim Restaurant LLC,Restaurant,High,0.40781368993199524,0.55,False,"Share of credits that are cash, Total credits (log $), Share of credits leaving within 3 days",0,,0.0,27.5
+C0013,Linh Mensah,Retail Manager,Low,0.40752306540273436,0.548,False,"# customers on same device, Total credits (log $), Peak month volume / KYC expected volume",0,,0.0,27.4
+C0090,Noah Johnson,Financial Analyst,Medium,0.4070989838073006,0.544,False,"Share of debits sent to crypto, Account age (days), Share of volume in international wires",0,,0.0,27.2
+C0153,Gomez Deli LLC,Deli / Bodega,High,0.4070090722820234,0.542,False,"Share of credits that are cash, Total credits (log $), Share of credits leaving within 3 days",0,,0.0,27.1
+C0050,Garcia Car Wash LLC,Car Wash,High,0.406678039973896,0.54,False,"Share of credits that are cash, Share of credits leaving within 3 days, Peak month volume / KYC expected volume",0,,0.0,27.0
+C0426,Miguel Silva,Freelance Designer,Medium,0.40635674481227696,0.538,False,"# distinct inbound counterparties, Total credits (log $), Account age (days)",0,,0.0,26.9
+C0304,Ana Ortiz,Marketing Coordinator,Medium,0.4059694008016452,0.536,False,"High-risk-jurisdiction wire $ (log), Account age (days), Share of credits leaving within 3 days",0,,0.0,26.8
+C0234,Sarah Lopez,Financial Analyst,Low,0.40589755063875804,0.534,False,"Share of debits sent to crypto, Total credits (log $), Share of volume in international wires",0,,0.0,26.7
+C0264,Lewis Laundromat LLC,Laundromat,High,0.4055888934863196,0.53,False,"Share of credits that are cash, Account age (days), Share of credits leaving within 3 days",0,,0.0,26.5
+C0475,Sarah Ramirez,Student,Low,0.4047447263336184,0.526,False,"Share of volume in international wires, Total credits (log $), # states where cash was deposited",0,,0.0,26.3
+C0335,Karim Reyes,Software Developer,Low,0.4045432873977287,0.524,False,"Share of debits sent to crypto, # states where cash was deposited, Share of volume in international wires",0,,0.0,26.2
+C0414,Torres Deli LLC,Deli / Bodega,High,0.40366554929223936,0.52,False,"Share of credits that are cash, Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,26.0
+C0449,Chloe Mansour,Personal Trainer,Low,0.4036156308860727,0.518,False,"# distinct inbound counterparties, Account age (days), Total credits (log $)",0,,0.0,25.9
+C0294,Rodriguez Convenience Store LLC,Convenience Store,High,0.40336069247414924,0.512,False,"Share of credits that are cash, Account age (days), Share of credits leaving within 3 days",0,,0.0,25.6
+C0012,Luis Allen,Marketing Coordinator,Low,0.40298663348167785,0.508,False,"# customers on same device, Account age (days), Share of credits leaving within 3 days",0,,0.0,25.4
+C0161,Hye-jin White,Student,Low,0.4027118655491428,0.506,False,"Account age (days), Total credits (log $), Share of credits leaving within 3 days",0,,0.0,25.3
+C0425,Park Food Truck LLC,Food Truck,High,0.40222443064874885,0.504,False,"Share of credits that are cash, Total credits (log $), Share of credits leaving within 3 days",0,,0.0,25.2
+C0024,Amira Brown,Electrician,Low,0.4013517726863741,0.502,False,"# customers on same device, Account age (days), Total debits (log $)",0,,0.0,25.1
+C0390,Amira Rahman,Personal Trainer,Low,0.40087018518707146,0.5,False,"# distinct inbound counterparties, Total credits (log $), Total debits (log $)",0,,0.0,25.0
+C0223,Hye-jin Perez,Freelance Designer,Low,0.40025250210087115,0.496,False,"# distinct inbound counterparties, Account age (days), Total credits (log $)",0,,0.0,24.8
+C0323,Hector Ali,Freelance Designer,Low,0.4002072899887599,0.494,False,"# distinct inbound counterparties, Total credits (log $), Total debits (log $)",0,,0.0,24.7
+C0004,Elena Rahman,Retired,Medium,0.40009313674055347,0.492,False,"# customers on same device, Total debits (log $), Share of credits leaving within 3 days",0,,0.0,24.6
+C0056,Clark Property Management LLC,Property Management,Medium,0.3998731785454714,0.49,False,"Account age (days), Share of credits leaving within 3 days, Total debits (log $)",0,,0.0,24.5
+C0063,Khan Barbershop LLC,Barbershop,High,0.39986461506816245,0.488,False,"Share of credits that are cash, Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,24.4
+C0109,Karim Gomez,Data Analyst,Medium,0.3996005919634293,0.486,False,"Share of debits sent to crypto, Account age (days), Share of volume in international wires",0,,0.0,24.3
+C0052,David Ibrahim,Student,Low,0.39927911870486305,0.484,False,"Share of volume in international wires, Share of credits leaving within 3 days, Account age (days)",0,,0.0,24.2
+C0133,Gomez Car Wash LLC,Car Wash,High,0.3990202246984936,0.482,False,"Share of credits that are cash, Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,24.1
+C0164,Hannah Davis,Freelance Photographer,Low,0.39873389441645285,0.48,False,"# distinct inbound counterparties, Total credits (log $), Total debits (log $)",0,,0.0,24.0
+C0124,Zainab Okafor,Freelance Designer,Low,0.3986687488931701,0.478,False,"# distinct inbound counterparties, Account age (days), Total credits (log $)",0,,0.0,23.9
+C0367,Kwame Nguyen,Software Developer,Medium,0.39864763369102496,0.476,False,"Share of debits sent to crypto, Peak month volume / KYC expected volume, Share of volume in international wires",0,,0.0,23.8
+C0459,Omar Anderson,Architect,Medium,0.3986303941836658,0.474,False,"# round-dollar wires >= $10K, Account age (days), Share of credits leaving within 3 days",0,,0.0,23.7
+C0494,Jackson Barbershop LLC,Barbershop,High,0.39852255744849113,0.472,False,"Share of credits that are cash, Share of credits leaving within 3 days, Peak month volume / KYC expected volume",0,,0.0,23.6
+C0434,Diaz Nail Salon LLC,Nail Salon,High,0.3981587376495086,0.47,False,"Share of credits that are cash, Account age (days), Share of credits leaving within 3 days",0,,0.0,23.5
+C0231,Miller Restaurant LLC,Restaurant,High,0.3980808288484989,0.468,False,"Share of credits that are cash, Account age (days), Share of credits leaving within 3 days",0,,0.0,23.4
+C0232,Williams Food Truck LLC,Food Truck,High,0.3979113044722513,0.466,False,"Share of credits that are cash, Account age (days), Share of credits leaving within 3 days",0,,0.0,23.3
+C0081,Ivan White,Tutor,Low,0.39745682702116847,0.462,False,"# distinct inbound counterparties, Account age (days), Total credits (log $)",0,,0.0,23.1
+C0324,Cruz Restaurant LLC,Restaurant,High,0.39743476658203414,0.46,False,"Share of credits that are cash, Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,23.0
+C0005,Ahmed Taylor,Teacher,Medium,0.3970289636605442,0.458,False,"# customers on same device, Account age (days), Share of credits leaving within 3 days",0,,0.0,22.9
+C0051,Ana Taylor,Student,Low,0.397015583331995,0.456,False,"Share of volume in international wires, Total credits (log $), Share of credits leaving within 3 days",0,,0.0,22.8
+C0238,Martinez Laundromat LLC,Laundromat,High,0.39672757275704845,0.454,False,"Share of credits that are cash, Share of credits leaving within 3 days, Peak month volume / KYC expected volume",0,,0.0,22.7
+C0439,Grace Ali,Tutor,Low,0.39647071297014175,0.452,False,"# distinct inbound counterparties, Total credits (log $), Total debits (log $)",0,,0.0,22.6
+C0353,Jose Smith,Freelance Photographer,Low,0.3961846746077629,0.446,False,"# distinct inbound counterparties, Total credits (log $), Total debits (log $)",0,,0.0,22.3
+C0202,Farouk Property Management LLC,Property Management,Medium,0.39614247271345265,0.444,False,"Total debits (log $), Total credits (log $), Share of credits leaving within 3 days",0,,0.0,22.2
+C0429,Mei Khan,Personal Trainer,Low,0.395793271334425,0.442,False,"# distinct inbound counterparties, Total credits (log $), Total debits (log $)",0,,0.0,22.1
+C0143,Kevin Davis,Student,Low,0.3956135450207164,0.44,False,"Share of volume in international wires, Account age (days), Total credits (log $)",0,,0.0,22.0
+C0357,Julia Mansour,Student,Medium,0.39534879993769667,0.438,False,"Total credits (log $), # states where cash was deposited, Share of volume in international wires",0,,0.0,21.9
+C0311,Carlos Farouk,Student,Low,0.39516854253729056,0.436,False,"Share of volume in international wires, Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,21.8
+C0308,Jackson Barbershop LLC,Barbershop,High,0.39427421243375815,0.432,False,"Share of credits that are cash, Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,21.6
+C0358,Omar Gomez,Student,Low,0.3939991391153854,0.43,False,"Share of volume in international wires, Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,21.5
+C0235,Tunde Thomas,Delivery Courier,Low,0.3938921972433597,0.428,False,"Account age (days), # distinct inbound counterparties, Total credits (log $)",0,,0.0,21.4
+C0023,Jason Rivera,Bus Operator,Low,0.3933864047279591,0.424,False,"# customers on same device, Account age (days), Total debits (log $)",0,,0.0,21.2
+C0489,Kwame Johnson,Student,High,0.3933834050402913,0.422,False,"Total credits (log $), Account age (days), Share of credits leaving within 3 days",0,,0.0,21.1
+C0085,Kevin White,Paralegal,Low,0.39320705473094636,0.42,False,"Account age (days), Total credits (log $), Total debits (log $)",0,,0.0,21.0
+C0087,Grace Martin,Student,Low,0.3931042227730848,0.418,False,"Share of volume in international wires, Account age (days), Share of credits leaving within 3 days",0,,0.0,20.9
+C0019,Rachel Hernandez,Retired,Low,0.392608084535727,0.416,False,"# customers on same device, Total debits (log $), Share of credits leaving within 3 days",0,,0.0,20.8
+C0194,Amira Taylor,Rideshare Driver,Low,0.3920590788274293,0.414,False,"# distinct inbound counterparties, Total credits (log $), Share of credits leaving within 3 days",0,,0.0,20.7
+C0338,Hye-jin Thomas,Personal Trainer,Low,0.3916977070636548,0.412,False,"# distinct inbound counterparties, Total credits (log $), Account age (days)",0,,0.0,20.6
+C0095,Nadia Farouk,Delivery Courier,Low,0.3916618461404217,0.41,False,"# distinct inbound counterparties, Total credits (log $), Total debits (log $)",0,,0.0,20.5
+C0015,Harris Car Wash LLC,Car Wash,High,0.39161394542939815,0.408,False,"Share of credits that are cash, Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,20.4
+C0419,Carlos White,Rideshare Driver,Low,0.3915286930178783,0.406,False,"# distinct inbound counterparties, Total credits (log $), Total debits (log $)",0,,0.0,20.3
+C0169,Ramirez Property Management LLC,Property Management,Medium,0.3912093775333364,0.402,False,"Share of credits leaving within 3 days, Total debits (log $), Total credits (log $)",0,,0.0,20.1
+C0435,David Rodriguez,Personal Trainer,Low,0.39096735895345186,0.4,False,"# distinct inbound counterparties, Total credits (log $), Total debits (log $)",0,,0.0,20.0
+C0027,Emily Chen,Retail Manager,Low,0.39053969709690417,0.396,False,"# customers on same device, Account age (days), Share of credits leaving within 3 days",0,,0.0,19.8
+C0006,Jose Silva,Software Developer,Low,0.39045164116193826,0.394,False,"# customers on same device, Account age (days), Share of credits leaving within 3 days",0,,0.0,19.7
+C0285,Hector Rahman,Personal Trainer,Low,0.3903756601136602,0.392,False,"# distinct inbound counterparties, Account age (days), Total credits (log $)",0,,0.0,19.6
+C0247,Megan Diaz,Personal Trainer,Low,0.39030655451859386,0.39,False,"# distinct inbound counterparties, Total credits (log $), Total debits (log $)",0,,0.0,19.5
+C0270,Samuel Wilson,Tutor,Low,0.3890055636788219,0.386,False,"# distinct inbound counterparties, Total credits (log $), Total debits (log $)",0,,0.0,19.3
+C0438,Tariq Moore,Rideshare Driver,Low,0.3880998392715109,0.384,False,"# distinct inbound counterparties, Total credits (log $), Total debits (log $)",0,,0.0,19.2
+C0150,Mensah Property Management LLC,Property Management,Medium,0.3876326735063113,0.378,False,"Share of credits leaving within 3 days, Account age (days), Total debits (log $)",0,,0.0,18.9
+C0021,Omar Perez,Software Developer,Low,0.3867257119707986,0.374,False,"# customers on same device, Account age (days), Share of credits leaving within 3 days",0,,0.0,18.7
+C0430,Nadia Hernandez,Financial Analyst,Low,0.38561047855091823,0.368,False,"Account age (days), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,18.4
+C0058,Mei Harris,Attorney,Low,0.3855110290833075,0.366,False,"Account age (days), # round-dollar wires >= $10K, Share of credits leaving within 3 days",0,,0.0,18.3
+C0002,Hector Young,Paralegal,Low,0.38376750176172825,0.364,False,"# customers on same device, Share of credits leaving within 3 days, Total debits (log $)",0,,0.0,18.2
+C0351,Tunde Patel,Teacher,High,0.3833310511706227,0.362,False,"Account age (days), Total credits (log $), Total debits (log $)",0,,0.0,18.1
+C0415,Andre Rodriguez,Student,Low,0.3828609026443327,0.36,False,"Account age (days), Total credits (log $), Total debits (log $)",0,,0.0,18.0
+C0040,Elena Ali,Pharmacist,Medium,0.3826180047345112,0.358,False,"Account age (days), Total credits (log $), Total debits (log $)",0,,0.0,17.9
+C0420,Chloe Smith,Dentist,Low,0.3819405455057829,0.352,False,"# round-dollar wires >= $10K, Share of credits leaving within 3 days, Account age (days)",0,,0.0,17.6
+C0305,Hye-jin Patel,Retired,Low,0.3817436508117332,0.35,False,"Account age (days), Total credits (log $), Total debits (log $)",0,,0.0,17.5
+C0078,Fatima Ortiz,Architect,Low,0.38050927142413604,0.346,False,"Account age (days), Share of credits leaving within 3 days, # round-dollar wires >= $10K",0,,0.0,17.3
+C0261,Luis Rodriguez,Retired,Medium,0.3799039249321173,0.344,False,"Account age (days), Total credits (log $), Total debits (log $)",0,,0.0,17.2
+C0468,Jason Allen,Pharmacist,Low,0.37971027791941236,0.342,False,"Account age (days), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,17.1
+C0243,Adeyemi Property Management LLC,Property Management,High,0.3797098331794035,0.34,False,"Total debits (log $), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,17.0
+C0134,Fatima Farouk,Engineering Manager,Low,0.37911308287810724,0.338,False,"# round-dollar wires >= $10K, Total credits (log $), # states where cash was deposited",0,,0.0,16.9
+C0129,Rachel Ali,Bus Operator,Low,0.3775360672731209,0.332,False,"Account age (days), Total credits (log $), Total debits (log $)",0,,0.0,16.6
+C0366,David Gomez,Pharmacist,Low,0.3769076194361105,0.328,False,"Account age (days), Total credits (log $), Total debits (log $)",0,,0.0,16.4
+C0186,Noah Sanchez,Student,Low,0.37638356393237293,0.326,False,"Total credits (log $), Share of credits leaving within 3 days, Total debits (log $)",0,,0.0,16.3
+C0070,James Haddad,Bus Operator,Low,0.37498400634610213,0.324,False,"Account age (days), Total debits (log $), Peak month volume / KYC expected volume",0,,0.0,16.2
+C0174,Ahmed Torres,Retail Manager,Low,0.3743697728046358,0.32,False,"Total debits (log $), Account age (days), Total credits (log $)",0,,0.0,16.0
+C0382,Ivan Cohen,Engineering Manager,Medium,0.37402260283124306,0.318,False,"Account age (days), Total credits (log $), # states where cash was deposited",0,,0.0,15.9
+C0176,Michael Perez,Physician,Low,0.3731132788935149,0.314,False,"Account age (days), Share of credits leaving within 3 days, # round-dollar wires >= $10K",0,,0.0,15.7
+C0266,Dalia Walker,Physician,Low,0.371386633335376,0.312,False,"# round-dollar wires >= $10K, Account age (days), Share of credits leaving within 3 days",0,,0.0,15.6
+C0137,Ravi Nguyen,Retired,Low,0.370771379089339,0.31,False,"Total credits (log $), Total debits (log $), Account age (days)",0,,0.0,15.5
+C0292,Zainab Clark,Architect,Low,0.3704898269833218,0.308,False,"# round-dollar wires >= $10K, Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,15.4
+C0441,Ines Ortiz,Engineering Manager,Low,0.3703246396388828,0.306,False,"Share of credits leaving within 3 days, # round-dollar wires >= $10K, Account age (days)",0,,0.0,15.3
+C0244,James Park,Retired,Low,0.36916888158623395,0.304,False,"Account age (days), Total debits (log $), Total credits (log $)",0,,0.0,15.2
+C0328,Noah Reyes,Dental Hygienist,Low,0.3689522815376389,0.302,False,"Account age (days), Total debits (log $), Total credits (log $)",0,,0.0,15.1
+C0082,Williams Property Management LLC,Property Management,Medium,0.3686057470952181,0.3,False,"Total debits (log $), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,15.0
+C0217,Megan Rivera,Retired,Low,0.36791903753435434,0.296,False,"Total credits (log $), Total debits (log $), Share of credits leaving within 3 days",0,,0.0,14.8
+C0354,Rosa White,Marketing Coordinator,Low,0.3676240197041303,0.294,False,"Account age (days), Share of credits leaving within 3 days, Share of volume in international wires",0,,0.0,14.7
+C0182,Diego Moore,Attorney,Low,0.36733834565286877,0.292,False,"Share of credits leaving within 3 days, Account age (days), # states where cash was deposited",0,,0.0,14.6
+C0482,Grace Silva,Dentist,Low,0.36732350156048243,0.29,False,"Share of credits leaving within 3 days, # round-dollar wires >= $10K, # states where cash was deposited",0,,0.0,14.5
+C0048,Grace Adeyemi,Bus Operator,Low,0.3662137088296747,0.284,False,"Account age (days), Total debits (log $), Total credits (log $)",0,,0.0,14.2
+C0116,Kevin Reyes,Financial Analyst,Low,0.3661207722384596,0.282,False,"Share of credits leaving within 3 days, Account age (days), Total credits (log $)",0,,0.0,14.1
+C0271,Lucia Rahman,Paralegal,Low,0.36612053657901666,0.28,False,"Account age (days), Total debits (log $), Share of credits leaving within 3 days",0,,0.0,14.0
+C0241,Hector Rivera,Electrician,Low,0.36566605361219334,0.278,False,"Account age (days), Share of credits leaving within 3 days, Peak month volume / KYC expected volume",0,,0.0,13.9
+C0136,Maria Mansour,Retired,Low,0.3654344752397068,0.276,False,"Total debits (log $), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,13.8
+C0293,Dalia Harris,Engineering Manager,Low,0.36540338861130695,0.274,False,"Share of credits leaving within 3 days, Account age (days), # states where cash was deposited",0,,0.0,13.7
+C0258,Karim Martin,Architect,Low,0.3653870703107075,0.272,False,"Share of credits leaving within 3 days, Account age (days), # states where cash was deposited",0,,0.0,13.6
+C0295,Naomi Taylor,Retail Manager,Low,0.36530460201836384,0.27,False,"Account age (days), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,13.5
+C0481,Hector Cruz,Student,Low,0.36468269428378475,0.268,False,"Total credits (log $), Account age (days), Total debits (log $)",0,,0.0,13.4
+C0107,Daniel Jackson,Registered Nurse,Low,0.3644215279014411,0.266,False,"Account age (days), Total credits (log $), Peak month volume / KYC expected volume",0,,0.0,13.3
+C0158,Priya Jackson,Dental Hygienist,Low,0.36438765827842906,0.264,False,"Account age (days), Share of credits leaving within 3 days, Peak month volume / KYC expected volume",0,,0.0,13.2
+C0103,James Allen,Marketing Coordinator,Low,0.3641343075296495,0.262,False,"Account age (days), Total debits (log $), Share of credits leaving within 3 days",0,,0.0,13.1
+C0395,Ana Cruz,Retired,Low,0.3638726643287353,0.258,False,"Total debits (log $), Account age (days), Total credits (log $)",0,,0.0,12.9
+C0033,Rachel Martinez,Dentist,Low,0.3636329380232062,0.256,False,"Account age (days), Share of credits leaving within 3 days, # round-dollar wires >= $10K",0,,0.0,12.8
+C0250,Jose Lewis,Bus Operator,Low,0.3635881657305568,0.254,False,"Account age (days), Share of credits leaving within 3 days, High-risk-jurisdiction wire $ (log)",0,,0.0,12.7
+C0029,Olivia Okafor,Engineering Manager,Low,0.3635365221830477,0.252,False,"# round-dollar wires >= $10K, # states where cash was deposited, Account age (days)",0,,0.0,12.6
+C0476,Chloe Young,Physician,Low,0.36342945129470133,0.25,False,"Account age (days), # round-dollar wires >= $10K, # states where cash was deposited",0,,0.0,12.5
+C0363,Hannah Perez,Retired,Low,0.36320863370601486,0.248,False,"Total debits (log $), Account age (days), Total credits (log $)",0,,0.0,12.4
+C0101,Samuel Gomez,Engineering Manager,Low,0.362684260373899,0.246,False,"Share of credits leaving within 3 days, # round-dollar wires >= $10K, # states where cash was deposited",0,,0.0,12.3
+C0487,Ahmed Rivera,Bus Operator,Low,0.3625451790613579,0.244,False,"Account age (days), Total credits (log $), Total debits (log $)",0,,0.0,12.2
+C0115,Tariq Khan,Retired,Medium,0.36218586261472724,0.242,False,"Account age (days), Total debits (log $), Total credits (log $)",0,,0.0,12.1
+C0301,Marcus Martin,Paralegal,Medium,0.36204778648137453,0.24,False,"Total credits (log $), Total debits (log $), Account age (days)",0,,0.0,12.0
+C0128,Pedro Shah,Teacher,Low,0.36198648988873966,0.238,False,"Account age (days), Total credits (log $), Total debits (log $)",0,,0.0,11.9
+C0230,Hye-jin Martin,Bus Operator,Low,0.3617578028073572,0.234,False,"Share of credits leaving within 3 days, Total debits (log $), Total credits (log $)",0,,0.0,11.7
+C0337,Pedro Morales,Registered Nurse,Low,0.3614667348718744,0.232,False,"Account age (days), Share of credits leaving within 3 days, Total debits (log $)",0,,0.0,11.6
+C0179,Ana Ali,Administrative Assistant,Low,0.3609251381425176,0.23,False,"Account age (days), Total debits (log $), Total credits (log $)",0,,0.0,11.5
+C0396,Sofia Khan,Bus Operator,Low,0.36083864794024345,0.228,False,"Account age (days), Share of credits leaving within 3 days, Total debits (log $)",0,,0.0,11.4
+C0278,Camila Mansour,Financial Analyst,Low,0.36068379337399975,0.226,False,"# round-dollar wires >= $10K, Account age (days), Peak month volume / KYC expected volume",0,,0.0,11.3
+C0211,Ravi Haddad,Physician,Low,0.360128138597357,0.224,False,"Share of credits leaving within 3 days, # states where cash was deposited, Share of volume in international wires",0,,0.0,11.2
+C0125,Lucia Harris,Student,Low,0.35983028773177705,0.222,False,"Total credits (log $), Total debits (log $), # states where cash was deposited",0,,0.0,11.1
+C0327,Andre Patel,Pharmacist,Low,0.3595726478916873,0.22,False,"Account age (days), Share of credits leaving within 3 days, Total debits (log $)",0,,0.0,11.0
+C0177,Dalia Clark,Electrician,Low,0.3594171524387888,0.218,False,"Account age (days), Share of credits leaving within 3 days, Total debits (log $)",0,,0.0,10.9
+C0219,Eric Young,Financial Analyst,Low,0.35933340583324863,0.216,False,"Share of credits leaving within 3 days, Account age (days), Total credits (log $)",0,,0.0,10.8
+C0287,Julia Lewis,Retired,Low,0.3592587720546473,0.214,False,"Total debits (log $), Account age (days), Total credits (log $)",0,,0.0,10.7
+C0374,Diego Mansour,Retired,Low,0.35907622900052866,0.212,False,"Total debits (log $), Total credits (log $), Share of credits leaving within 3 days",0,,0.0,10.6
+C0492,Rosa Ramirez,Retired,Low,0.35902695307957,0.21,False,"Total debits (log $), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,10.5
+C0406,Maria Martin,Bus Operator,Low,0.3588442753537099,0.208,False,"Account age (days), Share of credits leaving within 3 days, Share of volume in international wires",0,,0.0,10.4
+C0284,Carlos Johnson,Retired,Low,0.3587405089707749,0.206,False,"Total debits (log $), Account age (days), Share of credits leaving within 3 days",0,,0.0,10.3
+C0286,Camila Hernandez,Pharmacist,Low,0.358401791080464,0.204,False,"Account age (days), Total credits (log $), Total debits (log $)",0,,0.0,10.2
+C0269,Yusuf Adeyemi,Paralegal,Low,0.35781175582813596,0.202,False,"Account age (days), Total debits (log $), Total credits (log $)",0,,0.0,10.1
+C0375,Noah Flores,Student,Low,0.357456571369129,0.2,False,"Total credits (log $), Total debits (log $), Account age (days)",0,,0.0,10.0
+C0310,Arjun Sanchez,Pharmacist,Low,0.35743032105779265,0.198,False,"Account age (days), Share of credits leaving within 3 days, # states where cash was deposited",0,,0.0,9.9
+C0077,Ivan Ortiz,Electrician,Low,0.35715946003388677,0.196,False,"Account age (days), Share of credits leaving within 3 days, Peak month volume / KYC expected volume",0,,0.0,9.8
+C0326,Yusuf King,Accountant,Low,0.35705737920144737,0.194,False,"Total credits (log $), Total debits (log $), Account age (days)",0,,0.0,9.7
+C0213,Yasmin Garcia,Retired,Low,0.3569910813631005,0.192,False,"Total debits (log $), Total credits (log $), Account age (days)",0,,0.0,9.6
+C0044,Jose Shah,Retired,Low,0.35682649306452047,0.19,False,"Total debits (log $), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,9.5
+C0080,James White,Retired,Medium,0.35669354928622965,0.188,False,"Total debits (log $), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,9.4
+C0297,Priya Torres,Teacher,Low,0.3566373988592572,0.186,False,"Account age (days), Share of credits leaving within 3 days, Total debits (log $)",0,,0.0,9.3
+C0393,Hannah Scott,Retired,Low,0.3565823412452179,0.184,False,"Total debits (log $), Total credits (log $), Share of credits leaving within 3 days",0,,0.0,9.2
+C0259,Arjun Flores,Financial Analyst,Low,0.35629298933662706,0.182,False,"Share of credits leaving within 3 days, # states where cash was deposited, Total credits (log $)",0,,0.0,9.1
+C0365,Hye-jin Rahman,Retired,Low,0.35612555800485307,0.18,False,"Total debits (log $), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,9.0
+C0289,Rosa Garcia,Retired,Low,0.35598591428303616,0.178,False,"Total debits (log $), Total credits (log $), Share of credits leaving within 3 days",0,,0.0,8.9
+C0122,Ines Martin,Retired,Low,0.3559449511500787,0.176,False,"Total debits (log $), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,8.8
+C0392,Grace Jackson,Paralegal,Low,0.35580982266336786,0.174,False,"Share of credits leaving within 3 days, Account age (days), High-risk-jurisdiction wire $ (log)",0,,0.0,8.7
+C0318,Grace Thomas,Retail Manager,Low,0.35579536481796237,0.172,False,"Total debits (log $), Total credits (log $), Share of credits leaving within 3 days",0,,0.0,8.6
+C0496,Miguel Adeyemi,Marketing Coordinator,Low,0.35566103751021605,0.17,False,"Account age (days), Total debits (log $), Share of credits leaving within 3 days",0,,0.0,8.5
+C0224,Amira Ortiz,HVAC Technician,Low,0.3556290105248292,0.168,False,"Account age (days), Total debits (log $), Share of credits leaving within 3 days",0,,0.0,8.4
+C0423,Dalia Williams,Retired,Medium,0.3556267737115132,0.166,False,"Total debits (log $), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,8.3
+C0144,Amira Miller,Software Developer,Low,0.35532718270768754,0.164,False,"Share of credits leaving within 3 days, Total debits (log $), Peak month volume / KYC expected volume",0,,0.0,8.2
+C0041,Sofia Levi,Pharmacist,Low,0.355072717480414,0.162,False,"Account age (days), Share of credits leaving within 3 days, Peak month volume / KYC expected volume",0,,0.0,8.1
+C0321,Priya Hernandez,Electrician,Low,0.35499483580344565,0.16,False,"Account age (days), Total debits (log $), Total credits (log $)",0,,0.0,8.0
+C0099,Aisha Cruz,Teacher,Low,0.3548810869001781,0.158,False,"Total credits (log $), Total debits (log $), Peak month volume / KYC expected volume",0,,0.0,7.9
+C0154,Priya Rodriguez,HVAC Technician,Low,0.354835968935974,0.156,False,"Account age (days), Total debits (log $), Share of credits leaving within 3 days",0,,0.0,7.8
+C0433,Ravi Clark,Retired,Low,0.35478345762806607,0.154,False,"Total credits (log $), Total debits (log $), Share of credits leaving within 3 days",0,,0.0,7.7
+C0242,Luis King,Administrative Assistant,Low,0.3544950646347503,0.152,False,"Account age (days), Total debits (log $), Share of volume in international wires",0,,0.0,7.6
+C0309,Kevin Ali,Administrative Assistant,Low,0.3543679594233259,0.15,False,"Account age (days), Total debits (log $), Peak month volume / KYC expected volume",0,,0.0,7.5
+C0444,Ines Silva,Retired,Low,0.3543661811685858,0.148,False,"Total debits (log $), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,7.4
+C0465,Diego Nguyen,Retired,Medium,0.35425199049514466,0.146,False,"Account age (days), Total debits (log $), Share of credits leaving within 3 days",0,,0.0,7.3
+C0170,Amira Ibrahim,Retired,Low,0.3540337848234972,0.144,False,"Total debits (log $), Total credits (log $), Share of credits leaving within 3 days",0,,0.0,7.2
+C0233,Marcus Patel,Retired,Low,0.35388196360489865,0.142,False,"Total debits (log $), Total credits (log $), Share of credits leaving within 3 days",0,,0.0,7.1
+C0344,Omar Levi,Retired,Low,0.3538214390297917,0.14,False,"Total debits (log $), Total credits (log $), Share of credits leaving within 3 days",0,,0.0,7.0
+C0361,Ahmed Khan,Retired,Low,0.3536818733679273,0.138,False,"Total debits (log $), Account age (days), Share of credits leaving within 3 days",0,,0.0,6.9
+C0119,Ines Ramirez,Attorney,Low,0.353460067337987,0.136,False,"Account age (days), Share of credits leaving within 3 days, Peak month volume / KYC expected volume",0,,0.0,6.8
+C0091,David Park,Pharmacist,Low,0.35340167074611756,0.134,False,"Share of credits leaving within 3 days, Total debits (log $), High-risk-jurisdiction wire $ (log)",0,,0.0,6.7
+C0149,Andre Martinez,Electrician,Low,0.35336470741164544,0.132,False,"Share of credits leaving within 3 days, Account age (days), Total debits (log $)",0,,0.0,6.6
+C0065,Zainab White,Electrician,Low,0.3533482918129007,0.13,False,"Account age (days), Total credits (log $), Total debits (log $)",0,,0.0,6.5
+C0100,Hannah Mensah,Retired,Low,0.3533347144225949,0.128,False,"Total debits (log $), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,6.4
+C0200,Rosa Williams,Bus Operator,Low,0.3532867997027496,0.126,False,"Account age (days), Share of credits leaving within 3 days, Total debits (log $)",0,,0.0,6.3
+C0188,Elena Farouk,Bus Operator,Low,0.353284567726877,0.124,False,"Total credits (log $), Total debits (log $), Share of credits leaving within 3 days",0,,0.0,6.2
+C0491,Emily Gonzalez,Retired,Low,0.35327304131204734,0.122,False,"Total debits (log $), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,6.1
+C0450,Dalia Taylor,Retired,Low,0.3532086856382531,0.12,False,"Total debits (log $), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,6.0
+C0322,Arjun Anderson,Architect,Low,0.3529834767253577,0.118,False,"Share of credits leaving within 3 days, Account age (days), # states where cash was deposited",0,,0.0,5.9
+C0347,Elena Flores,Retail Manager,Low,0.3529148023784966,0.116,False,"Share of credits leaving within 3 days, Total debits (log $), Account age (days)",0,,0.0,5.8
+C0451,Emily Khan,Registered Nurse,Low,0.35277834830016563,0.114,False,"Account age (days), Total credits (log $), Total debits (log $)",0,,0.0,5.7
+C0355,Linh Davis,Police Officer,Low,0.35267239411101386,0.112,False,"Account age (days), Share of credits leaving within 3 days, Total debits (log $)",0,,0.0,5.6
+C0111,Yusuf Lewis,Retail Manager,Low,0.35223620307582393,0.11,False,"Total credits (log $), Total debits (log $), Peak month volume / KYC expected volume",0,,0.0,5.5
+C0488,Leila Young,Pharmacist,Low,0.3519055118190054,0.108,False,"Account age (days), Total credits (log $), Total debits (log $)",0,,0.0,5.4
+C0135,Ahmed Cruz,Pharmacist,Low,0.35185684639444537,0.106,False,"Share of credits leaving within 3 days, Account age (days), High-risk-jurisdiction wire $ (log)",0,,0.0,5.3
+C0405,Hannah Anderson,Retired,Low,0.3514906188674037,0.104,False,"Total debits (log $), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,5.2
+C0105,Sarah Khan,HVAC Technician,Low,0.35139597069551276,0.102,False,"Share of credits leaving within 3 days, Account age (days), Total debits (log $)",0,,0.0,5.1
+C0336,Rachel Flores,Paralegal,Low,0.3512102276459084,0.1,False,"Account age (days), Total debits (log $), Total credits (log $)",0,,0.0,5.0
+C0032,Naomi Ortiz,Marketing Coordinator,Low,0.35106464049596303,0.098,False,"Total debits (log $), Share of credits leaving within 3 days, Share of volume in international wires",0,,0.0,4.9
+C0112,Amira Williams,Retail Manager,Low,0.350838979465904,0.096,False,"Account age (days), Share of credits leaving within 3 days, Total debits (log $)",0,,0.0,4.8
+C0075,Arjun Thomas,Registered Nurse,Low,0.35078177472259753,0.094,False,"Share of credits leaving within 3 days, Account age (days), Total debits (log $)",0,,0.0,4.7
+C0272,Karim Kim,Retired,Medium,0.3503097751597685,0.092,False,"Total debits (log $), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,4.6
+C0236,Karim Moore,Retired,Low,0.3502716615519683,0.09,False,"Total debits (log $), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,4.5
+C0098,Ravi Walker,Accountant,Low,0.3502137999677448,0.088,False,"Share of credits leaving within 3 days, Total debits (log $), Peak month volume / KYC expected volume",0,,0.0,4.4
+C0216,Grace Wong,Police Officer,Low,0.35006889171792727,0.086,False,"Share of credits leaving within 3 days, Account age (days), Total debits (log $)",0,,0.0,4.3
+C0267,Samuel Clark,Registered Nurse,Low,0.35004349519692207,0.084,False,"Account age (days), Share of credits leaving within 3 days, Total debits (log $)",0,,0.0,4.2
+C0172,Nadia Allen,Software Developer,Low,0.3497970852816253,0.082,False,"Account age (days), Total credits (log $), Share of credits leaving within 3 days",0,,0.0,4.1
+C0053,Ravi Davis,HVAC Technician,Low,0.3496991287798759,0.08,False,"Account age (days), Total debits (log $), Total credits (log $)",0,,0.0,4.0
+C0473,Rosa Reyes,Electrician,Low,0.34950834003844816,0.078,False,"Account age (days), Total debits (log $), Total credits (log $)",0,,0.0,3.9
+C0245,Grace Clark,Police Officer,Low,0.34942354138266396,0.076,False,"Account age (days), Total debits (log $), Total credits (log $)",0,,0.0,3.8
+C0062,Dalia Adeyemi,Retail Manager,Low,0.34857412939702404,0.074,False,"Share of credits leaving within 3 days, Peak month volume / KYC expected volume, Total debits (log $)",0,,0.0,3.7
+C0463,Ivan Ramirez,Accountant,Medium,0.3484216773081839,0.072,False,"Total credits (log $), Total debits (log $), Account age (days)",0,,0.0,3.6
+C0303,Ivan Haddad,Paralegal,Low,0.3483813626584997,0.07,False,"Account age (days), Share of credits leaving within 3 days, Peak month volume / KYC expected volume",0,,0.0,3.5
+C0443,Nadia Martin,Software Developer,Low,0.3483118349989953,0.068,False,"Account age (days), Total debits (log $), Total credits (log $)",0,,0.0,3.4
+C0121,Tariq Ramirez,Marketing Coordinator,Low,0.3482209653350005,0.066,False,"Account age (days), Total credits (log $), Total debits (log $)",0,,0.0,3.3
+C0330,Lucia Scott,Police Officer,Low,0.3482073145588659,0.064,False,"Share of credits leaving within 3 days, Total debits (log $), Share of volume in international wires",0,,0.0,3.2
+C0273,Mei Levi,Teacher,Low,0.3480710344471952,0.062,False,"Account age (days), Share of credits leaving within 3 days, Total debits (log $)",0,,0.0,3.1
+C0171,Chloe White,Bus Operator,Low,0.3479889340290525,0.06,False,"Account age (days), Share of credits leaving within 3 days, Peak month volume / KYC expected volume",0,,0.0,3.0
+C0045,Pedro Farouk,Administrative Assistant,Low,0.3479870270424849,0.058,False,"Total credits (log $), Account age (days), Total debits (log $)",0,,0.0,2.9
+C0346,Jose Ramirez,Administrative Assistant,Low,0.34766514903544626,0.056,False,"Total credits (log $), Total debits (log $), Share of credits leaving within 3 days",0,,0.0,2.8
+C0378,Rachel Davis,Bus Operator,Low,0.3476262204810262,0.054,False,"Total credits (log $), Total debits (log $), Peak month volume / KYC expected volume",0,,0.0,2.7
+C0360,Rachel Adeyemi,Administrative Assistant,Low,0.3475303085899067,0.052,False,"Share of credits leaving within 3 days, Total debits (log $), Account age (days)",0,,0.0,2.6
+C0388,Elena Garcia,Dental Hygienist,Low,0.3473401308859517,0.05,False,"Account age (days), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,2.5
+C0214,Carlos Wilson,Teacher,Low,0.3471808894446082,0.048,False,"Total credits (log $), Total debits (log $), Share of credits leaving within 3 days",0,,0.0,2.4
+C0474,Wei Mensah,Retail Manager,Low,0.34702418031138316,0.046,False,"Total debits (log $), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,2.3
+C0498,Kevin Taylor,Retail Manager,Low,0.34694748862058045,0.044,False,"Account age (days), Total debits (log $), Share of credits leaving within 3 days",0,,0.0,2.2
+C0407,Aisha Shah,Electrician,Low,0.3469473146814101,0.042,False,"Share of credits leaving within 3 days, Total debits (log $), Share of volume in international wires",0,,0.0,2.1
+C0083,Hye-jin Ibrahim,Teacher,Low,0.34693684075034553,0.04,False,"Account age (days), Total credits (log $), Total debits (log $)",0,,0.0,2.0
+C0277,Ivan Ibrahim,Dental Hygienist,Low,0.3465347578542011,0.038,False,"Account age (days), Share of credits leaving within 3 days, # states where cash was deposited",0,,0.0,1.9
+C0163,Kevin Khan,Paralegal,Low,0.3464788049886197,0.036,False,"Share of credits leaving within 3 days, Total debits (log $), Total credits (log $)",0,,0.0,1.8
+C0201,Leila Perez,Dental Hygienist,Low,0.34617290934735323,0.034,False,"Total debits (log $), Total credits (log $), Share of volume in international wires",0,,0.0,1.7
+C0253,Nadia Rahman,Administrative Assistant,Low,0.3459365730086734,0.032,False,"Share of credits leaving within 3 days, Account age (days), Total debits (log $)",0,,0.0,1.6
+C0097,Carlos Martin,Pharmacist,Low,0.3458155163629361,0.03,False,"Total debits (log $), Total credits (log $), Account age (days)",0,,0.0,1.5
+C0485,Carlos Nguyen,Bus Operator,Low,0.34562851800420025,0.028,False,"Share of credits leaving within 3 days, Account age (days), # states where cash was deposited",0,,0.0,1.4
+C0226,Hye-jin Harris,Marketing Coordinator,Low,0.34552979586635285,0.026,False,"Share of credits leaving within 3 days, Peak month volume / KYC expected volume, # states where cash was deposited",0,,0.0,1.3
+C0055,Michael Park,Pharmacist,Low,0.34548338631427394,0.024,False,"Share of credits leaving within 3 days, Total debits (log $), Total credits (log $)",0,,0.0,1.2
+C0460,Karim Rodriguez,Bus Operator,Low,0.34506485517322233,0.022,False,"Share of credits leaving within 3 days, Total debits (log $), Peak month volume / KYC expected volume",0,,0.0,1.1
+C0352,Brian Lopez,Bus Operator,Low,0.34497616883798526,0.02,False,"Account age (days), Share of credits leaving within 3 days, Total debits (log $)",0,,0.0,1.0
+C0389,Tunde Anderson,HVAC Technician,Low,0.3445870873670988,0.018,False,"Total debits (log $), Share of credits leaving within 3 days, Total credits (log $)",0,,0.0,0.9
+C0371,Mei Cruz,Dental Hygienist,Low,0.3442988986308402,0.016,False,"Account age (days), Share of credits leaving within 3 days, Share of volume in international wires",0,,0.0,0.8
+C0452,Mei Silva,HVAC Technician,Low,0.3437490695904271,0.014,False,"Account age (days), Total credits (log $), Share of credits leaving within 3 days",0,,0.0,0.7
+C0054,Andre Davis,Registered Nurse,Low,0.34361005247546705,0.012,False,"Share of credits leaving within 3 days, Peak month volume / KYC expected volume, Share of volume in international wires",0,,0.0,0.6
+C0240,Linh Martinez,Registered Nurse,Low,0.34358025430835853,0.01,False,"Share of credits leaving within 3 days, Total debits (log $), Share of volume in international wires",0,,0.0,0.5
+C0215,Tariq Rodriguez,Bus Operator,Low,0.3432015163818204,0.008,False,"Share of credits leaving within 3 days, Total debits (log $), Peak month volume / KYC expected volume",0,,0.0,0.4
+C0248,Rosa Silva,Retail Manager,Low,0.34292966514943596,0.006,False,"Account age (days), Share of credits leaving within 3 days, Total debits (log $)",0,,0.0,0.3
+C0348,Jason Adeyemi,Pharmacist,Low,0.34184587817423634,0.004,False,"Total debits (log $), Share of credits leaving within 3 days, # states where cash was deposited",0,,0.0,0.2
+C0296,Nadia Williams,Accountant,Medium,0.3407050836414423,0.002,False,"Total debits (log $), Total credits (log $), Share of credits leaving within 3 days",0,,0.0,0.1

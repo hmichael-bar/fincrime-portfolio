@@ -1,0 +1,49 @@
+
+Query       : Ali Hassan
+Normalised  : ali hasan
+              - 'hassan' treated as transliteration variant of 'hasan'
+Threshold   : 85
+Result      : False Positive
+
+[1] score 100.0  False Positive
+    List entry : FADHIL, Mustafa Mohamed  (SDN SDN-6924, individual)
+    Matched on : alias (aka) -> ALI, Hassan
+    Programs   : SDGT
+    DOB        : 23 Jun 1976
+    Nat./POB   : Egypt, Kenya / Cairo, Egypt
+    Why        : Name similar but date of birth does not match the list entry
+      - Matched list alias (aka) 'ALI, Hassan', not only the primary name
+      - Identical after normalisation (word order differs)
+      - Customer name: 'hassan' treated as transliteration variant of 'hasan'
+      - List name: 'hassan' treated as transliteration variant of 'hasan'
+      * DOB conflict: customer 1979 vs list 23 Jun 1976
+      * Nationality differs: customer Jordan vs list egypt, kenya (weak - people hold several nationalities)
+    Components : token_sort=100, jaro_winkler=100, token_align=100, phonetic=100
+
+[2] score  95.0  False Positive
+    List entry : KHALIL, Ali Hassan  (SDN SDN-28572, individual)
+    Matched on : primary name -> KHALIL, Ali Hassan
+    Programs   : SDGT
+    DOB        : 15 Jul 1964
+    Nat./POB   : Lebanon / Khiyam, Lebanon
+    Why        : Name similar but date of birth does not match the list entry
+      - Customer name: 'hassan' treated as transliteration variant of 'hasan'
+      - List name: 'hassan' treated as transliteration variant of 'hasan'
+      - List name has additional name parts: khalil
+      * DOB conflict: customer 1979 vs list 15 Jul 1964
+      * Nationality differs: customer Jordan vs list lebanon (weak - people hold several nationalities)
+    Components : token_sort=72.0, jaro_winkler=91.2, token_align=90.0, phonetic=75.0, subset=95.0
+
+[3] score  95.0  False Positive
+    List entry : ZURAIK, Ali Hasan  (SDN SDN-12116, individual)
+    Matched on : primary name -> ZURAIK, Ali Hasan
+    Programs   : SDGT
+    DOB        : 1952
+    Nat./POB   : - / Al Khiyam, Lebanon
+    Why        : Name similar but date of birth does not match the list entry
+      - Customer name: 'hassan' treated as transliteration variant of 'hasan'
+      - List name has additional name parts: zuraik
+      * DOB conflict: customer 1979 vs list 1952
+      * Nationality differs: customer Jordan vs list lebanon (weak - people hold several nationalities)
+    Components : token_sort=72.0, jaro_winkler=91.2, token_align=90.0, phonetic=75.0, subset=95.0
+

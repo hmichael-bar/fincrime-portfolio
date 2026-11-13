@@ -1,0 +1,53 @@
+{
+  "_comment": "Tunable scenario thresholds. Change a number, rerun `python src/run_pipeline.py`, and compare outputs/evaluation_report.md. 'weight' feeds the customer risk score.",
+  "R01_structuring": {
+    "enabled": true, "weight": 3.0,
+    "lower_bound": 8000, "ctr_threshold": 10000,
+    "window_days": 5, "min_count": 2, "min_aggregate": 10000
+  },
+  "R02_rapid_movement": {
+    "enabled": true, "weight": 2.5,
+    "min_inflow": 20000, "window_days": 3, "pass_through_ratio": 0.80
+  },
+  "R03_funnel_account": {
+    "enabled": true, "weight": 3.0,
+    "min_out_of_state_branch_states": 3, "min_out_of_state_cash": 10000
+  },
+  "R04_high_risk_geography": {
+    "enabled": true, "weight": 2.0,
+    "grey_min_amount": 3000, "corridor_min_amount": 10000, "monthly_min_total": 10000,
+    "suppress_if_country_in_kyc_profile": true
+  },
+  "R05_round_dollar_wires": {
+    "enabled": true, "weight": 1.5,
+    "min_amount": 10000, "round_unit": 1000, "min_count_per_month": 2
+  },
+  "R06_dormant_reactivation": {
+    "enabled": true, "weight": 2.0,
+    "dormancy_days": 90, "reactivation_window_days": 30, "min_reactivation_amount": 15000
+  },
+  "R07_tbml_invoice_pattern": {
+    "enabled": true, "weight": 2.5,
+    "min_amount": 10000, "repeat_count": 2, "min_conditions": 2
+  },
+  "R08_mule_activity": {
+    "enabled": true, "weight": 3.0,
+    "min_unique_senders": 10, "min_outflow_ratio": 0.80,
+    "require_secondary_indicator": true,
+    "crypto_outflow_share": 0.20, "new_account_days": 180, "shared_device_min_customers": 3
+  },
+  "R09_profile_deviation": {
+    "enabled": true, "weight": 1.0,
+    "volume_multiplier": 3.0, "min_monthly_volume": 25000
+  },
+  "R10_shared_device": {
+    "enabled": true, "weight": 2.0,
+    "min_customers_per_device": 3
+  },
+  "anomaly_model": {
+    "contamination": 0.10, "n_estimators": 300, "random_state": 42
+  },
+  "combined_score_weights": {
+    "rules": 0.50, "anomaly": 0.50, "kyc_risk": 0.0
+  }
+}

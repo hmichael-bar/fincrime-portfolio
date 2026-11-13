@@ -1,0 +1,1253 @@
+{
+  "subject": {
+    "name": "Rami Makhlouf",
+    "aliases": [
+      "Rami Makhluf"
+    ],
+    "arabic_names": [
+      "رامي مخلوف"
+    ],
+    "kind": "person"
+  },
+  "run_at": "2026-11-13T06:20:31.581472+00:00",
+  "days": 365,
+  "rating": "HIGH",
+  "rating_reason": "Credible, serious adverse media naming the subject (conviction/penalty/designation-level or repeated).",
+  "raw_articles": 80,
+  "unique_stories": 64,
+  "adverse_stories": 3,
+  "searches": [
+    {
+      "source": "Google News (en)",
+      "query": "\"Rami Makhlouf\" when:365d",
+      "status": "ok",
+      "n_results": 21
+    },
+    {
+      "source": "Google News (en)",
+      "query": "\"Rami Makhlouf\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d",
+      "status": "ok",
+      "n_results": 10
+    },
+    {
+      "source": "Google News (en)",
+      "query": "\"Rami Makhluf\" when:365d",
+      "status": "ok",
+      "n_results": 0
+    },
+    {
+      "source": "Google News (en)",
+      "query": "\"Rami Makhluf\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d",
+      "status": "ok",
+      "n_results": 0
+    },
+    {
+      "source": "Google News (ar)",
+      "query": "\"رامي مخلوف\" when:365d",
+      "status": "ok",
+      "n_results": 41
+    },
+    {
+      "source": "Google News (ar)",
+      "query": "\"رامي مخلوف\" (عقوبات OR غسيل OR فساد OR رشوة OR احتيال OR إرهاب OR تهريب OR اتهام) when:365d",
+      "status": "ok",
+      "n_results": 8
+    },
+    {
+      "source": "GDELT",
+      "query": "\"Rami Makhlouf\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english",
+      "status": "rate-limited",
+      "n_results": 0
+    },
+    {
+      "source": "GDELT",
+      "query": "\"Rami Makhlouf\" sourcelang:arabic",
+      "status": "ok",
+      "n_results": 0
+    }
+  ],
+  "findings": [
+    {
+      "title": "هل بدأت الإمارات حجز أموال رامي مخلوف استجابة للمحكمة الجنائية؟",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTFpQTm9MeW1oaVlKZ0hOa21BeEp1U092dUNKMFdRNm91OS1NUVJ5YVF1b2FaSTdRZ19ENkxYTmdzcnRkMFM0SjlLZlVHbjZaMkc1S1BSbE8yMS1yOEpqQUlUZmFINFZpRzRDNWJlTU44ZmZHSEV3Z3ZxRFhFLU1xMUl4Q1FSSGJNbEE?oc=5",
+      "source": "منصة تأكد",
+      "published": "2026-07-09T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "title",
+      "stage": "conviction_or_penalty",
+      "severity": 90,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "حجز اموال"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "What Does the European Court’s Refusal to Lift Sanctions on Makhlouf Family Members Mean? - Enab Baladi",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQNGNIbDBVS1VRaGI2Q3VDTmN4Tzktd1dLeVUxazNUSHF1blhlSWxhVXVsSzZCZ2c5YU5kS3JCMEtYeWk1UVo3VWJHOGFrTWVUTWFBMlpyN2NxRWU5ai1BUjZmMDlQTTlvQWF4UW9kcGdmSlFyamFqS2JYTWR2RjZlUjdOd2NnbjRiVHh2aXVJUUM0NGdRUnRqY0dNUDJTYnVEbkxlMGRsLVN0aUFVMzRzX0M0bXFRdE9ZZnlUS0lMbXBYZ0FrdjJhbXp5VFdJbzRYSVHSAdcBQVVfeXFMUEZYbjlJR0kwS1JlVkE5MGMzdE1vNHB5R2ktbU1hM2RGbG5YMG1tRXd3SVBsWFpvdUhxZTJJYmZPLVdkcHVQYmsxSVY3czBiVEYwTWh3Vmdlc0o3eXdTOE9fSEstai1iNE0teE94em9fM1B1a01ySWljMzZUTXAwMTlaVW5XT2Z4Zkt5enNIQjFhSk14TmowU2c5NFV2OGYtVUxyOHNhbmdEVFFyQm15WHdIYURzU1FINXlfY0RKUEdaYkdHRlltbWphay1NQ0YtYmR0QkJIbVE?oc=5",
+      "source": "Enab Baladi",
+      "published": "2026-07-09T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 40,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "عائلة مخلوف تخسر معركة رفع العقوبات الأوروبية",
+      "url": "https://news.google.com/rss/articles/CBMiqgNBVV95cUxOSWdWejVXYl9jSGFuSlc1VzBmaEdoTVVVaWlVWUR0VWZvby1EeUJuZ1lOMDA3RkRsNk02dUFEbGI2V0NXN3B6cVdFVWdRNEJGcHRqS1RpRXJyb0RnWUFGQ216clhuUVBkOHluR0lWdGdtQTdXeURYeTQwOXJfWUFDX1k3WXRZUUpqa0o3a0F1ellkOVpBcGk0MlN2NGRVTVBSTDZ5azNtM09TVWdDZDNTRkx1Q2tHUEdRT1NaUEMyWDJXLVdHbFBpOHZDOHlNUlRxV0lSVEozWWV6a0c2Vmw3ZV9YVlRDcl9aeEVvckV5NWZXYjNyRlBQNFNyeENfXzByTDdVX2NlaVN0aGlka3lzVHlESjhGZ1dxY0RYOVBydUZMdGVZd200ZndTbFpQRmxUWjFlTGJJampyMkYxeXRCelB6Zml0bVRWRTFyT0VzdDNLWnZNQTliS3RqaHFhTE96U1BVckdoeUtPNFBSUUc4Z3NXQ05rdGQxQ3YzTzVIWnlXaW5XTHBYTDQwMDhYRFZlRVVIdEhfa1BsUVRqTGlXanhDS0VSZl9ienfSAa8DQVVfeXFMT3E4YVVucWZHemY4aFBUTWV3bXdJRXdybU9waGxFYWZNd1RFRFl0LXVBOWNibGpPYk9McUpFeV9wZzNleXFVQUx4WEMyX0RXUS1mRnZ2anhseUd4Z1l4ODFaNFZkc3hWNTRIWEFkeldsNE9NNXNWalVfZzMwQjIxTFFEWkh5LUw3T1BYTVk4QTN1U3lYbV9ENmFHNTZ5akFkZmxVVFhmOTgzeG1jUGh2Ynp0clNwX1F3OUJoOXJwYXRZWVktcEZfVXRVOXdvZ0FfNWVyd3BrU0Q4TGZIT3JFbzJCSXNCMGNZN3Q2aWkxMERYdWFoMmVnVjlUdm1IeGJ2Z21iNXNoYUI4ckljeVBwMmFQbFZXWFczT1hKblFJWHBIOTlva3lRaE5TZURaTm1rUjZoNloteG9FYVdWclB5Sk5DcjFITmhaSG9PaFJ3NHNxTXRaTlJEem8xTVNhQTNLdUVJSVNweXJoWU0zZ1NIeUFueXIyS1ROOG04Z3NmcXRKeURHTUFoNnY3eHpSdHZCTmVfVlZhWERXWkc1YXZvOVlYQmM3dEdjc1BHNDY4bTQ?oc=5",
+      "source": "العربية",
+      "published": "2026-07-07T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 40,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "العقوبات",
+          "عقوبات"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "European Court Upholds Syrian Tycoon’s Inclusion on Sanctions Lists",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbWpZVF9BS1RBdERpRzR4cGJMRVRuLTlEenNTdHBhczhvbVJPRlljQXVUUTUtREJ6NDNDTklxRVJQVlM3X2pqZG5UeG9LX0RuUEc1a25tVFFMWkY0b3ZEVXQwUUQwUnd6RmNxRW13Sl9iSnFqci1YNTJaLWgwVFMycVBzQ2lDSkptczJCdVRqWGNlcmtET0RXX0hmSnpjckE4VW1mMktRSTZiTTFGcFJ1dHRjMA?oc=5",
+      "source": "The Syrian Observer",
+      "published": "2026-01-15T08:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d",
+      "relevance": "none",
+      "stage": "conviction_or_penalty",
+      "severity": 31,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "sanctions"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "ما دلالات رفض “العدل الأوروبية” رفع العقوبات عن أفراد من عائلة مخلوف؟",
+      "url": "https://news.google.com/rss/articles/CBMiywJBVV95cUxQZHRvcUltNnJCa1o2RnRoTHlvRmhoM1J5RkIxdTZjSkNwMXBubVE2ZHBMOG1TcmI2TUUwNEpxVGVlSmNZRVpZM0s4VTNIRk9EVjNoNlc5VG1WYm94QkY4TV9qUlZlSU5sR29rSkFQdFdkcFBqOEg3b0NvM1ZMWU5kR2h1MUNjZkEyV0plb3RzZUhIV2QxSDNMVDR1V0l3NUFLb1hacHVOMEQ0LW1EMk9QWGJHZzdBWlprSFNBbWVmVnRUWXFueE9PMC1LYVFfM29XSjNfQUdfQkFlb19SU3NfNFBwbVNwUjR0cWM1UFhnZWdtS1VyeDNEY0J4bS1rUm9oNVgteU9XNGFYNk9hblRfeS1XZVJJck9qVWhFbkRBRkRhX2tLdkg2OEtxdU05ODduUFREZjN2ZWNsWGtPMmdPM09NUFFHck1kVXZJ0gHTAkFVX3lxTE1oNGNoUG1UUUdCcjVleDNSRXZsc1RwSy1SZGJlVTdMTGY4LUhpWjN3QXhCa29TNjZFNTQzczIzVHZZUmxwb28tcXlHTHN4cERBeVV4aTZXRDNEak10TjU1UmNLNXFkV2JKQXpiUHlCQm5wSWVWc3psTUVNdm9tdHdrcG5CeU9ac2tXTlM2bzlaemc3QjhCcDRFNHBnNGZMelNXd0VkbnBkbURVV2hQSFV6UWF4VWdJTGxfSDVwalB1TmdaVW4zMnU3OVI1enRTdnk2TXlFdER6UkVvX0tsNHh0emhNeUlWekFsWjR5NHFFUXRuZ2xZUllpR3c2RWRyMTV1ckg5el9SbHlJVmZqQkd1UG8yVUlwcnpzWWRmd2lpSng5NEFfSWo1aEh2OElyOHRkV2NkaXc2bjB3QVZhY0VNY1AxeC1lVUozQWdSYmVQZzJORQ?oc=5",
+      "source": "عنب بلدي",
+      "published": "2026-07-09T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 24,
+      "categories": {
+        "Sanctions / asset freeze": [
+          "العقوبات",
+          "عقوبات"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Swiss lawyer from Panama Papers firm to face court on tax evasion charges",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQNWE0Q1AyQXp2Q0N5X3JMLUlKbXVmc243dlpaTkpVS1prdjlpSXRqZk42OV8xa0lucllxUEN1cWlNalZoQU1ObTQwN3F6Z1dkTG9STTNMZXRpS3gwcklKLXM0d1dabTEzbkJTUGxzTlF0MG1MWVQ5UHFybVNYeGUxbUZUMC1TNkNKdUVFSnR6U1hXRFhIX254dmU0Vk8tNm14RzY1bVhtVkZkYS1nbnV2aUdfb1dtQWRfUlJFcFNCdjBIUQ?oc=5",
+      "source": "International Consortium of Investigative Journalists - ICIJ",
+      "published": "2025-11-28T08:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 18,
+      "categories": {
+        "Fraud": [
+          "tax evasion"
+        ]
+      },
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "وثائق مسرّبة: كيف غلّف رامي مخلوف إمبراطوريته بـ\"التنمية والإنسانية\" قبل سقوطه؟",
+      "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQU2QzV2pqRG1YLWU3bjlIVkFiSGE2aW92WHRvSGNHMjVkb0JBZUtoTVd1OS10bzB4cG9kSGJGSm94eG92cnlfMnU1YmppS2ZDaWItTXM5NFRWMXdZX0dQbzhQVk5lZEpnRk5hUTdFVzBkak9PZDF6VGtIbElKR2pCUVI4RVBFYTQ3bVVkTnZKdm9xck1HMmZfWXdUUTRQakFRaFdYZHZoT3dUdW45Rl91ZDF1VFBLcmp4SThrY0wwQVh5OEFiRi1YdlA1YTBra0tmeEdYM1ZqLTJocGZXYVJ6Y1BOSnk1Y1NQbmV4ZXNnUGZ6UHY4VGhYMzFuNnZaVWRhVWlyS3N4TTZWQ2FDazVwdzFQaDh5bTdQcUkxYzM4MnJOdVhKTTNERnJhQUpxOXF5Y3lUQVlwVjQ?oc=5",
+      "source": "Daraj",
+      "published": "2026-08-25T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "title",
+      "stage": "allegation",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "رجل الاعمال السوري رامي مخلوف (ابن خال الرئيس السابق بشار الاسد) يحذّر الحكومة اللبنانية من عملية أمنية",
+      "url": "https://news.google.com/rss/articles/CBMiQ0FVX3lxTE00N3YtazRRbHFLTXozb0pJRzVjb3d0SXZNdnlCUDgyanJuN2tVNDFqaDJUQmx1U1Fib3ZTaTN1LVUzYUE?oc=5",
+      "source": "ياصور",
+      "published": "2026-08-14T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "ما حقيقة \"تسجيلات مخلوف\" المزعومة لتمويل الاضطرابات في سوريا؟",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5DdTFtNTdRTkNOZ2NkY2hHcDU1MERJZVFGbkplbHFfTDRXNU9sMDluTnlabjB5c1Z1ZTE0UWRPVF9LUEFjMG5IYy1BZE1EM1NPR054bTZMak16NXJLN19GMWQySzdUcTJadTFZQ29USEE5TFB4?oc=5",
+      "source": "منصة تأكد",
+      "published": "2026-08-06T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "‘Don’t act like beggars’: Syrian business leaders warned of new Assad-style oligarchy",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQVU9HUlRIX1AtLXJQRUtlS1hheWx6NnJEblBmbHdNQ3I2UzZidHVKbXg2dEM4WDVnWjRBbDIwNnZJRDlyM2d1WUUwYTdRWnlXcDEtbUVpUmp2ZHl1UFoxaF9ieWU2NUk3MVhTWjY3d2FrQnV0MWhTQW1sbndsREgxUGhQeEg?oc=5",
+      "source": "Arabian Business",
+      "published": "2026-07-29T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "هل رفضت محكمة سويسرية طعناً من رامي مخلوف حول أمواله حديثاً؟",
+      "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5HSkRVWEM2QVB5aENGQTd1MjFrcjBqcHFOQkpGM2JuMHcwRFpRQ3VvbU1RVW9jSHRrX0Y0bnhSdHlJYmNwLU5YN2JSbEhZeWJmWHFfMmVqcGx0ZklNdGtWc0p1Y0RQbTZrNWptZHpqMVRsR0E?oc=5",
+      "source": "منصة تأكد",
+      "published": "2026-07-20T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "title",
+      "stage": "conviction_or_penalty",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "رامي مخلوف يقاتل لانتزاع نفوذ في صفوف العلويين",
+      "url": "https://news.google.com/rss/articles/CBMilANBVV95cUxQbERVbDE3ZllEY3poZmh2ZGRya2V3ZURmWGlkSEM2YUVnNGNLRV9QbVgyQlBuM08yeVB1Qjg5S25DN0JzOE5IVjUxUjBqcmhRNUZDNzd1N19nNDRPY2dSMlJtYU9wTFpwVk13RG1vTU5CMW40VWZIX0ZvRXNMR21jcWNjblNyOXBCcm0wSlZWcFlsRmwwR1BvWjZWaGlUemx4bFlRQmdFZXJxbmhIXzNaeWp5c3ltVUJwWFpYUjZ3dkN4a3dncWhINmh2UzI1QWNESEw0ZzctX3BPbmo3NWFrM1ktUDlPVEUtUmVQSzJxS01sWTlmUDFTY1lYd1FoaXo2MzZxU3o0WGw3bUJJVS1kTnVWcFl1SXVNWklsTkIwVUtqMTgzVkhmM1RsemZhQlBlMnB5WXRsSG5hU3lTYkNHakk0bXZIc1dxandoRkh3bXdjMXVrNUhjcUVDZDN4WEFYVFB5NHVJRENSY3E3MUpXM09GOVVVUU5UejhXdDZScUZWUWRuZmFNVUc2cHY2Q0VQS0lMT9IBmgNBVV95cUxPQ2ZsME1kRVpocWZhbkNXdEZ6eTJwREJHWHM4RWZCUmgyNTNVZHBlODJPaGM4eUViWmFRc1V0TlMtc2FNeTdPbk1EcEtJOWVNX0FjT3hhaV9KLXk0d2gxeHJKazlCWmhLbEpicWQyTUkzWDRESzluOUlWQVV5S1VIRi0xQVhuTnB3Y2NTYlpCellUdFFXTHZDWFVLRjE3eDFDR3RsZ0t6LWVja1p6ME13ZTFLUVBGR2tEMWc1UGRMUGVEdlhFSUI4bXFxOVJMa01rZTZKX3pFQnN1OTY4STFuR0F5Qnp3RjNsejZUb2lnQWxZVHFfNlJDZnc5el94UGNEZXdQR1BzVzBZdC03dHJVRkZjX0hCa1ZMS190czlUVmdTcFZYajNIQkpBd3p1dktqd3cyY051Z2hjNzJHNFB0R3MyamQ4WTROUnZDRXc4V0pJMENhcWpxM3FUM1NGSkVfOENaZXNVdlZKb2k4RFFCMG4zQ0tzNkdoVEdxTkJ1NUhuV3ROZ1k2bzU0d1NnNkJ1VDI4bUJDV1lzZw?oc=5",
+      "source": "المدن",
+      "published": "2026-07-09T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Syrian President meets with Egyptian businessman Naguib Sawiris",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOQ3J5YU9KUlluLXVJX09QeUVBa2tEYWN6QXhSQTB2b1RHV0VXTExVZWdONE44ejJaeGpPNUpqZU5BZGthTHMyXzZwNUJXS29GVjFYYl9RUnhuakFHRllKQXh6X0U2UEU3S3p4dWxZbjNqcGxUYlNaUmFGSVpOYWtuZjVhSEhFSXEwOEVET3pVRDZ0MlJSMUkya1ctQ29Odw?oc=5",
+      "source": "Egypt Independent",
+      "published": "2026-06-25T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "ساويرس يطوي صفحة مخلوف في سوريا: التقى الشرع وبحث الاستثمار في العمران",
+      "url": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxNTVlrejE3SWlKand4VkM0bWt6YkxDbHlsdXdaeGc5aEs0eGpOeU5TenVUa1BEVzdjbWdyOWxfcFlLcmRnQU1kNmV5ZktnSVhnRmxxbUxMbi00VWlMZXkzU1ZzalRaOFBEa3U2bGlRNHhNaGt1VkYzamI4Zm9VX29WNVJXc1E5cGgwSjdUUDdVamd2TWp0clBtWFl1SzNRTUZ1T1hMVHphVUJZM283SVFyNmhtRUg5ZnVjRks1SktSTzU4T1Jyd2FUeGVKMS1TMlFFRGU2V0pHcFNaYnEyYnJFYXc2QWJfcmFrREVKb000QS1aemlwNmZ2anBqLWgxdEh1U2xQMWw1VkdvQWtBVDh4TUdBdUdPR2k3ZUNMdEpwWHdNUlo5eHVPNFRYeWxaZmJVZXR1Wm0yRncxRkhSQjhFSF9VYU1lTlJv?oc=5",
+      "source": "القدس العربي",
+      "published": "2026-06-25T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "تفاصيل لقاء الرئيس السوري أحمد الشرع ونجيب ساويرس بدمشق هل يطوي صفحة أزمته المالية مع رامي مخلوف",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxPUllfR2k3VEg1N1BzSmlyYnVsenJISkt3c3lfT3NJODBhcUpIeWhzeDh5bTFCZDhMaklmX2dMT3NJUHhJU2syWkZTS1FmMEZyVnFjQWE3WDM2MzgyTFFXdVNpVThHcERvd1ZDaGpmc3hfVFFzamRLM1JBcERzY1dmaGx1TlBYTEFsWXpwME43ZVBvelUwY1NNaFVzdU9iN2hEc0FTaVplNDJKaGp1ZjhialdZcm9hbngxQ0dhZWNrbG81eGRRZFRyaDhURGRDdlBFMkk5T05CS0pVZ0hheEVVTDRlaF9ydVZqc3A1Vi1QZ3dTYUc1THpmbkxyOWhKX1YwcVR5blU2cWJldjllNF9UN1U3ck5kZVA1Z0hVSDI1a0NfYXVOdVYwY1NsZm1NR0ZHbUd1dlhLUzJPUTRySC10U21wOGRiQnExV1E?oc=5",
+      "source": "صوت المسيحى الحر",
+      "published": "2026-06-25T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Assad cousin claims to set up militia to defend Syria’s Alawites",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMmNFaHNic0lWTGk3eUVtZEdwcEg1eXlxa0pnQ2dCV2VaTTNKUVFwcmVsV01UTmFzbWgyYkhfbUlEZUEwY0JRWFlrZ1poSDhvd0hpWDR1ZU83dmxSZlBlMGtUT3hnQVFfUnZPRmEtUzlLTmZRVjN0dE9fVVZFRjRnNmZRbXQ4Uk9FMXJ3?oc=5",
+      "source": "The New Arab",
+      "published": "2026-06-19T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" when:365d",
+      "relevance": "none",
+      "stage": "allegation",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "رامي مخلوف يعلن تشكيلاً مسلحاً ويحذر من استهداف العلويين",
+      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxQc3dEdlpkX2ZRUi1nZS1nUHR2RmFkRmpMSUlSdmUtcFZnbUROd1JaRGs2VXV4Rk02cE1tbTA0Q2tBQ3V4eExEZzFISlVtU2JBZlFCTUJDb2RXbUtlVi1WQlR2SGlrcjJwOXRmRHQzYWhLd3pFbEFlSjA0Vi1pTEhsVVY5Zi0wVmk4OVF5Z25iX3czQTNyeUxqelVwdDZCZUlPVkZhQlUyLTNxdGpLcHNPQ3hYaDVoaWdjbHVCb3dHUWpJQjBFQkx2TThCYWVhZG9zX25aay1UWkRCcmZ1M1BsVm51NjlUTE5aR2FyR3gxRzhuWjZianJDNUFoRnBQRTl1ZXF6czVEQ3dSdnF2SDJRR1V0NXFiT09rMXJqaXEyRHcwS2tfM0Q2SXRKeTFSNTUwTEFTMGJwVmJLdUs4Mlh4RXBUbkZpOHQ1NFhUZU1RTjhISUVubGd6TW14V1ZDaUdZZTlPbTBTRTd1NUJwTkViSVJJR0h0X3ZvV2Nmc3U3YkNxVDh6S18tTjJsUWFTeEdwMEhtMTROX1ZGcWNxYzIyS1hhWU00czBXTG9VeDBKNW8yLTBnbHQyaE5GYzBxRF90QUpaX2RKMWlDZEJvNUlZbkJ1TjFxUdIB2wNBVV95cUxQbzRiWmZMQkJGZERwMnVwNlZDNld0Nms2UEtUUkJtTkVpLTE3RUxiX19QakZkLWZQd2ZvVl8zOTFWNEJyRHVOS2R0a2tEeW1SWi1GbnUySjNOblllRFM5M2pKdHVya3JTbXpYU2RhSHdVVjRPVWtIUVgzVlJaUk5CSGNXNEdhMkgtNjNPM3BwOUNFaHJzRmdsYWRpTE9lbENCWjhTQTFQUDRPQmo5aFMtOEhHc3dBNTNlaUFqMnlZaVhXTUFNYjdOY3JnMWQwNUhZVXBLaV90ZWxUd0pmaTJ5azhwelVXaEdQTDdFT2JEYjNLVmt5SDFBOTJpWmhQRTJqQWtBYmE5VGlMZEN2b0NYT0EwT05mUGlPeENqSlgxYm1MZWJnenZvdTZlTUF3T0pBY2NjWHQ1UEkwcDBYemk5ajhQeFJsUmZyazhvdGppMm1BZzBBZmVxcW5vQ0Vpd2YtbDNzWldXbDE3b1hCWk1XU3hXQnAyVVNFTXFPMHU1RThqQjJTdzRzLUQ3WEtvME5PTk43STNhMmZDMkp3c1QzR3lxYUJoUjJmQXRfYmQxWHI1SDBHU3pNcFc5THNSMFFqQ184bUM5ejZ1bWF3YjYzejllQTM3R1NPR1NN?oc=5",
+      "source": "العربي الجديد",
+      "published": "2026-06-18T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "المصاهرة أداة تحكّم اقتصادية... تحالف \"عثمان ـ مخلوف\" نموذجاً",
+      "url": "https://news.google.com/rss/articles/CBMi2gNBVV95cUxOU3ZvOTNibjJWR3hFUXF5cTRwMnlzSXZ6YVZVYUk0aDBoeVpnQ1gtQnIxUVdnRGIzMFNjN3J6bzQ3cHlFa2VkSU5qbHdCQ1JtU2Z3Mlp6NnFQc0RmZWNmY1F5cEhzTmVSZU5GeXhyZWhwUV9VcTlsVzR2cEFZZklRaFVLeEdhNVVuTGFLak14RnNoYm90S19JTnY5c3pidFNNZjhMLXh2THhmSWQ0eGo1ZzhRSmRrTnBuWml5SjRDNWtvWnJyQmVaS2ZBSXFIMVBZNUZHTy1udW9fZUN5Qkl0aElhWV9TbWY0amF5MXVTTjl3a29waldIeG5ZSmxiUUNKREd1bGNPZU1rYmVIM3doTktCVk1oOTZUVEVlSWxyU1RFZUt4UFdFRGtGcktfbmkyNXRCTGNIUjhoemM5RVVBX3llNmpxeHlUUmFoV3FLbEZoOE5abm5RZHByVWtTWjZWTkVrMkkyd3JmWnhha1diVlRQVENmS1RWck9FM0VpcUFZeTJzdkQtWE02LXpnWEFqbXVmaTl6QVhkczJqZm9sQUtiNlFlVlZiN3FYdmJRcUE4amhJRFFJQ2pqQnc5d1dBMkV2c0pldVRCR3FtelhuVEQzN2tuRW9iM1HSAd8DQVVfeXFMUFVVVHJFWUN5NS1vd1dYX29GaWZ3ZV95bHktZDg4U1VROWlrZER6Ty1wMmM5bTFEMXdSMUVIZ1hyY3czUnpSUVdheHQ0TWVXOVFSZlFFVWNfeXI3SEZXQW5XcXNFazR2aGtHcU9PMjY5a0RJU0FDelJ0ODE5bDFlTFlGdnNtOWJnOHhwWnU0ZUdGSk5mekdKb09QcHVBR3NEYWZDSmJjdTFvUXdYbDcyZ2V3YkRmeGFMVFlBSUxqaVFyNEd4QTcya21TajUwRG1FSDVWdFJkTUhTdUg0M3liSWFyUGNZMTZtd0ZmQ2hSbDFCVk45Nkx3SHAxOXVyUFg5TXNDdWF0WTVxSmMyZHBPS2daNWhGZ3lHeDl4S244bl81RUJzN1RZNnI0RUhsNTd4NU1naXZvRmJiSUg0ZVNoR3dacERTZmF6cWw5MEdhZm0yMG5haVNQMl9ZVEN0bXFxUnJydllzN2dlVHlFMi00WXVvWS1FTmZldjRiSDhKSzZCaFpFUDZNUF9fSjRsZndCRzhzeVNITUpUd1V1ZVNIbnlTRWY1SllabXV4eXdobU10R3BQamZ2bm1SNmd0MDU0SnItQWlDWkV6cWwzV2RsZG5TZExzNFhnSU5lYjRwbjA?oc=5",
+      "source": "العربي الجديد",
+      "published": "2026-06-02T07:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "none",
+      "stage": "conviction_or_penalty",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Taking a Closer Look at Syria’s Economy: Accountability or Business as Usual for Assad’s Cronies?",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5JMmpfdVowUHRqSDI0Z0dCODJTcEJhUy1JZWtDTW9rTy13LWdpTzZTMy1uOHFuVUtqUzNIZzEtUWVBaFlyVGlLSkRUV2VmYWNkU05MSUpkTTctSWd3eEVhWnVtRWI5N2kzSmFPNnp0ZzZ6SVpY?oc=5",
+      "source": "Just Security",
+      "published": "2026-05-06T07:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "حين افترست السلطة ذراعها: حكاية مخلوف، أسماء الأسد، واقتصاد الانهيار",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFAySFExVkJGOXlHOWNfUlpqeV9YYzA3bkw1OWU2ZVc0dGc5Zm14dlJhREZJZFZmRk9uZ0Mwb3hzR0dXNS1wOTNBLTR6bzhscTF5?oc=5",
+      "source": "Jadaliyya",
+      "published": "2026-02-22T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "هذا القصر في سوريا ليس لرامي مخلوف بل للشيخة موزة",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQak1hM3dwVXBQc2F6dldxY0lLRWpRczgtOUJ4NWdRakhkallhSXlkNTlnSk5mbndYR0ktX1IteDU4Y1BJVzV0NUdGUjZhR1Q5QzdBNV9ZZjd0dGdzb2U3WkhoVnlkTnFNQjJBR29ubjBRUWZMa3RHU01mLTFoQUlobWprZw?oc=5",
+      "source": "منصة تأكد",
+      "published": "2026-02-09T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "بعد كوارث رامي مخلوف.. جديد ينتظر شركات اتصالات سوريا",
+      "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOcjJDZ1RZandzTWZ1aUNzb0xZTjhMME1qbm1EdnFHdnAwalpsWGZ6WWFDdUFkeW9ta1FnTGVJZEdSTVVKdWI4MGJ5Q2VMM2Y4el84cG1DU2ZTaWtwbTFWOEluc2NDRlhGbFpOaUxtMEJSQ0wwd2ZfOHI1TTF4d2t0VzZNRUtHVW5JenJrVXZZWDlZR2Z3eV90Z0ZIUC1NNnNNRkd0aHpUY0dVWEhQSGIxRG1nVXRlTkM3LUVDUEFiMnRYRTM1eURIejFLX29yQVZjUnQ3MXBNaU1nODlfNktiODQxYzUxSTRYU09aMnViT21WemFaN2FmSGtiZ0lka3dpaFcxLWNtM0JzRUt6aHp4bEJxOGxQVnBDdHhsOVJPcFJoUVNYdzR0cUtORk51cGxlN2tGXzRabVN2S1N0d0pRX0ZOQmJ0a2p6S1prZlNvOUMycXVLT19jdGluNlZWWm5nMlhGZWg4NU9nOE1OM3RucmlGTlcyajZwOTd5UG5LLXcwTTU4YVJWSGxNcUNuaWQtajhTT205OHNXSExOWHV1SFVpY9IBqANBVV95cUxQZUotNGJFQkFZMGlJWnpCUkVkWDg5bERZY2ZuMVRvM0ZDU2V4ZjZTRDU5TVhRTzBFZkR5Nmp0bHkweV93dTRWRmdzdjJiYUI4dUR6aV9NakJydTVwR0g5ZXZwS2hSUlNXVmtMWW41ekRoLVVUcDVfTWdaak9pZlJZM3hWMEZWdXhwWE1fMFRMZkl2bVptRDJHbDZkMV9XaG56b2cxTXBGeHZnQlVCNnJfenpPbmFqTkIyTmdJRFdpRUtsLUZQVW1ubnZZeW8xZEdzS0xseGszU25kdmJKbmd3WjJkZWptTFR4bVdGOXdrSlZ4Wl9SRXRIb1Z2Z2E4bGtaTkhKYS02WHJiaU5veWpTU19VMFQ5TWNTLVZqakRWMnVwcTduR0l5RTJ5V1hVWElaa3hvRlVMaE9wcGNsczY1Ni0tY1d2cF9fMmJoWWd0cTJkS3hUT3QtZEloQmVFOFYtWmlqUXRzcUpoSk1wY1E3WXVQSE9xTlBEcWhlNjhpUU1PTnVPTDVmb0JZaEhKei1PLVphek1ZSGhKRHllVmNvUG9Od3FGcU9m?oc=5",
+      "source": "العربية",
+      "published": "2026-01-30T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Explainer: Who are the Alawite figures at the heart of Syria's coastal unrest?",
+      "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE55bG96M3c5WDhyU2I4QzEzcDkxWUVDWDg0OXdUdzhONWo0Vmd3aUJ3THRJcVFXcDJJMW1Qa09FaTVPUEE0dUxXMkJQdjdEd1VpTlJkX2tTdFA?oc=5",
+      "source": "BBC Monitoring",
+      "published": "2026-01-16T08:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "لبنان يعتقل سوريًّا بتهمة تحويل أموال لمقاتلين موالين للأسد",
+      "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxQSDl0TFZOVTFlV1hNaFhWMTVCSnRuMUg1NW40VUUzeW9xM2swbnJuT1ZBM2g1SXpvRzhvN0t5bktwUHUzTXdrZ0dMUXE5aWF3SFFXajdOczBkVXdNUlQyRTQ5bmlvMmtEZlJNbm9kaEtCejNsbzZiX0ZMUUNRUzdneElUMkNUTlFRSjNOaDBoZndRZHE5bFFZOGRTem1uQ0F4LXZMUXpkdGhGQzQxMElRTy04cWtfZDg1TXdXLUwyU09BRy1MM1JGZzFGVHhpeHR3YlhxQ0ZxREc3UUFxZlgxbFVpT0laX0dDN1FrZHhIRXlKeVltUlBpOE5SYVRpeXE0dlJKdVVyOTYtdnN0N0ZpSVpJeWctVURzRzNPZUhjX0pGUnljT3BtT2l3?oc=5",
+      "source": "الجزيرة نت",
+      "published": "2026-01-16T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "يد لرامي مخلوف.. لبنان يعتقل سوريا يموّل فلول الأسد",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE91bmY3VUtmZ0F0c3dMUUMweWI3cHZtVFlmWnpTZ0s1Mnhkc1FIbzdzNmhvY1RIdTRURWUxMlh3SF9uQUVPSWVyQnh3TnhOeUFDNElHMEZsNEFGVUpTU1BPQ0dsekpueTdRM0hJa2lrT3lleGJtUjRyNnFn?oc=5",
+      "source": "جريدة البلاد",
+      "published": "2026-01-16T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Lebanon arrests Syrian accused of funding Assad loyalists",
+      "url": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE91Q2owdV9ydThEOEw2Z2hlUjF0czVlejhyaHZ6LUdFRy05MWN0WHVMVGg0UFh6STNySGVYYkU0dWtRTUdSZGZLcG9KcGF4YU0zR2NnTFN3?oc=5",
+      "source": "Ynetnews",
+      "published": "2026-01-14T08:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" when:365d",
+      "relevance": "none",
+      "stage": "charged",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "سوريا تطالب لبنان بتسليم ضباط من عهد الأسد لتخطيطهم لاضطرابات",
+      "url": "https://news.google.com/rss/articles/CBMilgRBVV95cUxOZDdVbHhQblhjYjVOSXJ3Tl8waVNxTll5V0FsSFA3NjZLazFINzBoclZ1Q0JXa0xfUGhScDNRdlJ4S1FlaTE4eTdDZ0E4bC1OTU1YNXZ5c0M4YmNGUVM1NEdBTXFOVGZZQU8yV1l2Tl83TUZlcG5ZSEZlUXZIMDBmWU5QYU4tckFDMHBKN1N0eWphNXhYaVpKWXR5M1lKX0FzU0NSUHBBV2FyR1dJODd2Zy1meTV5Z3lDZjh3T1JFdGlDdlY5aGpmMkFtLW1COXRXVWpvMndNTmZ2M1Y2NVF0RmZzOHZyN3RZcERkd0NnUDhfblpyTF92RTVJaDZwb2Vxc24yYzJnaklBUkR1b2FESVd5VS1xclVBdlNaNHNIcFJYei16QTJxT1ZNYUtJeWl2XzB6Mm9iLXZUb0JidmN4bk1vYVF1SG9UV0NGaXU1U1pjZTU1WUVaeWg5V2hKalhpZVpWdzF5anB6eGUyNEIyRzUyQVJ2TkpQbmxCYkpHVjA5ZThtMWlKcDAwVk9UOHNYVUZJbEYxa19XaUZZZHEzR3Jvc1I1aW1zSGJqQWxtak5NQlVqV1NTdko2WTFYQ2RpeUFDYVJaSC16aVlRUUNJRVVYOHJ3c0NmX2RrMDQ4WU8xTFl4MHNWa2FfTWVKYzk1eWVkQmU4b2xkclFMN3pCWW5Cbmh1b3hLWk1GY3ZBMHpLSW1scmfSAZsEQVVfeXFMTi0xWTBGcGtxWEhfSmI3eXRpRnE1eHVnS1dON3kyWERva2hndjhlQ2Eyb2E0MjNHNlJ1c0VNSHJoenYtZFNrUnBObFE5cUl2V1h2XzljRFpDWDBOWF84emlEdGdNamprbVFxRzRsQmFQR0FNTVpOUHJKWmhMR3pLaXI5TTNfT1hmZjFGZExkbjRNUk1BRHhtLTBrWUdfVTdfUTdSUjlyeWpfczQtQWJRZ3lNUkI2UVhmTGt2ZVNYTHB3ZkRKNU1OaVRMcGlhckpEYW50eXdna3pNRlI2WFdkVklhU2MxekVtSjZxbmwxWVRYcWt1ODNjUU1qaG91UUNGekZHOEM3bkh0UExhSTFpMHpDRFUyZDI3QWVWMGQtalNNek0tOUJJWVpUVzlpV2p6MHJZVDIwTVR3NV9HSzNXc21zRExpaUpQTlNKelZ4QmFBa3B3ZmxDaEZZb2ZocXBPYnkzRkQ5RXQ3Sy0zaXFibUppTFBVQ0RlMEVBYm9RSlBZOWhOVE5fT1VKdFFwVjU5dnd1VWhxY0hJZThDck9xY2p1TE54V1YyNDJhQkdYc1hnbjVILXkzZnc4LS10MTNidDg2ajVEa0pQdjI4cTVIeHJ4VlgxVjFib0M1N1VyeVliYzVzTm52eVVRQ251cGtFXy1tU1JMQ18zSVo0NEFBUVFVbmtCVVRSZE5zVmhoMVlxS2U2Vk5hNWdYUFE?oc=5",
+      "source": "العربية",
+      "published": "2026-01-14T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "على خلفية المحادثات مع إسرائيل: مؤيدو الأسد ينظمون انقلابًا ضد أحمد الشرع في سوريا",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdERhT0oyU3ctd0lMYmFTNHcxYUZOYUVjWHl6OHMtZERhWmZkQkRQYlduUDNtU3gzWHljbTZSTU4zbjFYNkkxTk5xdUhpMTZJaW03cTdTOVl5TVdqN3FxajhsQUtyYmhVcG1tRHA0dml5Mk5lVGtIY3AybDlYT0dXNU90b3hFWE9fY1E?oc=5",
+      "source": "i24NEWS",
+      "published": "2026-01-06T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "رامي مخلوف يصادر مستقبل العلويين ويتكلم بلسان الجريمة",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9pN0ZwLU9UZkpNQWNfOXczQW1Va2FiOXlDandmdUtpUUNXWFdHVVRzQ0hLeWpLdGxXWFMxb21aQTF2WWhBNEs4UkV3?oc=5",
+      "source": "سوريا كما نحلم",
+      "published": "2026-01-03T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Assad’s cousin urges Alawites to maintain calm amid coastal unrest in Syria",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdUp5c0diWUN6THNfY0Nhd1pYTWFLbVJwWXJpTVVBRkpiMXpTZ0d4SElsNXRTTDZ3Q0ZqdF9BNk9tVVpKb1VBQjN1Q01kYTNxeGJXZzJHMDVWNVprZWxYaXVOUk1lRU1uRkhuYk1jUlF4d242OFNqckZtNVJzWkRhUTBzVVdzdWVqUDJRUENya255NFoxbkZjRUJR?oc=5",
+      "source": "The Arab Weekly",
+      "published": "2026-01-02T08:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Leaks reveal conspiracy by former Syrian regime officials with Israel to overthrow the current government",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE84X3Zua1FNU2RSS3VDS0FuOVpNeldIc3hnNzNhTkxSblRRV09oU3hyNm1YVlhUSm1WX1lUM2d0dWEwYzNWSXZLMHJR?oc=5",
+      "source": "جريدة القدس",
+      "published": "2026-01-02T08:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "تسريبات مثيرة .. من هم أبرز قادة \"مخطط التمرد\" في غرب سوريا؟",
+      "url": "https://news.google.com/rss/articles/CBMitgNBVV95cUxNeE9NalQ2SXRwRWlYYXd2LTNlMkdZQVNYQm9fVzIySmEyNVZoM3dpVERpRmJ1NWh2ZjFmc3V4MGZzazAweEhpbTc4U1A0eUZ2NlNhejJuWmdkbGV3NXdNNk1QdllRRTUtdWxCTFNaZXdlVkF5Sm1kTm1PUVZrVEw4WmlhNUpwdW90ZUl4aDc3Q0VvRmVXOVJvVHBUV3dVenRMNTU1bkJuYXQ3NUh2YWVoNURvV0d5OFZoeWd0ekZyYWN1Qk9MSUpUMUF5MlFRRU5nNU1rMmpRQmdjZzNIS1hDR3p4NFBKdFp1NFpKWTZjakhfcE9SZ1NKZC1JcEVLSFdrZTB3dkJkRzBoSnVHNnp2cnA1YXdWRjZxMkNtSGZLTVUtdC0yTmtLM3gzTlJFZkFqbC1vZ1NqYTFXdUdSRG52Q0twNk1fdnJYbmZsT0lNZnJtUHJQbE5kZjctT2oxSkM1NjlESGlKcVB0OU45R0JBWXNJZ0QxQWQ1SXNidkpWbVBaWXVNNl9ib2J5X1l1cW5XVXhaNktycGM3QVk2Ukdmb2NJa0k2REVhR2V6WXZ3S1lxTjBKOVHSAbYDQVVfeXFMTkNxX2RWLUlHVXd5dFFacGt2OC0wb01teFpxT1BEWUhGTUxwOF9rODZscjIyT0JLa01Fd3RTMVNGaEJONFZWUXQtR3A3QjkyUFJpNjYwYlh6VnRXY2JzZ0ZscnFyeUs4SnB1dkZ3MXYwaFNMRm5GNGpDT1dMdzFONEQ3eUxRUDhLUFUwZjQ0TzhKSjdVb01QWUdEN3JxV2xVczNrRzlUQkEwakJRNTdHM0RpQlZBNGI4dG9iNWJTTWs0ZWZDUWVtNWtDRmg5OUlWNUtYVDBlR1VoLW9KTTItajdhWTdCaVQwRW9OYzRsaW4weTJCZlF5cmN2ZUE3UUtjbW1tc3N2QzdEWG9rRHpvVGVlS1VuOE1JaTdoTlVaVHJ3VTRzS3BjdnR2Z1pqZW5FOVlDZmlEVTR6N3k0clplTEFUQnJRZFgzdHk2QmpSUTJwSkZHMXhjNTdTZ09zYlFvOFg4dVBXZTl0X3VDaVRNU3V4US1GM2tSajA2emVIczBVWG9iRUU4UzVpbWRTSEF5dEtvS0FReHNockFrXzNaaThsLWJlN2NER0gwazRRZVIzX1FqbklB?oc=5",
+      "source": "DW.com",
+      "published": "2026-01-02T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "none",
+      "stage": "allegation",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": [
+        "عنب بلدي"
+      ]
+    },
+    {
+      "title": "التشكيلات المسلحة المناوئة للحكومة في الساحل السوري",
+      "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNNHQybjlLN0U5NVFFdkR2TDhaUDV4cmViZlVWYjVyNEdkZWMtNjVVV1Q3aVBYQUJyMGRLbTFta2kzdHd1Q3FmOUhSaExQWTd2eTF4dklZUjVib2xKTENvUUhLQ2dHbEFNVWJDNnozNXd6M21kRER5bERPSnpnUFlPbmhwaENuazU0eFpWYURhdm93VDF4UzlWT3pSZzZHeXp0MGRFU185cnY2MlpINnFiTzFXaE1vVEVMMV8tQ0hBQ2hiVUpGRUFDSWs5aFBNTkh1MDNsdlk4dGVaQzVkWjZvSVdNU1J4SVZoOVpMcWItbDNBVDRTSi1mTWVNTmJLa2ZNeHFMZEJOY0xhWGcwS3ExMkpSUHZaYThLUGFZUEtsX1lIS3NmaEdzZzlGdktCZU5JM21rcUd0LVFwcVFNY3pWVG9jQW5Ecmx5NXVtc1JBeUxkaG54VnF6RTdJM1RlVWt6?oc=5",
+      "source": "الجزيرة نت",
+      "published": "2026-01-02T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "تسريبات للجزيرة تكشف مخططات ضباط من نظام الأسد المخلوع لإعادة تنظيم صفوفهم بدعم خارجي",
+      "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1iRVNpNnBwUjZhSElwQW5fSlBYeTFKNWJnblNIcldmbEpNZlk0SFB6dzlXcks0N0Y5MmsyWk5wcVIxRzNiMEhEWVd4NjdlU0xjQ1ZBYlhXUlZjYkNNMlBNdjB2cGpId0poa3c?oc=5",
+      "source": "منصة تأكد",
+      "published": "2026-01-02T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "none",
+      "stage": "allegation",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "وثائق حصرية للجزيرة تكشف شبكة ظل تمول وتسلح فلول نظام الأسد",
+      "url": "https://news.google.com/rss/articles/CBMi2gJBVV95cUxOMlM2akJJRFhIamo0S1duUmVnV1RubDRmdklnYjN6czlGVUlXM3dPbFNkOTBRRTh4X2s2VlltQThaVmRoTi1fOXUwemFMUnBGUmJZdFd5ajEzZWR3SDdBN3lfR1V1UDBXdnNPNjI5aDRDd3hKRy0xdWFBR3BEV2UzVkFkdUhaNkZuTGkwZHpnZ3BKZm5Id1gzbmxzZDFNUDR6WUFxb1JPajFvTVVJUHBVX1BEMG02RTdpVGN0N1VpOFVNMmFJeXU5aGJnYU9VV0VjQTJRVG44TXFqMTZlN0lodXc5Rm5QNUNvT2FmTENZdGlYN3FhTTRTOEJ6alV4b19GY21JN2w3MUpaeUdZUXlFaGcwZVJFVVBPUVZTSm1icXp6OVFLNm82OGhEUzZUTzZsVkRMVnRLTmp0Q2xYMUd6RGtqNGxhQ3lVa3hkZEtLMGg2eWwyeUJqZE93?oc=5",
+      "source": "الجزيرة نت",
+      "published": "2026-01-02T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Al Jazeera leaks reveal deposed regime leaders’ plans against the Syrian Government",
+      "url": "https://news.google.com/rss/articles/CBMiSEFVX3lxTFB2UlBEQVU2ZThuV29PU0Yyc01pZ2NoUkYwR3VCWjJYTExPU3hVbzY5eks4c3NCdUljV2JMMk45WnZtWnV3UXVZUQ?oc=5",
+      "source": "سانا",
+      "published": "2026-01-01T08:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "رامي مخلوف محتكر الاقتصاد والذراع المالية للنظام السوري المخلوع | موسوعة",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNejF6YUc4R1VKOFhkZnBxZ3AtdktjWmNjZGFHeFVPbld6dlVCVHNpTnhVOTRrMndGM3VocGxvdFZ5ZmxXRzYtSDNRd0hPeVlhR25ram1tTmN5Y0Vpckw4TEFFbzRaUGM2ZzRreFhHbXQzVFFfSWEtT3dhcU5tY2ppMnZSRV9OS2V1SWZTNDdfZmFTYWkwZlZRVWwyNzVHS3dBSzZvTTFESQ?oc=5",
+      "source": "الجزيرة نت",
+      "published": "2026-01-01T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "من يقود فلول الأسد؟ أسماء وأرقام تكشفها وثائق الجزيرة",
+      "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxOVlRaeEJqWlJfT3ZIN3R1dGNMV0l0d2FQV1lnUWs1aVFkZWN4ZUIwT0tHTXpvejgyNGw3azV3aFhTdTR4akhoUG43bXJMX1FRUXNJaEhBSGxGRTZndUVLZWxFdk5wUWEzeEF6SnF6U1dvWFd0U25kSDFmRy1lTG9OZHVaU2pobTZHN1Zac1c0TUc3ZTBfTURWZWtWODZ3WnJtTnF4SFhzUHExd1BSeFE0NU9TRTl3Ry1odEotOXdHdDl4VUVtMVZlVjdTOVlqRHhkUHotRTUtSzZnYWg5STNUbEVDRFdSQ1NNOGZOZ1VJc09HUUFwZnBwWFZwc1ZJM1dHQnM5WDg2WVFpMk1oWkZDZ1ZkQkEzV1U5dTZKZzlSbkZBREFnaXp0ZFV5dlFmbXZwcGFjMnRhTQ?oc=5",
+      "source": "الجزيرة نت",
+      "published": "2026-01-01T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "وثائق \"الجزيرة\" المسربة تكشف هيكلة مجموعة رامي مخلوف المسلحة داخل وخارج سوريا",
+      "url": "https://news.google.com/rss/articles/CBMiPEFVX3lxTE41Z3pYek1mZ213Z0wxZDdlcTY4VVdPQjFMLVZ4YWw3d1BzS1k1X0FQcDhvNkRBazRudTNORQ?oc=5",
+      "source": "شبكة شام الإخبارية",
+      "published": "2026-01-01T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "title",
+      "stage": "allegation",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Syria: Assad’s cousin criticises Alawite ’federalism’ demand",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQMC03dmx6dUNtdlFjX3pmNjlqXzBkRTNIRXlsemZwdUcxY1JQeGUzcnJtOEJLLTQybWFWQTNoSXVEQWF0dFM5SnRKOUpMRUREWVJKNUdjVjdrMU41TExvMkkyNkliUHAzQ0lWTzhlSWROQ3pyUWg4NFZ6Q0xPc01pcE5tU21rSlZjX2FId1VR?oc=5",
+      "source": "The New Arab",
+      "published": "2025-12-31T08:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "رامي مخلوف يظهر في فيديو جديد ويحذّر العلويين من التظاهر",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1aSDBpcml3Tkx2WU14NG44X3pGbVdKeFN2OTJFNXZxZWVfZEdIdVRzYld2aFZ0Ukc2X1JITEJzTE5HbnRzd0VfQkwwLW5pS3g0TkVsM2NDeWJ5eUVHcFNsNVpFSHNtQUNSSTBN?oc=5",
+      "source": "منصة تأكد",
+      "published": "2025-12-31T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "بين موسكو وغزال... رامي مخلوف يخلط الأوراق في الساحل السوري",
+      "url": "https://news.google.com/rss/articles/CBMi7ANBVV95cUxOU3FLWWUxci1ER0NSX3Zxa3NaQ2duWjBqdEU3dGRISGZHZW1GOHpLU3gtMFh4cHExTTZhcm1VVUdjaGQ4M01OSEk0Q2NDVXkzckJVbzB3eEJ3TkF2NG9Za3dSVlFoRlE3RXIyWXBQT0lBWW1abnlfanlMZDRxenRBSlYzLXktWkZZUlNaUlB3b3V1UkdLVGlWYXh4Z0Q0MVJUd29WMjIwR0IyYjhNbmRKdkFCOExPSjkzNmFZZlAwc2c0cDQ5RGRGSWRZdkN2X0JYWFlLVWJPYks4R1J0RUdmWm0zeXVyT3lYS2pQU2Z5WTFBQWRRMWxQb3poVGJEZUFydTJ3LWN4QjZ4Z3NGZzAwYThVOEZLbWxXR3NkNXFlRF9JSnk0MmlNNHJQeGxoMVh0N2FLY3dWRzJ5UmRMYzdRa1dNaXZhdlV0U1JrZDRCTG5BNVAtTU5GR1JDZFp3OF9lSTN3aFJfMFFQbjJveDQ0Uzd1LTdLUUtuR3RUWWsyTm9QVGdScVhTbXBJMjFpYzUzUVNIYjFWYWFBeEh3MjBtUGgtN2Iwd2RNTWFUWVowWVN6YTFXUlpORU43ZHA3OHIwbk5ONkxPMjV1Q3ZNRWNhdWRoY0Uzb3RPUWhDSlZ0MDhtNDhCdjRaOGxDUUg?oc=5",
+      "source": "annahar.com",
+      "published": "2025-12-31T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "وثائق الجزيرة تكشف: جنرالات الأسد أشادوا بإبادة غزة وطلبوا دعم إسرائيل لتمرد الساحل",
+      "url": "https://news.google.com/rss/articles/CBMi0wJBVV95cUxOR0JwbHMzYXNlbEJmcDkyQXY1ci1GV1EtbDNxTGdwVVp3eVdFcmZHMUJkRVpTZ0piaWZEYmFJLUNJcU1zdkhLSHZvMDRLN2VnMFVQSjNhRnk0SVRzX3lYalVwRTl4TXpYbUhKcjl1RVBxZEZkVmpfcFF0TnRUaDZrTTZZYmJSQ29VcWx4eDMzMzFwbkFDZ01YdF9pdkd3cmMwZ3lOX0duWnpjc2pMQkwwa3oycy1RbUlqdlluV2hDWmhPQzVlMDkycGdCbFFNYkFGcnMzMXVNdlZWaUhwQkhUY3poWTBVV2tTc3U5dk04TFNJV2c2Y202anUxekpsYzZvMXExVE94bFNHU0Y3ZFFOOXA5d2gxUzJBa3Q0bS1xN2UzY1AyLW9vMWZHbVkyZmpCYTlPbUpTYlNQNG5POS1oa004bDNCM2xmLXRjYV9wbnRSZE0?oc=5",
+      "source": "الجزيرة نت",
+      "published": "2025-12-31T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "تقرير: مسؤولون سابقون بنظام الأسد زاروا إسرائيل سرا وطرحوا مشروع انفصال الساحل السوري",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWmt3UWl2YXFSd05pdFlMb2lLdHpySTFuaUt6amZCREk5R05heUxicFJTS0JaQ2lnY3I3dDVMdWJYWTZVT0EzU2JXemhvUmk4TVl5ajIwbG1fQ1ZtNmt6MlFlQWdmMndPRWl3dkFMbHc5WWpBM25CS0tQbjhmRS1OcG1fcDVQUWRvT2c?oc=5",
+      "source": "i24NEWS",
+      "published": "2025-12-30T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "مغردون يتساءلون: ما الرابط بين دعوة غزال وتحركات جنرالات الأسد؟",
+      "url": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxNYjB6dlh1WlRVd0NUV1pVRDBRWnd3Unp2M0trZ3ZjNnJsT1NNUE53TVBZa1RkdlZ3MVphcFhvWW5TTlRYSW5iUFJ2eElxb0F6SU1ONlFMa2FpMnVaQW1SQnVrZjBPRk1zS1VERDhfSFd2RUE2ZF9MdDlPOEdjVS1xc0Zab0dpZFVkYUxYNkVBV2tabGlLS1RidmZmZUlWWWMySFhIRHdnaXZqa3poWXpCNV9WelpvdF9TOVJvYjBoY2NiX0NpN0JxNTFRZ2xrdkpvQ2lkM2FCcVE4Nm1ZU3lfTGg5LVFSVV9KQ3B2QUF3ZjhyZEk4Tl84dXZVN1FMY2JfRWh6X201TjVpeGhRNTJPUGRMc0RsT3pWUUxFclNHaWlzT0E1VHlsdDZUQ0Y3NV8yLTB3eXRQeEYybWsxQTYtblJSOA?oc=5",
+      "source": "الجزيرة نت",
+      "published": "2025-12-28T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Exiled Assad loyalists plot to destabilise Syria's new government, report says",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQLXEtM1Z5bGxKX256NThEYjI1V0tzaGxQOUF4UHpwSk1KQ2FOZ0tQSlh3R2RhUDVUXy1ZRUoyT1RXSzI2XzNVeDAyRFRkdlZKWXNXWWM2bGxFdzQwSDNXZFI0V0JpOE9jakNzOVoyMEZJODl1dlZqZlVzbkVmcmdRMnBYYmVtWk1YWlNVanFBU3hweDZwOTQ4TC1IVQ?oc=5",
+      "source": "Middle East Eye",
+      "published": "2025-12-26T08:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "نيويورك تايمز: جنرالات الأسد يخططون لتمرد في سوريا قوامه 168 ألف مقاتل",
+      "url": "https://news.google.com/rss/articles/CBMiygJBVV95cUxNTWs0OTh4cWx0RUc5OU1nSXl5Rk1YYVY1MGRQbWV6NEV5cXBBQkVzSXlRcFBZeERHQVZDUFdMYTB2Zk9hZW10MEk4a1RFUW1oSktSR1JxaWJQY3ZpdVZkTWFwbk5HRWdRd3lPMmxlTFpGbjlTSTY3OUFVM0VhdUhRbVpaOGtQX0NuVzF2M1lmQTlzRi1JUWtqNFYtZzN3d3pYSEwyYy02MlBYTWxmenI5Qld2TXBRWi1zS1VLeXRnUXdRY3MwcWp3Vk5iMXl6VGFrZDZGWjdRTjZkclhOa0o3RjNnamFrdFY0bEJQLVhGLTU0OGdfdHFUbVVwa2xaZkFYNUo1alRLckZNa3hFVnEzNUUwQ1NfcFRoM3F4U1ZGa3RaSS16Ui1vb0kwS3ZmNGExbER5YlZydkpxOFRiWDNHcmE5bEZhN0dsMlE?oc=5",
+      "source": "الجزيرة نت",
+      "published": "2025-12-25T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "غرف قيادة وتمويل بالملايين: هل يشكّل فلول الأسد خطرًا حقيقيًا؟",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFAwLVUyLU1CaGVtTVRPM1NQaWdYN2NPNGxJeW04cFBTTGFYNTIxXzN0Y0pHWHNZWndXVFRBdWszczMxWl9uYTg00gFHQVVfeXFMUDAtVTItTUJoZW1NVE8zU1BpZ1g3Y080bEl5bThwUFNMYVg1MjFfM3RjSkdYc1lad1dUVEF1azNzMzFaX25hODQ?oc=5",
+      "source": "نون بوست",
+      "published": "2025-12-18T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" (عقوبات OR غسيل OR فساد OR رشوة OR احتيال OR إرهاب OR تهريب OR اتهام) when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "How Assadists In Russia Are Plotting War in Syria",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOSF8xZkNvRy1hNmhTVlN5VE0waEhTSU1IaVNSQUUtX29zYWJiRkI1Y2dRWWl2dWtLUjg4SFhrV19RVUdXbjVadjVBTWFIamJ1S1lBeExCREs0LW50b3VuU1ZlTDNEd2ducVRlN0dUME9iSFpfMlpDWGJDQng5MmJZZVROX000SXphZnc?oc=5",
+      "source": "EA WorldView",
+      "published": "2025-12-08T08:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Damascus dossier exposes Syriatel’s secret role in Assad regime’s surveillance state",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOZzZudjdWc2lYUWlUSE5FS25HMDhqeW5vTUlJU2xLMm91VUJzb0MtYmVxVGJQbGJ4VXRCNjF2QnRYeHFxM19WdkhWWWhXdkpXeUlERlJORmotM0JER2pxZnNvaE9VTTBSX2hlajdkVkFTUC1RcXQ4UWYxQjhNWl8xZkNTb19oQ1BEMkl2S0hMWnJGUk1Ebjl3MFVuWDJ0Z0N2YTFudTVOYVl1Nk9DZnJtQ0lyakd4ZG1YWnc?oc=5",
+      "source": "BLiTZ - Fears None But God",
+      "published": "2025-12-07T08:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Assad's allies plan to retake Syria from Russia",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOX2ppRVJSWnVKdzFybEk3SUt1SlZBUjN4LXpMTk1GVkJaNV9qLS1UZnpMNUhhY1RXVkoxOFcxZElyMGdWQndZQWZaRFRhamd3c3NuZV93QXQ5cVpLc3VJVDlyam9ZeXFQMlFucXFrSHVZd3BhbXNBM0tVTUxpM2duVmM4LTVfNkRIa01ET3Z3RmEyQWVET1VvVHZCSmtwOFRWNWg5VlVteVJiZzhm?oc=5",
+      "source": "Hispanatolia",
+      "published": "2025-12-06T00:28:15+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Assad's exiled spy chief and billionaire cousin plot Syrian uprisings from Russia",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNUDEyTXhYNERoek1BOVdESHN1ODBOTXBUUC1ZWlRFclBubzFQSWVJUzZ3WnNKOHhrZU5acGdaM2l2UVRFVUxKZUVkb1FpRDlJamIxQjdrSFh4QjlxaHozMUpIbUxpVC1HUlNaTmpRWjdjdDhWNk96aGZKWWV0ZkZQUXNrRFoyU0tITGswTkp0OGktQS1iOUtwZ2hRRmFKTC0xTlJLanRhUUFLSlpwbmMwelRxallHaWgtdDRZM3JlQQ?oc=5",
+      "source": "Reuters",
+      "published": "2025-12-05T08:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": [
+        "Ynetnews"
+      ]
+    },
+    {
+      "title": "Exiles of dictator Bashar al-Assad from Russia are funding an uprising in Syria, competing for weapons and influence - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNRFNWN3Y5cm84Vk91S2tDZ01NUVhSMW5rNENzZlVQTERhTk5mUml1VjI4a2kwa25lUDUwWVNELUhoNlBQMGxkVnJQUWtTUlNrcEpOVUJSUFlweGJjdkp3VXNhdWZOdklHclZsRFdYMzltQi04RFUtT3BXbzZUVV90cTlsSndZSU9hU0luOVMxb1JZS1ZROVEzUk50MTR0WjVBS1dFMmhfSXJrZWxmUkhlekxSeVI1TVJkVU9DeWw5RWF0MmxDSjZYcG90TWdiNHFzNm02WmVlTTJ1V1NDV0lR0gHeAUFVX3lxTE90YkJsWXgxcXRiczhkWkxwRHZWTGpjaVpuR0pWNzRsVGZ6dHpiS2VYdGU3YXJESlNJdWJRX2VwR2w0WElKU2tITDlwUXd1dTVQaVBZMl8zVU1RZEZwZThNajZ5RzJfVEpydmNtM2dGU1JHWkV1YlM1VTVSRVJrRExqcTB4MG9xZU92NTNmcU9NS1Vrdk5iRklNd2lCSUZFRDFVTlFLdEg2Y1J6TTE5OEY4M3ktZDZGN2NLcXZQNjdaMG9DLUdjM0JYQnJtX2F1a1Z5ZVp1TUhPZ3FwWHBWQQ?oc=5",
+      "source": "Українські Національні Новини (УНН)",
+      "published": "2025-12-05T08:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Al-Assad inner circle plotting Syrian uprisings from Russian exile: Report",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1U3cUtQTGx0S091RjhzSmFoZFBxMUNFLTcwWDg4bHNVbEp6c21vQl9TX2hweXFBOGh4c2plVkhEbnNTX3ZiQ2t4MjliT2d5cE5ueFFVd2dFN013OUxnRjZpdGR1THFWYkliTHZtY1dMNUxweHg1Z1EwekpicW44UVIzNGhoenBMOFVTcnRQTXZtUHlqazZCSm1PbE9KbVVjWXFSdm9yVlZOZWNJZm96UHFabVLSAboBQVVfeXFMUHJqdWgzV0lpRXJuZkNBZTlqanpETHRyeWNZaXNwUUZVRGZKYko2T3BrR3JFWmZ1VEFqVzJDdTBxbzhQZVV5Tjk3OGFKaXdBQXczbmlsSVI1N0s5TDgybWhLRjdtaUYzaGt6OUo0d3dnR1d1U0NkcGx4UFhlS1YzMlM5YmsybFpiTldFa0tEQ0diZ1RlSkpzRE9rSFRnUzNCcDBsZkFqTVlrZURFVWt2bTV6SzFnaUUxaDBn?oc=5",
+      "source": "Al Jazeera",
+      "published": "2025-12-05T08:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Damascus Dossier: Syrian Telecoms Operator Helped Assad Regime Spy on Citizens",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORlFQdV9PV2ZGeFVxeWJfYjRJejBhRWFiUVFVM29FRXNJaEJ5V09SLWQwQ0sydk04a3pkdmswc1JoNzg3Q2xUWDhWT1Q1WUVPMlRYOTlfM19YTjNTc1pJVmx1Wmg3T0FsMDRzMXNEY2ViLTB5QllGSzk4VExwOFR0MFVuNVcxU1dUZi1lTkhzZTJHTUQ5QU5oelg0WnJFNHVCRnY1dDZ4cEhZQmRs?oc=5",
+      "source": "Organized Crime and Corruption Reporting Project | OCCRP",
+      "published": "2025-12-05T08:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "تقرير: مخطط لرجال مقربين من الأسد لإشعال انتفاضتين بسوريا",
+      "url": "https://news.google.com/rss/articles/CBMi5ANBVV95cUxOdHJSMzBfZHl4Ty1NM0E3Q1ZyNlpfYzZCWjR5N25nMUIwSHNlSFJ4SDlLT1Q5QUNfZGdnRnE1MlJBTnN5LUQ1Wi01NEVSX2dQdzN0aE83OV9lT1JSWXl4U2RoTjBHQmlTQmhCQ3NYdy1qUVVKTS1yTVlURzJsSXNySmRKMUhadmJvVjR1VU9hSVFFYWZCTkZ2YktWaEtRTm16STFkemsxQWRpbjhoZnFtOHZkSWkzRS0zMHVLYUhmaG1FcGpQV1FCcTNUeXFqclZWM3FySHRUelE4Nkk5bElIeWJkYU42ay1YLWJJbEE3MkNIdDhPUDVCWkdnTzNraXktNUkxZE1tdjNKaXpIRFR5YmJPOEQtQ01FbHdmY3EtWGQ2ZktiY2dIaVRuZUdLc2hNMjBOM2tESHByaDJ2RUxfUHo4TGZRUWVteWdQb2ZGRDl4Vnl0dVJwQXl3aTYwcW02MVFOUHNOUktPazllRmt3UGUzTUhndDY3SXluc2RISGUxOFd2MjNVZVdsZFl5Zm9QQ21kVlJwLU93aGxXTmFHb1lremZqbjRKWkdMTVJNVzhKQ2N1bzdlV21IUGZHaTVZMHBnemNtY003c2RSeUlQSl9OVE5ISjlId2o0QnRHOE85TWUt0gHkA0FVX3lxTE54TkhuTmlvMm0tSEtPdEV4STQ3VmNfelJCYTBIMjdLNEJjcUtfOHdxczN3LVBPcHd2SFJrY3RkWDN1bG1kV2FiaXpNLVdmYjllY0psa2h3MWRuWnphRHNXcTFMNFVXNjl3MzhLblI1dnh2QWEtcnNwTnVIQWFpcWN6cC1Mak5HY0FJT2x2dE5YSUxERXNycWVfWDJ0VHVCYUlrd01Qel9jZ09VX0xKLXNEQjYxaUdkQnJOZmdDdV8yd2Vob1hQMU81YjR3U3lNb1FmUzV6Nl9xR2hHTnozbGRkbnRURXFNNzJ5dzU3aWhqVnVRT1lnM1dpTkx2RHJIbXRIM2FtOWJVa2k4YUdEb01OYXFrM2FYZVM4eWdWV3oxTnpnM09TLU90UklPUE5pTjJ0Y2w2Y0JwVVZHTzQzUGY0OWdhOW5MQkpYTEVrNnlRM1lmODVxRVZwWDY0c0w1UDNqUl9wTGl5ZWxPSDd0UWR4T3RCUjBnLWkxa0lnWU5aVnlmLWc5VC1FLVhGN1kzUkxhMmt4ajlmbG1yQnBGSFJYZzRURi1GeTFhVjZVX3k2WFpQRFRvMEJoOEtTTjBiaVNZaE94REFXQlphMnBlZlRuY3I3bTRweko1bmhKdE9qY1FBRnE?oc=5",
+      "source": "DW.com",
+      "published": "2025-12-05T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "\"رويترز\": رئيس المخابرات السابق وابن خال الأسد يخططان لزعزعة استقرار سوريا",
+      "url": "https://news.google.com/rss/articles/CBMi5wNBVV95cUxOdnNPU3Z6ZkFrYmlzTUJ5dWJXSm9xWjg3UzA0X09SYWswQ1J3NDExbW1pc2laYW1oQlRVMzRLNEIzWGFWVTRZTlEtMWJOLThlaThESG9ubG1sdkN0dmJmRWtCOUF5MHhsVWFVVzEyR1VXVVlBaGlPT3R1RXkyelBLM25ocjlCODNDSTZxQmw0N2FPamF1QzRaSVdSV1hKblBPQnctM0FyUm5qMkl0bW1zSk12UnhhYXJoVmwzbExqQ1E4eDM3UjZWVTR3VWQtOGVadHJ3NUFnNEE2MVhRRnlYaDBOQlh1OFlDNEJ3UWxDcXlQMzhDOFFDOXRJR3l6aFZObTh5aFJ3OGJQOXdHd21pdkRIbjhSeWFQdzVKQWZvMHhMV2dVMWFpMFI2YThWSzJCbE9JcmxBYUF2ak1TazVma1dyMGg4b3hONnJQc0xUOEdoUEF6cDJEam8yT1V4cTdaVTBxWm1fTVdIRmx4ZEsxdDB6OVMta3hMZnpqLS1zVER4d1JNbG9GdXI5TzlDeEFOcWJQYmI3b3d6WGVteENWRE56bVlFS19xbTVPRHhvVkNvSEo3RDJYeGt5Y2I1UUlBdlQxc2VFcWI2OGNQSGdzTFBGM2RaUW9INGRuajNZM0lsWGJpR3dJ?oc=5",
+      "source": "الشرق للأخبار",
+      "published": "2025-12-05T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "هل يسعى رئيس المخابرات السابق وابن خال بشار الأسد لزعزعة الاستقرار في سوريا؟",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTjVNZURDS3F2dENpWjNRNDhSa1Z3N05INGlUM3liV2tIMFhLMi1oNGlDbHp5eXJ5NG9mSHRDX0RWSlFaOWNGQXJ5cnlvWDZyZTVTSzZHMENPd1FST1FiV3Rid043YUpfUFJRQlZ2TnBZWDk4VjRwQmF6M01MbVRZdnhJeFFJc0Q2Q0E?oc=5",
+      "source": "i24NEWS",
+      "published": "2025-12-05T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "عبر الساحل.. تفاصيل خطط مخلوف وحسن لزعزعة سوريا",
+      "url": "https://news.google.com/rss/articles/CBMi1gNBVV95cUxNSXBpSFZOSzBhSHQ5YTg3WmNGWDlyWTd2Zy00ZU44YkswaGRzSUNsZ1ZkczM3SVp5SzhGcHUxcHp4RnItV3B2dnBEX1BqRXhCcWdXZjQ4OHJHSmx6V3hfaUdjaXBYVks5LU5xeGhHalJ5UGxTMEtmdi1PWHR0TUs1dVIxRW95Y18waDdaR2FqYjRHQWpmWURqTDRvT2xEOFRpWW43M3ZjRHNwWVVPNFNUUTU3RkhiN25jeTBFNE0xLVJSbkZwelI3aUdWOURqa250ZWVOcHBKcV9lamZ5MVdGWTBEUUVBQ1hKMWVGLTNZa0p4MmVTVHg0Yk9od1J5SUlhdlJHRUlBTk9IclhBalZiX2FuOUxGdEVRalc3Tmp4S0wyRDhjM1dnMXBOcllWdzQyOHEzLVpuLTBkUmRuR1ZPcTBxczhkVWpBOWdpaThicmFtZGdJVHpZS3FEWG4wczEtMEdpWGZMSmRqSUdDTEl2N1ZCVndOTmljcVhJV3IxZUF3Z0Z0M3ZUUHJDSE8wN0lsWW9GS1M3TU4zSF9ZSGx5YUU0WVVXZGZqbmlTSTBEd1RPUGticmEyZXF0eTE2Z3l4YXMwMVBGQTA1MkNlLVVyUTBmZ0dJUdIB2wNBVV95cUxPWkl5NF9XbnhNWlJ3b3U4NjVxYUM1UGtBWG5BSG02Tk52QnotOEc2VDVYOF9OQzdEWFM5amJxUUlKc204MHFyODFYSEhYUEdsQUI4WUNFUWpqc0pLU2dMUEZvaFl2ZVZWSlpDTGNOMUttMUNyMGVGRjdmSGZHQzRVWkxZSWlqbnN2dmxqOVZwWEpMTUJPMm1wYkZJU01FLU9xUkFFYlBRN2lkMENSeDl6Q1IzblR2aUM2TFYxajFpaXh2MHhNMUwyVHR0X2ozbk1ocDlpX2lkRmdQd0k1bVREc0NLcnZvLXFfZ3gyR1NsNzFCamVjTERIQlJRTVVOWTB4anlXRC1qQm9iNDBvSlN2ZEVOVUFtX2FFV0F5cXVJa0pLTjhlRXB2eGdhMEJrYzY2OTViaHM3UlpXRmZwMjEyQ1p6N1lsWHhqeWNqTTVIUjJ1RzByLUc0Z3ZqdWNKS2NsWjkwSU9aRUVvZ1dDQWtlanE3bmZ1S2NQWXN1cDlWNEtPaHNZd0xKWjhEOEk1dHIyTzU1dS1FWDVrZFNaS1I0TWpSSHY2UE9UQWc5VmJVVDFmVDRhZC1HZzMxZ0FTMXowZ1FJbFltYUVsY1ZjbmVZZEd3TXFiSnljU3hJ?oc=5",
+      "source": "العربية",
+      "published": "2025-12-05T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "partial",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "\"رويترز\": رامي مخلوف وكمال الحسن يحشدان لانتفاضة ضد الشرع",
+      "url": "https://news.google.com/rss/articles/CBMixgNBVV95cUxNMjN0SDRVUFRvd1FYNWppeEVkREJNYjluWTNYUFJSWWE0cVdocGNtRTEwRENURnRVZEh6aHl4OEU5dWMwWWQ3RXpZQ0QzeUt2SUZIeVF4ZE5BajlyQmtPQlN6cGM5SEhNSTIyd2YwVVJuSmpFeEFlQTVmbzViTHR6RzFGdU8xRVFkelBjWXVzZmdNUlFPSl9Nb09JNFJpWDFJWWc3bkRxbGZWYlBLbTRZWWRHamdJaTR0ajdkY25vajB5WmJxM01TeDNYS2dWYThxck1qWURnV1N0MExLYS1zTjJvUllZMk1lOXl1WkFJS3MzNVA3NThXWlV4T0YtZjQ2aER1MFpzRm1KMlVfbktmLXlWdUlYbWpNSzNRaHZza09KRXN1VGhYN0VmeDNGZTlKVEFOVW1VMGxNUHJkRVNCRzFPal84LWw1aHc0eDlodS1xYTZYay11a1pLREg2TGt2Qzk3Tk1tWUVGaUwxdHBfOXp4MExlZ3VEUWJXVXlmTGZiLTBxc1VNNlRtNWphN1BTRlpZREhSWEpzS3dnWkxyeEYwOGNJUldRcHlXMllvaVFYV0Fzb3hsQ2p3OHJXZ241NmdGaDRR0gHLA0FVX3lxTE8tOUdTUDY1dnktd2Y3clU2MVNEWVZldGJTSERKQjQ2TThCUVBvbzU0b3FOYkpVS29vX3VLcnRWX3dkazZrQm5hMWw3OVpZU2dLSzJRMm8yb2xiV2RTMFJjVm9NLWhhZm93M0FlSkFqMlllZmhXTmV0WGxhYkhjU1ZvVDdpdDF4MGJOUUJ1QUk4YUZoai1YbjRlZkpJaE90UEpOYm1hMVFXb2hXcWRkTFM2UE1LbzBKZzJyNlVrRUowcV96T0RsWFhfdF9HQ29HTlVXZk1MblU1VGpaQTJwQy1vY0xKUWY5VmlsOE0zM3VPNkg1N2JvM0Y4ekpNWm1paVdJbENwb0NMMEc3NXU1OVI2VmtpTF9uT3ptajVqRGZXQkp4UlJ3YnZFb2UwaWJpaV8tYmdkemZXY2pUT1V6Sy1hUnBjd3docms0U2NPNDFrbXAzalE3UVg2cVBUa0FIVTA4Q3VTd0NHZ1BRVURsWDFsZDltN1dUZnFRNGZyTVZaUjFHOUVZM3hZSTRmTHlBRHNUV21NTnFNRFRyZDk4Wjk3Mmt0czFoa1hUdWhMUEgxdG4zVEpQX2ZNN2xieFZ0UVd3bzJKSDNKZ18waw?oc=5",
+      "source": "العربي الجديد",
+      "published": "2025-12-05T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "رامي مخلوف وكمال حسن: مخطط رجلا الأسد بين بيروت وموسكو للانقلاب على أحمد الشرع",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQdG01NlRiVmdScXg5U0hZUHVTT09Kek9fOHVTX1F0ZWlOelJHZkFVTWpXeTlXOTRiRUtFbkotdjE4RlUzSWJzbFo2Nmo3TGlVM0V6NDMxQ1FVR1hHd1RZUlJuYXBlRF9EcnFrR1l2YzlqaHN6Q2dGT0dYQU9OblByaGwxRXZPU201d0VUSWtYZGREWEVfSUhtVTRRNUY4NE1Ic09ISUtNTzI4djdHOE9aWkkweE85STRDVHdEbVRwbERTbUFIVkJoajdkV2FDOWVoZjhiWU5pdVNTeTNPbWhoSEdZb3d6ZEZZWnJRbWxDQ19EUWhJZ0dldkc0Zy1PSE42dVVNaUtTWmNkVjN2LUphYXJ5c2NOcVhVUHQtWksxdlloMHlJam1WSXlkRG11NUtkNVl6WmFiTjVxVUp5Wl9lMU5MTGFvY3ZvbkZDSnZWbElPdw?oc=5",
+      "source": "جنوبية",
+      "published": "2025-12-05T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Brief: Rami Makhlouf’s Cousin Loses Syria Licence for Schindler Group",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbERUQUhDLTlHN0ZtRnh3OXBIQ1BHWUw5M1NtTTQ1dnJnZWktNWFnejNXc0xHNXkxeDhMYldLQ3FCMHpJenMxZ3I0Tkl2X1l4MFpBYjY3WlpLVVFTUldmdGlmaFZIOEprVjMwd3dOdXRRTkV5RnJ0Q25NYzNWaGEwTGxvLTBuXzIxUHRDaXBJVVFheTVOWmZNbg?oc=5",
+      "source": "Syria Report",
+      "published": "2025-12-03T08:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" when:365d",
+      "relevance": "title",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "Syrians Rage Over 200% Mobile Internet Hike After al-Sharaa’s Washington Trip",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOa1lnNjdXX3hObUJEelQ4N3JFUnlabnRpTmxDcEI3X1V3V2pFSXNJNURqZTJCU2tnSkhqSXhXZzFMbUh6TE5HbEM5N0pvY01zazhxeHY3UDF4TkpRM3Fmd1BnMnA5eFo3bHBqYnpLckwweEFCWDFxZ3I5d3lwVnZBY1hwQWFMXzVvbkhvOWtTaFgwc0pVX1ltbnZoMUNtdlA1dVhaVm45aUZLajB5dlRKNg?oc=5",
+      "source": "The Media Line",
+      "published": "2025-11-17T08:00:00+00:00",
+      "language": "en",
+      "snippet": "",
+      "found_via": [
+        "Google News (en)"
+      ],
+      "query": "\"Rami Makhlouf\" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    },
+    {
+      "title": "انقسام علوي على «الحلّ العسكري»: جنود الجيش السابق ينزحون إلى «قسد»!",
+      "url": "https://news.google.com/rss/articles/CBMi4ANBVV95cUxQaEx0TmJOYVJIRFBabG01RUFERUF2MEhPMjlSLU1KVm9oVjdlNUdXaERlQjBGeGFJVHE3N3JxNzhzRkVfVE5Ka2k3QndmZmQxZlJfeXpGSzBkNDhwcDFsVlUzTDdFN0VZNEhlWUo4c3lFLTRRS3pHS2tCMF9WVHM0WU5ybFVkYWdzU09uNnd3blRtZTJpVE91VUM5SEtYU05SLVRYOTU5bGdOSEtXaFFuRS1zdlNaZEJYOXRrVy05b0tWeWZxcnNtcTI5dklYOXZVbXNtSXR3bW9la0VPN2JRd3ZITExSOFJSeFJZYTMwX3UtVUtVVUxpSTJBR0I1dEZBOGI1ZWFuSWpLMGtDTER2VGd5d3NNSGxvODRvdUR6Qm0xdGJhY1U4OVAzUU5GcTVubTFVUktoZkxDaEI4UFF0cTljbGNqdWlIRjAxQ283Yy1zczA2Nzd3UWc3eEVlcVNHSGtUdWlIdjBQbzcyVGJNdHBCdkQtMjg0bTNzdnZGSXFITG5ZQXZRMDV0Y0pDY25MdkRfZjk0UGp6RTlRSmNaaEY3d1U3LVFNRDN1dk9ORURTLWlEYVBTakFCajZRX2U2UDNnY1JNQkVoMUtiV3VxYzlFLUo4UXlhcWdkSTg5VDM?oc=5",
+      "source": "Al Akhbar",
+      "published": "2025-11-17T08:00:00+00:00",
+      "language": "ar",
+      "snippet": "",
+      "found_via": [
+        "Google News (ar)"
+      ],
+      "query": "\"رامي مخلوف\" when:365d",
+      "relevance": "none",
+      "stage": "none",
+      "severity": 0,
+      "categories": {},
+      "mitigating_terms": [],
+      "also_reported_by": []
+    }
+  ]
+}

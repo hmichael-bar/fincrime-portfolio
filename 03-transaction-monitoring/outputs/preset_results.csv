@@ -1,0 +1,4 @@
+preset,alerts,alert_precision,customer_recall,missed_bad_actors,of_which_isolation_forest_flags
+aggressive,1602,0.386,0.982,1,0
+baseline,869,0.603,0.982,1,0
+conservative,474,0.833,0.946,3,0

@@ -1,0 +1,91 @@
+{
+  "overall": {
+    "customers": 500,
+    "transactions": 57986,
+    "seeded_bad_actors": 56,
+    "alerts": 869,
+    "true_positive_alerts": 524,
+    "alert_precision": 0.603,
+    "customers_alerted": 185,
+    "good_customers_alerted": 130,
+    "customer_recall": 0.982,
+    "alerts_per_analyst_day": 7.0
+  },
+  "isolation_forest": {
+    "roc_auc": 0.968,
+    "average_precision": 0.861,
+    "flagged": 50,
+    "precision": 0.78,
+    "recall": 0.696,
+    "ml_only_bad_actors": [],
+    "ml_only_good": 3
+  },
+  "presets": [
+    {
+      "preset": "aggressive",
+      "alerts": 1602,
+      "alert_precision": 0.386,
+      "customer_recall": 0.982,
+      "missed_bad_actors": 1,
+      "of_which_isolation_forest_flags": 0
+    },
+    {
+      "preset": "baseline",
+      "alerts": 869,
+      "alert_precision": 0.603,
+      "customer_recall": 0.982,
+      "missed_bad_actors": 1,
+      "of_which_isolation_forest_flags": 0
+    },
+    {
+      "preset": "conservative",
+      "alerts": 474,
+      "alert_precision": 0.833,
+      "customer_recall": 0.946,
+      "missed_bad_actors": 3,
+      "of_which_isolation_forest_flags": 0
+    }
+  ],
+  "precision_at_k": [
+    {
+      "k": 10,
+      "combined_score": 1.0,
+      "rules_only": 1.0,
+      "anomaly_only": 1.0,
+      "combined_plus_10pct_kyc": 0.8,
+      "base_rate": 0.112
+    },
+    {
+      "k": 25,
+      "combined_score": 1.0,
+      "rules_only": 0.88,
+      "anomaly_only": 0.96,
+      "combined_plus_10pct_kyc": 0.72,
+      "base_rate": 0.112
+    },
+    {
+      "k": 50,
+      "combined_score": 0.98,
+      "rules_only": 0.76,
+      "anomaly_only": 0.78,
+      "combined_plus_10pct_kyc": 0.66,
+      "base_rate": 0.112
+    },
+    {
+      "k": 75,
+      "combined_score": 0.68,
+      "rules_only": 0.64,
+      "anomaly_only": 0.6533333333333333,
+      "combined_plus_10pct_kyc": 0.6666666666666666,
+      "base_rate": 0.112
+    },
+    {
+      "k": 100,
+      "combined_score": 0.52,
+      "rules_only": 0.5,
+      "anomaly_only": 0.52,
+      "combined_plus_10pct_kyc": 0.52,
+      "base_rate": 0.112
+    }
+  ]
+}

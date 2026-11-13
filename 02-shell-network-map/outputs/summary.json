@@ -1,0 +1,108 @@
+{
+  "nodes": 43065,
+  "edges": 73116,
+  "node_types": {
+    "officer": 23355,
+    "entity": 18297,
+    "address": 835,
+    "intermediary": 523,
+    "other": 55
+  },
+  "core_entities": 18297,
+  "connected_components": 785,
+  "giant_component_nodes": 13448,
+  "entity_sources": {
+    "Panama Papers": 9305,
+    "Offshore Leaks": 6107,
+    "Paradise Papers - Malta corporate registry": 1681,
+    "Pandora Papers - Alem\u00e1n, Cordero, Galindo & Lee (Alcogal)": 487,
+    "Paradise Papers - Appleby": 296,
+    "Pandora Papers - Trident Trust": 220,
+    "Pandora Papers - Fidelity Corporate Services": 58,
+    "Pandora Papers - Alpha Consulting": 50
+  },
+  "entity_jurisdictions": {
+    "British Virgin Islands": 5958,
+    "Undetermined": 5861,
+    "Seychelles": 1709,
+    "Malta": 1688,
+    "Bahamas": 1219,
+    "Panama": 748,
+    "Niue": 385,
+    "Bermuda": 156,
+    "": 142,
+    "British Anguilla": 124
+  },
+  "malta_registry_entities": 1681,
+  "hub_intermediaries_top10": [
+    {
+      "name": "CONSULCO INTERNATIONAL LIMITED",
+      "countries": "ARE;CYP",
+      "entities_served": 3168
+    },
+    {
+      "name": "G.S.L. Law & Consulting",
+      "countries": "CYP",
+      "entities_served": 2096
+    },
+    {
+      "name": "OMNI MANAGEMENT CONSULTANCY FZE",
+      "countries": "CYP",
+      "entities_served": 1315
+    },
+    {
+      "name": "CHESTERFIELD GROUP LIMITED",
+      "countries": "CYP",
+      "entities_served": 1140
+    },
+    {
+      "name": "Christabel Corporate Services Limited",
+      "countries": "CYP",
+      "entities_served": 954
+    },
+    {
+      "name": "LAVECO LTD.",
+      "countries": "HUN",
+      "entities_served": 603
+    },
+    {
+      "name": "ALBA CORPORATE ENTERPRISES LIMITED",
+      "countries": "CYP",
+      "entities_served": 406
+    },
+    {
+      "name": "FIGED",
+      "countries": "CYP;LUX",
+      "entities_served": 234
+    },
+    {
+      "name": "Kinanis-Pyrgou & Co.",
+      "countries": "CYP",
+      "entities_served": 234
+    },
+    {
+      "name": "BBP-Baltic Ltd.",
+      "countries": "LVA",
+      "entities_served": 225
+    }
+  ],
+  "shared_address_clusters_5plus": 148,
+  "shared_address_clusters_20plus": 51,
+  "nominee_officers": 109,
+  "nominee_officers_corporate": 67,
+  "nominee_officers_individual": 42,
+  "ownership_edges": 25544,
+  "officer_nodes_resolved_to_entities": 1345,
+  "ownership_cycles": 4,
+  "entities_with_post_soviet_officers": 1730,
+  "entities_with_gulf_officers": 991,
+  "screening_hits_raw": 1291,
+  "screening_hits_grade_AB": 854,
+  "screening_hits_by_tier_AB": {
+    "1 - US/EU/UK/UN sanctions": 346,
+    "3 - PEP": 346,
+    "2 - other national sanctions": 162
+  },
+  "entities_scored": 17015,
+  "entities_score_ge_6": 166
+}

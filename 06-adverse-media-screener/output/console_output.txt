@@ -1,0 +1,80 @@
+
+=== Rami Makhlouf (person) ===
+  Google News (en)   ok             21 results  | "Rami Makhlouf" when:365d
+  Google News (en)   ok             10 results  | "Rami Makhlouf" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d
+  Google News (en)   ok              0 results  | "Rami Makhluf" when:365d
+  Google News (en)   ok              0 results  | "Rami Makhluf" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d
+  Google News (ar)   ok             41 results  | "رامي مخلوف" when:365d
+  Google News (ar)   ok              8 results  | "رامي مخلوف" (عقوبات OR غسيل OR فساد OR رشوة OR احتيال OR إرهاب OR تهريب OR اتهام) when:365d
+  GDELT              rate-limited    0 results  | "Rami Makhlouf" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english
+  GDELT              ok              0 results  | "Rami Makhlouf" sourcelang:arabic
+
+Overall risk: HIGH - Credible, serious adverse media naming the subject (conviction/penalty/designation-level or repeated).
+80 articles -> 64 unique stories -> 3 adverse
+  [ 90] 2026-07-09 منصة تأكد              هل بدأت الإمارات حجز أموال رامي مخلوف استجابة للمحكمة الجنائية؟
+         Sanctions / asset freeze | Conviction / penalty / designation | named in title
+  [ 40] 2026-07-09 Enab Baladi            What Does the European Court’s Refusal to Lift Sanctions on Makhlouf Family Members M
+         Sanctions / asset freeze | Not stated | named in partial
+  [ 40] 2026-07-07 العربية                عائلة مخلوف تخسر معركة رفع العقوبات الأوروبية
+         Sanctions / asset freeze | Not stated | named in partial
+Reports: output/rami_makhlouf.md, output/rami_makhlouf.html, output/rami_makhlouf.json
+
+=== Bank Melli Iran (entity) ===
+  Google News (en)   ok             45 results  | "Bank Melli Iran" when:365d
+  Google News (en)   ok             33 results  | "Bank Melli Iran" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d
+  Google News (en)   ok             17 results  | "Melli Bank" when:365d
+  Google News (en)   ok             10 results  | "Melli Bank" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d
+  Google News (ar)   ok             31 results  | "بنك ملي إيران" when:365d
+  Google News (ar)   ok             29 results  | "بنك ملي إيران" (عقوبات OR غسيل OR فساد OR رشوة OR احتيال OR إرهاب OR تهريب OR اتهام) when:365d
+  Google News (ar)   ok              0 results  | "بانک ملی ایران" when:365d
+  Google News (ar)   ok              0 results  | "بانک ملی ایران" (عقوبات OR غسيل OR فساد OR رشوة OR احتيال OR إرهاب OR تهريب OR اتهام) when:365d
+  GDELT              ok             36 results  | "Bank Melli Iran" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english
+  GDELT              ok              0 results  | "Bank Melli Iran" sourcelang:arabic
+
+Overall risk: HIGH - Credible, serious adverse media naming the subject (conviction/penalty/designation-level or repeated).
+201 articles -> 113 unique stories -> 30 adverse
+  [ 90] 2026-09-23 Khaleej Times          CBUAE imposes sanctions on Bank Melli Iran, bans financial transactions with Iran
+         Sanctions / asset freeze | Conviction / penalty / designation | named in title
+  [ 68] 2026-10-29 AzerNews               Azerbaijan rules out new restrictions on Bank Melli Iran despite sanctions
+         Sanctions / asset freeze | Not stated | named in title
+  [ 68] 2026-09-24 News On AIR            UAE sanctions Bank Melli Iran; airline suspensions add to economic pressure on Iran
+         Sanctions / asset freeze | Not stated | named in title
+  [ 68] 2026-09-24 وكالة أنباء سرايا الإخ الإمارات تحظر أنشطة بنك ملي إيران | سياسة | وكالة أنباء سرايا الإخبارية - حرية سقفها 
+         Sanctions / asset freeze | Not stated | named in title
+  [ 68] 2026-09-23 TradingView            UAE central bank imposes strict sanctions on Bank Melli Iran branches
+         Sanctions / asset freeze | Not stated | named in title
+  [ 68] 2026-09-23 Gulf News              UAE Central Bank sanctions Bank Melli Iran over compliance violations
+         Sanctions / asset freeze | Not stated | named in title
+  [ 68] 2026-09-23 معلومات مباشر          الإمارات تحظر معاملات فروع «بنك ملي إيران» مع طهران
+         Sanctions / asset freeze | Not stated | named in title
+  [ 68] 2026-09-23 صوت الإمارات           المركزي الإماراتي يفرض حظرًا على فروع بنك ملي إيران بشأن المعاملات مع إيران
+         Sanctions / asset freeze | Not stated | named in title
+Reports: output/bank_melli_iran.md, output/bank_melli_iran.html, output/bank_melli_iran.json
+
+=== Binance (entity) ===
+  Google News (en)   ok            100 results  | "Binance" when:365d
+  Google News (en)   ok             66 results  | "Binance" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling OR indicted OR convicted OR trafficking) when:365d
+  Google News (ar)   ok             94 results  | "باينانس" when:365d
+  Google News (ar)   ok             19 results  | "باينانس" (عقوبات OR غسيل OR فساد OR رشوة OR احتيال OR إرهاب OR تهريب OR اتهام) when:365d
+  GDELT              ok             75 results  | "Binance" (sanctions OR laundering OR fraud OR bribery OR corruption OR terrorism OR smuggling) sourcelang:english
+  GDELT              rate-limited    0 results  | "Binance" sourcelang:arabic
+
+Overall risk: HIGH - Credible, serious adverse media naming the subject (conviction/penalty/designation-level or repeated).
+354 articles -> 309 unique stories -> 53 adverse
+  [ 85] 2026-11-11 BitKE                  CRYPTO CRIME | Binance Becomes First Entity to Block MEXC Transactions Following U.S.
+         Money laundering | Conviction / penalty / designation | named in title
+  [ 85] 2026-11-10 Hokanews               Binance Blocks MEXC Transfers After FinCEN Money Laundering Designation
+         Money laundering | Conviction / penalty / designation | named in title
+  [ 76] 2026-09-23 middleeasteye.net      US prosecutors probing Binance for possible Iran sanctions violations
+         Sanctions / asset freeze | Charged / arrested / sued | named in title
+  [ 72] 2026-09-15 The New York Times     Chinese Firms Used Binance to Launder Iranian Oil Money, Prosecutors Say
+         Money laundering | Charged / arrested / sued | named in title
+  [ 68] 2026-09-22 Reuters                Binance faces US scrutiny over possible Iran sanctions violations, source says
+         Sanctions / asset freeze | Not stated | named in title
+  [ 68] 2026-09-22 ايكونومي بلس           "بلومبرج": "العدل" الأمريكية تحقق في احتمال انتهاك "باينانس" لعقوبات إيران
+         Sanctions / asset freeze | Not stated | named in title
+  [ 68] 2026-09-21 Reuters                بلومبرج: باينانس تحت تدقيق أمريكي بشأن انتهاكات محتملة لعقوبات إيران | رويترز
+         Sanctions / asset freeze | Not stated | named in title
+  [ 68] 2026-08-25 Binance                Binance restricts trading with HTX and 10 other crypto platforms due to EU sanctions
+         Sanctions / asset freeze | Not stated | named in title
+Reports: output/binance.md, output/binance.html, output/binance.json

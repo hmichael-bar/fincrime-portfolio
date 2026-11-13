@@ -1,0 +1,110 @@
+node_id,entities,roles,name,countries,officer_kind,nominee_keyword
+12162249,263,shareholder of:263,Dorchester International Inc,KNA,corporate,False
+12201339,187,shareholder of:187,INTERCON LIMITED,SYC,corporate,False
+22184,180,director of:174; shareholder of:48; secretary of:10,[individual - ICIJ node 22184],ARE,individual,False
+12201969,156,shareholder of:156,UNICO LIMITED,SYC,corporate,False
+20321,152,shareholder of:151; director of:1,Olemi Enterprises Limited,CYP,corporate,False
+12162248,134,shareholder of:134,Dorchester International Inc.,KNA,corporate,False
+20018,129,director of:129,Commonwealth Trust Limited,VIR,corporate,False
+20974,121,director of:121,[individual - ICIJ node 20974],GBR,individual,False
+21191,118,director of:105; shareholder of:13; secretary of:12,Eurotrade  Nominees Ltd.,VGB,corporate,True
+12201391,116,shareholder of:116,Formia Limited,SYC,corporate,False
+20828,109,director of:102; shareholder of:25; secretary of:1,[individual - ICIJ node 20828],ARE,individual,False
+22282,105,director of:102; shareholder of:27,[individual - ICIJ node 22282],ARE,individual,False
+12215838,104,shareholder of:104,FORMIA LIMITED,SYC,corporate,False
+12201340,101,shareholder of:101,Primi Limited,SYC,corporate,False
+20151,99,director of:84; shareholder of:36; secretary of:20,[individual - ICIJ node 20151],ARE,individual,False
+12217281,98,shareholder of:98,MOSTALINA INVESTMENTS S.A,SYC,corporate,False
+12201314,95,shareholder of:95,TREX LIMITED,SYC,corporate,False
+12201700,94,shareholder of:94,NOTTINGHAM HOLDING LIMITED,BHS,corporate,False
+24241,90,director of:89; shareholder of:2; secretary of:2,Integrity Directors Ltd,VGB,corporate,True
+23088,88,director of:88,[individual - ICIJ node 23088],GBR,individual,False
+20675,80,director of:75; shareholder of:49,Euronominees Ltd.,VIR,corporate,True
+12201201,79,shareholder of:79,MOSCRIP LIMITED,SYC,corporate,False
+80000191,79,secretary of:64; shareholder of:26; is signatory for:1,Appleby Services (Bermuda) Ltd.,BMU,corporate,False
+20642,78,director of:78,Standard Directors Ltd.,VIR,corporate,True
+20859,78,director of:56; shareholder of:35,Annex Holdings Ltd.,KNA,corporate,False
+56092039,71,judicial representative of:71; director of:71; legal representative of:71; shareholder of:1,[individual - ICIJ node 56092039],CYP,individual,False
+12152482,70,shareholder of:70,Formia Limited,SYC,corporate,False
+56065500,70,judicial representative of:68; legal representative of:68; director of:68; secretary of:2,[individual - ICIJ node 56065500],MLT;CYP;SWE,individual,False
+24230,69,director of:68; beneficial owner of:1,Integrity Directors Ltd.,VGB,corporate,True
+12112605,64,shareholder of:64,[individual - ICIJ node 12112605],CYP,individual,False
+12215839,64,shareholder of:64,INTERCON LIMITED,SYC,corporate,False
+20035,63,director of:63,Commonwealth Services Limited,VIR,corporate,False
+23095,62,director of:62,[individual - ICIJ node 23095],GBR,individual,False
+12217280,62,shareholder of:62,DOMLIAR LIMITED,SYC,corporate,False
+22603,62,director of:61; secretary of:3; shareholder of:2,[individual - ICIJ node 22603],CYP,individual,False
+12152737,58,shareholder of:58,FORMIA LIMITED,SYC,corporate,False
+20851,57,director of:57,Commonwealth Services Limited,VGB,corporate,False
+40257,57,shareholder of:54; director of:52; secretary of:1,Caledonian Enterprises Ltd,BLZ,corporate,False
+12131252,56,shareholder of:56,ZAINRAL LIMITED,VGB,corporate,False
+80039091,56,director of:52; president of:18; is signatory for:9; vice-president of:8,[individual - ICIJ node 80039091],BMU;CYP;GBR,individual,False
+12124750,55,shareholder of:55,Formia Limited,VGB,corporate,False
+56047618,55,secretary of:55; judicial representative of:1; director of:1; legal representative of:1,[individual - ICIJ node 56047618],MLT,individual,False
+12215837,54,shareholder of:54,UNICO LIMITED,SYC,corporate,False
+12202898,54,shareholder of:54,Athnid Limited,BHS,corporate,False
+56057076,53,secretary of:53; legal representative of:3; judicial representative of:3; director of:3,[individual - ICIJ node 56057076],MLT,individual,False
+298634,52,director of:52,[individual - ICIJ node 298634],XXX,individual,False
+12147481,52,shareholder of:52,Athnid Limited,BHS,corporate,False
+56085033,51,shareholder of:43; director of:39; judicial representative of:39; legal representative of:39,FBS TRUST LIMITED,MLT,corporate,False
+23380,51,director of:51,Commonwealth Trust Limited,VGB,corporate,False
+12147485,50,shareholder of:50,ATHNID LIMITED,BHS,corporate,False
+12201138,48,shareholder of:48,INTERCON LIMITED,SYC,corporate,False
+298607,47,director of:47,Commonwealth Trust,XXX,corporate,False
+56085684,46,shareholder of:46,CYMAPLUS MALTA LIMITED,MLT,corporate,False
+12147484,43,shareholder of:43,BASSIM ENTERPRISES LIMITED,BHS,corporate,False
+56091972,43,secretary of:41; legal representative of:2; judicial representative of:2; director of:2,[individual - ICIJ node 56091972],CYP,individual,False
+20577,42,director of:41; secretary of:3; shareholder of:3,Eurotrade Nominess Ltd.,VIR,corporate,False
+56083380,42,shareholder of:40; judicial representative of:14; legal representative of:14; director of:13,AKK MANAGEMENT LIMITED,MLT,corporate,False
+12217278,41,shareholder of:41,TYLTRAL LIMITED,SYC,corporate,False
+21932,41,director of:38; shareholder of:8,Annex Holdings Ltd.,KNA,corporate,False
+12152628,41,shareholder of:41,FORMIA LIMITED,SYC,corporate,False
+12120457,40,shareholder of:40,BANKHILL LIMITED,LBR,corporate,False
+12124749,40,shareholder of:40,Primi Limited,VGB,corporate,False
+20594,40,director of:39; shareholder of:2,[individual - ICIJ node 20594],CYP,individual,False
+20147,40,shareholder of:40; secretary of:1,Interstatus Limited,GBR,corporate,False
+12153472,40,shareholder of:40,INTERCON LIMITED,SYC,corporate,False
+20368,39,director of:35; shareholder of:7; secretary of:5,[individual - ICIJ node 20368],CYP,individual,False
+21778,39,secretary of:37; director of:3; shareholder of:2,Klares Enterprises Limited,KNA,corporate,False
+23709,38,director of:35; shareholder of:35; secretary of:1,[individual - ICIJ node 23709],CYP,individual,False
+21029,37,director of:35; shareholder of:8; secretary of:3,[individual - ICIJ node 21029],CYP,individual,False
+20595,37,director of:35; shareholder of:2,[individual - ICIJ node 20595],CYP,individual,False
+56027952,36,judicial representative of:36; legal representative of:36; director of:36,VOLGO-BALTIC SHIPMANAGEMENT LIMITED,CYP,corporate,False
+56030449,36,secretary of:33; director of:15; legal representative of:15; judicial representative of:15,[individual - ICIJ node 56030449],MLT,individual,False
+40261,36,director of:36; shareholder of:18; secretary of:1,[individual - ICIJ node 40261],ARE,individual,False
+56067942,36,shareholder of:36,VIMATEX LIMITED,CYP,corporate,False
+12215843,36,shareholder of:36,PRIMI LIMITED,SYC,corporate,False
+20638,35,director of:35,[individual - ICIJ node 20638],GBR,individual,False
+56091977,34,secretary of:27; director of:7; legal representative of:7; judicial representative of:7,[individual - ICIJ node 56091977],MLT;CYP,individual,False
+56066396,33,judicial representative of:33; legal representative of:33; director of:33,[individual - ICIJ node 56066396],MLT,individual,False
+12000671,32,shareholder of:32,Intercon Limited,,corporate,False
+20931,32,director of:31; shareholder of:1,Eurotrade Nominees Ltd.,VGB,corporate,True
+12218342,32,shareholder of:32,CIVORIET LIMITED,BHS,corporate,False
+23087,32,director of:32,[individual - ICIJ node 23087],GBR,individual,False
+20807,32,director of:31; shareholder of:1,[individual - ICIJ node 20807],ARE,individual,False
+12202974,31,shareholder of:31,Bassim Enterprises Limited,BHS,corporate,False
+12223482,31,shareholder of:31,MOREWIG LIMITED,GBR,corporate,False
+12147482,30,shareholder of:30,BASSIM ENTERPRISES LIMITED,BHS,corporate,False
+56028997,30,secretary of:30; director of:8; legal representative of:8; judicial representative of:8,[individual - ICIJ node 56028997],MLT,individual,False
+20285,30,director of:30,[individual - ICIJ node 20285],CYP,individual,False
+23198,29,shareholder of:29; secretary of:1,Intermax Nominees Limited,GBR,corporate,True
+80038796,29,director of:29; president of:13; vice-president of:9; is signatory for:3,[individual - ICIJ node 80038796],BMU;GBR,individual,False
+20571,29,director of:27; shareholder of:4,[individual - ICIJ node 20571],GBR,individual,False
+56065780,28,judicial representative of:28; legal representative of:28; director of:28; secretary of:1,[individual - ICIJ node 56065780],MLT,individual,False
+21322,28,director of:26; shareholder of:5,[individual - ICIJ node 21322],ARE,individual,False
+56031686,28,secretary of:28,[individual - ICIJ node 56031686],MLT,individual,False
+80116007,27,director of:27,[individual - ICIJ node 80116007],BMU;GBR,individual,False
+21495,27,director of:27,Commonwealth Services Limited,VIR,corporate,False
+21247,26,director of:20; shareholder of:10,[individual - ICIJ node 21247],ARE,individual,False
+45287,26,secretary of:26,Hophil Securetarial Limited,CYP,corporate,False
+56018380,26,secretary of:24; legal representative of:13; director of:12; judicial representative of:12,[individual - ICIJ node 56018380],MLT,individual,False
+12203032,26,shareholder of:26,Bassim Enterprises Limited,BHS,corporate,False
+80137245,26,director of:26; president of:20; vice-president of:3,[individual - ICIJ node 80137245],CYP;NOR,individual,False
+56088765,26,shareholder of:26,GANADO TRUSTEES & FIDUCIARIES LIMITED,MLT,corporate,True
+21505,26,director of:26,[individual - ICIJ node 21505],GBR,individual,False
+12203302,25,shareholder of:25,Bassim Enterprises Limited,BHS,corporate,False
+56068138,25,shareholder of:25,MEDWELL HOLDINGS LIMITED,CYP,corporate,False
+23038,25,director of:24; secretary of:2,EUROTRADE DIRECTORS LTD,VGB,corporate,True
+80039709,25,director of:25; secretary of:1,[individual - ICIJ node 80039709],GBR,individual,False
+56067533,25,legal representative of:24; judicial representative of:24; director of:24; secretary of:2,[individual - ICIJ node 56067533],MLT;SWE,individual,False
+12215845,25,shareholder of:25,TREX LIMITED,SYC,corporate,False

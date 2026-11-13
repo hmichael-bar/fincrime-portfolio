@@ -1,0 +1,4 @@
+rapidfuzz>=3.6
+pandas>=2.0
+streamlit>=1.30
+matplotlib>=3.8

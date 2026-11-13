@@ -1,0 +1,11 @@
+rule_id,rule,alerts,true_positive_alerts,precision,customers_alerted,target_typology,target_recall
+R01,Structuring: cash deposits just below the $10K CTR threshold,32,18,0.562,15,structuring,0.625
+R02,Rapid movement of funds (pass-through),263,95,0.361,111,rapid_movement,1.0
+R03,Funnel account: cash deposited in multiple out-of-area states,36,36,1.0,6,funnel,1.0
+R04,Wires to/from high-risk jurisdictions,129,103,0.798,57,high_risk_geo,1.0
+R05,Repeated round-dollar wires,56,25,0.446,28,round_dollar,1.0
+R06,Dormant account reactivation,11,6,0.545,11,dormant_reactivation,1.0
+R07,Trade-based ML: invoice-pattern wires,51,25,0.49,15,tbml,1.0
+R08,"Money mule activity (many senders, fast outflow)",30,28,0.933,12,mule_network,1.0
+R09,Activity far above KYC expected profile,248,178,0.718,115,(all typologies),0.839
+R10,Device shared by multiple unrelated customers,13,10,0.769,13,mule_network,1.0

@@ -1,0 +1,3539 @@
+{
+  "generated_utc": "2026-11-13T06:07:13+00:00",
+  "threshold": 85,
+  "list_stats": {
+    "entries": 20049,
+    "sdn_entries": 19563,
+    "consolidated_entries": 486,
+    "names_incl_aliases": 41396
+  },
+  "results": [
+    {
+      "customer": {
+        "customer_id": "C001",
+        "name": "Moammar Abu Minyar El-Gaddafi",
+        "type": "individual",
+        "dob": "1942",
+        "nationality": "Libya",
+        "owners": "",
+        "expected": "sdn",
+        "scenario": "Listed person - spelling variant (Gaddafi vs QADHAFI) plus extra name parts"
+      },
+      "normalized_name": "muammar abuminyar qadhafi",
+      "disposition": "True Match",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 100.0,
+          "disposition": "True Match",
+          "disposition_reason": "Strong name match, birth year and nationality consistent - block/reject and report",
+          "list": "SDN",
+          "uid": "SDN-12606",
+          "matched_name": "AL-QADHAFI, Muammar Abu Minyar",
+          "matched_on": "alias (aka)",
+          "primary_name": "QADHAFI, Muammar",
+          "type": "individual",
+          "programs": [
+            "LIBYA2"
+          ],
+          "dob": [
+            "1942"
+          ],
+          "pob": [
+            "Sirte, Libya"
+          ],
+          "nationality": [],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'AL-QADHAFI, Muammar Abu Minyar', not only the primary name",
+            "Identical after normalisation",
+            "Customer name: Joined kunya 'abu minyar' -> 'abuminyar'",
+            "Customer name: Ignored name particles: el",
+            "Customer name: 'moammar' treated as transliteration variant of 'muammar'",
+            "Customer name: 'gaddafi' treated as transliteration variant of 'qadhafi'",
+            "List name: Joined kunya 'abu minyar' -> 'abuminyar'"
+          ],
+          "secondary_checks": [
+            "DOB year match only (1942; list: 1942) - obtain full DOB / ID document",
+            "Nationality/country consistent (Libya)"
+          ],
+          "score_components": {
+            "token_sort": 100,
+            "jaro_winkler": 100,
+            "token_align": 100,
+            "phonetic": 100
+          }
+        },
+        {
+          "score": 94.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-12610",
+          "matched_name": "QADHAFI, Aisha Muammar Muhammed Abu Minyar",
+          "matched_on": "alias (aka)",
+          "primary_name": "QADHAFI, Ayesha",
+          "type": "individual",
+          "programs": [
+            "LIBYA2"
+          ],
+          "dob": [
+            "1977",
+            "1976",
+            "01 Jan 1978"
+          ],
+          "pob": [
+            "Tripoli, Libya"
+          ],
+          "nationality": [],
+          "address_countries": [
+            "Oman"
+          ],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'QADHAFI, Aisha Muammar Muhammed Abu Minyar', not only the primary name",
+            "Customer name: Joined kunya 'abu minyar' -> 'abuminyar'",
+            "Customer name: Ignored name particles: el",
+            "Customer name: 'moammar' treated as transliteration variant of 'muammar'",
+            "Customer name: 'gaddafi' treated as transliteration variant of 'qadhafi'",
+            "List name: Joined kunya 'abu minyar' -> 'abuminyar'",
+            "List name: 'muhammed' treated as transliteration variant of 'muhammad'",
+            "List name has additional name parts: aisha, muhammad"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1942 vs list 1977; 1976; 01 Jan 1978",
+            "Nationality/country consistent (Libya)"
+          ],
+          "score_components": {
+            "token_sort": 76.9,
+            "jaro_winkler": 86.9,
+            "token_align": 88.0,
+            "phonetic": 76.5,
+            "subset": 94.0
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C002",
+        "name": "Usama bin Muhammad bin Laden",
+        "type": "individual",
+        "dob": "1957-07-30",
+        "nationality": "Saudi Arabia",
+        "owners": "",
+        "expected": "sdn",
+        "scenario": "Listed person - Laden vs LADIN and bin particles"
+      },
+      "normalized_name": "usama muhammad laden",
+      "disposition": "True Match",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 95.0,
+          "disposition": "True Match",
+          "disposition_reason": "Strong name match confirmed by exact date of birth - block/reject and report",
+          "list": "SDN",
+          "uid": "SDN-6365",
+          "matched_name": "BIN LADEN, Osama",
+          "matched_on": "alias (aka)",
+          "primary_name": "BIN LADIN, Usama bin Muhammad bin Awad",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "30 Jul 1957",
+            "1958"
+          ],
+          "pob": [
+            "Jeddah, Saudi Arabia",
+            "Yemen"
+          ],
+          "nationality": [],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'BIN LADEN, Osama', not only the primary name",
+            "Customer name: Ignored name particles: bin",
+            "List name: 'osama' treated as transliteration variant of 'usama'"
+          ],
+          "secondary_checks": [
+            "DOB exact match (1957-07-30)",
+            "Nationality/country consistent (Saudi Arabia)"
+          ],
+          "score_components": {
+            "token_sort": 71.0,
+            "jaro_winkler": 87.4,
+            "token_align": 90.0,
+            "phonetic": 73.7,
+            "subset": 95.0
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C003",
+        "name": "Bashar Hafez al-Assad",
+        "type": "individual",
+        "dob": "1965-09-11",
+        "nationality": "Syria",
+        "owners": "",
+        "expected": "sdn",
+        "scenario": "Listed person - extra patronymic not on list"
+      },
+      "normalized_name": "bashar hafiz asad",
+      "disposition": "True Match",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 100.0,
+          "disposition": "True Match",
+          "disposition_reason": "Strong name match confirmed by exact date of birth - block/reject and report",
+          "list": "SDN",
+          "uid": "SDN-12735",
+          "matched_name": "AL ASSAD, Bashar Hafez",
+          "matched_on": "alias (aka)",
+          "primary_name": "AL-ASSAD, Bashar",
+          "type": "individual",
+          "programs": [
+            "PAARSSR-EO13894"
+          ],
+          "dob": [
+            "11 Sep 1965"
+          ],
+          "pob": [
+            "Damascus, Syria"
+          ],
+          "nationality": [
+            "Syria"
+          ],
+          "address_countries": [
+            "Syria"
+          ],
+          "title": "President of the Syrian Arab Republic",
+          "reasons": [
+            "Matched list alias (aka) 'AL ASSAD, Bashar Hafez', not only the primary name",
+            "Identical after normalisation",
+            "Customer name: Ignored name particles: al",
+            "Customer name: 'hafez' treated as transliteration variant of 'hafiz'",
+            "Customer name: 'assad' treated as transliteration variant of 'asad'",
+            "List name: 'hafez' treated as transliteration variant of 'hafiz'",
+            "List name: 'assad' treated as transliteration variant of 'asad'"
+          ],
+          "secondary_checks": [
+            "DOB exact match (1965-09-11)",
+            "Nationality/country consistent (Syria)"
+          ],
+          "score_components": {
+            "token_sort": 100,
+            "jaro_winkler": 100,
+            "token_align": 100,
+            "phonetic": 100
+          }
+        },
+        {
+          "score": 95.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-29279",
+          "matched_name": "AL-ASSAD, Hafez",
+          "matched_on": "primary name",
+          "primary_name": "AL-ASSAD, Hafez",
+          "type": "individual",
+          "programs": [
+            "PAARSSR-EO13894"
+          ],
+          "dob": [
+            "04 Dec 2001"
+          ],
+          "pob": [
+            "Damascus, Syria"
+          ],
+          "nationality": [
+            "Syria"
+          ],
+          "address_countries": [
+            "Syria"
+          ],
+          "title": "",
+          "reasons": [
+            "Customer name: Ignored name particles: al",
+            "Customer name: 'hafez' treated as transliteration variant of 'hafiz'",
+            "Customer name: 'assad' treated as transliteration variant of 'asad'",
+            "List name: 'hafez' treated as transliteration variant of 'hafiz'",
+            "List name: 'assad' treated as transliteration variant of 'asad'"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1965 vs list 04 Dec 2001",
+            "Nationality/country consistent (Syria)"
+          ],
+          "score_components": {
+            "token_sort": 74.1,
+            "jaro_winkler": 89.8,
+            "token_align": 90.0,
+            "phonetic": 77.8,
+            "subset": 95.0
+          }
+        },
+        {
+          "score": 89.3,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-29072",
+          "matched_name": "AL-ASSAD, Bushra",
+          "matched_on": "primary name",
+          "primary_name": "AL-ASSAD, Bushra",
+          "type": "individual",
+          "programs": [
+            "PAARSSR-EO13894"
+          ],
+          "dob": [
+            "24 Oct 1960"
+          ],
+          "pob": [
+            "Egypt"
+          ],
+          "nationality": [
+            "Syria"
+          ],
+          "address_countries": [
+            "United Arab Emirates"
+          ],
+          "title": "",
+          "reasons": [
+            "'bushra' ~ 'bashar' sound alike (skeleton match), 88%",
+            "Customer name: Ignored name particles: al",
+            "Customer name: 'hafez' treated as transliteration variant of 'hafiz'",
+            "Customer name: 'assad' treated as transliteration variant of 'asad'",
+            "List name: 'assad' treated as transliteration variant of 'asad'"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1965 vs list 24 Oct 1960",
+            "Nationality/country consistent (Syria)"
+          ],
+          "score_components": {
+            "token_sort": 71.4,
+            "jaro_winkler": 85.9,
+            "token_align": 84.6,
+            "phonetic": 77.8,
+            "subset": 89.3
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C004",
+        "name": "Sayyed Hassan Nasrullah",
+        "type": "individual",
+        "dob": "1960-08-31",
+        "nationality": "Lebanon",
+        "owners": "",
+        "expected": "sdn",
+        "scenario": "Listed person - honorific + Hassan/Hasan + Nasrullah/Nasrallah"
+      },
+      "normalized_name": "hasan nasrallah",
+      "disposition": "True Match",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 100.0,
+          "disposition": "True Match",
+          "disposition_reason": "Strong name match confirmed by exact date of birth - block/reject and report",
+          "list": "SDN",
+          "uid": "SDN-2686",
+          "matched_name": "NASRALLAH, Hasan",
+          "matched_on": "primary name",
+          "primary_name": "NASRALLAH, Hasan",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "31 Aug 1960",
+            "31 Aug 1953",
+            "31 Aug 1955",
+            "31 Aug 1958"
+          ],
+          "pob": [
+            "Al Basuriyah, Lebanon"
+          ],
+          "nationality": [],
+          "address_countries": [
+            "Lebanon"
+          ],
+          "title": "Secretary General of Hizballah",
+          "reasons": [
+            "Identical after normalisation",
+            "Customer name: Removed title/honorific: sayyed",
+            "Customer name: 'hassan' treated as transliteration variant of 'hasan'",
+            "Customer name: 'nasrullah' treated as transliteration variant of 'nasrallah'"
+          ],
+          "secondary_checks": [
+            "DOB exact match (1960-08-31)",
+            "Nationality/country consistent (Lebanon)"
+          ],
+          "score_components": {
+            "token_sort": 100,
+            "jaro_winkler": 100,
+            "token_align": 100,
+            "phonetic": 100
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C005",
+        "name": "Qassem Suleimani",
+        "type": "individual",
+        "dob": "1957-03-11",
+        "nationality": "Iran",
+        "owners": "",
+        "expected": "sdn",
+        "scenario": "Listed person - Qassem/Qasem and Suleimani/Soleimani"
+      },
+      "normalized_name": "qasim suleimani",
+      "disposition": "True Match",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 97.1,
+          "disposition": "True Match",
+          "disposition_reason": "Strong name match confirmed by exact date of birth - block/reject and report",
+          "list": "SDN",
+          "uid": "SDN-10481",
+          "matched_name": "SULEMANI, Qasem",
+          "matched_on": "alias (aka)",
+          "primary_name": "SOLEIMANI, Qasem",
+          "type": "individual",
+          "programs": [
+            "SDGT",
+            "NPWMD",
+            "IRGC",
+            "IFSR"
+          ],
+          "dob": [
+            "11 Mar 1957"
+          ],
+          "pob": [
+            "Qom, Iran"
+          ],
+          "nationality": [
+            "Iran"
+          ],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'SULEMANI, Qasem', not only the primary name",
+            "'suleimani' ~ 'sulemani' sound alike (skeleton match), 94%",
+            "Customer name: 'qassem' treated as transliteration variant of 'qasim'",
+            "List name: 'qasem' treated as transliteration variant of 'qasim'"
+          ],
+          "secondary_checks": [
+            "DOB exact match (1957-03-11)",
+            "Nationality/country consistent (Iran)"
+          ],
+          "score_components": {
+            "token_sort": 96.6,
+            "jaro_winkler": 95.8,
+            "token_align": 97.1,
+            "phonetic": 100.0,
+            "subset": 97.1
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C006",
+        "name": "Saif el-Islam Gadhafi",
+        "type": "individual",
+        "dob": "1972-06-25",
+        "nationality": "Libya",
+        "owners": "",
+        "expected": "sdn",
+        "scenario": "Listed person - compound first name + el- article"
+      },
+      "normalized_name": "saif islam qadhafi",
+      "disposition": "True Match",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 100.0,
+          "disposition": "True Match",
+          "disposition_reason": "Strong name match confirmed by exact date of birth - block/reject and report",
+          "list": "SDN",
+          "uid": "SDN-12608",
+          "matched_name": "QADHAFI, Saif al-Islam",
+          "matched_on": "primary name",
+          "primary_name": "QADHAFI, Saif al-Islam",
+          "type": "individual",
+          "programs": [
+            "LIBYA2"
+          ],
+          "dob": [
+            "25 Jun 1972"
+          ],
+          "pob": [
+            "Tripoli, Libya"
+          ],
+          "nationality": [],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "Identical after normalisation",
+            "Customer name: Ignored name particles: el",
+            "Customer name: 'gadhafi' treated as transliteration variant of 'qadhafi'"
+          ],
+          "secondary_checks": [
+            "DOB exact match (1972-06-25)",
+            "Nationality/country consistent (Libya)"
+          ],
+          "score_components": {
+            "token_sort": 100,
+            "jaro_winkler": 100,
+            "token_align": 100,
+            "phonetic": 100
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C007",
+        "name": "Rami Makhlouf",
+        "type": "individual",
+        "dob": "1969-07-10",
+        "nationality": "Syria",
+        "owners": "",
+        "expected": "sdn",
+        "scenario": "Listed person - Makhlouf vs MAKHLUF"
+      },
+      "normalized_name": "rami makhluf",
+      "disposition": "True Match",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 100.0,
+          "disposition": "True Match",
+          "disposition_reason": "Strong name match confirmed by exact date of birth - block/reject and report",
+          "list": "SDN",
+          "uid": "SDN-10725",
+          "matched_name": "MAKHLUF, Rami",
+          "matched_on": "primary name",
+          "primary_name": "MAKHLUF, Rami",
+          "type": "individual",
+          "programs": [
+            "PAARSSR-EO13894"
+          ],
+          "dob": [
+            "10 Jul 1969"
+          ],
+          "pob": [
+            "Syria"
+          ],
+          "nationality": [
+            "Syria"
+          ],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "Identical after normalisation",
+            "Customer name: 'makhlouf' treated as transliteration variant of 'makhluf'"
+          ],
+          "secondary_checks": [
+            "DOB exact match (1969-07-10)",
+            "Nationality/country consistent (Syria)"
+          ],
+          "score_components": {
+            "token_sort": 100,
+            "jaro_winkler": 100,
+            "token_align": 100,
+            "phonetic": 100
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C008",
+        "name": "Ali Abdallah Salih",
+        "type": "individual",
+        "dob": "1945-03-21",
+        "nationality": "Yemen",
+        "owners": "",
+        "expected": "sdn",
+        "scenario": "Listed person - Abdallah/Abdullah and Salih/Saleh"
+      },
+      "normalized_name": "ali abdallah salih",
+      "disposition": "True Match",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 100.0,
+          "disposition": "True Match",
+          "disposition_reason": "Strong name match confirmed by exact date of birth - block/reject and report",
+          "list": "SDN",
+          "uid": "SDN-17387",
+          "matched_name": "SALEH, Ali Abdullah",
+          "matched_on": "primary name",
+          "primary_name": "SALEH, Ali Abdullah",
+          "type": "individual",
+          "programs": [
+            "YEMEN"
+          ],
+          "dob": [
+            "21 Mar 1945",
+            "21 Mar 1946",
+            "21 Mar 1942",
+            "21 Mar 1947"
+          ],
+          "pob": [
+            "Bayt al-Ahmar, Sana'a Governorate, Yemen",
+            "Sana'a, Yemen"
+          ],
+          "nationality": [
+            "Yemen"
+          ],
+          "address_countries": [],
+          "title": "President of Yemen's General People's Congress party; Former President of the Republic of Yemen",
+          "reasons": [
+            "Identical after normalisation",
+            "List name: 'abdullah' treated as transliteration variant of 'abdallah'",
+            "List name: 'saleh' treated as transliteration variant of 'salih'"
+          ],
+          "secondary_checks": [
+            "DOB exact match (1945-03-21)",
+            "Nationality/country consistent (Yemen)"
+          ],
+          "score_components": {
+            "token_sort": 100,
+            "jaro_winkler": 100,
+            "token_align": 100,
+            "phonetic": 100
+          }
+        },
+        {
+          "score": 96.2,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-17928",
+          "matched_name": "SALEH, Ahmed Ali Abdullah",
+          "matched_on": "alias (aka)",
+          "primary_name": "SALEH, Ahmed Ali",
+          "type": "individual",
+          "programs": [
+            "YEMEN"
+          ],
+          "dob": [
+            "25 Jul 1972",
+            "1970"
+          ],
+          "pob": [
+            "Sana'a, Yemen"
+          ],
+          "nationality": [
+            "Yemen"
+          ],
+          "address_countries": [],
+          "title": "Yemen's former Ambassador to the United Arab Emirates; Former Commander of Yemen's Republican Guard",
+          "reasons": [
+            "Matched list alias (aka) 'SALEH, Ahmed Ali Abdullah', not only the primary name",
+            "List name: 'ahmed' treated as transliteration variant of 'ahmad'",
+            "List name: 'abdullah' treated as transliteration variant of 'abdallah'",
+            "List name: 'saleh' treated as transliteration variant of 'salih'",
+            "List name has additional name parts: ahmad"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1945 vs list 25 Jul 1972; 1970",
+            "Nationality/country consistent (Yemen)"
+          ],
+          "score_components": {
+            "token_sort": 85.7,
+            "jaro_winkler": 91.7,
+            "token_align": 92.5,
+            "phonetic": 80.0,
+            "subset": 96.2
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C009",
+        "name": "Mousa Mohamed Abu Marzouk",
+        "type": "individual",
+        "dob": "1951-02-09",
+        "nationality": "",
+        "owners": "",
+        "expected": "sdn",
+        "scenario": "Listed person - four transliteration differences"
+      },
+      "normalized_name": "musa muhammad abumarzouk",
+      "disposition": "True Match",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 96.7,
+          "disposition": "True Match",
+          "disposition_reason": "Strong name match confirmed by exact date of birth - block/reject and report",
+          "list": "SDN",
+          "uid": "SDN-3754",
+          "matched_name": "ABU MARZOOK, Mousa Mohammed",
+          "matched_on": "primary name",
+          "primary_name": "ABU MARZOOK, Mousa Mohammed",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "09 Feb 1951"
+          ],
+          "pob": [
+            "Gaza, Egypt"
+          ],
+          "nationality": [],
+          "address_countries": [],
+          "title": "Political Leader in Amman, Jordan and Damascus, Syria for HAMAS",
+          "reasons": [
+            "'abumarzouk' ~ 'abumarzook' sound alike (skeleton match), 90%",
+            "Customer name: Joined kunya 'abu marzouk' -> 'abumarzouk'",
+            "Customer name: 'mousa' treated as transliteration variant of 'musa'",
+            "Customer name: 'mohamed' treated as transliteration variant of 'muhammad'",
+            "List name: Joined kunya 'abu marzook' -> 'abumarzook'",
+            "List name: 'mousa' treated as transliteration variant of 'musa'",
+            "List name: 'mohammed' treated as transliteration variant of 'muhammad'"
+          ],
+          "secondary_checks": [
+            "DOB exact match (1951-02-09)"
+          ],
+          "score_components": {
+            "token_sort": 95.8,
+            "jaro_winkler": 93.1,
+            "token_align": 96.7,
+            "phonetic": 100.0,
+            "subset": 96.7
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C010",
+        "name": "معمر القذافي",
+        "type": "individual",
+        "dob": "1942",
+        "nationality": "Libya",
+        "owners": "",
+        "expected": "sdn",
+        "scenario": "Listed person - name supplied in Arabic script"
+      },
+      "normalized_name": "muammar qadhafi",
+      "disposition": "True Match",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 100.0,
+          "disposition": "True Match",
+          "disposition_reason": "Strong name match, birth year and nationality consistent - block/reject and report",
+          "list": "SDN",
+          "uid": "SDN-12606",
+          "matched_name": "QADHAFI, Muammar",
+          "matched_on": "primary name",
+          "primary_name": "QADHAFI, Muammar",
+          "type": "individual",
+          "programs": [
+            "LIBYA2"
+          ],
+          "dob": [
+            "1942"
+          ],
+          "pob": [
+            "Sirte, Libya"
+          ],
+          "nationality": [],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "Identical after normalisation",
+            "Customer name: Arabic script transliterated to 'muammar qadhafi'"
+          ],
+          "secondary_checks": [
+            "DOB year match only (1942; list: 1942) - obtain full DOB / ID document",
+            "Nationality/country consistent (Libya)"
+          ],
+          "score_components": {
+            "token_sort": 100,
+            "jaro_winkler": 100,
+            "token_align": 100,
+            "phonetic": 100
+          }
+        },
+        {
+          "score": 95.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-12627",
+          "matched_name": "QADHAFI, Hannibal Muammar",
+          "matched_on": "alias (aka)",
+          "primary_name": "GADDAFI, Hannibal",
+          "type": "individual",
+          "programs": [
+            "LIBYA2"
+          ],
+          "dob": [
+            "20 Sep 1975",
+            "1977"
+          ],
+          "pob": [
+            "Tripoli, Libya"
+          ],
+          "nationality": [],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'QADHAFI, Hannibal Muammar', not only the primary name",
+            "Customer name: Arabic script transliterated to 'muammar qadhafi'",
+            "List name has additional name parts: hannibal"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1942 vs list 20 Sep 1975; 1977",
+            "Nationality/country consistent (Libya)"
+          ],
+          "score_components": {
+            "token_sort": 76.9,
+            "jaro_winkler": 71.9,
+            "token_align": 90.0,
+            "phonetic": 73.7,
+            "subset": 95.0
+          }
+        },
+        {
+          "score": 95.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-12628",
+          "matched_name": "QADHAFI, Mohammed Muammar",
+          "matched_on": "alias (aka)",
+          "primary_name": "GADDAFI, Muhammad",
+          "type": "individual",
+          "programs": [
+            "LIBYA2"
+          ],
+          "dob": [
+            "1970"
+          ],
+          "pob": [
+            "Tripoli, Libya"
+          ],
+          "nationality": [],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'QADHAFI, Mohammed Muammar', not only the primary name",
+            "Customer name: Arabic script transliterated to 'muammar qadhafi'",
+            "List name: 'mohammed' treated as transliteration variant of 'muhammad'",
+            "List name has additional name parts: muhammad"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1942 vs list 1970",
+            "Nationality/country consistent (Libya)"
+          ],
+          "score_components": {
+            "token_sort": 76.9,
+            "jaro_winkler": 89.8,
+            "token_align": 90.0,
+            "phonetic": 73.7,
+            "subset": 95.0
+          }
+        },
+        {
+          "score": 95.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-12629",
+          "matched_name": "AL-QADHAFI, Sa'adi Mu'ammar",
+          "matched_on": "alias (aka)",
+          "primary_name": "GADDAFI, Saadi",
+          "type": "individual",
+          "programs": [
+            "LIBYA2"
+          ],
+          "dob": [
+            "27 May 1973",
+            "25 May 1973"
+          ],
+          "pob": [
+            "Tripoli, Libya"
+          ],
+          "nationality": [],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'AL-QADHAFI, Sa'adi Mu'ammar', not only the primary name",
+            "Customer name: Arabic script transliterated to 'muammar qadhafi'",
+            "List name has additional name parts: saadi"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1942 vs list 27 May 1973; 25 May 1973",
+            "Nationality/country consistent (Libya)"
+          ],
+          "score_components": {
+            "token_sort": 83.3,
+            "jaro_winkler": 94.3,
+            "token_align": 90.0,
+            "phonetic": 82.4,
+            "subset": 95.0
+          }
+        },
+        {
+          "score": 91.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-12610",
+          "matched_name": "QADHAFI, Aisha Muammar Muhammed Abu Minyar",
+          "matched_on": "alias (aka)",
+          "primary_name": "QADHAFI, Ayesha",
+          "type": "individual",
+          "programs": [
+            "LIBYA2"
+          ],
+          "dob": [
+            "1977",
+            "1976",
+            "01 Jan 1978"
+          ],
+          "pob": [
+            "Tripoli, Libya"
+          ],
+          "nationality": [],
+          "address_countries": [
+            "Oman"
+          ],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'QADHAFI, Aisha Muammar Muhammed Abu Minyar', not only the primary name",
+            "Customer name: Arabic script transliterated to 'muammar qadhafi'",
+            "List name: Joined kunya 'abu minyar' -> 'abuminyar'",
+            "List name: 'muhammed' treated as transliteration variant of 'muhammad'",
+            "List name has additional name parts: abuminyar, aisha, muhammad"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1942 vs list 1977; 1976; 01 Jan 1978",
+            "Nationality/country consistent (Libya)"
+          ],
+          "score_components": {
+            "token_sort": 54.5,
+            "jaro_winkler": 56.1,
+            "token_align": 82.0,
+            "phonetic": 50.0,
+            "subset": 91.0
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C011",
+        "name": "أسامة بن لادن",
+        "type": "individual",
+        "dob": "",
+        "nationality": "",
+        "owners": "",
+        "expected": "sdn",
+        "scenario": "Listed person - Arabic script and no DOB on file"
+      },
+      "normalized_name": "usama ladin",
+      "disposition": "Potential Match - escalate",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 100.0,
+          "disposition": "Potential Match - escalate",
+          "disposition_reason": "Name match not resolved by secondary identifiers - analyst review required",
+          "list": "SDN",
+          "uid": "SDN-6365",
+          "matched_name": "BIN LADIN, Osama",
+          "matched_on": "alias (aka)",
+          "primary_name": "BIN LADIN, Usama bin Muhammad bin Awad",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "30 Jul 1957",
+            "1958"
+          ],
+          "pob": [
+            "Jeddah, Saudi Arabia",
+            "Yemen"
+          ],
+          "nationality": [],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'BIN LADIN, Osama', not only the primary name",
+            "Identical after normalisation",
+            "Customer name: Arabic script transliterated to 'usama bin ladin'",
+            "Customer name: Ignored name particles: bin",
+            "List name: 'osama' treated as transliteration variant of 'usama'"
+          ],
+          "secondary_checks": [
+            "Customer DOB missing - request it (list DOB: 30 Jul 1957; 1958)"
+          ],
+          "score_components": {
+            "token_sort": 100,
+            "jaro_winkler": 100,
+            "token_align": 100,
+            "phonetic": 100
+          }
+        },
+        {
+          "score": 89.3,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but entity type differs (individual vs entity/vessel)",
+          "list": "SDN",
+          "uid": "SDN-6366",
+          "matched_name": "USAMA BIN LADEN ORGANIZATION",
+          "matched_on": "alias (aka)",
+          "primary_name": "AL QA'IDA",
+          "type": "entity",
+          "programs": [
+            "FTO",
+            "SDGT"
+          ],
+          "dob": [],
+          "pob": [],
+          "nationality": [],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'USAMA BIN LADEN ORGANIZATION', not only the primary name",
+            "'ladin' ~ 'laden' sound alike (skeleton match), 88%",
+            "Customer name: Arabic script transliterated to 'usama bin ladin'",
+            "Customer name: Ignored name particles: bin",
+            "List name has additional name parts: laden, organization"
+          ],
+          "secondary_checks": [
+            "Type mismatch: customer is an individual, list entry is an entity"
+          ],
+          "score_components": {
+            "token_sort": 62.9,
+            "jaro_winkler": 60.4,
+            "token_align": 84.6,
+            "phonetic": 63.6,
+            "subset": 89.3
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C012",
+        "name": "Bank Melli Iran",
+        "type": "entity",
+        "dob": "",
+        "nationality": "Iran",
+        "owners": "",
+        "expected": "sdn",
+        "scenario": "Listed entity - exact name"
+      },
+      "normalized_name": "bank melli iran",
+      "disposition": "True Match",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 100.0,
+          "disposition": "True Match",
+          "disposition_reason": "Near-exact name and matching nationality; list has no DOB to compare",
+          "list": "SDN",
+          "uid": "SDN-25578",
+          "matched_name": "BANK MELLI IRAN",
+          "matched_on": "primary name",
+          "primary_name": "BANK MELLI IRAN",
+          "type": "entity",
+          "programs": [
+            "IRAN",
+            "SDGT",
+            "IFSR"
+          ],
+          "dob": [],
+          "pob": [],
+          "nationality": [],
+          "address_countries": [
+            "Iran",
+            "France",
+            "Hong Kong",
+            "Iraq",
+            "Oman",
+            "United Arab Emirates",
+            "Germany",
+            "Azerbaijan",
+            "United Kingdom",
+            "United States"
+          ],
+          "title": "",
+          "reasons": [
+            "Identical after normalisation"
+          ],
+          "secondary_checks": [
+            "Nationality/country consistent (Iran)"
+          ],
+          "score_components": {
+            "token_sort": 100,
+            "jaro_winkler": 100,
+            "token_align": 100,
+            "phonetic": 100
+          }
+        },
+        {
+          "score": 100.0,
+          "disposition": "Potential Match - escalate",
+          "disposition_reason": "Name match not resolved by secondary identifiers - analyst review required",
+          "list": "SDN",
+          "uid": "SDN-25419",
+          "matched_name": "BANK MELLI IRAN ZAO",
+          "matched_on": "alias (aka)",
+          "primary_name": "MB BANK",
+          "type": "entity",
+          "programs": [
+            "SDGT",
+            "IFSR",
+            "RUSSIA-EO14024"
+          ],
+          "dob": [],
+          "pob": [],
+          "nationality": [],
+          "address_countries": [
+            "Russia"
+          ],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'BANK MELLI IRAN ZAO', not only the primary name",
+            "Identical after normalisation"
+          ],
+          "secondary_checks": [
+            "Nationality differs: customer Iran vs list russia (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 100,
+            "jaro_winkler": 100,
+            "token_align": 100,
+            "phonetic": 100
+          }
+        },
+        {
+          "score": 100.0,
+          "disposition": "True Match",
+          "disposition_reason": "Near-exact name and matching nationality; list has no DOB to compare",
+          "list": "SDN",
+          "uid": "SDN-25421",
+          "matched_name": "IRAN MELLI BANK INVESTMENT COMPANY",
+          "matched_on": "alias (aka)",
+          "primary_name": "TOSE-E MELLI GROUP INVESTMENT COMPANY",
+          "type": "entity",
+          "programs": [
+            "SDGT",
+            "IFSR"
+          ],
+          "dob": [],
+          "pob": [],
+          "nationality": [],
+          "address_countries": [
+            "Iran"
+          ],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'IRAN MELLI BANK INVESTMENT COMPANY', not only the primary name",
+            "Identical after normalisation (word order differs)"
+          ],
+          "secondary_checks": [
+            "Nationality/country consistent (Iran)"
+          ],
+          "score_components": {
+            "token_sort": 100,
+            "jaro_winkler": 100,
+            "token_align": 100,
+            "phonetic": 100
+          }
+        },
+        {
+          "score": 95.0,
+          "disposition": "Potential Match - escalate",
+          "disposition_reason": "Name match not resolved by secondary identifiers - analyst review required",
+          "list": "SDN",
+          "uid": "SDN-25420",
+          "matched_name": "MELLI BANK PLC",
+          "matched_on": "primary name",
+          "primary_name": "MELLI BANK PLC",
+          "type": "entity",
+          "programs": [
+            "SDGT",
+            "IFSR"
+          ],
+          "dob": [],
+          "pob": [],
+          "nationality": [],
+          "address_countries": [
+            "United Kingdom",
+            "Hong Kong",
+            "Iran"
+          ],
+          "title": "",
+          "reasons": [],
+          "secondary_checks": [
+            "Nationality/country consistent (Iran)"
+          ],
+          "score_components": {
+            "token_sort": 80.0,
+            "jaro_winkler": 89.3,
+            "token_align": 90.0,
+            "phonetic": 75.0,
+            "subset": 95.0
+          }
+        },
+        {
+          "score": 95.0,
+          "disposition": "Potential Match - escalate",
+          "disposition_reason": "Name match not resolved by secondary identifiers - analyst review required",
+          "list": "SDN",
+          "uid": "SDN-10368",
+          "matched_name": "IRAN EXPORT BANK",
+          "matched_on": "alias (aka)",
+          "primary_name": "BANK SADERAT IRAN",
+          "type": "entity",
+          "programs": [
+            "IRAN",
+            "SDGT",
+            "IFSR"
+          ],
+          "dob": [],
+          "pob": [],
+          "nationality": [],
+          "address_countries": [
+            "Iran",
+            "France",
+            "Germany",
+            "Greece",
+            "Lebanon",
+            "Oman",
+            "Qatar",
+            "Turkmenistan",
+            "United Arab Emirates",
+            "Afghanistan",
+            "United Kingdom"
+          ],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'IRAN EXPORT BANK', not only the primary name"
+          ],
+          "secondary_checks": [
+            "Nationality/country consistent (Iran)"
+          ],
+          "score_components": {
+            "token_sort": 75.0,
+            "jaro_winkler": 92.0,
+            "token_align": 90.0,
+            "phonetic": 82.4,
+            "subset": 95.0
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C013",
+        "name": "Al-Qard Al-Hasan Association",
+        "type": "entity",
+        "dob": "",
+        "nationality": "Lebanon",
+        "owners": "",
+        "expected": "sdn",
+        "scenario": "Listed entity - Hasan vs HASSAN"
+      },
+      "normalized_name": "qard hasan association",
+      "disposition": "True Match",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 100.0,
+          "disposition": "True Match",
+          "disposition_reason": "Near-exact name and matching nationality; list has no DOB to compare",
+          "list": "SDN",
+          "uid": "SDN-10416",
+          "matched_name": "AL-QARD AL-HASSAN ASSOCIATION",
+          "matched_on": "primary name",
+          "primary_name": "AL-QARD AL-HASSAN ASSOCIATION",
+          "type": "entity",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [],
+          "pob": [],
+          "nationality": [],
+          "address_countries": [
+            "Lebanon"
+          ],
+          "title": "",
+          "reasons": [
+            "Identical after normalisation",
+            "Customer name: Ignored name particles: al",
+            "List name: 'hassan' treated as transliteration variant of 'hasan'"
+          ],
+          "secondary_checks": [
+            "Nationality/country consistent (Lebanon)"
+          ],
+          "score_components": {
+            "token_sort": 100,
+            "jaro_winkler": 100,
+            "token_align": 100,
+            "phonetic": 100
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C014",
+        "name": "Oleg V. Deripaska",
+        "type": "individual",
+        "dob": "1968-01-02",
+        "nationality": "Russia",
+        "owners": "",
+        "expected": "sdn",
+        "scenario": "Listed person - middle initial only"
+      },
+      "normalized_name": "oleg v deripaska",
+      "disposition": "True Match",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 95.0,
+          "disposition": "True Match",
+          "disposition_reason": "Strong name match confirmed by exact date of birth - block/reject and report",
+          "list": "SDN",
+          "uid": "SDN-24283",
+          "matched_name": "DERIPASKA, Oleg Vladimirovich",
+          "matched_on": "primary name",
+          "primary_name": "DERIPASKA, Oleg Vladimirovich",
+          "type": "individual",
+          "programs": [
+            "UKRAINE-EO13661",
+            "UKRAINE-EO13662"
+          ],
+          "dob": [
+            "02 Jan 1968"
+          ],
+          "pob": [
+            "Dzerzhinsk, Nizhny Novgorod Region, Russia"
+          ],
+          "nationality": [
+            "Cyprus",
+            "Russia"
+          ],
+          "address_countries": [
+            "Russia",
+            "United Kingdom"
+          ],
+          "title": "",
+          "reasons": [
+            "Initial 'v' consistent with 'vladimirovich'"
+          ],
+          "secondary_checks": [
+            "DOB exact match (1968-01-02)",
+            "Nationality/country consistent (Russia)"
+          ],
+          "score_components": {
+            "token_sort": 72.7,
+            "jaro_winkler": 91.4,
+            "token_align": 95.0,
+            "phonetic": 78.6,
+            "subset": 95.0
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C015",
+        "name": "Levant Horizon Trading FZE",
+        "type": "entity",
+        "dob": "",
+        "nationality": "United Arab Emirates",
+        "owners": "Rami Makhluf|35;Iyad Makhlouf|20;Karim Haddad|45",
+        "expected": "sdn",
+        "scenario": "Unlisted company 55% owned by SDNs - blocked under the 50% Rule"
+      },
+      "normalized_name": "levant horizon",
+      "disposition": "Potential Match - escalate",
+      "ownership_note": "50% Rule: aggregate ownership by possible SDNs is 55% - if confirmed, the entity is itself BLOCKED even though it is not named on the list. Owners flagged: Rami Makhluf (35%) ~ MAKHLUF, Rami [PAARSSR-EO13894] score 100; Iyad Makhlouf (20%) ~ MAKHLUF, Iyad [PAARSSR-EO13894] score 100",
+      "hits": []
+    },
+    {
+      "customer": {
+        "customer_id": "C016",
+        "name": "Mahan Air Co",
+        "type": "entity",
+        "dob": "",
+        "nationality": "Iran",
+        "owners": "",
+        "expected": "sdn",
+        "scenario": "Listed entity - alias with legal form"
+      },
+      "normalized_name": "mahan air",
+      "disposition": "True Match",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 100.0,
+          "disposition": "True Match",
+          "disposition_reason": "Near-exact name and matching nationality; list has no DOB to compare",
+          "list": "SDN",
+          "uid": "SDN-12927",
+          "matched_name": "MAHAN AIR",
+          "matched_on": "primary name",
+          "primary_name": "MAHAN AIR",
+          "type": "entity",
+          "programs": [
+            "SDGT",
+            "NPWMD",
+            "IFSR"
+          ],
+          "dob": [],
+          "pob": [],
+          "nationality": [],
+          "address_countries": [
+            "Iran"
+          ],
+          "title": "",
+          "reasons": [
+            "Identical after normalisation",
+            "Customer name: Ignored legal-form / generic words: co"
+          ],
+          "secondary_checks": [
+            "Nationality/country consistent (Iran)"
+          ],
+          "score_components": {
+            "token_sort": 100,
+            "jaro_winkler": 100,
+            "token_align": 100,
+            "phonetic": 100
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C017",
+        "name": "Sheikh Mohamed Ali Hassan",
+        "type": "individual",
+        "dob": "1990-04-12",
+        "nationality": "Egypt",
+        "owners": "",
+        "expected": "near_miss",
+        "scenario": "Very common name shared with several SDN aliases; DOB differs"
+      },
+      "normalized_name": "muhammad ali hasan",
+      "disposition": "False Positive",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 96.2,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-46231",
+          "matched_name": "AL-WARDIAN, Hassan Muhammad 'Ali",
+          "matched_on": "alias (aka)",
+          "primary_name": "AL-WARDIAN, Hassan",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "28 Dec 1954"
+          ],
+          "pob": [
+            "Bethlehem, West Bank"
+          ],
+          "nationality": [
+            "Palestinian"
+          ],
+          "address_countries": [
+            "Region: West Bank"
+          ],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'AL-WARDIAN, Hassan Muhammad 'Ali', not only the primary name",
+            "Customer name: Removed title/honorific: sheikh",
+            "Customer name: 'mohamed' treated as transliteration variant of 'muhammad'",
+            "Customer name: 'hassan' treated as transliteration variant of 'hasan'",
+            "List name: 'hassan' treated as transliteration variant of 'hasan'",
+            "List name has additional name parts: wardian"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1990 vs list 28 Dec 1954",
+            "Nationality differs: customer Egypt vs list palestinian, region: west bank, west bank (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 81.8,
+            "jaro_winkler": 93.8,
+            "token_align": 92.5,
+            "phonetic": 81.5,
+            "subset": 96.2
+          }
+        },
+        {
+          "score": 95.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-6924",
+          "matched_name": "ALI, Hassan",
+          "matched_on": "alias (aka)",
+          "primary_name": "FADHIL, Mustafa Mohamed",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "23 Jun 1976"
+          ],
+          "pob": [
+            "Cairo, Egypt"
+          ],
+          "nationality": [
+            "Egypt",
+            "Kenya"
+          ],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'ALI, Hassan', not only the primary name",
+            "Customer name: Removed title/honorific: sheikh",
+            "Customer name: 'mohamed' treated as transliteration variant of 'muhammad'",
+            "Customer name: 'hassan' treated as transliteration variant of 'hasan'",
+            "List name: 'hassan' treated as transliteration variant of 'hasan'"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1990 vs list 23 Jun 1976",
+            "Nationality/country consistent (Egypt)"
+          ],
+          "score_components": {
+            "token_sort": 66.7,
+            "jaro_winkler": 90.0,
+            "token_align": 90.0,
+            "phonetic": 70.6,
+            "subset": 95.0
+          }
+        },
+        {
+          "score": 95.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-7828",
+          "matched_name": "HASSAN, Mohamed",
+          "matched_on": "alias (aka)",
+          "primary_name": "AMDOUNI, Mehrez",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "18 Dec 1969",
+            "25 May 1968",
+            "18 Dec 1968",
+            "14 Jul 1969"
+          ],
+          "pob": [
+            "Tunis, Tunisia",
+            "Naples, Italy",
+            "Algeria"
+          ],
+          "nationality": [
+            "Tunisia"
+          ],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'HASSAN, Mohamed', not only the primary name",
+            "Customer name: Removed title/honorific: sheikh",
+            "Customer name: 'mohamed' treated as transliteration variant of 'muhammad'",
+            "Customer name: 'hassan' treated as transliteration variant of 'hasan'",
+            "List name: 'mohamed' treated as transliteration variant of 'muhammad'",
+            "List name: 'hassan' treated as transliteration variant of 'hasan'"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1990 vs list 18 Dec 1969; 25 May 1968; 18 Dec 1968; 14 Jul 1969",
+            "Nationality differs: customer Egypt vs list algeria, italy, tunisia (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 87.5,
+            "jaro_winkler": 80.7,
+            "token_align": 90.0,
+            "phonetic": 84.2,
+            "subset": 95.0
+          }
+        },
+        {
+          "score": 92.9,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-10051",
+          "matched_name": "KASSAN, Ali Mohamad",
+          "matched_on": "alias (aka)",
+          "primary_name": "KAZAN, Ali Muhammad",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "19 Dec 1967"
+          ],
+          "pob": [
+            "Taibe, Lebanon"
+          ],
+          "nationality": [
+            "Lebanon",
+            "Paraguay"
+          ],
+          "address_countries": [
+            "Brazil"
+          ],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'KASSAN, Ali Mohamad', not only the primary name",
+            "'hasan' ~ 'kassan' spelling similarity 77%",
+            "Customer name: Removed title/honorific: sheikh",
+            "Customer name: 'mohamed' treated as transliteration variant of 'muhammad'",
+            "Customer name: 'hassan' treated as transliteration variant of 'hasan'",
+            "List name: 'mohamad' treated as transliteration variant of 'muhammad'"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1990 vs list 19 Dec 1967",
+            "Nationality differs: customer Egypt vs list brazil, lebanon, paraguay (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 91.9,
+            "jaro_winkler": 96.8,
+            "token_align": 92.4,
+            "phonetic": 90.9
+          }
+        },
+        {
+          "score": 92.4,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-50957",
+          "matched_name": "HUSAYN, Ali Mohammad Ghulam",
+          "matched_on": "alias (aka)",
+          "primary_name": "AL ANSSARI, Ali Mohammed Ghulam Hussein",
+          "type": "individual",
+          "programs": [
+            "SDGT",
+            "IFSR"
+          ],
+          "dob": [
+            "21 Dec 1982"
+          ],
+          "pob": [],
+          "nationality": [
+            "Iraq"
+          ],
+          "address_countries": [
+            "United Kingdom",
+            "Iraq"
+          ],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'HUSAYN, Ali Mohammad Ghulam', not only the primary name",
+            "'hasan' ~ 'husayn' sound alike (skeleton match), 88%",
+            "Customer name: Removed title/honorific: sheikh",
+            "Customer name: 'mohamed' treated as transliteration variant of 'muhammad'",
+            "Customer name: 'hassan' treated as transliteration variant of 'hasan'",
+            "List name: 'mohammad' treated as transliteration variant of 'muhammad'",
+            "List name has additional name parts: ghulam, husayn"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1990 vs list 21 Dec 1982",
+            "Nationality differs: customer Egypt vs list iraq, united kingdom (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 81.8,
+            "jaro_winkler": 88.3,
+            "token_align": 88.8,
+            "phonetic": 84.6,
+            "subset": 92.4
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C018",
+        "name": "Ahmed Hussein",
+        "type": "individual",
+        "dob": "1985-06-01",
+        "nationality": "Iraq",
+        "owners": "",
+        "expected": "near_miss",
+        "scenario": "Common two-part name"
+      },
+      "normalized_name": "ahmad husayn",
+      "disposition": "Potential Match - escalate",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 95.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-8329",
+          "matched_name": "AL-KHODAIR, Ahmad Hussein",
+          "matched_on": "primary name",
+          "primary_name": "AL-KHODAIR, Ahmad Hussein",
+          "type": "individual",
+          "programs": [
+            "IRAQ2"
+          ],
+          "dob": [
+            "1941"
+          ],
+          "pob": [],
+          "nationality": [],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "Customer name: 'ahmed' treated as transliteration variant of 'ahmad'",
+            "Customer name: 'hussein' treated as transliteration variant of 'husayn'",
+            "List name: 'hussein' treated as transliteration variant of 'husayn'",
+            "List name has additional name parts: khodair"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1985 vs list 1941"
+          ],
+          "score_components": {
+            "token_sort": 75.0,
+            "jaro_winkler": 92.0,
+            "token_align": 90.0,
+            "phonetic": 80.0,
+            "subset": 95.0
+          }
+        },
+        {
+          "score": 95.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-42956",
+          "matched_name": "HUSSEIN, Ali Ahmed",
+          "matched_on": "primary name",
+          "primary_name": "HUSSEIN, Ali Ahmed",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "1980"
+          ],
+          "pob": [],
+          "nationality": [
+            "Somalia"
+          ],
+          "address_countries": [
+            "Somalia"
+          ],
+          "title": "",
+          "reasons": [
+            "Customer name: 'ahmed' treated as transliteration variant of 'ahmad'",
+            "Customer name: 'hussein' treated as transliteration variant of 'husayn'",
+            "List name: 'ahmed' treated as transliteration variant of 'ahmad'",
+            "List name: 'hussein' treated as transliteration variant of 'husayn'",
+            "List name has additional name parts: ali"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1985 vs list 1980",
+            "Nationality differs: customer Iraq vs list somalia (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 85.7,
+            "jaro_winkler": 91.7,
+            "token_align": 90.0,
+            "phonetic": 84.2,
+            "subset": 95.0
+          }
+        },
+        {
+          "score": 95.0,
+          "disposition": "Potential Match - escalate",
+          "disposition_reason": "Name match not resolved by secondary identifiers - analyst review required",
+          "list": "SDN",
+          "uid": "SDN-57813",
+          "matched_name": "AHMAD HOSSEIN, Ali",
+          "matched_on": "alias (aka)",
+          "primary_name": "AGHAMIR MOHAMMAD ALI, Seyed Mohammad Ali",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "23 Aug 1986"
+          ],
+          "pob": [],
+          "nationality": [
+            "Iran"
+          ],
+          "address_countries": [
+            "Iran"
+          ],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'AHMAD HOSSEIN, Ali', not only the primary name",
+            "Customer name: 'ahmed' treated as transliteration variant of 'ahmad'",
+            "Customer name: 'hussein' treated as transliteration variant of 'husayn'",
+            "List name: 'hossein' treated as transliteration variant of 'husayn'",
+            "List name has additional name parts: ali"
+          ],
+          "secondary_checks": [
+            "DOB within 1 year (1985 vs list 23 Aug 1986) - inconclusive",
+            "Nationality differs: customer Iraq vs list iran (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 85.7,
+            "jaro_winkler": 91.7,
+            "token_align": 90.0,
+            "phonetic": 84.2,
+            "subset": 95.0
+          }
+        },
+        {
+          "score": 95.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-37430",
+          "matched_name": "ABDALLAH, Hussein Ahmad",
+          "matched_on": "alias (aka)",
+          "primary_name": "ABDALLAH, Hussein Ahmad Jalal",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "11 Feb 1996"
+          ],
+          "pob": [],
+          "nationality": [
+            "Lebanon"
+          ],
+          "address_countries": [
+            "Lebanon"
+          ],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'ABDALLAH, Hussein Ahmad', not only the primary name",
+            "Customer name: 'ahmed' treated as transliteration variant of 'ahmad'",
+            "Customer name: 'hussein' treated as transliteration variant of 'husayn'",
+            "List name: 'hussein' treated as transliteration variant of 'husayn'",
+            "List name has additional name parts: abdallah"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1985 vs list 11 Feb 1996",
+            "Nationality differs: customer Iraq vs list lebanon (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 72.7,
+            "jaro_winkler": 79.6,
+            "token_align": 90.0,
+            "phonetic": 76.2,
+            "subset": 95.0
+          }
+        },
+        {
+          "score": 92.5,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-46790",
+          "matched_name": "AL-HUSSEIN, Taha Osman Ahmed",
+          "matched_on": "primary name",
+          "primary_name": "AL-HUSSEIN, Taha Osman Ahmed",
+          "type": "individual",
+          "programs": [
+            "SUDAN-EO14098"
+          ],
+          "dob": [
+            "20 Jun 1964",
+            "21 Jun 1957"
+          ],
+          "pob": [
+            "Shendi, Sudan",
+            "Kabushiya, Sudan"
+          ],
+          "nationality": [
+            "Congo, Democratic Republic of the",
+            "Saudi Arabia",
+            "Sudan"
+          ],
+          "address_countries": [
+            "United Arab Emirates"
+          ],
+          "title": "",
+          "reasons": [
+            "Customer name: 'ahmed' treated as transliteration variant of 'ahmad'",
+            "Customer name: 'hussein' treated as transliteration variant of 'husayn'",
+            "List name: 'osman' treated as transliteration variant of 'uthman'",
+            "List name: 'ahmed' treated as transliteration variant of 'ahmad'",
+            "List name: 'hussein' treated as transliteration variant of 'husayn'",
+            "List name has additional name parts: taha, uthman"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1985 vs list 20 Jun 1964; 21 Jun 1957",
+            "Nationality differs: customer Iraq vs list congo, democratic republic of the, saudi arabia, sudan, united arab emirates (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 66.7,
+            "jaro_winkler": 90.0,
+            "token_align": 85.0,
+            "phonetic": 66.7,
+            "subset": 92.5
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C019",
+        "name": "Ali Hassan",
+        "type": "individual",
+        "dob": "1979-11-03",
+        "nationality": "Jordan",
+        "owners": "",
+        "expected": "near_miss",
+        "scenario": "Common two-part name - matches SDN alias 'ALI Hassan'"
+      },
+      "normalized_name": "ali hasan",
+      "disposition": "False Positive",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 100.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-6924",
+          "matched_name": "ALI, Hassan",
+          "matched_on": "alias (aka)",
+          "primary_name": "FADHIL, Mustafa Mohamed",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "23 Jun 1976"
+          ],
+          "pob": [
+            "Cairo, Egypt"
+          ],
+          "nationality": [
+            "Egypt",
+            "Kenya"
+          ],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'ALI, Hassan', not only the primary name",
+            "Identical after normalisation (word order differs)",
+            "Customer name: 'hassan' treated as transliteration variant of 'hasan'",
+            "List name: 'hassan' treated as transliteration variant of 'hasan'"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1979 vs list 23 Jun 1976",
+            "Nationality differs: customer Jordan vs list egypt, kenya (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 100,
+            "jaro_winkler": 100,
+            "token_align": 100,
+            "phonetic": 100
+          }
+        },
+        {
+          "score": 95.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-28572",
+          "matched_name": "KHALIL, Ali Hassan",
+          "matched_on": "primary name",
+          "primary_name": "KHALIL, Ali Hassan",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "15 Jul 1964"
+          ],
+          "pob": [
+            "Khiyam, Lebanon"
+          ],
+          "nationality": [
+            "Lebanon"
+          ],
+          "address_countries": [
+            "Lebanon"
+          ],
+          "title": "",
+          "reasons": [
+            "Customer name: 'hassan' treated as transliteration variant of 'hasan'",
+            "List name: 'hassan' treated as transliteration variant of 'hasan'",
+            "List name has additional name parts: khalil"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1979 vs list 15 Jul 1964",
+            "Nationality differs: customer Jordan vs list lebanon (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 72.0,
+            "jaro_winkler": 91.2,
+            "token_align": 90.0,
+            "phonetic": 75.0,
+            "subset": 95.0
+          }
+        },
+        {
+          "score": 95.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-12116",
+          "matched_name": "ZURAIK, Ali Hasan",
+          "matched_on": "primary name",
+          "primary_name": "ZURAIK, Ali Hasan",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "1952"
+          ],
+          "pob": [
+            "Al Khiyam, Lebanon"
+          ],
+          "nationality": [],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "Customer name: 'hassan' treated as transliteration variant of 'hasan'",
+            "List name has additional name parts: zuraik"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1979 vs list 1952",
+            "Nationality differs: customer Jordan vs list lebanon (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 72.0,
+            "jaro_winkler": 91.2,
+            "token_align": 90.0,
+            "phonetic": 75.0,
+            "subset": 95.0
+          }
+        },
+        {
+          "score": 95.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-19428",
+          "matched_name": "HASSAN, Ali Khatib Haji",
+          "matched_on": "primary name",
+          "primary_name": "HASSAN, Ali Khatib Haji",
+          "type": "individual",
+          "programs": [
+            "SDNTK"
+          ],
+          "dob": [
+            "05 Jun 1970",
+            "01 Jan 1963",
+            "08 Jun 1970"
+          ],
+          "pob": [
+            "Zanzibar, Tanzania",
+            "Dar es Salaam, Tanzania"
+          ],
+          "nationality": [
+            "Tanzania"
+          ],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "Customer name: 'hassan' treated as transliteration variant of 'hasan'",
+            "List name: 'hassan' treated as transliteration variant of 'hasan'",
+            "List name has additional name parts: khatib"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1979 vs list 05 Jun 1970; 01 Jan 1963; 08 Jun 1970",
+            "Nationality differs: customer Jordan vs list tanzania (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 72.0,
+            "jaro_winkler": 91.2,
+            "token_align": 90.0,
+            "phonetic": 75.0,
+            "subset": 95.0
+          }
+        },
+        {
+          "score": 95.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-35843",
+          "matched_name": "ALHASSAN, Ibrahim Ali",
+          "matched_on": "primary name",
+          "primary_name": "ALHASSAN, Ibrahim Ali",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "31 Jan 1981"
+          ],
+          "pob": [
+            "Nigeria"
+          ],
+          "nationality": [
+            "Nigeria"
+          ],
+          "address_countries": [
+            "United Arab Emirates"
+          ],
+          "title": "",
+          "reasons": [
+            "Customer name: 'hassan' treated as transliteration variant of 'hasan'",
+            "List name: 'hassan' treated as transliteration variant of 'hasan'",
+            "List name has additional name parts: ibrahim"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1979 vs list 31 Jan 1981",
+            "Nationality differs: customer Jordan vs list nigeria, united arab emirates (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 69.2,
+            "jaro_winkler": 90.6,
+            "token_align": 90.0,
+            "phonetic": 66.7,
+            "subset": 95.0
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C020",
+        "name": "Youssef Ibrahim",
+        "type": "individual",
+        "dob": "1993-02-14",
+        "nationality": "Morocco",
+        "owners": "",
+        "expected": "near_miss",
+        "scenario": "Common name"
+      },
+      "normalized_name": "yusuf ibrahim",
+      "disposition": "False Positive",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 97.4,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-57696",
+          "matched_name": "IBRAHIMI, Yusuf",
+          "matched_on": "alias (aka)",
+          "primary_name": "EBRAHIMI, Yousef",
+          "type": "individual",
+          "programs": [
+            "IRAN-EO13902"
+          ],
+          "dob": [
+            "16 Dec 1977"
+          ],
+          "pob": [
+            "Ahar, Iran"
+          ],
+          "nationality": [
+            "Dominica",
+            "Iran",
+            "Turkey"
+          ],
+          "address_countries": [
+            "Iran",
+            "Turkey"
+          ],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'IBRAHIMI, Yusuf', not only the primary name",
+            "'ibrahim' ~ 'ibrahimi' sound alike (skeleton match), 93%",
+            "Customer name: 'youssef' treated as transliteration variant of 'yusuf'"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1993 vs list 16 Dec 1977",
+            "Nationality differs: customer Morocco vs list dominica, iran, turkey (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 96.3,
+            "jaro_winkler": 98.6,
+            "token_align": 96.7,
+            "phonetic": 100.0,
+            "subset": 96.7
+          }
+        },
+        {
+          "score": 92.5,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-43076",
+          "matched_name": "IBRAHIM, Aadan Yusuf Saciid",
+          "matched_on": "primary name",
+          "primary_name": "IBRAHIM, Aadan Yusuf Saciid",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "1987",
+            "1988",
+            "1989"
+          ],
+          "pob": [],
+          "nationality": [
+            "Somalia"
+          ],
+          "address_countries": [
+            "Somalia"
+          ],
+          "title": "",
+          "reasons": [
+            "Customer name: 'youssef' treated as transliteration variant of 'yusuf'",
+            "List name has additional name parts: aadan, saciid"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1993 vs list 1987; 1988; 1989",
+            "Nationality differs: customer Morocco vs list somalia (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 66.7,
+            "jaro_winkler": 58.5,
+            "token_align": 85.0,
+            "phonetic": 69.2,
+            "subset": 92.5
+          }
+        },
+        {
+          "score": 92.5,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but entity type differs (individual vs entity/vessel)",
+          "list": "SDN",
+          "uid": "SDN-58555",
+          "matched_name": "YOUSSEF IBRAHIM MANSOUR AND CO. FOR EXCHANGE",
+          "matched_on": "alias (aka)",
+          "primary_name": "YOUSEF IBRAHIM MANSOUR AND PARTNER FOR EXCHANGE",
+          "type": "entity",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [],
+          "pob": [],
+          "nationality": [],
+          "address_countries": [
+            "Lebanon"
+          ],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'YOUSSEF IBRAHIM MANSOUR AND CO. FOR EXCHANGE', not only the primary name",
+            "Customer name: 'youssef' treated as transliteration variant of 'yusuf'",
+            "List name: 'youssef' treated as transliteration variant of 'yusuf'",
+            "List name: 'mansour' treated as transliteration variant of 'mansur'",
+            "List name has additional name parts: exchange, mansur"
+          ],
+          "secondary_checks": [
+            "Type mismatch: customer is an individual, list entry is an entity",
+            "Nationality differs: customer Morocco vs list lebanon (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 61.9,
+            "jaro_winkler": 53.8,
+            "token_align": 85.0,
+            "phonetic": 60.0,
+            "subset": 92.5
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C021",
+        "name": "Fatima al-Assad",
+        "type": "individual",
+        "dob": "1998-08-20",
+        "nationality": "Syria",
+        "owners": "",
+        "expected": "near_miss",
+        "scenario": "Shares surname with listed family; different first name"
+      },
+      "normalized_name": "fatima asad",
+      "disposition": "No Match",
+      "ownership_note": "",
+      "hits": []
+    },
+    {
+      "customer": {
+        "customer_id": "C022",
+        "name": "Omar Abdel Rahman",
+        "type": "individual",
+        "dob": "1988-05-09",
+        "nationality": "United States",
+        "owners": "",
+        "expected": "near_miss",
+        "scenario": "Same name as a listed (deceased) individual; DOB differs by decades"
+      },
+      "normalized_name": "umar abdrahman",
+      "disposition": "False Positive",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 100.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-2675",
+          "matched_name": "AL RAHMAN, Shaykh Umar Abd",
+          "matched_on": "primary name",
+          "primary_name": "AL RAHMAN, Shaykh Umar Abd",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "03 May 1938"
+          ],
+          "pob": [
+            "Egypt"
+          ],
+          "nationality": [],
+          "address_countries": [],
+          "title": "Chief Ideological Figure of ISLAMIC GAMA'AT",
+          "reasons": [
+            "Identical after normalisation",
+            "Customer name: Joined compound name 'abdel rahman' -> 'abdrahman'",
+            "Customer name: 'omar' treated as transliteration variant of 'umar'",
+            "List name: Joined compound name 'abd al rahman' -> 'abdrahman'"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1988 vs list 03 May 1938",
+            "Nationality differs: customer United States vs list egypt (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 100,
+            "jaro_winkler": 100,
+            "token_align": 100,
+            "phonetic": 100
+          }
+        },
+        {
+          "score": 92.5,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-39636",
+          "matched_name": "OMAR, Abdirahman Mohamed",
+          "matched_on": "primary name",
+          "primary_name": "OMAR, Abdirahman Mohamed",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "1962"
+          ],
+          "pob": [
+            "Bosaso, Somalia"
+          ],
+          "nationality": [
+            "Somalia"
+          ],
+          "address_countries": [
+            "Somalia"
+          ],
+          "title": "",
+          "reasons": [
+            "'abdrahman' ~ 'abdirahman' sound alike (skeleton match), 95%",
+            "Customer name: Joined compound name 'abdel rahman' -> 'abdrahman'",
+            "Customer name: 'omar' treated as transliteration variant of 'umar'",
+            "List name: 'mohamed' treated as transliteration variant of 'muhammad'",
+            "List name: 'omar' treated as transliteration variant of 'umar'",
+            "List name has additional name parts: abdirahman, muhammad"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1988 vs list 1962",
+            "Nationality differs: customer United States vs list somalia (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 73.7,
+            "jaro_winkler": 88.6,
+            "token_align": 87.6,
+            "phonetic": 81.5,
+            "subset": 92.5
+          }
+        },
+        {
+          "score": 89.7,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-16449",
+          "matched_name": "AL-NU'AYMI, 'Abd al-Rahman bin 'Umayr",
+          "matched_on": "primary name",
+          "primary_name": "AL-NU'AYMI, 'Abd al-Rahman bin 'Umayr",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "1954"
+          ],
+          "pob": [],
+          "nationality": [],
+          "address_countries": [
+            "Qatar"
+          ],
+          "title": "",
+          "reasons": [
+            "'umar' ~ 'umayr' sound alike (skeleton match), 89%",
+            "Customer name: Joined compound name 'abdel rahman' -> 'abdrahman'",
+            "Customer name: 'omar' treated as transliteration variant of 'umar'",
+            "List name: Joined compound name 'abd al rahman' -> 'abdrahman'",
+            "List name has additional name parts: nuaymi, umayr"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1988 vs list 1954",
+            "Nationality differs: customer United States vs list qatar (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 77.8,
+            "jaro_winkler": 91.3,
+            "token_align": 85.0,
+            "phonetic": 88.0,
+            "subset": 89.7
+          }
+        },
+        {
+          "score": 86.3,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-15611",
+          "matched_name": "EL AMAR, Abderrahmane Ould",
+          "matched_on": "alias (aka)",
+          "primary_name": "EL TILEMSI, Ahmed",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "1977"
+          ],
+          "pob": [
+            "Mali"
+          ],
+          "nationality": [
+            "Mali"
+          ],
+          "address_countries": [
+            "Mali"
+          ],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'EL AMAR, Abderrahmane Ould', not only the primary name",
+            "'umar' ~ 'amar' spelling similarity 78%",
+            "'abdrahman' ~ 'abderrahmane' spelling similarity 89%",
+            "Customer name: Joined compound name 'abdel rahman' -> 'abdrahman'",
+            "Customer name: 'omar' treated as transliteration variant of 'umar'"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1988 vs list 1977",
+            "Nationality differs: customer United States vs list mali (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 83.9,
+            "jaro_winkler": 91.0,
+            "token_align": 83.8,
+            "phonetic": 90.9
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C023",
+        "name": "Khalid Mahmoud",
+        "type": "individual",
+        "dob": "1975-12-30",
+        "nationality": "Egypt",
+        "owners": "",
+        "expected": "near_miss",
+        "scenario": "Common name"
+      },
+      "normalized_name": "khalid mahmud",
+      "disposition": "Potential Match - escalate",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 100.0,
+          "disposition": "Potential Match - escalate",
+          "disposition_reason": "Name match not resolved by secondary identifiers - analyst review required",
+          "list": "SDN",
+          "uid": "SDN-12890",
+          "matched_name": "MAHMUD, Khalid",
+          "matched_on": "alias (aka)",
+          "primary_name": "KHAN, Mustafa Hajji Muhammad",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "Aug 1977",
+            "Sep 1977",
+            "1976"
+          ],
+          "pob": [
+            "Madinah, Saudi Arabia",
+            "Sangrar, Sindh Province, Pakistan"
+          ],
+          "nationality": [
+            "Pakistan",
+            "Saudi Arabia"
+          ],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'MAHMUD, Khalid', not only the primary name",
+            "Identical after normalisation",
+            "Customer name: 'mahmoud' treated as transliteration variant of 'mahmud'"
+          ],
+          "secondary_checks": [
+            "DOB within 1 year (1975 vs list Aug 1977; Sep 1977; 1976) - inconclusive",
+            "Nationality differs: customer Egypt vs list pakistan, saudi arabia (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 100,
+            "jaro_winkler": 100,
+            "token_align": 100,
+            "phonetic": 100
+          }
+        },
+        {
+          "score": 95.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-9647",
+          "matched_name": "ZAHHAR, Mahmoud Khaled",
+          "matched_on": "primary name",
+          "primary_name": "ZAHHAR, Mahmoud Khaled",
+          "type": "individual",
+          "programs": [
+            "SDGT",
+            "NS-PLC"
+          ],
+          "dob": [
+            "1945"
+          ],
+          "pob": [
+            "Gaza Strip"
+          ],
+          "nationality": [
+            "Palestinian"
+          ],
+          "address_countries": [
+            "Region: Gaza"
+          ],
+          "title": "",
+          "reasons": [
+            "Customer name: 'mahmoud' treated as transliteration variant of 'mahmud'",
+            "List name: 'mahmoud' treated as transliteration variant of 'mahmud'",
+            "List name: 'khaled' treated as transliteration variant of 'khalid'",
+            "List name has additional name parts: zahhar"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1975 vs list 1945",
+            "Nationality differs: customer Egypt vs list gaza strip, palestinian, region: gaza (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 78.8,
+            "jaro_winkler": 93.0,
+            "token_align": 90.0,
+            "phonetic": 80.0,
+            "subset": 95.0
+          }
+        },
+        {
+          "score": 95.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "Consolidated (non-SDN)",
+          "uid": "CONS-9647",
+          "matched_name": "ZAHHAR, Mahmoud Khaled",
+          "matched_on": "primary name",
+          "primary_name": "ZAHHAR, Mahmoud Khaled",
+          "type": "individual",
+          "programs": [
+            "SDGT",
+            "NS-PLC"
+          ],
+          "dob": [
+            "1945"
+          ],
+          "pob": [
+            "Gaza Strip"
+          ],
+          "nationality": [
+            "Palestinian"
+          ],
+          "address_countries": [
+            "Region: Gaza"
+          ],
+          "title": "",
+          "reasons": [
+            "Customer name: 'mahmoud' treated as transliteration variant of 'mahmud'",
+            "List name: 'mahmoud' treated as transliteration variant of 'mahmud'",
+            "List name: 'khaled' treated as transliteration variant of 'khalid'",
+            "List name has additional name parts: zahhar"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1975 vs list 1945",
+            "Nationality differs: customer Egypt vs list gaza strip, palestinian, region: gaza (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 78.8,
+            "jaro_winkler": 93.0,
+            "token_align": 90.0,
+            "phonetic": 80.0,
+            "subset": 95.0
+          }
+        },
+        {
+          "score": 89.7,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-6928",
+          "matched_name": "MOHAMMED, Khalid Shaikh",
+          "matched_on": "primary name",
+          "primary_name": "MOHAMMED, Khalid Shaikh",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "14 Apr 1965",
+            "01 Mar 1964"
+          ],
+          "pob": [
+            "Kuwait"
+          ],
+          "nationality": [
+            "Kuwait"
+          ],
+          "address_countries": [
+            "Cuba"
+          ],
+          "title": "",
+          "reasons": [
+            "'mahmud' ~ 'muhammad' spelling similarity 82%",
+            "Customer name: 'mahmoud' treated as transliteration variant of 'mahmud'",
+            "List name: 'mohammed' treated as transliteration variant of 'muhammad'"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1975 vs list 14 Apr 1965; 01 Mar 1964",
+            "Nationality differs: customer Egypt vs list cuba, kuwait (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 78.6,
+            "jaro_winkler": 95.8,
+            "token_align": 91.2,
+            "phonetic": 100.0
+          }
+        },
+        {
+          "score": 86.6,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "Consolidated (non-SDN)",
+          "uid": "CONS-9687",
+          "matched_name": "AL-KHATIB, Mahmoud",
+          "matched_on": "primary name",
+          "primary_name": "AL-KHATIB, Mahmoud",
+          "type": "individual",
+          "programs": [
+            "NS-PLC"
+          ],
+          "dob": [
+            "1972"
+          ],
+          "pob": [],
+          "nationality": [],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "'khalid' ~ 'khatib' spelling similarity 79%",
+            "Customer name: 'mahmoud' treated as transliteration variant of 'mahmud'",
+            "List name: 'mahmoud' treated as transliteration variant of 'mahmud'"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1975 vs list 1972"
+          ],
+          "score_components": {
+            "token_sort": 84.6,
+            "jaro_winkler": 92.8,
+            "token_align": 89.7,
+            "phonetic": 75.0
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C024",
+        "name": "Youssef Nasrallah",
+        "type": "individual",
+        "dob": "1992-10-07",
+        "nationality": "Lebanon",
+        "owners": "",
+        "expected": "near_miss",
+        "scenario": "Shares surname with listed person"
+      },
+      "normalized_name": "yusuf nasrallah",
+      "disposition": "No Match",
+      "ownership_note": "",
+      "hits": []
+    },
+    {
+      "customer": {
+        "customer_id": "C025",
+        "name": "Sara Soleimani",
+        "type": "individual",
+        "dob": "1995-01-19",
+        "nationality": "Canada",
+        "owners": "",
+        "expected": "near_miss",
+        "scenario": "Shares surname with several listed persons"
+      },
+      "normalized_name": "sara soleimani",
+      "disposition": "No Match",
+      "ownership_note": "",
+      "hits": []
+    },
+    {
+      "customer": {
+        "customer_id": "C026",
+        "name": "Hassan Ali Khan",
+        "type": "individual",
+        "dob": "1982-07-22",
+        "nationality": "Pakistan",
+        "owners": "",
+        "expected": "near_miss",
+        "scenario": "Common South Asian name overlap"
+      },
+      "normalized_name": "hasan ali khan",
+      "disposition": "False Positive",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 95.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-6924",
+          "matched_name": "ALI, Hassan",
+          "matched_on": "alias (aka)",
+          "primary_name": "FADHIL, Mustafa Mohamed",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "23 Jun 1976"
+          ],
+          "pob": [
+            "Cairo, Egypt"
+          ],
+          "nationality": [
+            "Egypt",
+            "Kenya"
+          ],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'ALI, Hassan', not only the primary name",
+            "Customer name: 'hassan' treated as transliteration variant of 'hasan'",
+            "List name: 'hassan' treated as transliteration variant of 'hasan'"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1982 vs list 23 Jun 1976",
+            "Nationality differs: customer Pakistan vs list egypt, kenya (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 78.3,
+            "jaro_winkler": 92.9,
+            "token_align": 90.0,
+            "phonetic": 80.0,
+            "subset": 95.0
+          }
+        },
+        {
+          "score": 90.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-28572",
+          "matched_name": "KHALIL, Ali Hassan",
+          "matched_on": "primary name",
+          "primary_name": "KHALIL, Ali Hassan",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "15 Jul 1964"
+          ],
+          "pob": [
+            "Khiyam, Lebanon"
+          ],
+          "nationality": [
+            "Lebanon"
+          ],
+          "address_countries": [
+            "Lebanon"
+          ],
+          "title": "",
+          "reasons": [
+            "'khan' ~ 'khalil' spelling similarity 78%",
+            "Customer name: 'hassan' treated as transliteration variant of 'hasan'",
+            "List name: 'hassan' treated as transliteration variant of 'hasan'"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1982 vs list 15 Jul 1964",
+            "Nationality differs: customer Pakistan vs list lebanon (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 86.7,
+            "jaro_winkler": 94.8,
+            "token_align": 92.5,
+            "phonetic": 84.2
+          }
+        },
+        {
+          "score": 90.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-19428",
+          "matched_name": "HASSAN, Ali Khatib Haji",
+          "matched_on": "primary name",
+          "primary_name": "HASSAN, Ali Khatib Haji",
+          "type": "individual",
+          "programs": [
+            "SDNTK"
+          ],
+          "dob": [
+            "05 Jun 1970",
+            "01 Jan 1963",
+            "08 Jun 1970"
+          ],
+          "pob": [
+            "Zanzibar, Tanzania",
+            "Dar es Salaam, Tanzania"
+          ],
+          "nationality": [
+            "Tanzania"
+          ],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "'khan' ~ 'khatib' spelling similarity 78%",
+            "Customer name: 'hassan' treated as transliteration variant of 'hasan'",
+            "List name: 'hassan' treated as transliteration variant of 'hasan'"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1982 vs list 05 Jun 1970; 01 Jan 1963; 08 Jun 1970",
+            "Nationality differs: customer Pakistan vs list tanzania (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 86.7,
+            "jaro_winkler": 94.8,
+            "token_align": 92.5,
+            "phonetic": 84.2
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C027",
+        "name": "Abdullah Yasin",
+        "type": "individual",
+        "dob": "1987-03-03",
+        "nationality": "United States",
+        "owners": "",
+        "expected": "near_miss",
+        "scenario": "Shares tokens with listed 'YASIN Abdul Rahman'"
+      },
+      "normalized_name": "abdallah yasin",
+      "disposition": "No Match",
+      "ownership_note": "",
+      "hits": []
+    },
+    {
+      "customer": {
+        "customer_id": "C028",
+        "name": "Ibrahim Awad",
+        "type": "individual",
+        "dob": "1980-09-09",
+        "nationality": "Iraq",
+        "owners": "",
+        "expected": "near_miss",
+        "scenario": "Subset of a listed person's long name"
+      },
+      "normalized_name": "ibrahim awad",
+      "disposition": "Potential Match - escalate",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 92.5,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-31953",
+          "matched_name": "AL-FAY, Ibrahim Ali 'Awad",
+          "matched_on": "primary name",
+          "primary_name": "AL-FAY, Ibrahim Ali 'Awad",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "1968"
+          ],
+          "pob": [],
+          "nationality": [],
+          "address_countries": [
+            "Turkey"
+          ],
+          "title": "",
+          "reasons": [
+            "List name has additional name parts: ali, fay"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1980 vs list 1968",
+            "Nationality differs: customer Iraq vs list turkey (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 75.0,
+            "jaro_winkler": 75.5,
+            "token_align": 85.0,
+            "phonetic": 76.2,
+            "subset": 92.5
+          }
+        },
+        {
+          "score": 91.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-12926",
+          "matched_name": "AL-SAMARRA'I, Ibrahim 'Awad Ibrahim al-Badri",
+          "matched_on": "alias (aka)",
+          "primary_name": "AL-BADRI, Dr. Ibrahim 'Awwad Ibrahim 'Ali",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "1971"
+          ],
+          "pob": [
+            "Samarra'i, Iraq"
+          ],
+          "nationality": [],
+          "address_countries": [
+            "Iraq"
+          ],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'AL-SAMARRA'I, Ibrahim 'Awad Ibrahim al-Badri', not only the primary name",
+            "List name has additional name parts: badri, samarrai"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1980 vs list 1971",
+            "Nationality/country consistent (Iraq)"
+          ],
+          "score_components": {
+            "token_sort": 51.1,
+            "jaro_winkler": 83.5,
+            "token_align": 82.0,
+            "phonetic": 53.3,
+            "subset": 91.0
+          }
+        },
+        {
+          "score": 89.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-53913",
+          "matched_name": "IBRAHIM, Ahmed",
+          "matched_on": "alias (aka)",
+          "primary_name": "BRAHIMI, Ahmed",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "24 Jun 1970"
+          ],
+          "pob": [
+            "Beni Slimane, Medea, Algeria"
+          ],
+          "nationality": [
+            "Algeria"
+          ],
+          "address_countries": [
+            "Algeria"
+          ],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'IBRAHIM, Ahmed', not only the primary name",
+            "'awad' ~ 'ahmad' spelling similarity 76%",
+            "List name: 'ahmed' treated as transliteration variant of 'ahmad'"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 1980 vs list 24 Jun 1970",
+            "Nationality differs: customer Iraq vs list algeria (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 88.0,
+            "jaro_winkler": 92.9,
+            "token_align": 87.8,
+            "phonetic": 88.9
+          }
+        },
+        {
+          "score": 88.8,
+          "disposition": "Potential Match - escalate",
+          "disposition_reason": "Name match not resolved by secondary identifiers - analyst review required",
+          "list": "SDN",
+          "uid": "SDN-24957",
+          "matched_name": "AL JADHRAN, Ibrahim Saeed Salem Awad Aissa Hamed Dawoud",
+          "matched_on": "alias (aka)",
+          "primary_name": "JADHRAN, Ibrahim",
+          "type": "individual",
+          "programs": [
+            "LIBYA3"
+          ],
+          "dob": [
+            "29 Oct 1982",
+            "1979 to 1982"
+          ],
+          "pob": [
+            "Ajdabia, Libya"
+          ],
+          "nationality": [
+            "Libya"
+          ],
+          "address_countries": [
+            "Libya"
+          ],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'AL JADHRAN, Ibrahim Saeed Salem Awad Aissa Hamed Dawoud', not only the primary name",
+            "List name: 'saeed' treated as transliteration variant of 'said'",
+            "List name: 'aissa' treated as transliteration variant of 'issa'",
+            "List name: 'hamed' treated as transliteration variant of 'hamid'",
+            "List name has additional name parts: dawoud, hamid, issa, jadhran, said, salem"
+          ],
+          "secondary_checks": [
+            "DOB year match only (1980; list: 29 Oct 1982; 1979 to 1982) - obtain full DOB / ID document",
+            "Nationality differs: customer Iraq vs list libya (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 39.3,
+            "jaro_winkler": 66.5,
+            "token_align": 77.5,
+            "phonetic": 42.1,
+            "subset": 88.8
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C029",
+        "name": "Muhammad Qasim",
+        "type": "individual",
+        "dob": "2001-04-04",
+        "nationality": "Pakistan",
+        "owners": "",
+        "expected": "near_miss",
+        "scenario": "Very common name"
+      },
+      "normalized_name": "muhammad qasim",
+      "disposition": "False Positive",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 100.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-15581",
+          "matched_name": "QASIM, Mohammed",
+          "matched_on": "primary name",
+          "primary_name": "QASIM, Mohammed",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "1976",
+            "1965"
+          ],
+          "pob": [
+            "Pakistan"
+          ],
+          "nationality": [
+            "Pakistan"
+          ],
+          "address_countries": [
+            "Afghanistan",
+            "Pakistan"
+          ],
+          "title": "",
+          "reasons": [
+            "Identical after normalisation",
+            "List name: 'mohammed' treated as transliteration variant of 'muhammad'"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 2001 vs list 1976; 1965",
+            "Nationality/country consistent (Pakistan)"
+          ],
+          "score_components": {
+            "token_sort": 100,
+            "jaro_winkler": 100,
+            "token_align": 100,
+            "phonetic": 100
+          }
+        },
+        {
+          "score": 95.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-28445",
+          "matched_name": "HIJAZI, Kassem Mohamad",
+          "matched_on": "primary name",
+          "primary_name": "HIJAZI, Kassem Mohamad",
+          "type": "individual",
+          "programs": [
+            "GLOMAG"
+          ],
+          "dob": [
+            "15 Sep 1972"
+          ],
+          "pob": [
+            "Foz de Iguacu, Brazil"
+          ],
+          "nationality": [],
+          "address_countries": [
+            "Paraguay"
+          ],
+          "title": "",
+          "reasons": [
+            "List name: 'kassem' treated as transliteration variant of 'qasim'",
+            "List name: 'mohamad' treated as transliteration variant of 'muhammad'",
+            "List name has additional name parts: hijazi"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 2001 vs list 15 Sep 1972",
+            "Nationality differs: customer Pakistan vs list brazil, paraguay (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 80.0,
+            "jaro_winkler": 77.0,
+            "token_align": 90.0,
+            "phonetic": 80.0,
+            "subset": 95.0
+          }
+        },
+        {
+          "score": 95.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-12892",
+          "matched_name": "SALEH, Kassem Mohamad",
+          "matched_on": "primary name",
+          "primary_name": "SALEH, Kassem Mohamad",
+          "type": "individual",
+          "programs": [
+            "SDNTK"
+          ],
+          "dob": [
+            "10 Feb 1980"
+          ],
+          "pob": [],
+          "nationality": [
+            "Lebanon"
+          ],
+          "address_countries": [
+            "Colombia",
+            "Venezuela"
+          ],
+          "title": "",
+          "reasons": [
+            "List name: 'kassem' treated as transliteration variant of 'qasim'",
+            "List name: 'mohamad' treated as transliteration variant of 'muhammad'",
+            "List name: 'saleh' treated as transliteration variant of 'salih'",
+            "List name has additional name parts: salih"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 2001 vs list 10 Feb 1980",
+            "Nationality differs: customer Pakistan vs list colombia, lebanon, venezuela (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 82.4,
+            "jaro_winkler": 94.0,
+            "token_align": 90.0,
+            "phonetic": 84.2,
+            "subset": 95.0
+          }
+        },
+        {
+          "score": 95.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-26122",
+          "matched_name": "AL-BAZZAL, Muhammad Qasim",
+          "matched_on": "primary name",
+          "primary_name": "AL-BAZZAL, Muhammad Qasim",
+          "type": "individual",
+          "programs": [
+            "SDGT"
+          ],
+          "dob": [
+            "26 Aug 1984"
+          ],
+          "pob": [
+            "Ba'albakk, Lebanon"
+          ],
+          "nationality": [],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "List name has additional name parts: bazzal"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 2001 vs list 26 Aug 1984",
+            "Nationality differs: customer Pakistan vs list lebanon (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 80.0,
+            "jaro_winkler": 77.0,
+            "token_align": 90.0,
+            "phonetic": 80.0,
+            "subset": 95.0
+          }
+        },
+        {
+          "score": 95.0,
+          "disposition": "False Positive",
+          "disposition_reason": "Name similar but date of birth does not match the list entry",
+          "list": "SDN",
+          "uid": "SDN-23023",
+          "matched_name": "SHAMS, Kassem Mohammed",
+          "matched_on": "alias (aka)",
+          "primary_name": "CHAMS, Kassem",
+          "type": "individual",
+          "programs": [
+            "SDNTK"
+          ],
+          "dob": [
+            "20 Mar 1962"
+          ],
+          "pob": [
+            "Lebanon"
+          ],
+          "nationality": [
+            "Lebanon"
+          ],
+          "address_countries": [
+            "Lebanon"
+          ],
+          "title": "",
+          "reasons": [
+            "Matched list alias (aka) 'SHAMS, Kassem Mohammed', not only the primary name",
+            "List name: 'kassem' treated as transliteration variant of 'qasim'",
+            "List name: 'mohammed' treated as transliteration variant of 'muhammad'",
+            "List name has additional name parts: shams"
+          ],
+          "secondary_checks": [
+            "DOB conflict: customer 2001 vs list 20 Mar 1962",
+            "Nationality differs: customer Pakistan vs list lebanon (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 82.4,
+            "jaro_winkler": 94.0,
+            "token_align": 90.0,
+            "phonetic": 80.0,
+            "subset": 95.0
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C030",
+        "name": "Hannibal Gaddafi Restaurant LLC",
+        "type": "entity",
+        "dob": "",
+        "nationality": "Malta",
+        "owners": "",
+        "expected": "near_miss",
+        "scenario": "Company name containing a listed individual's name"
+      },
+      "normalized_name": "hannibal qadhafi restaurant",
+      "disposition": "Potential Match - escalate",
+      "ownership_note": "",
+      "hits": [
+        {
+          "score": 95.0,
+          "disposition": "Potential Match - escalate",
+          "disposition_reason": "Name match not resolved by secondary identifiers - analyst review required",
+          "list": "SDN",
+          "uid": "SDN-12627",
+          "matched_name": "GADDAFI, Hannibal",
+          "matched_on": "primary name",
+          "primary_name": "GADDAFI, Hannibal",
+          "type": "individual",
+          "programs": [
+            "LIBYA2"
+          ],
+          "dob": [
+            "20 Sep 1975",
+            "1977"
+          ],
+          "pob": [
+            "Tripoli, Libya"
+          ],
+          "nationality": [],
+          "address_countries": [],
+          "title": "",
+          "reasons": [
+            "Customer name: Ignored legal-form / generic words: llc",
+            "Customer name: 'gaddafi' treated as transliteration variant of 'qadhafi'",
+            "List name: 'gaddafi' treated as transliteration variant of 'qadhafi'"
+          ],
+          "secondary_checks": [
+            "Customer is an entity but the list entry is an individual: name overlap may indicate ownership/control - check beneficial owners (50% Rule)",
+            "Customer DOB missing - request it (list DOB: 20 Sep 1975; 1977)",
+            "Nationality differs: customer Malta vs list libya (weak - people hold several nationalities)"
+          ],
+          "score_components": {
+            "token_sort": 74.4,
+            "jaro_winkler": 91.9,
+            "token_align": 90.0,
+            "phonetic": 69.6,
+            "subset": 95.0
+          }
+        }
+      ]
+    },
+    {
+      "customer": {
+        "customer_id": "C031",
+        "name": "Emily Carter",
+        "type": "individual",
+        "dob": "1990-02-02",
+        "nationality": "United States",
+        "owners": "",
+        "expected": "clean",
+        "scenario": "No relation"
+      },
+      "normalized_name": "emily carter",
+      "disposition": "No Match",
+      "ownership_note": "",
+      "hits": []
+    },
+    {
+      "customer": {
+        "customer_id": "C032",
+        "name": "Daniel Okafor",
+        "type": "individual",
+        "dob": "1986-06-16",
+        "nationality": "Nigeria",
+        "owners": "",
+        "expected": "clean",
+        "scenario": "No relation"
+      },
+      "normalized_name": "daniel okafor",
+      "disposition": "No Match",
+      "ownership_note": "",
+      "hits": []
+    },
+    {
+      "customer": {
+        "customer_id": "C033",
+        "name": "Priya Raman",
+        "type": "individual",
+        "dob": "1994-09-27",
+        "nationality": "India",
+        "owners": "",
+        "expected": "clean",
+        "scenario": "No relation"
+      },
+      "normalized_name": "priya raman",
+      "disposition": "No Match",
+      "ownership_note": "",
+      "hits": []
+    },
+    {
+      "customer": {
+        "customer_id": "C034",
+        "name": "Lucas Moreau",
+        "type": "individual",
+        "dob": "1979-03-15",
+        "nationality": "France",
+        "owners": "",
+        "expected": "clean",
+        "scenario": "No relation"
+      },
+      "normalized_name": "lucas moreau",
+      "disposition": "No Match",
+      "ownership_note": "",
+      "hits": []
+    },
+    {
+      "customer": {
+        "customer_id": "C035",
+        "name": "Layla Mansour",
+        "type": "individual",
+        "dob": "1997-12-01",
+        "nationality": "Jordan",
+        "owners": "",
+        "expected": "clean",
+        "scenario": "Arabic name with no listed counterpart"
+      },
+      "normalized_name": "layla mansur",
+      "disposition": "No Match",
+      "ownership_note": "",
+      "hits": []
+    },
+    {
+      "customer": {
+        "customer_id": "C036",
+        "name": "Tariq Benali",
+        "type": "individual",
+        "dob": "1983-05-05",
+        "nationality": "Morocco",
+        "owners": "",
+        "expected": "clean",
+        "scenario": "Arabic name with no listed counterpart"
+      },
+      "normalized_name": "tariq benali",
+      "disposition": "No Match",
+      "ownership_note": "",
+      "hits": []
+    },
+    {
+      "customer": {
+        "customer_id": "C037",
+        "name": "Hana Kobayashi",
+        "type": "individual",
+        "dob": "1991-07-07",
+        "nationality": "Japan",
+        "owners": "",
+        "expected": "clean",
+        "scenario": "No relation"
+      },
+      "normalized_name": "hana kobayashi",
+      "disposition": "No Match",
+      "ownership_note": "",
+      "hits": []
+    },
+    {
+      "customer": {
+        "customer_id": "C038",
+        "name": "Grace Mensah",
+        "type": "individual",
+        "dob": "1988-10-10",
+        "nationality": "Ghana",
+        "owners": "",
+        "expected": "clean",
+        "scenario": "No relation"
+      },
+      "normalized_name": "grace mensah",
+      "disposition": "No Match",
+      "ownership_note": "",
+      "hits": []
+    },
+    {
+      "customer": {
+        "customer_id": "C039",
+        "name": "Blue Harbor Coffee Roasters LLC",
+        "type": "entity",
+        "dob": "",
+        "nationality": "United States",
+        "owners": "",
+        "expected": "clean",
+        "scenario": "No relation"
+      },
+      "normalized_name": "blue harbor coffee roasters",
+      "disposition": "No Match",
+      "ownership_note": "",
+      "hits": []
+    },
+    {
+      "customer": {
+        "customer_id": "C040",
+        "name": "Nile Valley Imports Inc",
+        "type": "entity",
+        "dob": "",
+        "nationality": "Egypt",
+        "owners": "",
+        "expected": "clean",
+        "scenario": "No relation"
+      },
+      "normalized_name": "nile valley",
+      "disposition": "No Match",
+      "ownership_note": "",
+      "hits": []
+    }
+  ]
+}

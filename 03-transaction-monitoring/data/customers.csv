@@ -1,0 +1,501 @@
+customer_id,account_no,name,customer_type,occupation,beneficial_owner,age,nationality,home_state,home_branch,account_open_date,last_txn_before_2026,expected_monthly_volume_usd,expected_monthly_txn_count,expected_cash_activity,expected_international,expected_countries,expected_goods,pep_flag,kyc_risk_rating,device_id
+C0001,MHB23314596,Aisha Martinez,Individual,Dentist,,45,Dominican Republic,NJ,BR03,2010-01-22,2025-12-20,40600.0,17,Low,False,,,True,Medium,DEV-798773
+C0002,MHB69725894,Hector Young,Individual,Paralegal,,34,United States,NJ,BR01,2018-07-09,2025-12-24,12500.0,13,Low,False,,,False,Low,DEV-798773
+C0003,MHB90069077,Carlos Flores,Individual,Travel Nurse,,62,Philippines,TX,BR09,2022-07-31,2025-12-20,14500.0,15,Medium,True,Philippines,,False,Low,DEV-234436
+C0004,MHB28931100,Elena Rahman,Individual,Retired,,79,Haiti,NY,BR08,2013-06-01,2025-12-27,7800.0,11,Low,False,,,False,Medium,DEV-234436
+C0005,MHB31923707,Ahmed Taylor,Individual,Teacher,,64,Lebanon,NJ,BR02,2011-02-25,2025-12-26,7300.0,19,Low,False,,,False,Medium,DEV-778154
+C0006,MHB62974506,Jose Silva,Individual,Software Developer,,58,United States,NJ,BR01,2022-05-10,2025-12-23,9600.0,21,Low,False,,,False,Low,DEV-778154
+C0007,MHB20858980,Omar Martinez,Individual,Data Analyst,,49,United States,GA,BR17,2011-01-17,2025-12-24,27100.0,22,Low,False,,,False,Low,DEV-754062
+C0008,MHB39556373,Lucia Diaz,Individual,Financial Analyst,,39,United States,NY,BR07,2010-03-27,2025-12-27,25300.0,21,Low,False,,,False,Low,DEV-754062
+C0009,MHB57576816,Olivia Martin,Individual,Unemployed,,43,Morocco,NJ,BR03,2022-03-31,2025-12-30,2400.0,3,Low,False,,,False,Low,DEV-855716
+C0010,MHB80887188,Naomi Perez,Individual,Personal Trainer,,54,United States,NY,BR07,2015-10-29,2025-12-28,7000.0,35,Low,False,,,False,Low,DEV-855716
+C0011,MHB77586171,Arjun Martin,Individual,Dental Hygienist,,40,United States,NJ,BR03,2014-11-04,2025-12-21,11600.0,17,Low,False,,,False,Low,DEV-425067
+C0012,MHB11778980,Luis Allen,Individual,Marketing Coordinator,,31,Ecuador,NJ,BR01,2010-03-13,2025-12-21,14500.0,15,Low,True,Ecuador,,False,Low,DEV-425067
+C0013,MHB46005530,Linh Mensah,Individual,Retail Manager,,59,Bangladesh,NY,BR06,2017-03-30,2025-12-23,11500.0,16,Low,True,Bangladesh,,False,Low,DEV-499548
+C0014,MHB42628241,Miguel Martinez,Individual,Engineering Manager,,24,Kenya,NJ,BR02,2008-08-30,2025-12-27,120000.0,18,Low,False,,,False,Medium,DEV-499548
+C0015,MHB81166417,Harris Car Wash LLC,Business,Car Wash,Sarah Harris,30,United States,GA,BR17,2015-03-10,2025-12-25,59300.0,37,High,False,,,False,High,DEV-301242
+C0016,MHB70503798,Olivia King,Individual,Pharmacist,,40,Israel,NY,BR06,2013-06-16,2025-12-29,12100.0,20,Low,True,Israel,,False,Low,DEV-808717
+C0017,MHB23217736,Sofia Silva,Individual,Engineering Manager,,46,Mexico,FL,BR16,2020-07-10,2025-12-24,163000.0,16,Low,False,,,False,Low,DEV-808717
+C0018,MHB98896484,Megan Scott,Individual,Tutor,,60,Nigeria,NY,BR07,2015-09-18,2025-12-29,10200.0,30,Low,False,,,False,Low,DEV-926093
+C0019,MHB47679047,Rachel Hernandez,Individual,Retired,,68,United States,FL,BR15,2016-11-09,2025-12-30,6200.0,16,Low,False,,,False,Low,DEV-926093
+C0020,MHB40604739,Mei Garcia,Individual,Software Developer,,61,United States,NY,BR05,2009-09-06,2025-12-27,14900.0,23,Low,False,,,False,Low,DEV-517508
+C0021,MHB72947808,Omar Perez,Individual,Software Developer,,32,United States,NJ,BR01,2022-06-20,2025-12-20,10300.0,19,Low,False,,,False,Low,DEV-517508
+C0022,MHB82476284,Okafor Imports LLC,Business,Import/Export - Auto Parts,Priya Okafor,28,United States,NY,BR06,2008-07-11,2025-12-24,486800.0,16,Low,True,China;Mexico,auto parts,False,High,DEV-523152
+C0023,MHB41115772,Jason Rivera,Individual,Bus Operator,,40,United States,NY,BR07,2022-08-27,2025-12-29,10400.0,19,Low,False,,,False,Low,DEV-185175
+C0024,MHB71237692,Amira Brown,Individual,Electrician,,42,Philippines,NJ,BR02,2008-02-03,2025-12-25,10800.0,17,Low,False,,,False,Low,DEV-185175
+C0025,MHB20555844,Shah International LLC,Business,Import/Export - Mobile Phone Accessories,Samuel Shah,49,United States,FL,BR15,2023-11-14,2025-12-27,464800.0,25,Low,True,China;United Arab Emirates,mobile phone accessories,False,High,DEV-554809
+C0026,MHB51555447,Miguel Kim,Individual,Financial Analyst,,38,United States,NY,BR08,2011-02-25,2025-12-30,26200.0,21,Low,False,,,False,Low,DEV-292893
+C0027,MHB69464006,Emily Chen,Individual,Retail Manager,,63,Egypt,AZ,BR11,2020-12-06,2025-12-21,12100.0,20,Low,False,,,False,Low,DEV-292893
+C0028,MHB70654393,Elena Walker,Individual,Pharmacist,,63,Kenya,AZ,BR12,2018-08-19,2025-12-30,13100.0,18,Low,True,Kenya,,False,Medium,DEV-586711
+C0029,MHB17808541,Olivia Okafor,Individual,Engineering Manager,,45,China,NJ,BR01,2019-04-11,2025-12-20,37300.0,18,Low,False,,,False,Low,DEV-874321
+C0030,MHB87772314,Diego Wilson,Individual,Police Officer,,63,United States,NY,BR05,2022-06-02,2025-12-27,5700.0,17,Low,False,,,False,Low,DEV-181521
+C0031,MHB54788293,Amira Anderson,Individual,Electrician,,62,India,NY,BR08,2015-02-27,2025-12-20,10400.0,19,Low,False,,,False,Low,DEV-493000
+C0032,MHB67414306,Naomi Ortiz,Individual,Marketing Coordinator,,39,United States,NY,BR06,2018-03-03,2025-12-26,8900.0,18,Low,False,,,False,Low,DEV-696276
+C0033,MHB23898077,Rachel Martinez,Individual,Dentist,,59,Ecuador,NJ,BR02,2010-12-22,2025-12-22,42400.0,18,Low,False,,,False,Low,DEV-576452
+C0034,MHB34916204,Carlos Gonzalez,Individual,Delivery Courier,,54,United States,NY,BR05,2012-02-02,2025-12-21,9300.0,29,Low,False,,,False,Low,DEV-263517
+C0035,MHB52436151,Camila Wong,Individual,Electrician,,55,Vietnam,GA,BR17,2009-05-18,2025-12-23,12100.0,13,Low,True,Vietnam,,False,Medium,DEV-652164
+C0036,MHB48866119,Hannah Okafor,Individual,Teacher,,55,United States,NY,BR06,2008-12-25,2025-12-24,7600.0,14,Low,False,,,False,Low,DEV-653143
+C0037,MHB33813784,Ivan Moore,Individual,Unemployed,,54,Jamaica,NY,BR07,2022-03-05,2025-12-21,1000.0,3,Low,False,,,True,Medium,DEV-653143
+C0038,MHB46904390,Michael Scott,Individual,Teacher,,41,Pakistan,GA,BR17,2019-01-29,2025-12-27,22400.0,21,Low,True,Pakistan,,False,Low,DEV-653143
+C0039,MHB12124842,Chen Global LLC,Business,Import/Export - Textiles,Grace Chen,42,Philippines,NY,BR08,2021-04-16,2025-12-30,422200.0,19,Low,True,China;Turkey;Vietnam,textiles,False,High,DEV-936957
+C0040,MHB26857625,Elena Ali,Individual,Pharmacist,,28,Kenya,CA,BR14,2024-10-01,2025-12-29,5500.0,16,Low,False,,,False,Medium,DEV-141684
+C0041,MHB92607399,Sofia Levi,Individual,Pharmacist,,49,China,TX,BR10,2022-11-11,2025-12-30,23100.0,20,Low,False,,,False,Low,DEV-526539
+C0042,MHB52691698,Linh Walker,Individual,Financial Analyst,,41,United States,NY,BR05,2024-01-16,2025-12-21,21800.0,17,Low,False,,,False,Low,DEV-836425
+C0043,MHB67200431,Wilson International LLC,Business,Import/Export - Textiles,Priya Wilson,59,United States,CA,BR14,2021-10-11,2025-12-31,474800.0,23,Low,True,China;Turkey;Vietnam,textiles,False,High,DEV-578451
+C0044,MHB76140329,Jose Shah,Individual,Retired,,75,Pakistan,CA,BR14,2016-11-11,2025-12-20,3900.0,10,Low,False,,,False,Low,DEV-133526
+C0045,MHB77739866,Pedro Farouk,Individual,Administrative Assistant,,34,United States,TX,BR09,2012-12-01,2025-12-27,9600.0,22,Low,False,,,False,Low,DEV-685440
+C0046,MHB79386676,Megan Taylor,Individual,Sales Representative,,44,Vietnam,FL,BR15,2009-05-27,2025-12-24,20300.0,22,Low,False,,,False,Medium,DEV-517473
+C0047,MHB22964520,Ravi Martin,Individual,Sales Representative,,25,Nigeria,NJ,BR01,2011-08-29,2025-12-25,14500.0,19,Low,False,,,False,Low,DEV-681555
+C0048,MHB75299119,Grace Adeyemi,Individual,Bus Operator,,24,United States,NJ,BR02,2024-10-22,2025-12-30,9900.0,17,Low,False,,,False,Low,DEV-713997
+C0049,MHB67320857,Jason Perez,Individual,Financial Analyst,,52,United States,NY,BR07,2020-09-18,2025-12-22,20800.0,26,Low,False,,,False,Low,DEV-256958
+C0050,MHB71851688,Garcia Car Wash LLC,Business,Car Wash,Miguel Garcia,45,United States,NJ,BR01,2018-04-18,2025-12-29,65600.0,32,High,False,,,False,High,DEV-930815
+C0051,MHB37024472,Ana Taylor,Individual,Student,,23,India,NY,BR08,2014-02-04,2025-12-31,10300.0,15,Low,True,India,,False,Low,DEV-423699
+C0052,MHB47253728,David Ibrahim,Individual,Student,,19,Nigeria,NJ,BR01,2013-02-25,2025-12-20,11700.0,15,Low,True,Nigeria,,False,Low,DEV-841973
+C0053,MHB75680269,Ravi Davis,Individual,HVAC Technician,,64,United States,FL,BR16,2010-03-19,2025-12-23,9300.0,19,Low,False,,,False,Low,DEV-525221
+C0054,MHB58808305,Andre Davis,Individual,Registered Nurse,,41,United States,NJ,BR01,2016-01-25,2025-12-22,15900.0,14,Low,False,,,False,Low,DEV-703820
+C0055,MHB21942870,Michael Park,Individual,Pharmacist,,46,United States,NJ,BR01,2016-11-09,2025-12-28,9900.0,20,Low,False,,,False,Low,DEV-509252
+C0056,MHB11964825,Clark Property Management LLC,Business,Property Management,Sofia Clark,59,United States,NY,BR08,2023-12-30,2025-12-28,97700.0,34,Low,False,,,False,Medium,DEV-479152
+C0057,MHB17005370,Leila Khan,Individual,Tutor,,31,United States,FL,BR15,2025-11-06,2025-11-09,9600.0,30,Low,False,,,False,Low,DEV-M00001
+C0058,MHB86992782,Mei Harris,Individual,Attorney,,32,Philippines,NY,BR06,2008-07-11,2025-12-27,47000.0,13,Low,False,,,False,Low,DEV-577650
+C0059,MHB13508143,Priya Ali,Individual,Paralegal,,62,Lebanon,NJ,BR04,2023-11-26,2025-12-29,17400.0,21,Low,True,Lebanon,,False,Medium,DEV-314619
+C0060,MHB12952899,Karim Gonzalez,Individual,Delivery Courier,,37,United States,NJ,BR04,2013-07-20,2025-12-30,8000.0,34,Low,False,,,False,Low,DEV-440758
+C0061,MHB79018801,Sofia Cruz,Individual,Retired,,87,Colombia,FL,BR16,2015-07-25,2025-12-22,4200.0,12,Low,False,,,False,Low,DEV-377613
+C0062,MHB14344827,Dalia Adeyemi,Individual,Retail Manager,,55,United States,NJ,BR04,2016-07-12,2025-12-31,14200.0,18,Low,False,,,False,Low,DEV-874996
+C0063,MHB60250825,Khan Barbershop LLC,Business,Barbershop,Zainab Khan,38,United States,FL,BR15,2017-07-27,2025-12-27,45700.0,33,High,False,,,False,High,DEV-372996
+C0064,MHB40010357,Fatima Rivera,Individual,Bus Operator,,56,United States,NY,BR07,2015-09-24,2025-12-28,6400.0,18,Low,False,,,False,Low,DEV-523895
+C0065,MHB73474516,Zainab White,Individual,Electrician,,27,United States,NJ,BR01,2021-07-25,2025-12-20,11100.0,19,Low,False,,,False,Low,DEV-688357
+C0066,MHB32003068,Ivan Ali,Individual,Sales Representative,,35,United States,NY,BR06,2024-05-26,2025-12-28,19800.0,24,Low,False,,,False,Low,DEV-997780
+C0067,MHB93393188,Wei Chen,Individual,Truck Driver,,47,Bangladesh,CA,BR14,2020-01-13,2025-12-29,15000.0,19,Medium,True,Bangladesh,,False,Low,DEV-631755
+C0068,MHB16553847,Julia King,Individual,Retail Manager,,55,Mexico,NJ,BR03,2011-07-31,2025-12-26,12400.0,15,Low,False,,,False,Low,DEV-909135
+C0069,MHB65391764,Daniel Martin,Individual,Physician,,36,United States,NJ,BR04,2012-06-16,2025-12-27,94800.0,16,Low,False,,,False,Low,DEV-957659
+C0070,MHB72774681,James Haddad,Individual,Bus Operator,,60,Egypt,AZ,BR11,2020-01-04,2025-12-21,12900.0,17,Low,True,Egypt,,False,Low,DEV-953539
+C0071,MHB92676647,Nadia Gonzalez,Individual,Part-time Cashier,,35,United States,NJ,BR03,2015-11-05,2025-12-26,1000.0,3,Low,False,,,False,Low,DEV-844722
+C0072,MHB78602621,Hector Levi,Individual,Financial Analyst,,55,United States,NJ,BR02,2022-05-01,2025-12-27,25500.0,18,Low,False,,,False,Low,DEV-773263
+C0073,MHB39680684,Amira Silva,Individual,Software Developer,,46,Haiti,IL,BR18,2023-08-03,2025-12-26,19000.0,23,Low,False,,,False,Medium,DEV-585461
+C0074,MHB15321712,Zainab Cruz,Individual,Part-time Cashier,,32,United States,AZ,BR12,2024-03-30,2025-12-31,1300.0,4,Low,False,,,False,Low,DEV-891337
+C0075,MHB69160056,Arjun Thomas,Individual,Registered Nurse,,49,United States,TX,BR09,2021-03-14,2025-12-30,10700.0,15,Low,False,,,False,Low,DEV-811218
+C0076,MHB75098829,Tariq Kim,Individual,Rideshare Driver,,39,United States,NY,BR06,2023-08-06,2025-12-20,10100.0,28,Low,False,,,False,Low,DEV-145341
+C0077,MHB77203736,Ivan Ortiz,Individual,Electrician,,58,Mexico,NY,BR08,2020-02-28,2025-12-28,20300.0,18,Low,True,Mexico,,False,Low,DEV-278081
+C0078,MHB24688601,Fatima Ortiz,Individual,Architect,,26,Nigeria,NY,BR08,2023-04-27,2025-12-20,26400.0,19,Low,False,,,False,Low,DEV-663543
+C0079,MHB32484347,Mensah Trading LLC,Business,Import/Export - Mobile Phone Accessories,Eric Mensah,34,United States,NY,BR05,2016-06-22,2025-12-30,476700.0,22,Low,True,China;United Arab Emirates,mobile phone accessories,False,High,DEV-972938
+C0080,MHB13712772,James White,Individual,Retired,,78,Lebanon,NJ,BR02,2018-11-14,2025-12-22,5500.0,10,Low,False,,,False,Medium,DEV-689496
+C0081,MHB28014288,Ivan White,Individual,Tutor,,29,Ecuador,NY,BR06,2021-11-21,2025-12-28,7500.0,32,Low,False,,,False,Low,DEV-869213
+C0082,MHB92907719,Williams Property Management LLC,Business,Property Management,Ivan Williams,44,United States,NY,BR08,2013-02-01,2025-12-29,109700.0,34,Low,False,,,False,Medium,DEV-380337
+C0083,MHB17418519,Hye-jin Ibrahim,Individual,Teacher,,42,United States,NY,BR08,2012-02-06,2025-12-26,9700.0,19,Low,False,,,False,Low,DEV-898985
+C0084,MHB99378897,Cruz Trading LLC,Business,Import/Export - Used Clothing,Pedro Cruz,46,United States,FL,BR15,2009-10-18,2025-12-22,396600.0,18,Low,True,Pakistan,used clothing,False,High,DEV-770121
+C0085,MHB55088488,Kevin White,Individual,Paralegal,,48,India,NY,BR08,2022-06-28,2025-12-28,8600.0,19,Low,True,India,,False,Low,DEV-836051
+C0086,MHB45397169,Chloe Harris,Individual,Student,,19,United States,TX,BR10,2015-12-14,2025-12-25,4300.0,21,Low,False,,,False,Low,DEV-579466
+C0087,MHB56520081,Grace Martin,Individual,Student,,24,Nigeria,FL,BR16,2021-04-27,2025-12-28,17500.0,22,Low,True,Nigeria,,False,Low,DEV-326536
+C0088,MHB25748005,Ivan Sanchez,Individual,Student,,25,China,CA,BR14,2008-07-23,2025-12-20,8800.0,17,Low,True,China,,False,Low,DEV-424508
+C0089,MHB63217187,Farouk Global LLC,Business,Import/Export - Auto Parts,Yusuf Farouk,33,Haiti,NY,BR08,2023-01-24,2025-12-30,468500.0,18,Low,True,China;Mexico,auto parts,False,High,DEV-179794
+C0090,MHB58525146,Noah Johnson,Individual,Financial Analyst,,55,Lebanon,IL,BR18,2011-10-20,2025-12-20,19600.0,24,Low,False,,,False,Medium,DEV-508491
+C0091,MHB81754899,David Park,Individual,Pharmacist,,25,Mexico,NJ,BR01,2015-07-16,2025-12-31,11200.0,15,Low,True,Mexico,,False,Low,DEV-119689
+C0092,MHB28194349,Kwame Sanchez,Individual,Freelance Designer,,45,United States,TX,BR10,2014-04-23,2025-12-24,9400.0,31,Low,False,,,False,Low,DEV-417873
+C0093,MHB58253796,Megan Silva,Individual,Attorney,,55,United States,IL,BR18,2008-02-11,2025-12-26,105700.0,18,Low,False,,,False,Low,DEV-782232
+C0094,MHB89273197,Thomas Global LLC,Business,Import/Export - Textiles,Diego Thomas,30,United States,NJ,BR01,2013-03-30,2025-12-28,380100.0,24,Low,True,China;Turkey;Vietnam,textiles,False,High,DEV-229726
+C0095,MHB47807520,Nadia Farouk,Individual,Delivery Courier,,39,United States,NY,BR06,2019-04-27,2025-12-24,7600.0,40,Low,False,,,False,Low,DEV-938118
+C0096,MHB73797587,James Nguyen,Individual,Part-time Cashier,,49,United States,NC,BR20,2009-01-06,2025-12-29,1000.0,3,Low,False,,,False,Low,DEV-599192
+C0097,MHB85002833,Carlos Martin,Individual,Pharmacist,,29,United States,FL,BR15,2013-07-04,2025-12-25,8300.0,17,Low,False,,,False,Low,DEV-991151
+C0098,MHB76890078,Ravi Walker,Individual,Accountant,,30,United States,NJ,BR03,2017-09-27,2025-12-20,16900.0,13,Low,False,,,False,Low,DEV-934249
+C0099,MHB27329639,Aisha Cruz,Individual,Teacher,,32,United States,NJ,BR01,2018-05-12,2025-12-24,7300.0,21,Low,False,,,False,Low,DEV-547701
+C0100,MHB79697605,Hannah Mensah,Individual,Retired,,85,Philippines,NJ,BR02,2016-04-16,2025-12-22,6700.0,11,Low,False,,,False,Low,DEV-171555
+C0101,MHB34024028,Samuel Gomez,Individual,Engineering Manager,,26,United States,FL,BR15,2014-04-28,2025-12-28,35500.0,16,Low,False,,,False,Low,DEV-642175
+C0102,MHB71262263,Dalia Diaz,Individual,Truck Driver,,25,United States,NJ,BR04,2021-04-15,2025-12-24,14900.0,18,Medium,False,,,False,Low,DEV-285991
+C0103,MHB57808565,James Allen,Individual,Marketing Coordinator,,38,Ecuador,FL,BR16,2008-02-14,2025-12-24,9800.0,16,Low,False,,,False,Low,DEV-585261
+C0104,MHB86523614,Cohen Deli LLC,Business,Deli / Bodega,Elena Cohen,31,United States,NJ,BR02,2011-10-04,2025-12-29,440300.0,38,High,False,,,False,High,DEV-175205
+C0105,MHB24354376,Sarah Khan,Individual,HVAC Technician,,37,United States,TX,BR10,2021-08-15,2025-12-28,12000.0,14,Low,False,,,False,Low,DEV-343549
+C0106,MHB15113591,Rosa Farouk,Individual,Rideshare Driver,,36,United States,NY,BR05,2025-11-10,2025-11-13,10100.0,34,Low,False,,,False,Low,DEV-M00002
+C0107,MHB98400762,Daniel Jackson,Individual,Registered Nurse,,53,Dominican Republic,PA,BR19,2011-12-07,2025-12-30,12500.0,15,Low,True,Dominican Republic,,False,Low,DEV-949363
+C0108,MHB12360344,Michael Williams,Individual,Police Officer,,36,Ecuador,NJ,BR01,2012-12-08,2025-12-29,9800.0,18,Low,True,Ecuador,,False,Low,DEV-945418
+C0109,MHB29035170,Karim Gomez,Individual,Data Analyst,,48,Lebanon,NJ,BR01,2019-06-08,2025-12-30,29000.0,20,Low,False,,,False,Medium,DEV-664202
+C0110,MHB68328453,Ibrahim Laundromat LLC,Business,Laundromat,Priya Ibrahim,28,United States,NY,BR05,2008-04-05,2025-12-30,70300.0,36,High,False,,,False,High,DEV-495415
+C0111,MHB95356495,Yusuf Lewis,Individual,Retail Manager,,35,United States,NJ,BR02,2017-08-05,2025-12-29,7700.0,14,Low,False,,,False,Low,DEV-348337
+C0112,MHB61186177,Amira Williams,Individual,Retail Manager,,64,United States,FL,BR16,2009-10-14,2025-12-24,12300.0,13,Low,False,,,False,Low,DEV-261628
+C0113,MHB10908822,Amira Nguyen,Individual,Registered Nurse,,29,United States,CA,BR14,2023-12-31,2025-12-26,7500.0,21,Low,False,,,False,Low,DEV-961033
+C0114,MHB27320350,Sofia Mensah,Individual,Registered Nurse,,64,United States,NJ,BR03,2015-05-15,2025-12-22,13100.0,15,Low,False,,,False,Low,DEV-187216
+C0115,MHB82610069,Tariq Khan,Individual,Retired,,70,Lebanon,NY,BR06,2009-10-03,2025-12-23,6700.0,11,Low,False,,,False,Medium,DEV-268909
+C0116,MHB25680931,Kevin Reyes,Individual,Financial Analyst,,29,United States,NJ,BR03,2013-05-05,2025-12-23,58300.0,11,Low,False,,,False,Low,DEV-260506
+C0117,MHB12988286,Chloe Ibrahim,Individual,Attorney,,47,Pakistan,GA,BR17,2019-08-19,2025-12-20,34300.0,16,Low,False,,,False,Low,DEV-358069
+C0118,MHB49626357,Yusuf Perez,Individual,Administrative Assistant,,39,Kenya,IL,BR18,2012-04-09,2025-12-21,5700.0,19,Low,True,Kenya,,False,Medium,DEV-571081
+C0119,MHB57579617,Ines Ramirez,Individual,Attorney,,47,Israel,GA,BR17,2023-04-20,2025-12-20,34500.0,20,Low,False,,,False,Low,DEV-722779
+C0120,MHB78089226,Kwame Smith,Individual,Registered Nurse,,25,United States,FL,BR15,2010-09-12,2025-12-20,12100.0,14,Low,False,,,False,Low,DEV-722691
+C0121,MHB97008756,Tariq Ramirez,Individual,Marketing Coordinator,,42,United States,NY,BR08,2021-09-10,2025-12-22,9500.0,16,Low,False,,,False,Low,DEV-597099
+C0122,MHB10223013,Ines Martin,Individual,Retired,,82,Philippines,NY,BR06,2013-10-09,2025-12-27,8400.0,11,Low,False,,,False,Low,DEV-216222
+C0123,MHB32023235,Eric Walker,Individual,Attorney,,26,Israel,IL,BR18,2017-03-22,2025-12-22,35600.0,16,Low,False,,,False,Low,DEV-974135
+C0124,MHB36835612,Zainab Okafor,Individual,Freelance Designer,,38,United States,NJ,BR04,2023-02-01,2025-12-23,7900.0,26,Low,False,,,False,Low,DEV-741198
+C0125,MHB81919670,Lucia Harris,Individual,Student,,23,United States,NY,BR07,2016-07-21,2025-12-31,4200.0,14,Low,False,,,False,Low,DEV-933257
+C0126,MHB48000996,Elena Gomez,Individual,Police Officer,,40,India,CA,BR13,2018-01-03,2025-12-23,12700.0,15,Low,True,India,,False,Low,DEV-239532
+C0127,MHB35815199,Anderson Global LLC,Business,Import/Export - Auto Parts,James Anderson,34,Ecuador,NY,BR08,2014-01-21,2025-12-24,276500.0,23,Low,True,China;Mexico,auto parts,False,High,DEV-298043
+C0128,MHB40714716,Pedro Shah,Individual,Teacher,,31,United States,GA,BR17,2011-06-11,2025-12-30,7300.0,18,Low,False,,,False,Low,DEV-604587
+C0129,MHB35055970,Rachel Ali,Individual,Bus Operator,,32,Philippines,NY,BR06,2023-06-17,2025-12-28,6200.0,19,Low,True,Philippines,,False,Low,DEV-345082
+C0130,MHB44199855,Wei Gonzalez,Individual,Truck Driver,,57,United States,NY,BR08,2021-04-23,2025-12-21,12700.0,19,Medium,False,,,False,Low,DEV-649742
+C0131,MHB31357173,Julia Silva,Individual,Retired,,72,Vietnam,NJ,BR03,2013-01-30,2025-12-24,7500.0,13,Low,False,,,False,Medium,DEV-809043
+C0132,MHB62023934,Diego Lewis,Individual,Dentist,,63,Kenya,FL,BR16,2017-12-26,2025-12-26,125100.0,14,Low,False,,,False,Medium,DEV-908012
+C0133,MHB62123786,Gomez Car Wash LLC,Business,Car Wash,Megan Gomez,42,Philippines,PA,BR19,2015-11-11,2025-12-29,55700.0,42,High,False,,,False,High,DEV-298106
+C0134,MHB33548942,Fatima Farouk,Individual,Engineering Manager,,37,United States,NJ,BR01,2014-11-09,2025-12-30,65500.0,16,Low,False,,,False,Low,DEV-935063
+C0135,MHB17043310,Ahmed Cruz,Individual,Pharmacist,,33,India,PA,BR19,2014-01-18,2025-12-25,15500.0,19,Low,True,India,,False,Low,DEV-694648
+C0136,MHB16906621,Maria Mansour,Individual,Retired,,80,United States,NJ,BR02,2021-05-19,2025-12-24,4500.0,13,Low,False,,,False,Low,DEV-345800
+C0137,MHB60172080,Ravi Nguyen,Individual,Retired,,73,United States,AZ,BR11,2021-08-19,2025-12-20,4200.0,12,Low,False,,,False,Low,DEV-430831
+C0138,MHB64731602,Jason Lopez,Individual,Student,,19,Vietnam,PA,BR19,2012-10-22,2025-12-25,16900.0,14,Low,True,Vietnam,,False,Medium,DEV-900286
+C0139,MHB59930401,Flores Property Management LLC,Business,Property Management,Grace Flores,43,United States,NY,BR06,2010-05-18,2025-12-27,123400.0,32,Low,False,,,False,Medium,DEV-104585
+C0140,MHB13538744,Cohen Global LLC,Business,Import/Export - Food Products,Nadia Cohen,44,Bangladesh,NC,BR20,2016-10-03,2025-12-23,414400.0,24,Low,True,India;Turkey,food products,False,High,DEV-177794
+C0141,MHB59231460,Yusuf Reyes,Individual,Freelance Designer,,40,United States,FL,BR15,2017-05-12,2025-12-27,8200.0,39,Low,False,,,False,Low,DEV-560175
+C0142,MHB62749844,Daniel Cohen,Individual,Electrician,,38,United States,NY,BR07,2012-12-03,2025-12-24,7900.0,18,Low,False,,,False,Low,DEV-132422
+C0143,MHB74342520,Kevin Davis,Individual,Student,,22,India,NY,BR05,2010-03-15,2025-12-30,7500.0,20,Low,True,India,,False,Low,DEV-990170
+C0144,MHB91856360,Amira Miller,Individual,Software Developer,,49,United States,NJ,BR01,2015-06-27,2025-12-31,12600.0,18,Low,False,,,False,Low,DEV-718409
+C0145,MHB50787274,Reyes Global LLC,Business,Import/Export - Furniture,Arjun Reyes,47,United States,NJ,BR03,2011-02-15,2025-12-31,453400.0,23,Low,True,China;Vietnam,furniture,False,High,DEV-744489
+C0146,MHB98222529,Brian White,Individual,Student,,23,Israel,NJ,BR01,2019-04-03,2025-12-24,9800.0,18,Low,True,Israel,,False,Low,DEV-481890
+C0147,MHB22175373,Samuel White,Individual,Accountant,,38,United States,IL,BR18,2012-07-01,2025-12-27,7500.0,15,Low,False,,,False,Low,DEV-775616
+C0148,MHB28762811,Yusuf Allen,Individual,Tutor,,31,Egypt,CA,BR13,2021-01-21,2025-12-27,9400.0,30,Low,False,,,False,Low,DEV-691192
+C0149,MHB58612775,Andre Martinez,Individual,Electrician,,28,United States,NY,BR05,2020-08-28,2025-12-22,8100.0,15,Low,False,,,False,Low,DEV-655320
+C0150,MHB18593507,Mensah Property Management LLC,Business,Property Management,Jose Mensah,49,United States,AZ,BR12,2022-01-18,2025-12-21,83000.0,26,Low,False,,,False,Medium,DEV-923793
+C0151,MHB60418886,Michael Anderson,Individual,Student,,20,Kenya,IL,BR18,2016-08-23,2025-12-27,9500.0,13,Low,True,Kenya,,False,Medium,DEV-818588
+C0152,MHB47411037,Samuel Taylor,Individual,Personal Trainer,,48,United States,NJ,BR02,2008-11-27,2025-12-31,7700.0,37,Low,False,,,False,Low,DEV-584047
+C0153,MHB96581292,Gomez Deli LLC,Business,Deli / Bodega,Noah Gomez,47,United States,AZ,BR11,2017-06-13,2025-12-20,141500.0,33,High,False,,,False,High,DEV-996102
+C0154,MHB99510488,Priya Rodriguez,Individual,HVAC Technician,,52,United States,FL,BR16,2010-12-21,2025-12-21,11100.0,16,Low,False,,,False,Low,DEV-911647
+C0155,MHB20213643,Mei Scott,Individual,Freelance Designer,,52,United States,NJ,BR01,2015-12-14,2025-12-29,10400.0,43,Low,False,,,False,Low,DEV-711087
+C0156,MHB16044648,Torres Property Management LLC,Business,Property Management,Ravi Torres,51,Colombia,NJ,BR02,2018-10-14,2025-12-22,130000.0,41,Low,False,,,False,Medium,DEV-445875
+C0157,MHB16358564,Ahmed Moore,Individual,Bus Operator,,54,Israel,NJ,BR03,2023-01-25,2025-12-26,5000.0,16,Low,False,,,False,Low,DEV-518651
+C0158,MHB46427356,Priya Jackson,Individual,Dental Hygienist,,29,United States,AZ,BR12,2008-09-09,2025-12-21,14700.0,20,Low,False,,,False,Low,DEV-106613
+C0159,MHB57973654,Ana Rivera,Individual,Registered Nurse,,32,Egypt,NY,BR06,2012-05-27,2025-08-21,5000.0,12,Low,False,,,False,Low,DEV-742474
+C0160,MHB83557904,Tariq Walker,Individual,Accountant,,62,India,NY,BR05,2023-12-25,2025-12-30,11000.0,18,Low,False,,,False,Low,DEV-389914
+C0161,MHB50883804,Hye-jin White,Individual,Student,,23,South Korea,NY,BR08,2008-11-18,2025-12-26,7400.0,15,Low,True,South Korea,,False,Low,DEV-499402
+C0162,MHB89151345,Fatima Brown,Individual,Teacher,,41,United States,NY,BR05,2020-04-13,2025-12-23,11500.0,15,Low,False,,,False,Low,DEV-175367
+C0163,MHB14408948,Kevin Khan,Individual,Paralegal,,56,China,NY,BR06,2019-07-20,2025-12-22,11300.0,19,Low,False,,,False,Low,DEV-651152
+C0164,MHB33131801,Hannah Davis,Individual,Freelance Photographer,,31,United States,NJ,BR02,2016-09-25,2025-12-24,9200.0,37,Low,False,,,False,Low,DEV-102011
+C0165,MHB84586378,Rosa Chen,Individual,Travel Nurse,,37,United States,NJ,BR02,2010-08-08,2025-12-21,12700.0,18,Medium,False,,,False,Low,DEV-366748
+C0166,MHB84205231,Scott Property Management LLC,Business,Property Management,David Scott,51,United States,NY,BR07,2010-12-20,2025-12-21,131300.0,28,Low,False,,,False,Medium,DEV-473278
+C0167,MHB50347664,Camila Jackson,Individual,Student,,20,United States,TX,BR09,2013-07-22,2025-12-22,5900.0,16,Low,False,,,False,Low,DEV-881836
+C0168,MHB11696642,Rosa Rahman,Individual,Retired,,83,United States,NY,BR08,2014-12-27,2025-12-21,6100.0,15,Low,False,,,False,Low,DEV-656266
+C0169,MHB58908827,Ramirez Property Management LLC,Business,Property Management,Maria Ramirez,25,Bangladesh,CA,BR13,2020-04-16,2025-12-20,114500.0,34,Low,False,,,False,Medium,DEV-934525
+C0170,MHB12666869,Amira Ibrahim,Individual,Retired,,72,United States,NC,BR20,2019-12-20,2025-12-20,5600.0,14,Low,False,,,False,Low,DEV-715343
+C0171,MHB31836283,Chloe White,Individual,Bus Operator,,55,United States,NJ,BR04,2011-08-06,2025-12-31,14400.0,18,Low,False,,,False,Low,DEV-832173
+C0172,MHB86487269,Nadia Allen,Individual,Software Developer,,51,United States,TX,BR10,2011-02-16,2025-12-21,6200.0,15,Low,False,,,False,Low,DEV-792155
+C0173,MHB72993012,Scott Imports LLC,Business,Import/Export - Auto Parts,Omar Scott,27,United States,FL,BR16,2019-06-18,2025-12-23,328800.0,26,Low,True,China;Mexico,auto parts,False,High,DEV-296018
+C0174,MHB52917232,Ahmed Torres,Individual,Retail Manager,,46,United States,NJ,BR01,2012-08-08,2025-12-23,9500.0,16,Low,False,,,False,Low,DEV-429208
+C0175,MHB51733412,Sarah Silva,Individual,Dentist,,60,United States,FL,BR15,2014-11-30,2025-12-21,125800.0,12,Low,False,,,False,Low,DEV-213617
+C0176,MHB87108955,Michael Perez,Individual,Physician,,53,United States,TX,BR09,2009-04-25,2025-12-22,45300.0,15,Low,False,,,False,Low,DEV-710230
+C0177,MHB45995610,Dalia Clark,Individual,Electrician,,65,United States,NY,BR05,2024-08-21,2025-12-26,12400.0,20,Low,False,,,False,Low,DEV-530644
+C0178,MHB41028957,Thomas Convenience Store LLC,Business,Convenience Store,Mei Thomas,35,United States,NY,BR06,2021-02-14,2025-12-31,189200.0,41,High,False,,,False,High,DEV-233757
+C0179,MHB36309295,Ana Ali,Individual,Administrative Assistant,,27,Philippines,NJ,BR03,2011-10-29,2025-12-31,10100.0,16,Low,False,,,False,Low,DEV-115939
+C0180,MHB93890210,Flores International LLC,Business,Import/Export - Textiles,Jason Flores,51,United States,IL,BR18,2020-07-08,2025-12-29,359000.0,22,Low,True,China;Turkey;Vietnam,textiles,False,High,DEV-845924
+C0181,MHB95507679,Tunde Williams,Individual,Personal Trainer,,43,United States,NJ,BR04,2016-05-02,2025-12-22,7900.0,35,Low,False,,,False,Low,DEV-740147
+C0182,MHB75671379,Diego Moore,Individual,Attorney,,45,United States,NY,BR07,2011-06-30,2025-12-23,34400.0,14,Low,False,,,False,Low,DEV-635232
+C0183,MHB47258863,Zainab Chen,Individual,Dentist,,49,United States,IL,BR18,2020-07-24,2025-12-29,137400.0,15,Low,False,,,False,Low,DEV-266367
+C0184,MHB77305257,Nguyen Global LLC,Business,Import/Export - Mobile Phone Accessories,Leila Nguyen,45,Ecuador,NJ,BR04,2015-11-10,2025-12-23,395900.0,24,Low,True,China;United Arab Emirates,mobile phone accessories,False,High,DEV-433310
+C0185,MHB72629089,Camila Okafor,Individual,Police Officer,,52,United States,NY,BR07,2013-06-16,2025-12-27,9300.0,14,Low,False,,,False,Low,DEV-567382
+C0186,MHB34184363,Noah Sanchez,Individual,Student,,23,United States,NY,BR05,2012-11-23,2025-12-21,5600.0,20,Low,False,,,False,Low,DEV-298790
+C0187,MHB20725040,Julia Rahman,Individual,Marketing Coordinator,,30,United States,IL,BR18,2020-05-13,2025-12-28,13700.0,22,Low,False,,,False,Low,DEV-701131
+C0188,MHB66850154,Elena Farouk,Individual,Bus Operator,,46,United States,FL,BR15,2017-05-30,2025-12-22,7300.0,14,Low,False,,,False,Low,DEV-148015
+C0189,MHB73130724,Luis Gonzalez,Individual,Registered Nurse,,24,United States,NY,BR05,2014-04-15,2025-12-31,7700.0,16,Low,False,,,False,Low,DEV-613820
+C0190,MHB81975989,Ramirez Global LLC,Business,Import/Export - Auto Parts,Leila Ramirez,62,United States,NJ,BR01,2013-10-25,2025-12-21,259300.0,19,Low,True,China;Mexico,auto parts,False,High,DEV-279710
+C0191,MHB68842835,Noah Brown,Individual,Accountant,,49,United States,TX,BR10,2017-01-10,2025-12-31,9700.0,19,Low,False,,,False,Low,DEV-856797
+C0192,MHB75742023,Lucia Davis,Individual,Student,,23,South Korea,NJ,BR03,2012-01-06,2025-12-29,9200.0,18,Low,True,South Korea,,False,Low,DEV-199091
+C0193,MHB82600308,Chloe Thomas,Individual,Paralegal,,47,United States,NY,BR05,2012-08-30,2025-12-31,10800.0,15,Low,False,,,False,Low,DEV-540027
+C0194,MHB30586540,Amira Taylor,Individual,Rideshare Driver,,28,United States,NY,BR06,2013-12-09,2025-12-21,8700.0,30,Low,False,,,False,Low,DEV-637800
+C0195,MHB91076366,Linh Diaz,Individual,Travel Nurse,,52,United States,FL,BR16,2008-05-21,2025-12-21,14200.0,19,Medium,False,,,False,Low,DEV-976811
+C0196,MHB46636669,Cohen Food Truck LLC,Business,Food Truck,Jose Cohen,48,United States,TX,BR10,2008-09-16,2025-12-24,134400.0,35,High,False,,,False,High,DEV-603954
+C0197,MHB74196115,Hector Johnson,Individual,Student,,23,Nigeria,NY,BR07,2026-01-31,,4200.0,21,Low,False,,,False,Low,DEV-M00003
+C0198,MHB21308797,Tunde Lopez,Individual,Physician,,61,Vietnam,NY,BR07,2013-08-19,2025-12-24,123200.0,13,Low,False,,,False,Medium,DEV-683962
+C0199,MHB21199688,Jose Moore,Individual,Personal Trainer,,49,Vietnam,NJ,BR04,2011-07-13,2025-12-23,6400.0,25,Low,False,,,False,Medium,DEV-755925
+C0200,MHB23957394,Rosa Williams,Individual,Bus Operator,,56,United States,NJ,BR01,2023-06-19,2025-12-28,13800.0,16,Low,False,,,False,Low,DEV-909639
+C0201,MHB27367699,Leila Perez,Individual,Dental Hygienist,,53,United States,FL,BR15,2018-01-31,2025-12-24,7900.0,14,Low,False,,,False,Low,DEV-923894
+C0202,MHB53137421,Farouk Property Management LLC,Business,Property Management,Marcus Farouk,49,Jamaica,NJ,BR01,2013-12-23,2025-12-26,186300.0,36,Low,False,,,False,Medium,DEV-823630
+C0203,MHB84270764,Miguel Cruz,Individual,Retired,,81,Israel,FL,BR15,2020-08-08,2025-12-29,5400.0,11,Low,False,,,False,Low,DEV-443687
+C0204,MHB70134982,Luis Mensah,Individual,Attorney,,59,Pakistan,CA,BR14,2009-07-27,2025-12-23,102000.0,17,Low,False,,,False,Low,DEV-625144
+C0205,MHB45645305,Sanchez Restaurant LLC,Business,Restaurant,Diego Sanchez,59,United States,IL,BR18,2022-08-30,2025-12-27,174000.0,40,High,False,,,False,High,DEV-132277
+C0206,MHB69926833,Chen Imports LLC,Business,Import/Export - Used Clothing,Hye-jin Chen,59,United States,FL,BR15,2013-01-22,2025-12-27,434700.0,17,Low,True,Pakistan,used clothing,False,High,DEV-349417
+C0207,MHB16953942,Megan Lopez,Individual,Financial Analyst,,40,Nigeria,NJ,BR04,2021-04-23,2025-12-31,21600.0,22,Low,False,,,False,Low,DEV-910167
+C0208,MHB91205716,Sarah Rodriguez,Individual,Attorney,,32,Philippines,NJ,BR04,2014-11-03,2025-12-26,121000.0,15,Low,False,,,False,Low,DEV-344744
+C0209,MHB20900128,Adeyemi Deli LLC,Business,Deli / Bodega,Ana Adeyemi,61,United States,AZ,BR12,2012-07-17,2025-12-30,271800.0,32,High,False,,,False,High,DEV-555514
+C0210,MHB68139051,Jackson Property Management LLC,Business,Property Management,Michael Jackson,25,Kenya,PA,BR19,2014-01-24,2025-12-31,168700.0,33,Low,False,,,False,High,DEV-366737
+C0211,MHB31863277,Ravi Haddad,Individual,Physician,,25,United States,NY,BR08,2017-10-01,2025-12-25,29000.0,13,Low,False,,,False,Low,DEV-762101
+C0212,MHB70439610,Camila Brown,Individual,HVAC Technician,,52,India,TX,BR09,2008-12-19,2025-12-30,13300.0,20,Low,True,India,,False,Low,DEV-680818
+C0213,MHB39107733,Yasmin Garcia,Individual,Retired,,78,United States,NJ,BR04,2012-04-29,2025-12-21,5600.0,10,Low,False,,,False,Low,DEV-967891
+C0214,MHB19914453,Carlos Wilson,Individual,Teacher,,49,United States,NC,BR20,2017-09-05,2025-12-24,8700.0,18,Low,False,,,False,Low,DEV-658719
+C0215,MHB50795712,Tariq Rodriguez,Individual,Bus Operator,,51,United States,NY,BR06,2017-04-30,2025-12-31,12300.0,15,Low,False,,,False,Low,DEV-531693
+C0216,MHB60395377,Grace Wong,Individual,Police Officer,,28,Dominican Republic,TX,BR09,2012-07-22,2025-12-29,10100.0,15,Low,False,,,False,Low,DEV-363812
+C0217,MHB70906476,Megan Rivera,Individual,Retired,,82,United States,AZ,BR12,2020-03-01,2025-12-26,3500.0,9,Low,False,,,False,Low,DEV-446107
+C0218,MHB55144714,Rosa Allen,Individual,Financial Analyst,,47,India,NY,BR06,2015-04-19,2025-12-25,42000.0,18,Low,False,,,False,Low,DEV-469911
+C0219,MHB34962930,Eric Young,Individual,Financial Analyst,,38,United States,TX,BR09,2020-06-22,2025-12-24,37500.0,15,Low,False,,,False,Low,DEV-247608
+C0220,MHB81727425,Johnson Trading LLC,Business,Import/Export - Furniture,Olivia Johnson,29,United States,NY,BR06,2015-07-21,2025-12-23,317400.0,17,Low,True,China;Vietnam,furniture,False,High,DEV-660442
+C0221,MHB63896470,Olivia Moore,Individual,Tutor,,19,United States,TX,BR10,2026-01-09,,6600.0,38,Low,False,,,False,Low,DEV-M00001
+C0222,MHB90283556,Fatima Martin,Individual,Student,,19,United States,NY,BR05,2012-12-09,2025-12-29,5500.0,17,Low,False,,,False,Low,DEV-195008
+C0223,MHB59544152,Hye-jin Perez,Individual,Freelance Designer,,45,United States,NC,BR20,2022-01-09,2025-12-29,7400.0,36,Low,False,,,False,Low,DEV-967265
+C0224,MHB89776037,Amira Ortiz,Individual,HVAC Technician,,49,United States,TX,BR10,2024-05-07,2025-12-23,10000.0,13,Low,False,,,False,Low,DEV-906104
+C0225,MHB39975490,Martin Property Management LLC,Business,Property Management,Eric Martin,44,United States,NJ,BR04,2015-04-29,2025-12-29,80700.0,29,Low,False,,,False,Medium,DEV-392428
+C0226,MHB31852083,Hye-jin Harris,Individual,Marketing Coordinator,,47,United States,NY,BR06,2014-02-27,2025-12-23,16000.0,13,Low,False,,,False,Low,DEV-301100
+C0227,MHB90797060,White Trading LLC,Business,Import/Export - Furniture,Lucia White,57,Vietnam,TX,BR10,2018-04-10,2025-12-23,428200.0,24,Low,True,China;Vietnam,furniture,False,High,DEV-694386
+C0228,MHB47695900,Samuel Rivera,Individual,Student,,19,Nigeria,NY,BR05,2010-12-14,2025-12-26,8400.0,18,Low,True,Nigeria,,False,Low,DEV-382813
+C0229,MHB16795130,Leila Shah,Individual,Freelance Photographer,,30,United States,NY,BR05,2015-11-06,2025-12-30,10800.0,36,Low,False,,,False,Low,DEV-945148
+C0230,MHB32720613,Hye-jin Martin,Individual,Bus Operator,,52,United States,NY,BR07,2017-11-02,2025-12-28,7300.0,19,Low,False,,,False,Low,DEV-127600
+C0231,MHB29294953,Miller Restaurant LLC,Business,Restaurant,Megan Miller,44,United States,CA,BR13,2010-09-06,2025-12-23,69300.0,36,High,False,,,False,High,DEV-741065
+C0232,MHB80392994,Williams Food Truck LLC,Business,Food Truck,Marcus Williams,56,United States,NY,BR08,2010-04-08,2025-12-23,79400.0,39,High,False,,,False,High,DEV-341041
+C0233,MHB55041407,Marcus Patel,Individual,Retired,,87,United States,FL,BR16,2018-11-15,2025-12-29,4600.0,11,Low,False,,,False,Low,DEV-679437
+C0234,MHB58424451,Sarah Lopez,Individual,Financial Analyst,,45,United States,NY,BR07,2015-10-10,2025-12-22,12300.0,21,Low,False,,,False,Low,DEV-794177
+C0235,MHB35782946,Tunde Thomas,Individual,Delivery Courier,,65,United States,TX,BR10,2011-01-13,2025-12-20,6800.0,28,Low,False,,,False,Low,DEV-819294
+C0236,MHB68152834,Karim Moore,Individual,Retired,,68,Morocco,TX,BR09,2014-05-21,2025-12-22,7200.0,12,Low,False,,,False,Low,DEV-714516
+C0237,MHB97356908,Elena Rivera,Individual,Registered Nurse,,65,United States,NJ,BR03,2010-08-27,2025-12-26,8300.0,14,Low,False,,,False,Low,DEV-253498
+C0238,MHB34843196,Martinez Laundromat LLC,Business,Laundromat,Pedro Martinez,58,Colombia,NC,BR20,2015-03-25,2025-12-27,64300.0,35,High,False,,,True,High,DEV-118570
+C0239,MHB33691405,Lopez Car Wash LLC,Business,Car Wash,Michael Lopez,55,United States,NJ,BR01,2018-10-12,2025-12-21,229100.0,39,High,False,,,False,High,DEV-942713
+C0240,MHB68848168,Linh Martinez,Individual,Registered Nurse,,28,United States,NJ,BR02,2017-09-20,2025-12-24,9200.0,16,Low,False,,,False,Low,DEV-196584
+C0241,MHB67451213,Hector Rivera,Individual,Electrician,,61,Philippines,NY,BR07,2024-05-29,2025-12-29,14300.0,21,Low,True,Philippines,,False,Low,DEV-277990
+C0242,MHB98893027,Luis King,Individual,Administrative Assistant,,25,United States,NJ,BR01,2009-12-24,2025-12-30,11400.0,15,Low,False,,,False,Low,DEV-557861
+C0243,MHB65087402,Adeyemi Property Management LLC,Business,Property Management,Ines Adeyemi,57,Kenya,CA,BR14,2012-11-27,2025-12-23,110400.0,31,Low,False,,,False,High,DEV-393722
+C0244,MHB68714212,James Park,Individual,Retired,,80,United States,NY,BR07,2024-08-26,2025-12-27,5300.0,14,Low,False,,,False,Low,DEV-514184
+C0245,MHB17944210,Grace Clark,Individual,Police Officer,,26,United States,AZ,BR12,2022-04-03,2025-12-29,12000.0,20,Low,False,,,False,Low,DEV-216940
+C0246,MHB45619012,Amira Martin,Individual,Retail Manager,,40,United States,NJ,BR01,2018-09-19,2025-12-24,18700.0,17,Low,False,,,False,Low,DEV-861445
+C0247,MHB52244384,Megan Diaz,Individual,Personal Trainer,,33,United States,IL,BR18,2015-06-11,2025-12-27,7000.0,25,Low,False,,,False,Low,DEV-490374
+C0248,MHB65463156,Rosa Silva,Individual,Retail Manager,,38,United States,NY,BR05,2013-01-03,2025-12-21,10900.0,16,Low,False,,,False,Low,DEV-849915
+C0249,MHB12526301,Ines White,Individual,Student,,20,Vietnam,NJ,BR03,2019-02-26,2025-12-24,16800.0,16,Low,True,Vietnam,,False,Medium,DEV-634346
+C0250,MHB91702184,Jose Lewis,Individual,Bus Operator,,51,Dominican Republic,NC,BR20,2020-12-21,2025-12-28,15600.0,20,Low,True,Dominican Republic,,False,Low,DEV-678784
+C0251,MHB15932626,Amira Farouk,Individual,Homemaker,,34,United States,AZ,BR12,2014-06-04,2025-12-23,2900.0,3,Low,False,,,False,Low,DEV-892636
+C0252,MHB89272264,Karim Ortiz,Individual,Delivery Courier,,54,United States,NY,BR06,2016-07-11,2025-12-26,8300.0,37,Low,False,,,False,Low,DEV-355659
+C0253,MHB95025626,Nadia Rahman,Individual,Administrative Assistant,,29,United States,NY,BR08,2019-12-01,2025-12-26,11100.0,16,Low,False,,,False,Low,DEV-662769
+C0254,MHB56764418,Silva Deli LLC,Business,Deli / Bodega,Karim Silva,65,United States,NJ,BR02,2013-05-30,2025-12-29,136400.0,32,High,False,,,False,High,DEV-927913
+C0255,MHB21707128,Rachel Sanchez,Individual,Unemployed,,19,United States,NJ,BR01,2025-11-20,2025-11-23,1100.0,3,Low,False,,,False,Low,DEV-M00002
+C0256,MHB55621646,Sanchez Convenience Store LLC,Business,Convenience Store,Tunde Sanchez,62,United States,NJ,BR04,2021-08-05,2025-12-22,201800.0,43,High,False,,,False,High,DEV-868897
+C0257,MHB55939381,Wei Ramirez,Individual,Student,,21,Kenya,AZ,BR12,2022-07-08,2025-12-27,12000.0,22,Low,True,Kenya,,False,Medium,DEV-302471
+C0258,MHB78163557,Karim Martin,Individual,Architect,,62,Mexico,NY,BR08,2012-04-27,2025-12-31,32900.0,18,Low,False,,,False,Low,DEV-881649
+C0259,MHB92711640,Arjun Flores,Individual,Financial Analyst,,61,United States,NJ,BR04,2017-10-07,2025-12-22,32800.0,17,Low,False,,,False,Low,DEV-909243
+C0260,MHB99954046,Hannah Hernandez,Individual,Financial Analyst,,65,United States,NJ,BR01,2013-03-17,2025-12-23,16300.0,19,Low,False,,,False,Low,DEV-561629
+C0261,MHB60355843,Luis Rodriguez,Individual,Retired,,84,Lebanon,AZ,BR12,2023-09-19,2025-12-31,3700.0,9,Low,False,,,False,Medium,DEV-351979
+C0262,MHB65491986,Morales Convenience Store LLC,Business,Convenience Store,Hye-jin Morales,39,United States,GA,BR17,2015-05-09,2025-12-29,136200.0,43,High,False,,,False,High,DEV-364839
+C0263,MHB70723342,Julia Farouk,Individual,Retired,,38,Nigeria,AZ,BR11,2021-04-04,2025-12-29,1300.0,4,Low,False,,,False,Low,DEV-466542
+C0264,MHB47073333,Lewis Laundromat LLC,Business,Laundromat,Miguel Lewis,35,United States,FL,BR16,2008-03-27,2025-12-26,61300.0,35,High,False,,,False,High,DEV-320398
+C0265,MHB81449441,David Martin,Individual,Unemployed,,54,Jamaica,NY,BR07,2018-08-31,2025-12-30,1400.0,4,Low,False,,,False,Low,DEV-121323
+C0266,MHB74406631,Dalia Walker,Individual,Physician,,39,United States,FL,BR16,2012-02-29,2025-12-28,48100.0,19,Low,False,,,False,Low,DEV-529296
+C0267,MHB82269036,Samuel Clark,Individual,Registered Nurse,,32,United States,NY,BR08,2023-02-23,2025-12-21,10700.0,18,Low,False,,,False,Low,DEV-512434
+C0268,MHB62540513,Davis Property Management LLC,Business,Property Management,Marcus Davis,27,Dominican Republic,NJ,BR03,2018-09-13,2025-12-31,166700.0,47,Low,False,,,False,Medium,DEV-237458
+C0269,MHB22917685,Yusuf Adeyemi,Individual,Paralegal,,32,United States,NY,BR08,2021-07-06,2025-12-26,9100.0,17,Low,False,,,False,Low,DEV-698802
+C0270,MHB26783313,Samuel Wilson,Individual,Tutor,,27,Ecuador,NJ,BR01,2014-02-20,2025-12-22,8700.0,29,Low,False,,,False,Low,DEV-125630
+C0271,MHB90387350,Lucia Rahman,Individual,Paralegal,,40,United States,PA,BR19,2008-12-08,2025-12-25,9200.0,17,Low,False,,,False,Low,DEV-518217
+C0272,MHB69589174,Karim Kim,Individual,Retired,,68,Vietnam,TX,BR10,2017-06-07,2025-12-20,5200.0,11,Low,False,,,False,Medium,DEV-278567
+C0273,MHB19362835,Mei Levi,Individual,Teacher,,29,United States,NY,BR05,2010-02-04,2025-12-31,12500.0,15,Low,False,,,False,Low,DEV-458085
+C0274,MHB34308577,Gonzalez Barbershop LLC,Business,Barbershop,Aisha Gonzalez,54,United States,NJ,BR02,2019-12-02,2025-12-25,221900.0,39,High,False,,,False,High,DEV-335064
+C0275,MHB40323416,Yasmin Patel,Individual,Retail Manager,,33,United States,NJ,BR01,2022-02-09,2025-12-21,8200.0,15,Low,False,,,False,Low,DEV-395270
+C0276,MHB75174871,Aisha Taylor,Individual,Retired,,74,United States,NJ,BR03,2009-08-03,2025-12-22,2700.0,14,Low,False,,,False,Low,DEV-970467
+C0277,MHB11246288,Ivan Ibrahim,Individual,Dental Hygienist,,53,United States,NY,BR07,2022-04-01,2025-12-28,12400.0,16,Low,False,,,False,Low,DEV-952726
+C0278,MHB73222864,Camila Mansour,Individual,Financial Analyst,,47,United States,CA,BR14,2013-08-31,2025-12-29,44600.0,16,Low,False,,,False,Low,DEV-248251
+C0279,MHB34374289,Ivan Clark,Individual,Paralegal,,54,United States,NY,BR07,2023-08-22,2025-12-23,11300.0,14,Low,False,,,False,Low,DEV-593696
+C0280,MHB61875022,Lucia Levi,Individual,Paralegal,,47,United States,NJ,BR04,2020-07-01,2025-12-22,9500.0,18,Low,False,,,False,Low,DEV-608358
+C0281,MHB82159061,Johnson Laundromat LLC,Business,Laundromat,Aisha Johnson,34,United States,NJ,BR01,2016-10-20,2025-12-22,238000.0,31,High,False,,,False,High,DEV-613336
+C0282,MHB32820408,Smith International LLC,Business,Import/Export - Furniture,Zainab Smith,45,India,NY,BR05,2014-06-23,2025-12-25,535800.0,22,Low,True,China;Vietnam,furniture,False,High,DEV-584180
+C0283,MHB34022383,Fatima Martinez,Individual,Homemaker,,57,United States,NJ,BR01,2020-07-14,2025-12-28,1600.0,3,Low,False,,,False,Low,DEV-578612
+C0284,MHB95013496,Carlos Johnson,Individual,Retired,,72,United States,NY,BR07,2010-06-09,2025-12-31,4700.0,14,Low,False,,,False,Low,DEV-497239
+C0285,MHB99411912,Hector Rahman,Individual,Personal Trainer,,60,Philippines,NJ,BR02,2011-07-14,2025-12-20,6900.0,26,Low,False,,,False,Low,DEV-960300
+C0286,MHB40551577,Camila Hernandez,Individual,Pharmacist,,25,United States,NJ,BR04,2024-03-12,2025-12-24,11200.0,18,Low,False,,,False,Low,DEV-614712
+C0287,MHB61884333,Julia Lewis,Individual,Retired,,76,United States,NJ,BR04,2022-04-29,2025-12-21,6800.0,11,Low,False,,,False,Low,DEV-977438
+C0288,MHB18539306,Adeyemi Laundromat LLC,Business,Laundromat,Kevin Adeyemi,54,United States,FL,BR16,2011-07-24,2025-12-25,185800.0,42,High,False,,,False,High,DEV-751575
+C0289,MHB47567424,Rosa Garcia,Individual,Retired,,69,United States,AZ,BR12,2016-07-20,2025-12-28,5200.0,11,Low,False,,,False,Low,DEV-277119
+C0290,MHB46251558,Ana Ibrahim,Individual,Travel Nurse,,35,United States,NJ,BR03,2019-09-28,2025-12-25,11500.0,19,Medium,False,,,False,Low,DEV-392437
+C0291,MHB90718864,Arjun White,Individual,Retired,,49,Vietnam,TX,BR09,2012-08-27,2025-07-07,1000.0,3,Low,False,,,False,Medium,DEV-617986
+C0292,MHB29985767,Zainab Clark,Individual,Architect,,39,United States,NJ,BR03,2016-12-22,2025-12-24,52600.0,14,Low,False,,,False,Low,DEV-436467
+C0293,MHB70232601,Dalia Harris,Individual,Engineering Manager,,26,Colombia,NJ,BR03,2020-10-25,2025-12-21,31800.0,18,Low,False,,,False,Low,DEV-384356
+C0294,MHB42090069,Rodriguez Convenience Store LLC,Business,Convenience Store,Aisha Rodriguez,30,Ecuador,NY,BR07,2010-06-28,2025-12-20,55300.0,35,High,False,,,False,High,DEV-528587
+C0295,MHB45913278,Naomi Taylor,Individual,Retail Manager,,46,Pakistan,NY,BR07,2021-08-08,2025-12-26,7400.0,17,Low,True,Pakistan,,False,Low,DEV-776157
+C0296,MHB45359379,Nadia Williams,Individual,Accountant,,50,Lebanon,CA,BR14,2015-03-28,2025-12-24,9700.0,17,Low,False,,,False,Medium,DEV-414342
+C0297,MHB76159607,Priya Torres,Individual,Teacher,,48,United States,NJ,BR02,2024-03-05,2025-12-23,12000.0,14,Low,False,,,False,Low,DEV-387448
+C0298,MHB91746874,Olivia Ali,Individual,Administrative Assistant,,51,United States,NJ,BR04,2010-06-23,2025-12-31,11300.0,18,Low,False,,,False,Low,DEV-139426
+C0299,MHB11279172,Shah Laundromat LLC,Business,Laundromat,Emily Shah,32,Colombia,CA,BR14,2021-01-21,2025-12-20,426100.0,39,High,False,,,False,High,DEV-869890
+C0300,MHB69237437,Brown Restaurant LLC,Business,Restaurant,Rosa Brown,46,Haiti,FL,BR15,2011-05-11,2025-12-30,48800.0,32,High,False,,,False,High,DEV-285482
+C0301,MHB18056703,Marcus Martin,Individual,Paralegal,,59,Lebanon,NY,BR05,2020-02-13,2025-12-23,6600.0,19,Low,False,,,False,Medium,DEV-301368
+C0302,MHB41954407,Miguel Levi,Individual,Architect,,48,United States,NY,BR07,2024-03-04,2025-12-27,49600.0,18,Low,False,,,False,Low,DEV-255845
+C0303,MHB33664314,Ivan Haddad,Individual,Paralegal,,40,United States,NY,BR08,2012-06-26,2025-12-21,21100.0,17,Low,False,,,False,Low,DEV-251923
+C0304,MHB61496852,Ana Ortiz,Individual,Marketing Coordinator,,59,Vietnam,NY,BR05,2020-09-19,2025-12-24,9100.0,18,Low,True,Vietnam,,False,Medium,DEV-985549
+C0305,MHB30719022,Hye-jin Patel,Individual,Retired,,82,United States,CA,BR14,2009-06-24,2025-12-29,5000.0,12,Low,False,,,False,Low,DEV-444645
+C0306,MHB34396682,Miguel Flores,Individual,Part-time Cashier,,36,Mexico,NJ,BR01,2018-09-25,2025-12-29,1000.0,3,Low,False,,,False,Low,DEV-708112
+C0307,MHB91556322,David Wong,Individual,Registered Nurse,,24,United States,TX,BR09,2023-09-16,2025-12-20,7800.0,15,Low,False,,,False,Low,DEV-954930
+C0308,MHB49544400,Jackson Barbershop LLC,Business,Barbershop,Yasmin Jackson,61,Kenya,IL,BR18,2016-11-03,2025-12-23,86500.0,44,High,False,,,False,High,DEV-930181
+C0309,MHB18940319,Kevin Ali,Individual,Administrative Assistant,,52,Nigeria,NY,BR07,2011-02-04,2025-12-23,11700.0,14,Low,False,,,False,Low,DEV-348718
+C0310,MHB73810975,Arjun Sanchez,Individual,Pharmacist,,27,United States,NY,BR05,2008-07-10,2025-12-23,17200.0,16,Low,False,,,False,Low,DEV-807830
+C0311,MHB28170393,Carlos Farouk,Individual,Student,,25,China,CA,BR14,2019-02-07,2025-12-23,11000.0,14,Low,True,China,,False,Low,DEV-252929
+C0312,MHB92033848,Ramirez International LLC,Business,Import/Export - Food Products,Julia Ramirez,59,United States,PA,BR19,2020-08-18,2025-12-26,347200.0,18,Low,True,India;Turkey,food products,False,High,DEV-443990
+C0313,MHB13849013,Clark Global LLC,Business,Import/Export - Food Products,Kwame Clark,31,United States,NY,BR07,2017-09-29,2025-12-27,433200.0,22,Low,True,India;Turkey,food products,False,High,DEV-932020
+C0314,MHB45930045,Tariq Cohen,Individual,HVAC Technician,,49,United States,FL,BR16,2014-03-18,2025-12-30,12100.0,19,Low,False,,,False,Low,DEV-453859
+C0315,MHB80810080,Brian Reyes,Individual,Student,,24,United States,NY,BR08,2012-07-14,2025-12-29,5500.0,16,Low,False,,,False,Low,DEV-680154
+C0316,MHB33552382,Andre Ortiz,Individual,Student,,20,India,AZ,BR12,2026-02-05,,3600.0,12,Low,True,India,,False,Low,DEV-M00003
+C0317,MHB42648783,Carlos Reyes,Individual,Freelance Photographer,,20,United States,NY,BR07,2026-01-11,,8500.0,22,Low,False,,,False,Low,DEV-M00001
+C0318,MHB87510551,Grace Thomas,Individual,Retail Manager,,24,United States,AZ,BR12,2017-05-28,2025-12-27,9700.0,16,Low,False,,,False,Low,DEV-644427
+C0319,MHB42457969,Eric Cohen,Individual,Unemployed,,34,United States,AZ,BR11,2020-03-14,2025-12-27,1000.0,3,Low,False,,,False,Low,DEV-400005
+C0320,MHB62311563,Hector Chen,Individual,Student,,24,Kenya,NJ,BR04,2020-10-09,2025-12-24,9300.0,19,Low,True,Kenya,,False,Medium,DEV-812859
+C0321,MHB13283283,Priya Hernandez,Individual,Electrician,,25,Morocco,CA,BR14,2009-09-30,2025-12-28,8300.0,13,Low,False,,,False,Low,DEV-134494
+C0322,MHB42222455,Arjun Anderson,Individual,Architect,,38,United States,TX,BR09,2011-03-09,2025-12-27,20100.0,15,Low,False,,,False,Low,DEV-816829
+C0323,MHB86897289,Hector Ali,Individual,Freelance Designer,,54,United States,NY,BR08,2015-06-23,2025-12-29,8200.0,35,Low,False,,,False,Low,DEV-169712
+C0324,MHB71909817,Cruz Restaurant LLC,Business,Restaurant,Tunde Cruz,41,United States,NY,BR07,2015-08-07,2025-12-21,75800.0,35,High,False,,,False,High,DEV-637552
+C0325,MHB53958354,Yusuf Rodriguez,Individual,Pharmacist,,25,Vietnam,FL,BR15,2014-07-13,2025-12-24,11900.0,17,Low,True,Vietnam,,False,Medium,DEV-709863
+C0326,MHB95045872,Yusuf King,Individual,Accountant,,27,United States,TX,BR09,2013-08-28,2025-12-21,5800.0,16,Low,False,,,False,Low,DEV-871552
+C0327,MHB23344435,Andre Patel,Individual,Pharmacist,,33,India,PA,BR19,2008-01-15,2025-12-24,12400.0,18,Low,False,,,False,Low,DEV-629112
+C0328,MHB63256368,Noah Reyes,Individual,Dental Hygienist,,42,United States,NY,BR08,2008-10-06,2025-12-26,9800.0,15,Low,False,,,False,Low,DEV-387395
+C0329,MHB79185595,Morales Property Management LLC,Business,Property Management,Miguel Morales,53,United States,NY,BR08,2017-08-18,2025-12-21,77300.0,24,Low,False,,,False,Medium,DEV-130630
+C0330,MHB98622454,Lucia Scott,Individual,Police Officer,,65,United States,NY,BR08,2018-03-30,2025-12-29,13100.0,18,Low,False,,,False,Low,DEV-107941
+C0331,MHB85008403,Naomi Martin,Individual,Software Developer,,43,United States,NY,BR07,2020-09-16,2025-12-31,18500.0,19,Low,False,,,False,Low,DEV-302561
+C0332,MHB45742550,Harris Barbershop LLC,Business,Barbershop,Naomi Harris,32,United States,AZ,BR11,2008-09-09,2025-12-27,354500.0,33,High,False,,,False,High,DEV-438645
+C0333,MHB39111708,Andre Gonzalez,Individual,Retired,,49,United States,NJ,BR02,2018-11-15,2025-12-24,19600.0,4,Low,False,,,False,Low,DEV-333362
+C0334,MHB70482080,Rahman Imports LLC,Business,Import/Export - Used Clothing,Fatima Rahman,33,United States,TX,BR10,2018-01-20,2025-12-29,432000.0,19,Low,True,Pakistan,used clothing,False,High,DEV-978505
+C0335,MHB47190970,Karim Reyes,Individual,Software Developer,,28,United States,TX,BR09,2018-09-03,2025-12-20,18900.0,19,Low,False,,,False,Low,DEV-821507
+C0336,MHB67365978,Rachel Flores,Individual,Paralegal,,49,Nigeria,PA,BR19,2011-12-09,2025-12-29,9800.0,13,Low,False,,,False,Low,DEV-738259
+C0337,MHB58734095,Pedro Morales,Individual,Registered Nurse,,28,United States,IL,BR18,2024-09-27,2025-12-20,15400.0,16,Low,False,,,False,Low,DEV-287937
+C0338,MHB82434315,Hye-jin Thomas,Individual,Personal Trainer,,49,United States,FL,BR16,2012-03-26,2025-12-24,5900.0,31,Low,False,,,False,Low,DEV-162376
+C0339,MHB97730148,Hector Silva,Individual,Architect,,55,United States,AZ,BR12,2021-02-07,2025-12-20,139000.0,14,Low,False,,,False,Low,DEV-340217
+C0340,MHB51321125,Hernandez Barbershop LLC,Business,Barbershop,Wei Hernandez,24,United States,TX,BR10,2024-11-13,2025-12-23,112700.0,40,High,False,,,False,High,DEV-473554
+C0341,MHB42382355,Wei Garcia,Individual,Student,,22,Brazil,GA,BR17,2023-10-24,2025-12-31,13100.0,15,Low,True,Brazil,,False,Low,DEV-926869
+C0342,MHB43277963,Tunde Brown,Individual,Retired,,78,United States,NY,BR05,2013-09-02,2025-12-23,3200.0,13,Low,False,,,False,Low,DEV-467109
+C0343,MHB12193707,Pedro Silva,Individual,Pharmacist,,39,United States,NJ,BR01,2017-05-25,2025-12-21,8600.0,16,Low,False,,,False,Low,DEV-731785
+C0344,MHB69878614,Omar Levi,Individual,Retired,,69,United States,NY,BR06,2013-10-04,2025-12-27,5200.0,11,Low,False,,,False,Low,DEV-340305
+C0345,MHB81617930,Lucia Walker,Individual,Marketing Coordinator,,63,United States,NY,BR07,2024-07-29,2025-12-22,22100.0,17,Low,False,,,False,Low,DEV-252507
+C0346,MHB35212454,Jose Ramirez,Individual,Administrative Assistant,,57,United States,TX,BR10,2017-07-07,2025-12-29,10400.0,18,Low,False,,,False,Low,DEV-970024
+C0347,MHB37701280,Elena Flores,Individual,Retail Manager,,28,United States,NY,BR08,2013-07-27,2025-12-22,15300.0,17,Low,False,,,False,Low,DEV-877347
+C0348,MHB62012064,Jason Adeyemi,Individual,Pharmacist,,36,United States,NY,BR07,2015-08-10,2025-12-29,9800.0,14,Low,False,,,False,Low,DEV-142794
+C0349,MHB85435841,David Thomas,Individual,Bus Operator,,61,Lebanon,NJ,BR02,2014-11-11,2025-12-31,15000.0,18,Low,True,Lebanon,,False,Medium,DEV-819311
+C0350,MHB39715940,Miguel Rahman,Individual,Registered Nurse,,47,Vietnam,NY,BR06,2018-07-17,2025-12-20,11000.0,16,Low,True,Vietnam,,False,Medium,DEV-801158
+C0351,MHB11697727,Tunde Patel,Individual,Teacher,,34,Dominican Republic,NJ,BR03,2009-03-13,2025-12-29,8800.0,16,Low,True,Dominican Republic,,True,High,DEV-831504
+C0352,MHB70990635,Brian Lopez,Individual,Bus Operator,,60,United States,NJ,BR04,2010-12-10,2025-12-29,10500.0,14,Low,False,,,False,Low,DEV-887119
+C0353,MHB65955662,Jose Smith,Individual,Freelance Photographer,,59,United States,NY,BR05,2017-12-04,2025-12-27,7700.0,35,Low,False,,,False,Low,DEV-425438
+C0354,MHB87838603,Rosa White,Individual,Marketing Coordinator,,41,Egypt,NJ,BR03,2024-05-27,2025-12-29,17900.0,17,Low,False,,,False,Low,DEV-281124
+C0355,MHB94248682,Linh Davis,Individual,Police Officer,,62,United States,TX,BR10,2012-05-03,2025-12-27,13000.0,19,Low,False,,,False,Low,DEV-408773
+C0356,MHB97215158,Smith Trading LLC,Business,Import/Export - Cosmetics,Luis Smith,37,United States,TX,BR09,2022-09-06,2025-12-20,445800.0,22,Low,True,South Korea;United Arab Emirates,cosmetics,False,High,DEV-217126
+C0357,MHB71993268,Julia Mansour,Individual,Student,,20,Lebanon,NY,BR05,2014-04-02,2025-12-30,5200.0,17,Low,False,,,False,Medium,DEV-900327
+C0358,MHB18043851,Omar Gomez,Individual,Student,,23,Nigeria,NY,BR08,2016-04-24,2025-12-29,9600.0,14,Low,True,Nigeria,,False,Low,DEV-613098
+C0359,MHB52203508,Park Restaurant LLC,Business,Restaurant,Noah Park,48,United States,CA,BR13,2008-12-13,2025-12-30,50100.0,37,High,False,,,False,High,DEV-181285
+C0360,MHB63185778,Rachel Adeyemi,Individual,Administrative Assistant,,55,United States,NY,BR06,2013-09-08,2025-12-31,8900.0,17,Low,False,,,False,Low,DEV-963945
+C0361,MHB39384244,Ahmed Khan,Individual,Retired,,74,United States,NJ,BR01,2011-09-13,2025-12-29,7600.0,17,Low,False,,,False,Low,DEV-282672
+C0362,MHB17332246,James Lopez,Individual,Student,,21,Colombia,NJ,BR03,2018-02-11,2025-12-27,15000.0,24,Low,True,Colombia,,False,Low,DEV-555621
+C0363,MHB63336549,Hannah Perez,Individual,Retired,,69,United States,NY,BR07,2011-01-06,2025-12-20,4600.0,9,Low,False,,,False,Low,DEV-640235
+C0364,MHB38191485,Ines Morales,Individual,Software Developer,,40,Kenya,GA,BR17,2009-07-03,2025-12-27,17500.0,20,Low,False,,,False,Medium,DEV-594004
+C0365,MHB35265339,Hye-jin Rahman,Individual,Retired,,69,United States,NJ,BR03,2014-01-13,2025-12-30,4400.0,12,Low,False,,,False,Low,DEV-615425
+C0366,MHB11088766,David Gomez,Individual,Pharmacist,,64,United States,NJ,BR04,2022-06-26,2025-12-27,8700.0,21,Low,False,,,False,Low,DEV-388640
+C0367,MHB72137275,Kwame Nguyen,Individual,Software Developer,,30,Kenya,NY,BR05,2016-06-25,2025-12-22,22700.0,21,Low,False,,,False,Medium,DEV-749713
+C0368,MHB47743579,Noah Lopez,Individual,Retired,,41,Lebanon,CA,BR14,2009-05-09,2025-12-22,14300.0,3,Low,False,,,False,Medium,DEV-727217
+C0369,MHB96652668,Hernandez Global LLC,Business,Import/Export - Used Clothing,Hector Hernandez,50,United States,NY,BR07,2021-09-28,2025-12-26,360700.0,22,Low,True,Pakistan,used clothing,False,High,DEV-415539
+C0370,MHB36561340,Brown Convenience Store LLC,Business,Convenience Store,Tariq Brown,47,Haiti,NY,BR06,2008-01-16,2025-12-24,205000.0,40,High,False,,,False,High,DEV-396686
+C0371,MHB15088321,Mei Cruz,Individual,Dental Hygienist,,54,United States,NJ,BR04,2012-12-18,2025-12-24,12800.0,19,Low,False,,,False,Low,DEV-170358
+C0372,MHB84048485,Camila Shah,Individual,Dental Hygienist,,60,Colombia,FL,BR16,2010-06-08,2025-12-29,8600.0,16,Low,True,Colombia,,False,Low,DEV-363922
+C0373,MHB73999933,Lucia Brown,Individual,Student,,24,Nigeria,NJ,BR02,2008-07-04,2025-12-22,12200.0,18,Low,True,Nigeria,,False,Low,DEV-993547
+C0374,MHB73447571,Diego Mansour,Individual,Retired,,87,United States,NJ,BR03,2019-03-25,2025-12-27,3200.0,11,Low,False,,,False,Low,DEV-103674
+C0375,MHB80898033,Noah Flores,Individual,Student,,19,United States,NJ,BR02,2013-11-21,2025-12-24,4300.0,20,Low,False,,,False,Low,DEV-642817
+C0376,MHB12210525,Lucia Martin,Individual,Unemployed,,62,Mexico,NJ,BR03,2019-03-29,2025-12-31,20700.0,3,Low,False,,,False,Low,DEV-339670
+C0377,MHB11070291,Perez Global LLC,Business,Import/Export - Used Clothing,Samuel Perez,30,United States,NY,BR06,2024-11-24,2025-12-24,337700.0,24,Low,True,Pakistan,used clothing,False,High,DEV-812698
+C0378,MHB12327616,Rachel Davis,Individual,Bus Operator,,30,United States,AZ,BR11,2018-04-10,2025-12-26,8500.0,14,Low,False,,,False,Low,DEV-546392
+C0379,MHB24557828,Young Car Wash LLC,Business,Car Wash,Diego Young,65,United States,NJ,BR01,2017-10-25,2025-12-27,182400.0,32,High,False,,,False,High,DEV-288383
+C0380,MHB40278144,Sofia Martin,Individual,Data Analyst,,33,United States,NY,BR05,2020-10-16,2025-12-30,22600.0,16,Low,False,,,False,Low,DEV-661785
+C0381,MHB76510864,Megan Davis,Individual,Unemployed,,25,United States,NJ,BR02,2008-06-30,2025-12-22,22900.0,3,Low,False,,,False,Low,DEV-590102
+C0382,MHB14414426,Ivan Cohen,Individual,Engineering Manager,,63,Kenya,FL,BR16,2009-02-12,2025-12-24,46300.0,16,Low,False,,,False,Medium,DEV-997567
+C0383,MHB63442558,Kevin Moore,Individual,Marketing Coordinator,,61,Philippines,NY,BR06,2021-03-16,2025-12-28,9700.0,18,Low,False,,,False,Low,DEV-661670
+C0384,MHB91670708,Jackson Restaurant LLC,Business,Restaurant,Noah Jackson,25,United States,CA,BR14,2011-01-16,2025-12-31,258700.0,43,High,False,,,False,High,DEV-929374
+C0385,MHB87957244,Rachel Patel,Individual,Dentist,,63,United States,AZ,BR11,2010-03-20,2025-12-24,97400.0,17,Low,False,,,False,Low,DEV-174209
+C0386,MHB29607116,Clark Global LLC,Business,Import/Export - Textiles,Arjun Clark,30,United States,GA,BR17,2012-10-17,2025-12-26,350900.0,23,Low,True,China;Turkey;Vietnam,textiles,False,High,DEV-947109
+C0387,MHB59343200,Hector Smith,Individual,Sales Representative,,59,United States,NY,BR07,2013-12-23,2025-12-29,19500.0,25,Low,False,,,False,Low,DEV-380840
+C0388,MHB76532954,Elena Garcia,Individual,Dental Hygienist,,25,United States,NY,BR06,2012-06-15,2025-12-27,8000.0,17,Low,False,,,False,Low,DEV-124323
+C0389,MHB51806158,Tunde Anderson,Individual,HVAC Technician,,61,United States,NY,BR06,2013-09-15,2025-12-22,11600.0,18,Low,False,,,False,Low,DEV-935185
+C0390,MHB79621644,Amira Rahman,Individual,Personal Trainer,,61,United States,NY,BR07,2018-12-19,2025-12-24,8600.0,32,Low,False,,,False,Low,DEV-780871
+C0391,MHB35624070,Wong Trading LLC,Business,Import/Export - Used Clothing,Hye-jin Wong,44,United States,CA,BR14,2018-12-29,2025-12-26,324600.0,22,Low,True,Pakistan,used clothing,False,High,DEV-592659
+C0392,MHB57393618,Grace Jackson,Individual,Paralegal,,43,Egypt,NJ,BR02,2019-04-30,2025-12-30,11400.0,18,Low,True,Egypt,,False,Low,DEV-413093
+C0393,MHB70332837,Hannah Scott,Individual,Retired,,81,United States,NJ,BR04,2017-04-15,2025-12-21,4300.0,10,Low,False,,,False,Low,DEV-174173
+C0394,MHB63134546,Eric Patel,Individual,Dentist,,65,United States,NJ,BR01,2015-01-10,2025-12-29,31100.0,17,Low,False,,,False,Low,DEV-244711
+C0395,MHB25830330,Ana Cruz,Individual,Retired,,69,United States,GA,BR17,2022-06-14,2025-12-21,4300.0,11,Low,False,,,False,Low,DEV-465403
+C0396,MHB41937160,Sofia Khan,Individual,Bus Operator,,60,China,FL,BR15,2024-03-11,2025-12-28,11700.0,15,Low,False,,,False,Low,DEV-312243
+C0397,MHB67562430,Torres International LLC,Business,Import/Export - Used Clothing,Rosa Torres,42,United States,TX,BR09,2012-03-03,2025-12-23,443400.0,17,Low,True,Pakistan,used clothing,False,High,DEV-226156
+C0398,MHB30207773,Leila Kim,Individual,Part-time Cashier,,61,Mexico,FL,BR16,2021-02-15,2025-12-20,20600.0,3,Low,False,,,False,Low,DEV-828719
+C0399,MHB28086358,Elena Silva,Individual,Attorney,,36,Bangladesh,PA,BR19,2008-11-16,2025-12-30,49200.0,14,Low,False,,,False,Low,DEV-429765
+C0400,MHB98374794,Ines Mensah,Individual,Retired,,73,United States,PA,BR19,2018-12-11,2025-12-28,5300.0,13,Low,False,,,False,Low,DEV-810122
+C0401,MHB15031962,Yusuf Anderson,Individual,Dentist,,24,United States,FL,BR15,2022-07-18,2025-12-26,130200.0,15,Low,False,,,False,Low,DEV-900550
+C0402,MHB30410694,Daniel Perez,Individual,Freelance Photographer,,28,United States,IL,BR18,2010-10-01,2025-12-24,9100.0,37,Low,False,,,False,Low,DEV-969983
+C0403,MHB50311200,Pedro Thomas,Individual,Retail Manager,,40,United States,NJ,BR02,2022-05-27,2025-12-26,7500.0,18,Low,False,,,False,Low,DEV-762239
+C0404,MHB49197988,Shah International LLC,Business,Import/Export - Textiles,Amira Shah,59,United States,NJ,BR04,2022-05-23,2025-12-20,436700.0,20,Low,True,China;Turkey;Vietnam,textiles,False,High,DEV-686212
+C0405,MHB12184028,Hannah Anderson,Individual,Retired,,76,United States,NJ,BR02,2014-07-07,2025-12-30,6500.0,13,Low,False,,,False,Low,DEV-659988
+C0406,MHB16884139,Maria Martin,Individual,Bus Operator,,36,United States,NJ,BR03,2023-11-17,2025-12-26,13700.0,16,Low,False,,,False,Low,DEV-894271
+C0407,MHB83307416,Aisha Shah,Individual,Electrician,,33,United States,NY,BR06,2018-02-28,2025-12-27,12100.0,13,Low,False,,,False,Low,DEV-694748
+C0408,MHB64678759,Brown Global LLC,Business,Import/Export - Textiles,Hye-jin Brown,42,Vietnam,CA,BR13,2021-05-20,2025-12-28,469200.0,20,Low,True,China;Turkey;Vietnam,textiles,False,High,DEV-301909
+C0409,MHB91856913,Ahmed Gomez,Individual,Attorney,,33,United States,NY,BR08,2019-09-26,2025-12-23,101200.0,17,Low,False,,,False,Low,DEV-509560
+C0410,MHB77626954,Ibrahim Restaurant LLC,Business,Restaurant,Omar Ibrahim,34,United States,AZ,BR11,2018-05-26,2025-12-27,177400.0,31,High,False,,,False,High,DEV-646752
+C0411,MHB42392925,Khan Car Wash LLC,Business,Car Wash,David Khan,46,United States,NJ,BR03,2010-12-22,2025-12-28,249000.0,31,High,False,,,False,High,DEV-743054
+C0412,MHB70259459,Olivia Ortiz,Individual,Retired,,41,United States,NY,BR08,2016-05-26,2025-06-25,1200.0,3,Low,False,,,False,Low,DEV-940390
+C0413,MHB58067200,Fatima Scott,Individual,Dental Hygienist,,51,United States,NY,BR07,2019-11-11,2025-12-31,19700.0,17,Low,False,,,False,Low,DEV-136676
+C0414,MHB37507371,Torres Deli LLC,Business,Deli / Bodega,Maria Torres,47,Mexico,NJ,BR03,2017-10-18,2025-12-20,44300.0,33,High,False,,,False,High,DEV-279408
+C0415,MHB43609718,Andre Rodriguez,Individual,Student,,25,United States,TX,BR10,2024-09-16,2025-12-25,3800.0,18,Low,False,,,False,Low,DEV-261687
+C0416,MHB55742207,Elena Miller,Individual,Student,,23,Nigeria,NY,BR08,2025-10-24,2025-10-27,8600.0,20,Low,True,Nigeria,,False,Low,DEV-M00002
+C0417,MHB38698654,Kevin King,Individual,Tutor,,28,United States,AZ,BR11,2024-10-28,2025-12-24,8700.0,36,Low,False,,,False,Low,DEV-558264
+C0418,MHB61917534,Farouk Food Truck LLC,Business,Food Truck,Sarah Farouk,63,United States,CA,BR14,2023-12-08,2025-12-24,313900.0,34,High,False,,,False,High,DEV-753399
+C0419,MHB12095153,Carlos White,Individual,Rideshare Driver,,61,Colombia,AZ,BR12,2014-08-03,2025-12-22,9700.0,31,Low,False,,,False,Low,DEV-471380
+C0420,MHB57558135,Chloe Smith,Individual,Dentist,,49,United States,CA,BR13,2020-02-12,2025-12-27,46300.0,14,Low,False,,,False,Low,DEV-324932
+C0421,MHB77646323,Okafor Nail Salon LLC,Business,Nail Salon,Emily Okafor,64,United States,PA,BR19,2015-02-28,2025-12-20,133100.0,35,High,False,,,False,High,DEV-132584
+C0422,MHB21772399,Jose Ibrahim,Individual,Attorney,,37,United States,NY,BR07,2009-07-14,2025-12-31,115500.0,19,Low,False,,,False,Low,DEV-498374
+C0423,MHB42596731,Dalia Williams,Individual,Retired,,80,United States,NJ,BR02,2016-10-20,2025-12-29,6500.0,12,Low,False,,,True,Medium,DEV-842853
+C0424,MHB77003488,Thomas Global LLC,Business,Import/Export - Textiles,Jason Thomas,59,United States,NJ,BR01,2023-05-20,2025-12-26,563100.0,22,Low,True,China;Turkey;Vietnam,textiles,False,High,DEV-604652
+C0425,MHB86952247,Park Food Truck LLC,Business,Food Truck,Wei Park,38,United States,NJ,BR01,2012-02-16,2025-12-25,111900.0,35,High,False,,,False,High,DEV-437480
+C0426,MHB55668880,Miguel Silva,Individual,Freelance Designer,,65,United States,AZ,BR11,2012-05-19,2025-12-31,9900.0,40,Low,False,,,True,Medium,DEV-193563
+C0427,MHB76563093,Brian Haddad,Individual,Physician,,39,United States,AZ,BR12,2015-11-17,2025-12-25,170200.0,15,Low,False,,,False,Low,DEV-764207
+C0428,MHB85688706,Tunde Allen,Individual,HVAC Technician,,37,Israel,NJ,BR02,2015-01-22,2025-12-23,12500.0,18,Low,True,Israel,,False,Low,DEV-663483
+C0429,MHB85888916,Mei Khan,Individual,Personal Trainer,,29,United States,NY,BR07,2015-12-18,2025-12-26,9500.0,39,Low,False,,,False,Low,DEV-495489
+C0430,MHB41288927,Nadia Hernandez,Individual,Financial Analyst,,60,Bangladesh,NJ,BR02,2024-10-04,2025-12-22,46000.0,17,Low,False,,,False,Low,DEV-699154
+C0431,MHB42639941,Karim Allen,Individual,Paralegal,,56,United States,NY,BR06,2016-12-05,2025-12-21,19100.0,19,Low,False,,,False,Low,DEV-459639
+C0432,MHB64375610,Karim Clark,Individual,Rideshare Driver,,65,Colombia,NJ,BR02,2024-02-29,2025-12-31,7300.0,34,Low,False,,,False,Low,DEV-744906
+C0433,MHB90667597,Ravi Clark,Individual,Retired,,80,United States,FL,BR16,2016-12-24,2025-12-31,4200.0,11,Low,False,,,False,Low,DEV-578990
+C0434,MHB11346180,Diaz Nail Salon LLC,Business,Nail Salon,Pedro Diaz,56,United States,TX,BR09,2009-10-30,2025-12-24,94300.0,41,High,False,,,False,High,DEV-652867
+C0435,MHB67535793,David Rodriguez,Individual,Personal Trainer,,44,United States,NY,BR07,2019-05-28,2025-12-20,8800.0,31,Low,False,,,False,Low,DEV-114351
+C0436,MHB61896094,Eric Ali,Individual,Student,,19,United States,NY,BR06,2021-12-22,2025-12-24,4000.0,21,Low,False,,,False,Low,DEV-494478
+C0437,MHB13232609,Naomi Hernandez,Individual,Administrative Assistant,,43,United States,FL,BR16,2019-09-10,2025-12-21,11300.0,14,Low,False,,,False,Low,DEV-175424
+C0438,MHB44550091,Tariq Moore,Individual,Rideshare Driver,,56,United States,NY,BR07,2019-05-09,2025-12-21,8800.0,31,Low,False,,,False,Low,DEV-329678
+C0439,MHB35447360,Grace Ali,Individual,Tutor,,51,United States,TX,BR10,2015-06-13,2025-12-22,9100.0,33,Low,False,,,False,Low,DEV-979772
+C0440,MHB11555976,Fatima Rodriguez,Individual,Delivery Courier,,44,China,CA,BR13,2023-08-08,2025-12-26,6900.0,38,Low,False,,,False,Low,DEV-594438
+C0441,MHB94807255,Ines Ortiz,Individual,Engineering Manager,,31,United States,NY,BR05,2019-09-17,2025-12-29,33600.0,17,Low,False,,,False,Low,DEV-458006
+C0442,MHB29292674,Emily Ramirez,Individual,Homemaker,,62,China,NJ,BR01,2021-08-28,2025-12-30,1000.0,3,Low,False,,,False,Low,DEV-792282
+C0443,MHB59961691,Nadia Martin,Individual,Software Developer,,33,United States,CA,BR14,2021-03-08,2025-12-21,7700.0,21,Low,False,,,False,Low,DEV-454406
+C0444,MHB50950234,Ines Silva,Individual,Retired,,82,China,NY,BR05,2013-08-09,2025-12-21,5300.0,11,Low,False,,,False,Low,DEV-163748
+C0445,MHB70964382,Park Nail Salon LLC,Business,Nail Salon,Ivan Park,46,United States,PA,BR19,2017-10-24,2025-12-20,310600.0,44,High,False,,,False,High,DEV-107476
+C0446,MHB91124041,Scott Food Truck LLC,Business,Food Truck,Zainab Scott,50,Bangladesh,AZ,BR11,2023-05-11,2025-12-26,80000.0,30,High,False,,,False,High,DEV-622433
+C0447,MHB40697227,Yasmin Ortiz,Individual,Police Officer,,46,Nigeria,NC,BR20,2013-01-02,2025-12-21,9100.0,14,Low,False,,,False,Low,DEV-731645
+C0448,MHB84794617,Harris Nail Salon LLC,Business,Nail Salon,Marcus Harris,54,Haiti,AZ,BR12,2022-11-06,2025-12-24,402100.0,35,High,False,,,False,High,DEV-577500
+C0449,MHB60518303,Chloe Mansour,Individual,Personal Trainer,,32,United States,NC,BR20,2022-02-04,2025-12-21,8200.0,37,Low,False,,,False,Low,DEV-785202
+C0450,MHB99867048,Dalia Taylor,Individual,Retired,,77,Dominican Republic,AZ,BR11,2017-09-10,2025-12-31,8000.0,12,Low,False,,,False,Low,DEV-650671
+C0451,MHB56484435,Emily Khan,Individual,Registered Nurse,,37,United States,NY,BR06,2012-02-03,2025-12-28,7600.0,14,Low,False,,,False,Low,DEV-851974
+C0452,MHB48661988,Mei Silva,Individual,HVAC Technician,,48,United States,FL,BR15,2020-05-09,2025-12-30,10600.0,15,Low,False,,,False,Low,DEV-130038
+C0453,MHB35088116,Miller Imports LLC,Business,Import/Export - Food Products,Karim Miller,31,United States,NY,BR08,2012-08-09,2025-12-20,391700.0,18,Low,True,India;Turkey,food products,False,High,DEV-934048
+C0454,MHB73239760,Ines Nguyen,Individual,Freelance Designer,,24,Mexico,NJ,BR03,2025-10-14,2025-10-17,7800.0,29,Low,False,,,False,Low,DEV-M00003
+C0455,MHB88296991,Ivan Nguyen,Individual,Homemaker,,56,United States,AZ,BR11,2021-09-01,2025-12-31,1600.0,3,Low,False,,,False,Low,DEV-326835
+C0456,MHB70731742,Ravi Harris,Individual,Student,,20,Vietnam,NY,BR06,2011-09-03,2025-12-31,9300.0,21,Low,True,Vietnam,,False,Medium,DEV-786140
+C0457,MHB19523429,Dalia Morales,Individual,Homemaker,,27,Lebanon,FL,BR16,2012-02-29,2025-08-13,1000.0,3,Low,False,,,False,Medium,DEV-790603
+C0458,MHB81152270,Zainab Mensah,Individual,Part-time Cashier,,64,Nigeria,IL,BR18,2019-01-26,2025-12-20,1300.0,4,Low,False,,,False,Low,DEV-828523
+C0459,MHB83494639,Omar Anderson,Individual,Architect,,40,Kenya,NJ,BR02,2023-04-05,2025-12-30,69000.0,17,Low,False,,,False,Medium,DEV-692029
+C0460,MHB44509679,Karim Rodriguez,Individual,Bus Operator,,49,Bangladesh,NY,BR07,2017-06-03,2025-12-29,13100.0,15,Low,False,,,False,Low,DEV-781045
+C0461,MHB46007934,Pedro Moore,Individual,Software Developer,,38,United States,NY,BR08,2023-01-15,2025-12-28,21200.0,22,Low,False,,,False,Low,DEV-297894
+C0462,MHB60934599,Carlos Lewis,Individual,Police Officer,,25,Vietnam,CA,BR13,2020-03-22,2025-12-21,18600.0,20,Low,True,Vietnam,,False,Medium,DEV-100637
+C0463,MHB62019995,Ivan Ramirez,Individual,Accountant,,51,Kenya,IL,BR18,2020-02-26,2025-12-25,10000.0,16,Low,False,,,False,Medium,DEV-487719
+C0464,MHB39548989,Brian Nguyen,Individual,Delivery Courier,,53,Pakistan,NY,BR07,2012-04-20,2025-12-23,9100.0,26,Low,False,,,False,Low,DEV-824310
+C0465,MHB90344745,Diego Nguyen,Individual,Retired,,68,Lebanon,NY,BR06,2022-10-19,2025-12-27,6800.0,12,Low,False,,,False,Medium,DEV-647107
+C0466,MHB55983465,King Imports LLC,Business,Import/Export - Cosmetics,Chloe King,39,United States,NY,BR08,2013-01-11,2025-12-31,350400.0,25,Low,True,South Korea;United Arab Emirates,cosmetics,False,High,DEV-702345
+C0467,MHB56796366,Michael Sanchez,Individual,Engineering Manager,,30,United States,NJ,BR04,2024-02-29,2025-12-27,131100.0,12,Low,False,,,False,Low,DEV-482559
+C0468,MHB31193505,Jason Allen,Individual,Pharmacist,,44,Israel,CA,BR14,2009-01-16,2025-12-29,9900.0,21,Low,True,Israel,,False,Low,DEV-306060
+C0469,MHB29058909,Martinez Convenience Store LLC,Business,Convenience Store,Grace Martinez,57,United States,NJ,BR04,2023-10-23,2025-12-25,101000.0,34,High,False,,,False,High,DEV-381639
+C0470,MHB92873917,Amira Torres,Individual,Retired,,71,United States,NY,BR05,2022-09-04,2025-12-25,6800.0,10,Low,False,,,False,Low,DEV-304555
+C0471,MHB24901480,Linh Flores,Individual,HVAC Technician,,31,United States,NJ,BR04,2014-02-02,2025-12-30,6400.0,15,Low,False,,,False,Low,DEV-761928
+C0472,MHB57170099,Williams Trading LLC,Business,Import/Export - Textiles,Daniel Williams,34,United States,TX,BR09,2011-07-20,2025-12-23,419300.0,19,Low,True,China;Turkey;Vietnam,textiles,False,High,DEV-851743
+C0473,MHB41503903,Rosa Reyes,Individual,Electrician,,45,United States,FL,BR16,2012-03-31,2025-12-20,12700.0,22,Low,False,,,False,Low,DEV-237784
+C0474,MHB87162666,Wei Mensah,Individual,Retail Manager,,56,United States,TX,BR10,2013-06-05,2025-12-30,6900.0,12,Low,False,,,False,Low,DEV-301876
+C0475,MHB96524270,Sarah Ramirez,Individual,Student,,25,Nigeria,NY,BR05,2016-04-22,2025-12-25,7500.0,19,Low,True,Nigeria,,False,Low,DEV-305710
+C0476,MHB97472277,Chloe Young,Individual,Physician,,63,United States,NY,BR06,2011-10-10,2025-12-30,46400.0,20,Low,False,,,False,Low,DEV-955392
+C0477,MHB93446376,Wei Nguyen,Individual,Attorney,,46,United States,NY,BR08,2016-02-12,2025-12-25,110500.0,17,Low,False,,,False,Low,DEV-969484
+C0478,MHB13706597,Brown Global LLC,Business,Import/Export - Used Clothing,Leila Brown,65,Vietnam,NJ,BR02,2015-10-24,2025-12-24,427000.0,25,Low,True,Pakistan,used clothing,False,High,DEV-858059
+C0479,MHB22182033,Kwame Mansour,Individual,Retired,,76,United States,NJ,BR03,2013-01-06,2025-07-24,3200.0,8,Low,False,,,False,Low,DEV-393698
+C0480,MHB43460862,Miguel Ali,Individual,Retired,,69,United States,CA,BR14,2016-12-09,2025-09-27,3000.0,11,Low,False,,,False,Low,DEV-991326
+C0481,MHB93605336,Hector Cruz,Individual,Student,,20,United States,TX,BR09,2012-05-19,2025-12-31,5100.0,18,Low,False,,,False,Low,DEV-934945
+C0482,MHB14553587,Grace Silva,Individual,Dentist,,43,Bangladesh,NJ,BR02,2017-03-21,2025-12-27,33700.0,16,Low,False,,,False,Low,DEV-123085
+C0483,MHB78931126,Rachel Park,Individual,Financial Analyst,,57,United States,FL,BR15,2008-08-29,2025-12-31,28700.0,24,Low,False,,,False,Low,DEV-380018
+C0484,MHB88355385,Maria Scott,Individual,Student,,21,South Korea,NJ,BR01,2025-12-18,2025-12-21,6400.0,14,Low,False,,,False,Low,DEV-M00001
+C0485,MHB84392343,Carlos Nguyen,Individual,Bus Operator,,35,United States,NC,BR20,2019-07-27,2025-12-27,18600.0,14,Low,False,,,False,Low,DEV-344167
+C0486,MHB79348805,Cohen Deli LLC,Business,Deli / Bodega,Ines Cohen,39,United States,NJ,BR01,2010-10-14,2025-12-24,100900.0,43,High,False,,,False,High,DEV-816682
+C0487,MHB94364971,Ahmed Rivera,Individual,Bus Operator,,48,China,NY,BR07,2013-01-19,2025-12-21,11400.0,21,Low,True,China,,False,Low,DEV-735608
+C0488,MHB29713866,Leila Young,Individual,Pharmacist,,63,Morocco,NY,BR06,2022-09-10,2025-12-30,8100.0,15,Low,False,,,False,Low,DEV-545365
+C0489,MHB91372641,Kwame Johnson,Individual,Student,,21,Nigeria,NC,BR20,2021-07-13,2025-12-30,6700.0,17,Low,True,Nigeria,,True,High,DEV-336205
+C0490,MHB54600831,Karim Khan,Individual,Student,,21,Brazil,TX,BR09,2014-04-17,2025-12-23,13900.0,18,Low,True,Brazil,,False,Low,DEV-840030
+C0491,MHB64792213,Emily Gonzalez,Individual,Retired,,73,United States,NY,BR05,2013-10-02,2025-12-27,5600.0,13,Low,False,,,False,Low,DEV-263299
+C0492,MHB74908744,Rosa Ramirez,Individual,Retired,,80,Egypt,TX,BR10,2016-02-02,2025-12-26,5400.0,12,Low,False,,,False,Low,DEV-731883
+C0493,MHB85749108,White Convenience Store LLC,Business,Convenience Store,Diego White,32,United States,NJ,BR02,2011-01-30,2025-12-29,196400.0,36,High,False,,,False,High,DEV-341810
+C0494,MHB56832919,Jackson Barbershop LLC,Business,Barbershop,Sofia Jackson,26,United States,NJ,BR02,2018-07-27,2025-12-27,56300.0,39,High,False,,,False,High,DEV-516351
+C0495,MHB26287286,Priya Morales,Individual,Student,,25,Jamaica,FL,BR16,2008-02-12,2025-12-22,9400.0,15,Low,True,Jamaica,,False,Low,DEV-439446
+C0496,MHB12624939,Miguel Adeyemi,Individual,Marketing Coordinator,,39,United States,TX,BR09,2024-04-14,2025-12-28,10800.0,17,Low,False,,,False,Low,DEV-980614
+C0497,MHB89058845,Maria Park,Individual,Retail Manager,,54,United States,NJ,BR03,2014-02-20,2025-12-31,15300.0,15,Low,False,,,False,Low,DEV-611815
+C0498,MHB97763361,Kevin Taylor,Individual,Retail Manager,,44,United States,NY,BR07,2020-12-18,2025-12-21,11900.0,20,Low,False,,,False,Low,DEV-200989
+C0499,MHB92046782,Camila Lopez,Individual,Retired,,83,United States,NY,BR05,2014-09-25,2025-12-24,4200.0,8,Low,False,,,False,Low,DEV-158279
+C0500,MHB64307051,Lucia Taylor,Individual,Student,,24,Kenya,FL,BR16,2021-01-21,2025-12-27,11900.0,15,Low,True,Kenya,,False,Medium,DEV-940503
