@@ -2,7 +2,7 @@
 
 **H. Michael Bar Bourenane** · Columbia SIPA (MIA, Cyber Policy & Security Assessment) · native Arabic (Levantine, Maghrebi, Gulf) and Hebrew
 
-Six working projects covering the core tasks of an AML, sanctions and KYC analyst. Each one runs on real public data or clearly labelled synthetic data, and each folder has its own README, run instructions and a `HOW_IT_WORKS.md` explainer.
+Six working projects plus two OSINT case studies covering the core tasks of an AML, sanctions and KYC analyst. Each one runs on real public data or clearly labelled synthetic data, and each folder has its own README, run instructions and a `HOW_IT_WORKS.md` explainer.
 
 **Portfolio site:** https://hmichael-bar.github.io
 
@@ -14,6 +14,7 @@ Six working projects covering the core tasks of an AML, sanctions and KYC analys
 | 04 | [SAR narratives](04-sar-narratives/) | Three fictional SARs to FinCEN guidance (structuring, mule network, free-zone TBML) and a how-to guide |
 | 05 | [Sanctions-evasion typology reports](05-typology-reports/) | Shadow-fleet shipping, TBML via Gulf free zones, crypto off-ramps, with sourced red flags |
 | 06 | [Adverse media screener](06-adverse-media-screener/) | English and Arabic negative-news screening with severity scoring and sourced reports |
+| 07 | [OSINT case studies](07-osint-case-studies/) | Cyprus (intelligence activity, golden passports, Cyprus Confidential, drugs and contraband) and Albania (cocaine money in real estate), public-source desk studies with KYC/EDD red flags |
 
 ## Data and privacy
 
