@@ -1,0 +1,7 @@
+// Hunt 3 - Successful sign-ins over legacy protocols that skip MFA
+// ActiveSync / IMAP / POP can't do MFA, so attackers love them.
+SigninLogs
+| where TimeGenerated > ago(14d) and ResultType == 0
+| where ClientAppUsed in ("Exchange ActiveSync", "IMAP4", "POP3", "Other clients")
+| where AuthenticationRequirement == "singleFactorAuthentication"
+| project TimeGenerated, UserPrincipalName, IPAddress, Country, ClientAppUsed, UserAgent

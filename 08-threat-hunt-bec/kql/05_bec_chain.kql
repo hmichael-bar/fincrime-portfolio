@@ -1,0 +1,17 @@
+// Hunt 5 - Tie it together: foreign sign-in -> bulk mail access -> inbox rule -> external send
+// Same account + same IP + inside a few hours = business email compromise chain (T1114.002)
+let Window = 6h;
+let RiskySignins =
+    SigninLogs
+    | where TimeGenerated > ago(14d) and ResultType == 0 and Country != "US"
+    | project SigninTime = TimeGenerated, User = UserPrincipalName, IPAddress, Country, ClientAppUsed;
+RiskySignins
+| join kind=inner (
+    OfficeActivity
+    | where Operation in ("MailItemsAccessed", "New-InboxRule", "Send")
+    | project ActTime = TimeGenerated, User = UserId, ClientIP, Operation, Details
+  ) on User
+| where ClientIP == IPAddress and ActTime between (SigninTime .. SigninTime + Window)
+| summarize Actions = make_list(strcat(format_datetime(ActTime, "HH:mm"), " ", Operation, " ", Details))
+            by User, IPAddress, Country, SigninTime
+| where array_length(Actions) >= 2

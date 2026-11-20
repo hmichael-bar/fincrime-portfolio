@@ -15,6 +15,7 @@ Six working projects plus two OSINT case studies covering the core tasks of an A
 | 05 | [Sanctions-evasion typology reports](05-typology-reports/) | Shadow-fleet shipping, TBML via Gulf free zones, crypto off-ramps, with sourced red flags |
 | 06 | [Adverse media screener](06-adverse-media-screener/) | English and Arabic negative-news screening with severity scoring and sourced reports |
 | 07 | [OSINT case studies](07-osint-case-studies/) | Cyprus (intelligence activity, golden passports, Cyprus Confidential, drugs and contraband) and Albania (cocaine money in real estate), public-source desk studies with KYC/EDD red flags |
+| 08 | [Threat hunt: password spray to BEC](08-threat-hunt-bec/) | KQL/Sentinel and Python hunts on synthetic Entra ID and Microsoft 365 logs: password spray, MFA bypass via legacy auth, hidden inbox rule, business email compromise; incident report with ATT&CK mapping |
 
 ## Data and privacy
 

@@ -1,0 +1,10 @@
+// Hunt 4 - Inbox rules that hide money-related email (T1564.008)
+// BEC actors hide the victim's replies ("did you change your bank?")
+// by moving them to an obscure folder and marking them read.
+OfficeActivity
+| where TimeGenerated > ago(14d)
+| where Operation in ("New-InboxRule", "Set-InboxRule", "UpdateInboxRules")
+| where Details has_any ("invoice", "payment", "wire", "bank", "remittance")
+   or Details has_any ("RSS Feeds", "Conversation History", "Archive")
+   or Details matches regex @"Name='.{0,2}'"     // blank or 1-character rule names
+| project TimeGenerated, UserId, ClientIP, Details

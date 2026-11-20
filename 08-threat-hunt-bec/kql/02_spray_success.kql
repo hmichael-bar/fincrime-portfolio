@@ -1,0 +1,15 @@
+// Hunt 2 - Which accounts did the spray actually break into? (T1078.004)
+// Take the spraying IPs from Hunt 1, then look for a SUCCESS from the same IPs.
+let SprayIPs =
+    SigninLogs
+    | where TimeGenerated > ago(14d) and ResultType == 50126
+    | summarize FailedAccounts = dcount(UserPrincipalName) by IPAddress
+    | where FailedAccounts >= 20
+    | project IPAddress;
+SigninLogs
+| where TimeGenerated > ago(14d)
+| where IPAddress in (SprayIPs)
+| where ResultType in (0, 50074)                  // 0 = success, 50074 = password right, MFA stopped them
+| project TimeGenerated, UserPrincipalName, IPAddress, Country, ResultType,
+          ClientAppUsed, AuthenticationRequirement, UserAgent
+| order by TimeGenerated asc

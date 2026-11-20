@@ -1,0 +1,38 @@
+title: Inbox Rule Hides Payment-Related Email
+id: 0c9b7e44-1d6a-4f2b-8e3a-7a5d2c9f1b20
+status: experimental
+description: >
+  A new or edited inbox rule moves or marks as read messages about invoices,
+  payments or bank details, or sends them to an obscure folder. Common step in
+  business email compromise to hide the victim's replies from the real user.
+references:
+  - https://attack.mitre.org/techniques/T1564/008/
+author: H. Michael Bourenane
+date: 2026-11-19
+tags:
+  - attack.defense-evasion
+  - attack.t1564.008
+logsource:
+  product: m365
+  service: exchange
+detection:
+  selection_op:
+    Operation:
+      - New-InboxRule
+      - Set-InboxRule
+      - UpdateInboxRules
+  selection_words:
+    Details|contains:
+      - invoice
+      - payment
+      - wire
+      - bank
+      - remittance
+  selection_folder:
+    Details|contains:
+      - RSS Feeds
+      - Conversation History
+  condition: selection_op and (selection_words or selection_folder)
+falsepositives:
+  - Accounts-payable staff filing invoices into their own folders (check the source IP and sign-in)
+level: high

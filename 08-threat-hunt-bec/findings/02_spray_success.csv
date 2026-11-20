@@ -1,0 +1,7 @@
+TimeGenerated,UserPrincipalName,IPAddress,Country,ResultType,ClientAppUsed,AuthenticationRequirement,UserAgent
+2026-11-11 06:13:53.920843+00:00,sam.kim@contosofreight.com,198.18.44.11,NL,0,Exchange ActiveSync,singleFactorAuthentication,python-requests/2.31
+2026-11-11 06:31:32.977224+00:00,marco.reyes@contosofreight.com,198.18.91.40,DE,0,Exchange ActiveSync,singleFactorAuthentication,python-requests/2.31
+2026-11-11 06:42:38.535758+00:00,lena.lopez@contosofreight.com,198.18.44.11,NL,0,Exchange ActiveSync,singleFactorAuthentication,python-requests/2.31
+2026-11-11 08:57:42.576542+00:00,lena.lopez@contosofreight.com,198.18.44.11,NL,50074,Browser,singleFactorAuthentication,Chrome 131
+2026-11-11 08:57:42.576542+00:00,sam.kim@contosofreight.com,198.18.44.11,NL,50074,Browser,singleFactorAuthentication,Chrome 131
+2026-11-11 09:22:42.576542+00:00,marco.reyes@contosofreight.com,198.18.44.12,NL,0,Exchange ActiveSync,singleFactorAuthentication,python-requests/2.31

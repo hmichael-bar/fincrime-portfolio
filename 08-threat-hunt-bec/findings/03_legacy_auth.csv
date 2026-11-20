@@ -1,0 +1,5 @@
+TimeGenerated,UserPrincipalName,IPAddress,Country,ClientAppUsed,UserAgent
+2026-11-11 06:13:53.920843+00:00,sam.kim@contosofreight.com,198.18.44.11,NL,Exchange ActiveSync,python-requests/2.31
+2026-11-11 06:31:32.977224+00:00,marco.reyes@contosofreight.com,198.18.91.40,DE,Exchange ActiveSync,python-requests/2.31
+2026-11-11 06:42:38.535758+00:00,lena.lopez@contosofreight.com,198.18.44.11,NL,Exchange ActiveSync,python-requests/2.31
+2026-11-11 09:22:42.576542+00:00,marco.reyes@contosofreight.com,198.18.44.12,NL,Exchange ActiveSync,python-requests/2.31

@@ -1,0 +1,2 @@
+User,IPAddress,Country,SigninTime,Action
+marco.reyes@contosofreight.com,198.18.44.12,NL,2026-11-11 09:22:42.576542+00:00,"['09:25 MailItemsAccessed items=1840 (bulk sync)', ""09:31 New-InboxRule Name='.' SubjectOrBodyContainsWords='invoice;payment;wire;bank' MoveToFolder='RSS Feeds' MarkAsRead=True"", ""09:53 Send to=ap@harborlogistics.example subject='Updated remittance details - Contoso Freight' recipients=1"", ""14:22 Send to=billing@pacifictrade.example subject='Updated remittance details - Contoso Freight' recipients=1""]"

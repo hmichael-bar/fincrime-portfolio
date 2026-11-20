@@ -1,0 +1,2 @@
+TimeGenerated,UserId,ClientIP,Details
+2026-11-11 09:31:42.576542+00:00,marco.reyes@contosofreight.com,198.18.44.12,Name='.' SubjectOrBodyContainsWords='invoice;payment;wire;bank' MoveToFolder='RSS Feeds' MarkAsRead=True
